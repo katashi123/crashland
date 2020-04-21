@@ -17,7 +17,7 @@ var $master = {
 };
 
 $master.api.item = {
-    "B.S. S.S. Assess Lander": {
+    "Bãi đáp B.S.S.S": {
         "name": "Bãi đáp B.S.S.S",
         "type": "Bệ Dịch Chuyển",
         "rarity": "Huyền Thoại",
@@ -1508,12 +1508,12 @@ $master.api.item = {
         "icon": "savanna_fishing.png",
         "drop":["Deviltailed Slapper","Fatheaded Slurper","Pond Shoot","Ball Snail","Wobblygong"]
     },
-    "Basic Fishing Pole": {
-        "name": "Basic Fishing Pole",
-        "type": "Tool",
-        "level": "Tier 1",
-        "rarity": "Normal",
-        "description": "Tier 1 fishing pole. Tempt fish into the clutches of your shiny, deadly hook!",
+    "Cần Câu Cơ Bản": {
+        "name": "Cần Câu Cơ Bản",
+        "type": "Công Cụ",
+        "level": "Bậc 1",
+        "rarity": "Thường",
+        "description": "Cần câu bậc 1. Lùa cá mắc vào lưỡi câu bóng bẩy, chết chóc của bạn!",
         "recipe": {
             "name": "Squathe",
             "output_qty": 1,
@@ -2889,7 +2889,7 @@ $master.api.item = {
             "output_qty": 1,
             "type": "Workstation",
             "ingredients": [{"name": "Ayeayes", "qty": 8}, {"name": "Blube", "qty": 9}, {
-                "name": "Basic Fishing Pole",
+                "name": "Cần Câu Cơ Bản",
                 "qty": 1
             }, {"name": "Satgat Exoskeleton", "qty": 12}]
         },
