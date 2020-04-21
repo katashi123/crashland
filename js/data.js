@@ -18,10 +18,10 @@ var $master = {
 
 $master.api.item = {
     "B.S. S.S. Assess Lander": {
-        "name": "B.S. S.S. Assess Lander",
-        "type": "Teleporter",
-        "rarity": "Legendary",
-        "description": "This tiny ship is what you arrived in.",
+        "name": "Bãi đáp B.S.S.S",
+        "type": "Bệ Dịch Chuyển",
+        "rarity": "Huyền Thoại",
+        "description": "Thứ đã giúp bạn có cuộc sống như trong anime isekai",
         "icon": "bs_ss_assess_lander.png"
     },
     "Stick": {
