@@ -17,7 +17,7 @@ var $master = {
 };
 
 $master.api.item = {
-    "Bãi đáp B.S.S.S": {
+    "B.S. S.S. Assess Lander": {
         "name": "Bãi đáp B.S.S.S",
         "type": "Bệ Dịch Chuyển",
         "rarity": "Huyền Thoại",
