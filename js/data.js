@@ -1835,7 +1835,174 @@ $master.api.item = {
 			"icon": "thatched_sawfloor.png"
 
 		},
+		"Sàn chống thấm": {
 
+			"name": "Sàn chống thấm",
+
+			"type": "Sàn",
+
+			"rarity": "Bình Thường",
+
+			"description": " Sàn nhà giúp ngăn quái xuất hiện ở nhà bạn, dùng để bắc cầu cũng được!",
+
+			"recipe": {
+
+				"name": "Lò nung Pha lê",
+
+				"output_qty": 1,
+
+				"type": "Trạm Chế Tạo",
+
+				"ingredients": [{
+					"name": "Búi lông Wat",
+					"qty": 10
+				}]
+
+			},
+
+			"icon": "sp_watfur_floor_0.png"
+
+		},
+		"Sàn Cẩu tích": {
+
+			"name": "Sàn Cẩu tích",
+
+			"type": "Sàn",
+
+			"rarity": "Bình Thường",
+
+			"description": "Ngươi nghĩ nó sẽ mềm và mịn? Ngươi nghĩ có chuyện ngon ăn thế sao?",
+
+			"recipe": {
+
+				"name": "Cái Đe Cứng",
+
+				"output_qty": 1,
+
+				"type": "Trạm Chế Tạo",
+
+				"ingredients": [{
+					"name": "Vỏ Cẩu tích",
+					"qty": 10
+				}]
+
+			},
+
+			"icon": "sp_hairbark_floor_0.png"
+
+		},
+		"Sàn Vỏ xương": {
+
+			"name": "Sàn Vỏ xương",
+
+			"type": "Sàn",
+
+			"rarity": "Bình Thường",
+
+			"description": "Nó khá cứng, dù các cạnh sắc liên tục cắt vào ngón chân bạn.",
+
+			"recipe": {
+
+				"name": "Máy ly tâm",
+
+				"output_qty": 1,
+
+				"type": "Trạm Chế Tạo",
+
+				"ingredients": [{
+					"name": "Vỏ xương Satgat",
+					"qty": 10
+				}]
+
+			},
+
+			"icon": "sp_exofloor_0.png"
+
+		},
+		"Sàn Kì Lạ": {
+
+			"name": "Sàn Kì Lạ",
+
+			"type": "Sàn",
+
+			"rarity": "Bình Thường",
+
+			"description": "Không rõ loại lông này tới từ đâu, nhưng nó tạo ra một cái thảm tuyệt vời!",
+
+			"recipe": {
+
+				"name": "Cối xay gió nhỏ",
+
+				"output_qty": 1,
+
+				"type": "Trạm Chế Tạo",
+
+				"ingredients": [{
+					"name": "Chùm lông lạ",
+					"qty": 10
+				}]
+
+			},
+
+			"icon": "sp_strange_floor_0.png"
+
+		},
+		"Sàn Phong phát": {
+
+			"name": "Sàn Phong phát",
+
+			"type": "Sàn",
+
+			"rarity": "Bình Thường",
+
+			"description": "Không rõ loại lông này tới từ đâu, nhưng nó tạo ra một cái thảm tuyệt vời!",
+
+			"recipe": {
+
+				"name": "Lò đốt",
+
+				"output_qty": 1,
+
+				"type": "Trạm Chế Tạo",
+
+				"ingredients": [{
+					"name": "Lõi Phong phát",
+					"qty": 10
+				}]
+
+			},
+
+			"icon": "sp_bluffluffloor_0.png"
+
+		},
+		"Sàn tua Throak": {
+
+			"name": "Sàn tua Throak",
+
+			"type": "Sàn",
+
+			"rarity": "Bình Thường",
+
+			"description": "Không rõ loại lông này tới từ đâu, nhưng nó tạo ra một cái thảm tuyệt vời!",
+
+			"recipe": {
+
+				"name": "Khung cửi vi sinh",
+
+				"output_qty": 1,
+
+				"type": "Trạm Chế Tạo",
+
+				"ingredients": [{
+					"name": "Xúc tu Throak",
+					"qty": 10
+				}]
+
+			},
+
+			"icon": "sp_throak_tentafloor_0.png"
+
+		},
 		"Chuồng thú đá": {
 
 			"name": "Chuồng thú đá",
