@@ -160,7 +160,7 @@ function createPage(type, subtype) {
         $("#main-body").html(temp.html);
     } else if (type === 'creature') {
         var $obj = $master.api.creature[subtype], $obj3;
-        temp.name = '<div class="p-head rarity-Tốt">' + $obj.name[0] + '</div>';
+        temp.name = '<div class="p-head rarity-Good">' + $obj.name[0] + '</div>';
         temp.img = '<div class="p-img"><img src="' + baseCreature +
             $obj.icon[2] + '"></div>';
 
@@ -169,7 +169,7 @@ function createPage(type, subtype) {
         if ($obj3) {
             temp.r_click = 'onclick="createPage(\'item\',\'' + $obj3.name + '\')"';
             temp.cata1 += '<div class="p-r-name"><a class="rarity-' + $obj3.rarity + '" ' + temp.r_click + '>' +
-                'Tiến hóa Siêu Cấp cần: ' + $obj3.name + '</a></div>';
+                'Superior Catalyst: ' + $obj3.name + '</a></div>';
             temp.cata1 += '<div class="p-r-img"><img src="' + baseItem +
                 $obj3.icon + '" ' + temp.r_click + '></div>';
         } else {
@@ -181,24 +181,24 @@ function createPage(type, subtype) {
         if ($obj3) {
             temp.r_click = 'onclick="createPage(\'item\',\'' + $obj3.name + '\')"';
             temp.cata2 += '<div class="p-r-name"><a class="rarity-' + $obj3.rarity + '" ' + temp.r_click + '>' +
-                'Tiến hóa Tối Thượng cần: ' + $obj3.name + '</a></div>';
+                'Epic Catalyst: ' + $obj3.name + '</a></div>';
             temp.cata2 += '<div class="p-r-img"><img src="' + baseItem +
                 $obj3.icon + '" ' + temp.r_click + '></div>';
         } else {
             temp.cata2 += '<div class="p-r-name">' + $obj.produce + '</div>';
         }
 
-        temp.name2 = '<div class="p-head rarity-Siêu Cấp">' + $obj.name[3] + '</div>';
+        temp.name2 = '<div class="p-head rarity-Superior">' + $obj.name[3] + '</div>';
         temp.img2 = '<div class="p-img"><img src="' + baseCreature +
             $obj.icon[4] + '"></div>';
 
-        temp.name3 = '<div class="p-head rarity-Tối Thượng">' + $obj.name[5] + '</div>';
+        temp.name3 = '<div class="p-head rarity-Epic">' + $obj.name[5] + '</div>';
         temp.img3 = '<div class="p-img"><img src="' + baseCreature +
             $obj.icon[5] + '"></div>';
 
         temp.descr = '<div class="p-descr">' + $obj.description + '</div>';
 
-        temp.recipe = '<div class="p-r-rname"> Sản xuất </div>';
+        temp.recipe = '<div class="p-r-rname"> Produce </div>';
         $obj3 = $master.api.item[$obj.produce];
         if ($obj3) {
             temp.r_click = 'onclick="createPage(\'item\',\'' + $obj3.name + '\')"';
@@ -314,14 +314,14 @@ function createPage(type, subtype) {
                             ' src="' + baseItem + $obj4.icon + '">';
                         tempX.d_name = '<a class="rarity-' + $obj4.rarity + '" ' + tempX.d_onClick + '>' +
                             $obj4.name + ' (' + $obj4.type + ')</a>';
-                        tempX.descr = '<p>Rơi ra từ ' + tempX.d_img + tempX.d_name + '</p>';
+                        tempX.descr = '<p>Dropped by ' + tempX.d_img + tempX.d_name + '</p>';
                     } else if (tempX.objD.subtype === 'drop' && tempX.objD.type === 'creature') {
                         tempX.d_onClick = 'onclick="createPage(\'creature\',\'' + $obj4.type + '\')"';
                         tempX.d_img = '<img class="p-i-minicon"  ' + tempX.d_onClick +
                             ' src="' + baseCreature + $obj4.icon[2] + '">';
                         tempX.d_name = '<a ' + tempX.d_onClick + '>' +
                             $obj4.name[0] + ' (Creature)</a>';
-                        tempX.descr = '<p>Rơi ra từ ' + tempX.d_img + tempX.d_name + '</p>';
+                        tempX.descr = '<p>Dropped by ' + tempX.d_img + tempX.d_name + '</p>';
                     }
                 }
                 tempX.base = '<div class="p-ingredient"><table class="width-100"><tbody>' +
@@ -343,11 +343,11 @@ function createPage(type, subtype) {
         if (temp.droppedObj) {
             if (temp.droppedObj.subtype == 'drop') {
                 var $obj5 = $master.api[temp.droppedObj.type][temp.droppedObj.name];
-                temp.dropped += '<div class="p-r-rname"> Rơi ra từ </div>';
+                temp.dropped += '<div class="p-r-rname"> Dropped By </div>';
                 if (temp.droppedObj.type == 'creature') {
                     temp.dropped_click = 'onclick="createPage(\'creature\',\'' + $obj5.type + '\')"';
                     temp.dropped += '<div class="p-r-name"><a ' + temp.dropped_click + '>' +
-                        $obj5.name[0] + ' (Sinh Vật)</a></div>';
+                        $obj5.name[0] + ' (Creature)</a></div>';
                     temp.dropped += '<div class="p-r-img"><img src="' + baseCreature +
                         $obj5.icon[2] + '" ' + temp.dropped_click + '></div>';
                 } else {
@@ -364,7 +364,7 @@ function createPage(type, subtype) {
         temp.drop = '';
         if ($obj.drop) {
             temp.drop = '<div class="p-recipe">';
-            temp.drop += '<div class="p-r-rname"> Rơi </div>';
+            temp.drop += '<div class="p-r-rname"> Drops </div>';
             $.each($obj.drop, function (key, value) {
                 var tempX = {};
                 var $obj2 = $master.api.item[value];
@@ -543,7 +543,7 @@ arunx.prototype = {
             tempX.stone0 = value['Powerful Catalyst'];
             tempX.stone1 = value['Epic Catalyst'];
             tempX.description = value['Description'];
-            tempX.produce = value['Sản Xuất'];
+            tempX.produce = value['Produces'];
             tempX.symbiosis = value['Symbiosis'];
 
             tempX.toughness = parseFloat(value['Toughness']);
