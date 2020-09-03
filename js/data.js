@@ -2003,6 +2003,163 @@ $master.api.item = {
 			"icon": "sp_throak_tentafloor_0.png"
 
 		},
+		"Bàn đẩy chỉ Nam": {
+
+			"name": "Bàn đẩy chỉ Nam",
+
+			"type": "Tấm sàn",
+
+			"rarity": "Bình Thường",
+
+			"description": "Đứng trên nó sẽ khiến bạn bị đẩy về hướng Nam!",
+
+			"recipe": {
+
+				"name": "Cái Đe Cứng",
+
+				"output_qty": 1,
+
+				"type": "Trạm Chế Tạo",
+
+				"ingredients": [{
+					"name": "Cục vàng",
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Sợi trục Tĩnh điện",
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Gai cột sống",
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Tảo Phát Quang",
+					"qty": 1
+				}]
+			},
+
+			"icon": "sp_gogos_south_0.png"
+
+		},
+		"Bàn đẩy chỉ Bắc": {
+
+			"name": "Bàn đẩy chỉ Bắc",
+
+			"type": "Tấm sàn",
+
+			"rarity": "Bình Thường",
+
+			"description": "Đứng trên nó sẽ khiến bạn bị đẩy về hướng Bắc!",
+
+			"recipe": {
+
+				"name": "Cái Đe Cứng",
+
+				"output_qty": 1,
+
+				"type": "Trạm Chế Tạo",
+
+				"ingredients": [{
+					"name": "Cục vàng",
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Sợi trục Tĩnh điện",
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Gai cột sống",
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Tảo Phát Quang",
+					"qty": 1
+				}]
+			},
+
+			"icon": "sp_gogos_north_0.png"
+
+		},
+		"Bàn đẩy chỉ Đông": {
+
+			"name": "Bàn đẩy chỉ Đông",
+
+			"type": "Tấm sàn",
+
+			"rarity": "Bình Thường",
+
+			"description": "Đứng trên nó sẽ khiến bạn bị đẩy về hướng Dông!",
+
+			"recipe": {
+
+				"name": "Cái Đe Cứng",
+
+				"output_qty": 1,
+
+				"type": "Trạm Chế Tạo",
+
+				"ingredients": [{
+					"name": "Cục vàng",
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Sợi trục Tĩnh điện",
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Gai cột sống",
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Tảo Phát Quang",
+					"qty": 1
+				}]
+			},
+
+			"icon": "sp_gogos_east_0.png"
+
+		},
+		"Bàn đẩy chỉ Tây": {
+
+			"name": "Bàn đẩy chỉ Tây",
+
+			"type": "Tấm sàn",
+
+			"rarity": "Bình Thường",
+
+			"description": "Đứng trên nó sẽ khiến bạn bị đẩy về hướng Tây!",
+
+			"recipe": {
+
+				"name": "Cái Đe Cứng",
+
+				"output_qty": 1,
+
+				"type": "Trạm Chế Tạo",
+
+				"ingredients": [{
+					"name": "Cục vàng",
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Sợi trục Tĩnh điện",
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Gai cột sống",
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Tảo Phát Quang",
+					"qty": 1
+				}]
+			},
+
+			"icon": "sp_gogos_west_0.png"
+
+		},
+
 		"Chuồng thú đá": {
 
 			"name": "Chuồng thú đá",
