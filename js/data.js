@@ -2024,11 +2024,11 @@ $master.api.item = {
 				"ingredients": [{
 					"name": "Cục vàng",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Sợi trục Tĩnh điện",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Gai cột sống",
 					"qty": 1
@@ -2063,15 +2063,15 @@ $master.api.item = {
 				"ingredients": [{
 					"name": "Cục vàng",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Sợi trục Tĩnh điện",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Gai cột sống",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Tảo Phát Quang",
 					"qty": 1
@@ -2102,15 +2102,15 @@ $master.api.item = {
 				"ingredients": [{
 					"name": "Cục vàng",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Sợi trục Tĩnh điện",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Gai cột sống",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Tảo Phát Quang",
 					"qty": 1
@@ -2141,15 +2141,15 @@ $master.api.item = {
 				"ingredients": [{
 					"name": "Cục vàng",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Sợi trục Tĩnh điện",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Gai cột sống",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Tảo Phát Quang",
 					"qty": 1
@@ -2180,11 +2180,11 @@ $master.api.item = {
 				"ingredients": [{
 					"name": "Lụa xanh",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Lõi điện Gulanti",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Nước nhầy Slurb",
 					"qty": 1
@@ -2215,11 +2215,11 @@ $master.api.item = {
 				"ingredients": [{
 					"name": "Lụa xanh",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Lõi điện Gulanti",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Nước nhầy Slurb",
 					"qty": 1
@@ -2250,11 +2250,11 @@ $master.api.item = {
 				"ingredients": [{
 					"name": "Lụa xanh",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Lõi điện Gulanti",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Nước nhầy Slurb",
 					"qty": 1
@@ -2285,11 +2285,11 @@ $master.api.item = {
 				"ingredients": [{
 					"name": "Lụa xanh",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Lõi điện Gulanti",
 					"qty": 1
-				}],
+				},{
 				"ingredients": [{
 					"name": "Nước nhầy Slurb",
 					"qty": 1
