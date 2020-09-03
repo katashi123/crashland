@@ -6926,7 +6926,19 @@ $master.api.item = {
 			"icon": "wojack_sucker.png"
 
 		},
+		"Tinh thể Năng lượng": {
 
+			"name": "Tinh thể Năng lượng",
+
+			"type": "Mảnh Thành Phần",
+
+			"rarity": "Sử Thi",
+
+			"description": "Một nguồn năng lượng cực kỳ tiềm năng và đa dụng!",
+
+			"icon": "wojack_sucker.png"
+
+		},
 		"Bay Pha lê": {
 
 			"name": "Bay Pha lê",
@@ -9296,6 +9308,43 @@ $master.api.item = {
 			"icon": "granvil.png"
 
 		},
+		"Lò rèn Năng lượng": {
+
+			"name": "Lò rèn Năng lượng",
+
+			"type": "Trạm chế tạo",
+
+			"rarity": "Bình Thường",
+
+			"description": "Cái máy này sẽ giúp bạn khai thác sức mạnh của tinh thể nên bạn có thể sửa đổi trang bị!",
+
+			"recipe": {
+
+				"name": "Bàn Dệt",
+
+				"output_qty": 1,
+
+				"type": "Trạm chế tạo",
+
+				"ingredients": [{
+					"name": "Tinh thể Năng lượng",
+					"qty": 48
+				}, {
+
+					"name": "Mô cách điện",
+
+					"qty": 19
+
+				}, {
+					"name": "Da Zug nhiễm đện",
+					"qty": 1
+				}]
+
+			},
+
+			"icon": "sp_juiceforge_0.png"
+
+		},
 
 		"Biển gỗ": {
 
@@ -9930,7 +9979,21 @@ $master.api.item = {
 			"drop": ["Chùy Gai", "Vỏ Chuỳ gai", "Hạt giống Chùy gai"]
 
 		},
+		"Quặng Tinh thể Năng lượng": {
 
+			"name": "Quặng Tinh thể Năng lượng",
+
+			"type": "Tài nguyên",
+
+			"rarity": "Bình Thường",
+
+			"description": "Một số dung dịch của hành tinh này đã kết tinh và đâm xuyên qua các tầng địa chất. Ếy, THIÊN NHIÊN TRAO TẶNG ĐẤY!",
+
+			"icon": "sp_juice_crystal_cluster_0.png",
+
+			"drop": ["Tinh thể Năng lượng"]
+
+		},
 		"Bụi tre gai": {
 
 			"name": "Bụi tre gai",
