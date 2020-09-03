@@ -4971,7 +4971,42 @@ $master.api.item = {
 			"icon": "duskpants.png"
 
 		},
+		"Búa Thanos": {
 
+			"name": "Búa Thanos",
+
+			"type": "Vũ Khí",
+
+			"level": "Cấp 11",
+
+			"rarity": "Ngẫu Nhiên",
+
+			"description": "Búa cấp 11. Nếu bạn là slamma, hãy cẩn thận với jamma. Một sự cân bằng hoàn hảo.",
+
+			"recipe": {
+
+				"name": "Lò nung Pha lê",
+
+				"output_qty": 1,
+
+				"type": "`",
+
+				"ingredients": [{
+					"name": "Mảnh Pha Lê",
+					"qty": 3
+				}, {
+					"name": "Cây Trụ Thảo",
+					"qty": 1
+				}, {
+					"name": "Móng Wat",
+					"qty": 2
+				}]
+
+			},
+
+			"icon": "sp_weapon_slamjamma_0.png"
+
+		},
 		"Găng tay Pha lê": {
 
 			"name": "Găng tay Pha lê",
@@ -25362,41 +25397,6 @@ $master.api.creature = {
 		"icon": ["gulanti.png", "engorged_gulanti.png", "swollen_gulanti.png", "engorged_jumpy_gulanti.png", "swollen_jumpy_gulanti.png", "hotblooded_gulanti.png"]
 
 	},
-		"Búa Thanos": {
-
-			"name": "Búa Thanos",
-
-			"type": "Vũ Khí",
-
-			"level": "Cấp 11",
-
-			"rarity": "Ngẫu Nhiên",
-
-			"description": "Búa cấp 11. Nếu bạn là slamma, hãy cẩn thận với jamma. Một sự cân bằng hoàn hảo.",
-
-			"recipe": {
-
-				"name": "Lò nung Pha lê",
-
-				"output_qty": 1,
-
-				"type": "`",
-
-				"ingredients": [{
-					"name": "Mảnh Pha Lê",
-					"qty": 3
-				}, {
-					"name": "Cây Trụ Thảo",
-					"qty": 1
-				}, {
-					"name": "Móng Wat",
-					"qty": 2
-				}]
-
-			},
-
-			"icon": "sp_weapon_slamjamma_0.png"
-
-		}
+	
 
 };
