@@ -6936,7 +6936,7 @@ $master.api.item = {
 
 			"description": "Một nguồn năng lượng cực kỳ tiềm năng và đa dụng!",
 
-			"icon": "wojack_sucker.png"
+			"icon": "sp_concentrated_juice_0.png"
 
 		},
 		"Bay Pha lê": {
