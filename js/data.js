@@ -6932,7 +6932,7 @@ $master.api.item = {
 
 			"type": "Mảnh Thành Phần",
 
-			"rarity": "Sử Thi",
+			"rarity": "Tối Thượng",
 
 			"description": "Một nguồn năng lượng cực kỳ tiềm năng và đa dụng!",
 
