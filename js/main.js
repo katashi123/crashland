@@ -192,7 +192,7 @@ function createPage(type, subtype) {
         temp.img2 = '<div class="p-img"><img src="' + baseCreature +
             $obj.icon[4] + '"></div>';
 
-        temp.name3 = '<div class="p-head rarity-Epic">' + $obj.name[5] + '</div>';
+        temp.name3 = '<div class="p-head rarity-Sử Thi">' + $obj.name[5] + '</div>';
         temp.img3 = '<div class="p-img"><img src="' + baseCreature +
             $obj.icon[5] + '"></div>';
 
