@@ -2178,7 +2178,7 @@ $master.api.item = {
 				"type": "Trạm Chế Tạo",
 
 				"ingredients": [{
-					"name": "Lụa xanh,
+					"name": "Lụa xanh",
 					"qty": 1
 				}],
 				"ingredients": [{
@@ -2213,7 +2213,7 @@ $master.api.item = {
 				"type": "Trạm Chế Tạo",
 
 				"ingredients": [{
-					"name": "Lụa xanh,
+					"name": "Lụa xanh",
 					"qty": 1
 				}],
 				"ingredients": [{
@@ -2248,7 +2248,7 @@ $master.api.item = {
 				"type": "Trạm Chế Tạo",
 
 				"ingredients": [{
-					"name": "Lụa xanh,
+					"name": "Lụa xanh",
 					"qty": 1
 				}],
 				"ingredients": [{
@@ -2283,7 +2283,7 @@ $master.api.item = {
 				"type": "Trạm Chế Tạo",
 
 				"ingredients": [{
-					"name": "Lụa xanh,
+					"name": "Lụa xanh",
 					"qty": 1
 				}],
 				"ingredients": [{
