@@ -2159,7 +2159,147 @@ $master.api.item = {
 			"icon": "sp_gogos_west_0.png"
 
 		},
+		"Bàn đẩy mạnh chỉ Nam": {
 
+			"name": "Bàn đẩy mạnh chỉ Nam",
+
+			"type": "Tấm sàn",
+
+			"rarity": "Bình Thường",
+
+			"description": "Đứng trên nó sẽ khiến bạn bị đẩy RẤT MẠNH về hướng Nam!",
+
+			"recipe": {
+
+				"name": "Bàn đúc",
+
+				"output_qty": 1,
+
+				"type": "Trạm Chế Tạo",
+
+				"ingredients": [{
+					"name": "Lụa xanh,
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Lõi điện Gulanti",
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Nước nhầy Slurb",
+					"qty": 1
+				}]
+			},
+
+			"icon": "sp_gomos_south_0.png"
+
+		},
+		"Bàn đẩy mạnh chỉ Bắc": {
+
+			"name": "Bàn đẩy mạnh chỉ Bắc",
+
+			"type": "Tấm sàn",
+
+			"rarity": "Bình Thường",
+
+			"description": "Đứng trên nó sẽ khiến bạn bị đẩy RẤT MẠNH về hướng Bắc!",
+
+			"recipe": {
+
+				"name": "Bàn đúc",
+
+				"output_qty": 1,
+
+				"type": "Trạm Chế Tạo",
+
+				"ingredients": [{
+					"name": "Lụa xanh,
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Lõi điện Gulanti",
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Nước nhầy Slurb",
+					"qty": 1
+				}]
+			},
+
+			"icon": "sp_gomos_north_0.png"
+
+		},
+		"Bàn đẩy mạnh chỉ Đông": {
+
+			"name": "Bàn đẩy mạnh chỉ Đông",
+
+			"type": "Tấm sàn",
+
+			"rarity": "Bình Thường",
+
+			"description": "Đứng trên nó sẽ khiến bạn bị đẩy RẤT MẠNH về hướng Dông!",
+
+			"recipe": {
+
+				"name": "Bàn đúc",
+
+				"output_qty": 1,
+
+				"type": "Trạm Chế Tạo",
+
+				"ingredients": [{
+					"name": "Lụa xanh,
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Lõi điện Gulanti",
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Nước nhầy Slurb",
+					"qty": 1
+				}]
+			},
+
+			"icon": "sp_gomos_east_0.png"
+
+		},
+		"Bàn đẩy mạnh chỉ Tây": {
+
+			"name": "Bàn đẩy mạnh chỉ Tây",
+
+			"type": "Tấm sàn",
+
+			"rarity": "Bình Thường",
+
+			"description": "Đứng trên nó sẽ khiến bạn bị đẩy RẤT MẠNH về hướng Tây!",
+
+			"recipe": {
+
+				"name": "Bàn đúc",
+
+				"output_qty": 1,
+
+				"type": "Trạm Chế Tạo",
+
+				"ingredients": [{
+					"name": "Lụa xanh,
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Lõi điện Gulanti",
+					"qty": 1
+				}],
+				"ingredients": [{
+					"name": "Nước nhầy Slurb",
+					"qty": 1
+				}]
+			},
+
+			"icon": "sp_gomos_west_0.png"
+
+		},
+		
 		"Chuồng thú đá": {
 
 			"name": "Chuồng thú đá",
