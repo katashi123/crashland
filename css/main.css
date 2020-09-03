@@ -168,15 +168,15 @@ a:hover,a:focus {
     background-color: #2D2D2D;
     border-color: #525252;
 }
-.rarity-Huyền Thoại,.rarity-Huyền Thoại:focus,.rarity-Huyền Thoại:hover{
+.rarity-Huyền,.rarity-Huyền:focus,.rarity-Huyền:hover{
     color: #e69915;
     cursor: pointer;
 }
-.rarity-Tối Thượng,.rarity-Tối Thượng:focus,.rarity-Tối Thượng:hover{
+.rarity-Tối,.rarity-Tối:focus,.rarity-Tối:hover{
     color: #9C24E6;
     cursor: pointer;
 }
-.rarity-Siêu Cấp,.rarity-Siêu Cấp:focus,.rarity-Siêu Cấp:hover{
+.rarity-Siêu,.rarity-Siêu:focus,.rarity-Siêu:hover{
     color: #7792F7;
     cursor: pointer;
 }
@@ -184,7 +184,7 @@ a:hover,a:focus {
     color: #23e61c;
     cursor: pointer;
 }
-.rarity-Bình Thường,.rarity-Bình Thường:focus,.rarity-Bình Thường:hover,.rarity-Random,.rarity-Random:focus,.rarity-Random:hover{
+.rarity-Bình,.rarity-Bình:focus,.rarity-Bình:hover,.rarity-Random,.rarity-Random:focus,.rarity-Random:hover{
     color: #dddddd;
     cursor: pointer;
 }
