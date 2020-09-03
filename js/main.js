@@ -160,7 +160,7 @@ function createPage(type, subtype) {
         $("#main-body").html(temp.html);
     } else if (type === 'creature') {
         var $obj = $master.api.creature[subtype], $obj3;
-        temp.name = '<div class="p-head rarity-Good">' + $obj.name[0] + '</div>';
+        temp.name = '<div class="p-head rarity-Tốt">' + $obj.name[0] + '</div>';
         temp.img = '<div class="p-img"><img src="' + baseCreature +
             $obj.icon[2] + '"></div>';
 
@@ -188,11 +188,11 @@ function createPage(type, subtype) {
             temp.cata2 += '<div class="p-r-name">' + $obj.produce + '</div>';
         }
 
-        temp.name2 = '<div class="p-head rarity-Superior">' + $obj.name[3] + '</div>';
+        temp.name2 = '<div class="p-head rarity-Siêu Cấp">' + $obj.name[3] + '</div>';
         temp.img2 = '<div class="p-img"><img src="' + baseCreature +
             $obj.icon[4] + '"></div>';
 
-        temp.name3 = '<div class="p-head rarity-Sử Thi">' + $obj.name[5] + '</div>';
+        temp.name3 = '<div class="p-head rarity-Tối Thượng">' + $obj.name[5] + '</div>';
         temp.img3 = '<div class="p-img"><img src="' + baseCreature +
             $obj.icon[5] + '"></div>';
 
