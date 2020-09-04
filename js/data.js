@@ -2357,7 +2357,7 @@ $master.api.item = {
 		"rarity": "Siêu Cấp",
 		"description": "Một cái thùng VUUỪA đủ lượng hoá chất để ảnh hưởng tới Tartil ở bất kì dạng nào! Tiến hoá Tartil của bạn thành dạng SIÊU CẤP!",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -2382,7 +2382,7 @@ $master.api.item = {
 		"rarity": "Tốt",
 		"description": "Với sức mạnh của cỏ dại, bạn có thể nối mọi thứ vào với nhau!",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -2401,7 +2401,7 @@ $master.api.item = {
 		"rarity": "Tốt",
 		"description": "Cứng như vỏ ốc và cực kì bóng loáng. Bạn có thể nghĩ tới vài người nổi tiếng ở quê nhà, những người không muốn một ít thứ này.",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -2464,7 +2464,7 @@ $master.api.item = {
 		"rarity": "Bình Thường",
 		"description": "Không thứ gì thích một mùi hương độc và chết chóc dưới gầm bàn vào buổi sáng cả. Gây 250% ST/giây thành STVL và độc.",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -2487,7 +2487,7 @@ $master.api.item = {
 		"rarity": "Siêu Cấp",
 		"description": "Với chiếc đèn đẹp đẽ này ở ngay cạnh, bạn đột nhiên muốn nghịch lửa. Nhận thêm 20% kháng lửa.",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -2509,7 +2509,7 @@ $master.api.item = {
 		"rarity": "Siêu Cấp",
 		"description": "Không có mùi của sự cháy bất kể ngày hay đêm. Gây 100% ST/giây thành ST Lửa trong một khu vực.",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -2594,7 +2594,7 @@ $master.api.item = {
 		"rarity": "Tốt",
 		"description": "Thả thứ tuyệt phẩm này vào nước ở Savanna sẽ thu hút hàng đàn cá đến!",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -2636,7 +2636,7 @@ $master.api.item = {
 		"rarity": "Ngẫu Nhiên",
 		"description": "Kiếm cấp 9. Hình dáng giống cái móc lấy cảm hứng từ xuất xứ của nó!",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -2659,7 +2659,7 @@ $master.api.item = {
 		"rarity": "Ngẫu Nhiên",
 		"description": "Mũ giáp cấp 9. Nhọn, cứng cáp, và nhìn quý tộc như C...á.",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -2685,7 +2685,7 @@ $master.api.item = {
 		"rarity": "Ngẫu Nhiên",
 		"description": "Quần cấp 9. Ánh bóng loáng của chúng thật sự làm nổi bật rõ cặp đùi của bạn.",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -2708,7 +2708,7 @@ $master.api.item = {
 		"rarity": "Ngẫu Nhiên",
 		"description": "Găng tay cấp 9. Tay bạn chưa bao giờ có vảy như vậy.",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -2731,7 +2731,7 @@ $master.api.item = {
 		"rarity": "Ngẫu Nhiên",
 		"description": "Giáp ngực cấp 9. Nó bảo vệ xương ức khỏi các cú đâm, và nó trông thật vi diệu!",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -2757,7 +2757,7 @@ $master.api.item = {
 		"rarity": "Huyền Thoại",
 		"description": "Rìu Huyền Thoại cấp 11.Rất nhiều thời gian, tình yêu, máu, mồ hôi và hổ phách đã được cống hiến vào thứ này. THẬT ĐÁNG GIÁ.",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -2846,7 +2846,7 @@ $master.api.item = {
 		"rarity": "Bình Thường",
 		"description": "Cuốc chim bậc 2. Ép dập móng Wat thành mai Zug dường như là ý hay ngay lúc này. VÀ NÓ VẪN SẼ LÀM! Thứ này không thể phá được Pha lê Hoàng hôn!",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -2871,7 +2871,7 @@ $master.api.item = {
 		"rarity": "Bình Thường",
 		"description": "Pha lê Hoàng hôn có thể chịu một nhiệt độ cực lớn khiến chúng hoàn hảo để TÍCH TRỮ MỘT NHIỆT LƯỢNG KHỔNG LỒ!",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -3428,7 +3428,7 @@ $master.api.item = {
 		"rarity": "Huyền Thoại",
 		"description": "Mũ giáp cấp 12. Sau khi cố gắng tìm chiếc đầu lâu lớn nhất xung quanh, bạn đã gắn kết chúng lại thành thứ mà mọi người cho là... một chiếc mũ tuyệt vời.",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -8004,8 +8004,8 @@ $master.api.item = {
 		},
 		"icon": "puzzlecube.png"
 	},
-	"Máy Nướng Cá": {
-		"name": "Máy Nướng Cá",
+	"Máy nướng cá": {
+		"name": "Máy nướng cá",
 		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
 		"description": "Nó có thể giữ được rất nhiều nhiệt, nó sẽ trở lên rất dính sau khi dùng nhiều lần. Nó sẽ tốt hơn nếu bạn cọ rửa sau mỗi lần dùng.",
@@ -8432,7 +8432,7 @@ $master.api.item = {
 		"rarity": "Siêu Cấp",
 		"description": "Một chân trên mặt đất, và chân còn lại tiếp đất. Nhận 20% kháng ST Điện.",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -8482,7 +8482,7 @@ $master.api.item = {
 		"rarity": "Siêu Cấp",
 		"description": "Mùi hương làm bạn nhớ tới một bữa tiệc của hội anh em mà bạn từng dự 1 lần. Nhưng nó sẽ làm tăng 40% số cá trong hồ câu lên, và điều đó thật tuyệt.",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -9262,7 +9262,7 @@ $master.api.item = {
 		"rarity": "Bình Thường",
 		"description": "Nó sẽ khá tốt để chế tạo một trong số chúng, phòng khi bạn kết thúc với một con tàu hỏng thuộc sở hữu của bạn.",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -9406,7 +9406,7 @@ $master.api.item = {
 		"rarity": "Bình Thường",
 		"description": "Nó TO và có hình quả bóng!",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -9431,7 +9431,7 @@ $master.api.item = {
 		"rarity": "Bình Thường",
 		"description": "Nếu thứ này được đánh bay thẳng vào mặt bạn, nó sẽ khá là hài hước đấy",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -9456,7 +9456,7 @@ $master.api.item = {
 		"rarity": "Bình Thường",
 		"description": "Nếu bị thứ này đập vào mặt trong bóng tối với tốc độ cao thì hài lắm.",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -9550,7 +9550,7 @@ $master.api.item = {
 		"rarity": "Bình Thường",
 		"description": "Nó nổi trên mặt nước, dù nó được làm từ vật liệu siêu nặng. Chắc chắn phải có cái gì đó rất khoa học ở đây!",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -9808,7 +9808,7 @@ $master.api.item = {
 		"rarity": "Siêu Cấp",
 		"description": "Trứng Tartil dính vào mọi thứ chúng chạm vào. Kể cả thứ này!",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -10778,7 +10778,7 @@ $master.api.item = {
 		"rarity": "Bình Thường",
 		"description": "Phần hắc ín này không bao giờ khô cho dù bạn để bao lâu đi nữa. Không may thay, mùi nó thực sự tệ.",
 		"recipe": {
-			"name": "Máy Nướng Cá",
+			"name": "Máy nướng cá",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
