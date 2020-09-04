@@ -1244,7 +1244,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Que",
@@ -1276,7 +1276,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Que",
@@ -1308,7 +1308,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Khúc gỗ",
@@ -1337,7 +1337,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Mùn Cưa",
@@ -1357,7 +1357,7 @@ $master.api.item = {
 
 			"name": "Bình Hóa Chất",
 
-			"type": "Trạm Chế Tạo",
+			"type": "Trạm chế tạo",
 
 			"rarity": "Bình Thường",
 
@@ -1369,7 +1369,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Trái tim Wompit nguyên vẹn",
@@ -1424,7 +1424,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Khúc gỗ",
@@ -1472,7 +1472,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Da Wompit",
@@ -1512,7 +1512,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Da Wompit",
@@ -1546,7 +1546,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Da Wompit",
@@ -1578,7 +1578,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Mực Glidopus",
@@ -1610,7 +1610,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Thuốc súng",
@@ -1648,7 +1648,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Hạt giống Cỏ gai",
@@ -1686,7 +1686,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Hạt giống Khúc mộc",
@@ -1712,7 +1712,7 @@ $master.api.item = {
 
 			"name": "Bếp lửa",
 
-			"type": "Trạm Chế Tạo",
+			"type": "Trạm chế tạo",
 
 			"rarity": "Bình Thường",
 
@@ -1724,7 +1724,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Đá nhẵn",
@@ -1762,7 +1762,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Lưỡi Cỏ gai",
@@ -1794,7 +1794,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Khúc gỗ",
@@ -1823,7 +1823,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Lưỡi Cỏ gai",
@@ -1851,7 +1851,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Búi lông Wat",
@@ -1879,7 +1879,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vỏ Cẩu tích",
@@ -1907,7 +1907,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vỏ xương Satgat",
@@ -1935,7 +1935,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Chùm lông lạ",
@@ -1963,7 +1963,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Lõi Phong phát",
@@ -1991,7 +1991,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Xúc tu Throak",
@@ -2019,7 +2019,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Cục vàng",
@@ -2054,7 +2054,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Cục vàng",
@@ -2090,7 +2090,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Cục vàng",
@@ -2129,7 +2129,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Cục vàng",
@@ -2168,7 +2168,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Lụa xanh",
@@ -2203,7 +2203,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Lụa xanh",
@@ -2238,7 +2238,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Lụa xanh",
@@ -2273,7 +2273,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Lụa xanh",
@@ -2309,7 +2309,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Lá Cỏ gai",
@@ -2335,7 +2335,7 @@ $master.api.item = {
 
 			"name": "Máy Bơm",
 
-			"type": "Trạm Chế Tạo",
+			"type": "Trạm chế tạo",
 
 			"rarity": "Bình Thường",
 
@@ -2347,7 +2347,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Đá nhẵn",
@@ -2385,7 +2385,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vòi Glidopus",
@@ -2417,7 +2417,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Đá nhẵn",
@@ -2463,7 +2463,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Đá nhẵn",
@@ -2501,7 +2501,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Đá nhẵn",
@@ -2539,7 +2539,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Bọng mỡ",
@@ -2580,7 +2580,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Da Wompit",
@@ -2612,7 +2612,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Mực Glidopus",
@@ -2650,7 +2650,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Nhánh Chuông Gió",
@@ -2688,7 +2688,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Trái tim Wompit nguyên vẹn",
@@ -2731,7 +2731,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vỏ Kitin",
@@ -2771,7 +2771,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vỏ Kitin",
@@ -2805,7 +2805,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vỏ Kitin",
@@ -2839,7 +2839,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vỏ Kitin",
@@ -2901,7 +2901,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Hoa Móng gà",
@@ -2949,7 +2949,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Khối lam thạch",
@@ -3106,7 +3106,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Khúc gỗ",
@@ -3152,7 +3152,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Khúc gỗ",
@@ -3290,7 +3290,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Đá nhẵn",
@@ -3319,7 +3319,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Đá nhẵn",
@@ -3624,7 +3624,7 @@ $master.api.item = {
 
 			"name": "Máy tiện Cao su",
 
-			"type": "Trạm Chế Tạo",
+			"type": "Trạm chế tạo",
 
 			"rarity": "Bình Thường",
 
@@ -3636,7 +3636,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vỏ gỗ Cao su",
@@ -3676,7 +3676,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vỏ gỗ Cao su",
@@ -3719,7 +3719,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vỏ gỗ Cao su",
@@ -3759,7 +3759,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Khối lam thạch",
@@ -3793,7 +3793,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Khối lam thạch",
@@ -3831,7 +3831,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Thùng Cao su",
@@ -3862,7 +3862,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vỏ gỗ Cao su",
@@ -3918,7 +3918,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Kén Cao su",
@@ -4012,7 +4012,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Lưỡi Cỏ gai",
@@ -4074,7 +4074,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Đá nhẵn",
@@ -4112,7 +4112,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Mực Glidopus",
@@ -4153,7 +4153,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Thùng Cao su",
@@ -4194,7 +4194,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Rong biển",
@@ -4226,7 +4226,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Ốc sên cuộn",
@@ -4258,7 +4258,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Túi khí độc",
@@ -4290,7 +4290,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Phấn cánh Glutterfly",
@@ -4330,7 +4330,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vảy ngọc",
@@ -4368,7 +4368,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Bình Nitơ",
@@ -4406,7 +4406,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Đá nhẵn",
@@ -4438,7 +4438,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Đá nhẵn",
@@ -4470,7 +4470,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Đá nhẵn",
@@ -4511,7 +4511,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Bọ ăn khí",
@@ -4549,7 +4549,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Đá nhẵn",
@@ -4583,7 +4583,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vảy ngọc",
@@ -4623,7 +4623,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vảy ngọc",
@@ -4666,7 +4666,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vảy ngọc",
@@ -4706,7 +4706,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vảy ngọc",
@@ -4746,7 +4746,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Vảy ngọc",
@@ -4789,7 +4789,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Pha lê cánh bướm",
@@ -4841,7 +4841,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Đá nhẵn",
@@ -4949,7 +4949,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Móng Wat",
@@ -4978,7 +4978,7 @@ $master.api.item = {
 
 			"name": "Lò nung Pha lê",
 
-			"type": "Trạm Chế Tạo",
+			"type": "Trạm chế tạo",
 
 			"rarity": "Bình Thường",
 
@@ -4990,7 +4990,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Mảnh Pha lê",
@@ -5031,7 +5031,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Mảnh Pha lê",
@@ -5063,7 +5063,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Mảnh Pha lê",
@@ -5104,7 +5104,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Cánh Wat",
@@ -5145,7 +5145,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Bụi Pha lê",
@@ -5177,7 +5177,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Mảnh Pha lê",
@@ -5209,7 +5209,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Bọng mỡ",
@@ -5250,7 +5250,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Mảnh Pha lê",
@@ -5281,7 +5281,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Mai Zug",
@@ -5321,7 +5321,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Mảnh Pha lê",
@@ -5364,7 +5364,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Mảnh Pha lê",
@@ -5792,7 +5792,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Cây Dâu độc",
@@ -5994,7 +5994,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Xương hóa thạch khổng lồ",
@@ -6374,7 +6374,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Con nhộng",
@@ -6996,7 +6996,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Mảnh Pha lê",
@@ -7036,7 +7036,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Cây Thùa gai",
@@ -7079,7 +7079,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Sừng Bamli",
@@ -7122,7 +7122,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Quả Téo",
@@ -7165,7 +7165,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Cưa Lưỡi Liềm",
@@ -7206,7 +7206,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Nhánh Chuông gió",
@@ -7366,7 +7366,7 @@ $master.api.item = {
 
 				"output_qty": 1,
 
-				"type": "Trạm Chế Tạo",
+				"type": "Trạm chế tạo",
 
 				"ingredients": [{
 					"name": "Mỡ Vomma",
@@ -8589,7 +8589,7 @@ $master.api.item = {
 
 			"rarity": "Bình Thường",
 
-			"description": "Bằng cách đan nhanh tất cả các loại nội tạng mảnh xoắn lại, bạn đã cố gắng để tạo ra một trạm chế tạo hoàn hảo!",
+			"description": "Bằng cách đan nhanh tất cả các loại nội tạng mảnh xoắn lại, bạn đã cố gắng để tạo ra một Trạm chế tạo hoàn hảo!",
 
 			"recipe": {
 
@@ -14063,7 +14063,7 @@ $master.api.item = {
 
 		"rarity": "Bình Thường",
 
-		"description": "Tất cả mọi thứ bạn cần là một thái độ không lồi lõm, một chút keo sinh học từ khớp chân, một trạm chế tạo hoàn hảo làm từ da người ngoài hành tinh bơm căng phồng lên.",
+		"description": "Tất cả mọi thứ bạn cần là một thái độ không lồi lõm, một chút keo sinh học từ khớp chân, một Trạm chế tạo hoàn hảo làm từ da người ngoài hành tinh bơm căng phồng lên.",
 
 		"recipe": {
 
