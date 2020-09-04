@@ -2433,6 +2433,31 @@ $master.api.item = {
 },
 "icon": "firecracker.png"
 },
+"Lọ Độc Trộn": {
+"name": "Lọ Độc Trộn",
+"type": "Trang sức",
+"rarity": "Tốt",
+"description": "Sau khi trộn một đống loại độc với nhau, ta có một lọ độc siêu to khổng lồ! Tăng 20% ST độc.",
+"recipe": {
+"name": "Máy tiện Cao su",
+"output_qty": 1,
+"type": "Trạm chế tạo",
+"ingredients": [{
+"name": "Bọ ăn khí",
+"qty": 2
+}, {
+"name": "Khối lam thạch",
+"qty": 1
+}, {
+"name": "Phấn cánh Glutterfly",
+"qty": 1
+}, {
+"name": "Cây Dâu độc",
+"qty": 3
+}]
+},
+"icon": "sp_jar_of_joom_0.png"
+},
 "Bom Độc": {
 "name": "Bom Độc",
 "type": "Bom",
@@ -3270,31 +3295,6 @@ $master.api.item = {
 }]
 },
 "icon": "glorb.png"
-},
-"Lọ Độc Trộn": {
-"name": "Lọ Độc Trộn",
-"type": "Trang sức",
-"rarity": "Tốt",
-"description": "Sau khi trộn một đống loại độc với nhau, ta có một lọ độc siêu to khổng lồ! Tăng 20% ST độc.",
-"recipe": {
-"name": "Máy tiện Cao su",
-"output_qty": 1,
-"type": "Trạm chế tạo",
-"ingredients": [{
-"name": "Bọ ăn khí",
-"qty": 2
-}, {
-"name": "Khối lam thạch",
-"qty": 1
-}, {
-"name": "Phấn cánh Glutterfly",
-"qty": 1
-}, {
-"name": "Cây Dâu độc",
-"qty": 3
-}]
-},
-"icon": "sp_jar_of_joom_0.png"
 },
 "Ốp la phẫn nộ": {
 "name": "Ốp la phẫn nộ",
