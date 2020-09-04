@@ -388,7 +388,7 @@ $master.api.item = {
 },
 "Vòng Hoa": {
 "name": "Vòng Hoa",
-"type": "Trang Sức",
+"type": "Trang sức",
 "rarity": "Bình Thường",
 "description": "Giờ bạn có thể hưởng thụ hương Anh túc mọi lúc! Nhận 0.25% HP hồi phục mỗi giây!",
 "recipe": {
@@ -1494,7 +1494,7 @@ $master.api.item = {
 },
 "Kính Bảo Hộ": {
 "name": "Kính Bảo Hộ",
-"type": "Trang Sức",
+"type": "Trang sức",
 "rarity": "Siêu Cấp",
 "description": " Sức hút mạnh mẽ kéo dài dây thần kinh thị giác, cho phép bạn đánh chí mạng như một vị thần! Tăng 10% tỉ lệ đánh chí mạng!",
 "recipe": {
@@ -2482,7 +2482,7 @@ $master.api.item = {
 },
 "Đèn An Toàn": {
 "name": "Đèn An Toàn",
-"type": "Trang Sức",
+"type": "Trang sức",
 "level": "Cấp 7",
 "rarity": "Siêu Cấp",
 "description": "Với chiếc đèn đẹp đẽ này ở ngay cạnh, bạn đột nhiên muốn nghịch lửa. Nhận thêm 20% kháng lửa.",
