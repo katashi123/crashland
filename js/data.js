@@ -653,7 +653,7 @@ $master.api.item = {
 },
 "Bia Mộ": {
 "name": "Bia mộ",
-"type": "Kiến Trúc",
+"type": "Kiến trúc",
 "rarity": "Bình Thường",
 "description": "Hãy yên nghĩ.",
 "icon": "gravestone.png"
@@ -1001,7 +1001,7 @@ $master.api.item = {
 },
 "Cửa Gỗ": {
 "name": "Cửa Gỗ",
-"type": "Kiến Trúc",
+"type": "Kiến trúc",
 "rarity": "Bình Thường",
 "description": "Làm cửa thì đương nhiên tốt hơn tường rồi.",
 "recipe": {
@@ -2272,7 +2272,7 @@ $master.api.item = {
 },
 "Tường Tranh": {
 "name": "Tường Tranh",
-"type": "Kiến Trúc",
+"type": "Kiến trúc",
 "rarity": "Bình Thường",
 "description": "Hoàn hảo để giữ lũ quái tránh xa!",
 "recipe": {
@@ -9375,8 +9375,8 @@ $master.api.item = {
 "description": "Tendraam sử dụng những nụ nhỏ của Maarla như nguồn sáng vào ban đêm.",
 "icon": "tendraam_torch.png"
 },
-"'Mầm Đá'": {
-"name": "'Mầm Đá'",
+"Mầm Đá": {
+"name": "Mầm Đá",
 "type": "Kiến trúc",
 "rarity": "Bình Thường",
 "description": "Một cái mầm của Maarla mọc xuyên tảng đá nhẵn.",
