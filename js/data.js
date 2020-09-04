@@ -14582,7 +14582,7 @@ $master.api.item = {
 					"qty": 10
 				}]
 			},
-			"icon": "sp_jar_of_joom_0.png"
+			"icon": "sp_burny_lidflipper_0.png"
 		}
 };
 $master.api.creature = {
