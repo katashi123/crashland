@@ -14558,7 +14558,32 @@ $master.api.item = {
 		"rarity": "Bình Thường",
 		"description": "Đây là một phi vụ lớn đấy.",
 		"icon": "hewgodooko_trophy.png"
-	}
+	},
+		"Quẹt Zippo": {
+			"name": "Quẹt Zippo",
+			"type": "Trang sức",
+			"rarity": "Tốt",
+			"description": "Khi bạn đóng nắp lại, lửa bùng lên. Đó là một đột phá công nghệ tiên tiến! Cường hoá 20% ST Lửa.",
+			"recipe": {
+				"name": "Máy nướng cá",
+				"output_qty": 1,
+				"type": "Trạm chế tạo",
+				"ingredients": [{
+					"name": "Bình Nitơ",
+					"qty": 2
+				}, {
+					"name": "Đèn dầu Tartil",
+					"qty": 3
+				}, {
+					"name": "Cá đuôi quỷ",
+					"qty": 6
+				}, {
+					"name": "Hóa Thạch Đại Cốt",
+					"qty": 10
+				}]
+			},
+			"icon": "sp_jar_of_joom_0.png"
+		}
 };
 $master.api.creature = {
 	"Glutterfly": {
