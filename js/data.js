@@ -7026,7 +7026,7 @@ $master.api.item = {
 "name": "Khoáng thạch",
 "type": "Mảnh thành phần",
 "rarity": "Tốt",
-"description": "Bằng cách đổ cục bùn vào Máy lọc bùn, bạn có thể làm sạch nó và tách ra những thứ hữu dụng từ nó.",
+"description": "Bằng cách đổ cục bùn vào Máy Lọc Bùn, bạn có thể làm sạch nó và tách ra những thứ hữu dụng từ nó.",
 "recipe": {
 "name": "Máy Lọc Bùn",
 "output_qty": 1,
@@ -7042,7 +7042,7 @@ $master.api.item = {
 "icon": "slurry_processing.png",
 "drop": ["Chất nhầy độc", "Carbon", "Hợp Kim Titan"]
 },
-"Máy lọc bùn": {
+"Máy Lọc Bùn": {
 "name": "Máy Lọc Bùn",
 "type": "Trạm chế tạo",
 "rarity": "Bình Thường",
