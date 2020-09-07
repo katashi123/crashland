@@ -1723,7 +1723,7 @@ $master.api.item = {
 		"name": "Mảnh Pha lê",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Một mảnh pha lê Hoàng hôn hoàn hảo. Nó toả ra hào quang mạnh mẽ như những chú chó kéo xe.",
+		"description": "Một Mảnh Pha lê Hoàng hôn hoàn hảo. Nó toả ra hào quang mạnh mẽ như những chú chó kéo xe.",
 		"icon": "dusk_shard.png"
 	},
 	"Bụi Pha lê": {
@@ -3147,7 +3147,7 @@ $master.api.item = {
 			"output_qty": 1,
 			"type": "`",
 			"ingredients": [{
-				"name": "Mảnh Pha Lê",
+				"name": "Mảnh Pha lê",
 				"qty": 3
 			}, {
 				"name": "Cây Trụ Thảo",
@@ -13079,7 +13079,7 @@ $master.api.item = {
 		"name": "Pha lê cánh bướm",
 		"type": "Mảnh thành phần",
 		"rarity": "Huyền thoại",
-		"description": "Mảnh pha lê này có hình dáng giống như... một loài côn trùng...",
+		"description": "Mảnh Pha lê này có hình dáng giống như... một loài côn trùng...",
 		"icon": "oddly_shaped_crystal.png"
 	},
 	"Thể bám mặt": {
@@ -14863,7 +14863,7 @@ $master.api.creature = {
 		"type": "Gallum",
 		"stone0": "Khối Rubik",
 		"stone1": "Nhuyễn vị giáp",
-		"description": "Một sự dung hòa giữa những mảnh pha lê Tundra và những mảnh xác sinh vật, con quái vật này có một hào quang thần bì bao quanh chúng. Chúng dường như tự ý thức được về xương sườn của chúng.",
+		"description": "Một sự dung hòa giữa những Mảnh Pha lê Tundra và những mảnh xác sinh vật, con quái vật này có một hào quang thần bì bao quanh chúng. Chúng dường như tự ý thức được về xương sườn của chúng.",
 		"produce": "Chất nhầy Gallum",
 		"symbiosis": "Nhận thức về điện",
 		"toughness": 25,
