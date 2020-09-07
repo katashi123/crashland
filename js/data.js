@@ -1233,7 +1233,7 @@ $master.api.item = {
 		"rarity": "Bình Thường",
 		"description": "Đứng trên nó sẽ khiến bạn bị đẩy RẤT MẠNH về hướng Nam!",
 		"recipe": {
-			"name": "Bàn đúc",
+			"name": "Bàn Đúc",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -1255,7 +1255,7 @@ $master.api.item = {
 		"rarity": "Bình Thường",
 		"description": "Đứng trên nó sẽ khiến bạn bị đẩy RẤT MẠNH về hướng Bắc!",
 		"recipe": {
-			"name": "Bàn đúc",
+			"name": "Bàn Đúc",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -1277,7 +1277,7 @@ $master.api.item = {
 		"rarity": "Bình Thường",
 		"description": "Đứng trên nó sẽ khiến bạn bị đẩy RẤT MẠNH về hướng Dông!",
 		"recipe": {
-			"name": "Bàn đúc",
+			"name": "Bàn Đúc",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -1299,7 +1299,7 @@ $master.api.item = {
 		"rarity": "Bình Thường",
 		"description": "Đứng trên nó sẽ khiến bạn bị đẩy RẤT MẠNH về hướng Tây!",
 		"recipe": {
-			"name": "Bàn đúc",
+			"name": "Bàn Đúc",
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
@@ -7805,8 +7805,8 @@ $master.api.item = {
 		},
 		"icon": "blastcrab_firebarrel.png"
 	},
-	"Bàn đúc": {
-		"name": "Bàn đúc",
+	"Bàn Đúc": {
+		"name": "Bàn Đúc",
 		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
 		"description": "Nó hoạt động rất nhiệt huyết, nhưng không nhanh lắm. Bạn có thể hạ nó trong một cuộc chạy marathon, hoặc bằng một cái Que.",
