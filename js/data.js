@@ -5005,8 +5005,8 @@ $master.api.item = {
 		},
 		"icon": "wojack_soap.png"
 	},
-	"Lò rèn Năng lượng": {
-		"name": "Lò rèn Năng lượng",
+	"Lò Rèn Năng Lượng": {
+		"name": "Lò Rèn Năng Lượng",
 		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
 		"description": "Cái máy này sẽ giúp bạn khai thác sức mạnh của tinh thể nên bạn có thể sửa đổi trang bị!",
