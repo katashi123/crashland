@@ -256,7 +256,7 @@ function createPage(type, subtype) {
             var $recipe = $obj.recipe;
             $obj3 = null;
             temp.recipe = '<div class="p-recipe">';
-            temp.recipe += '<div class="p-r-rname"> Schematic </div>';
+            temp.recipe += '<div class="p-r-rname"> Sơ đồ </div>';
             if ($recipe.type == 'Pet') {
                 $obj3 = $master.api.creature[$recipe.name];
                 if ($obj3) {
@@ -484,7 +484,7 @@ arunx.prototype = {
                 tempX.recipe = {};
                 tempX.recipe.name = value['CraftedAt'];
                 tempX.recipe.output_qty = 1;
-                tempX.recipe.type = 'Workstation';
+                tempX.recipe.type = 'Trạm chế tạo';
                 tempX.recipe.ingredients = [];
                 if (value['Comp0']) {
                     tempX.recipe.ingredients[0] = {
