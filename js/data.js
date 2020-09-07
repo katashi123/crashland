@@ -1739,7 +1739,7 @@ $master.api.item = {
 		"rarity": "Bình Thường",
 		"description": "Vỗ vào nó sẽ tạo ra tiếng trống. Với số lượng vừa đủ, Bạn có thể tạo nên một cộng đồng hippie đúng chất.",
 		"icon": "squee.png",
-		"drop": ["Vỏ gỗ Cao su", "Thùng Cao su", "Kén Cao su", "Hạt giống Cao su"]
+		"drop": ["Vỏ gỗ Cao su", "Thùng Cao su", "Kén Cao Su", "Hạt giống Cao su"]
 	},
 	"Vỏ gỗ Cao su": {
 		"name": "Vỏ gỗ Cao su",
@@ -1912,8 +1912,8 @@ $master.api.item = {
 		"description": "Với sự chăm sóc bằng cả tấm lòng, bạn có thể tự canh tác khu vườn cây Cao su của bạn!",
 		"icon": "squee_seed.png"
 	},
-	"Kén Cao su": {
-		"name": "Kén Cao su",
+	"Kén Cao Su": {
+		"name": "Kén Cao Su",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
 		"description": "Cái kén này được tìm thấy bên trong một cây Cao su. Nó cười khúc khích và dội lại tiếng nhạc.",
@@ -2230,7 +2230,7 @@ $master.api.item = {
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Kén Cao su",
+				"name": "Kén Cao Su",
 				"qty": 2
 			}, {
 				"name": "Hổ Phách",
@@ -2604,7 +2604,7 @@ $master.api.item = {
 				"name": "Rong biển",
 				"qty": 3
 			}, {
-				"name": "Ấu Trùng Glidopus",
+				"name": "Ấu trùng Glidopus",
 				"qty": 1
 			}]
 		},
