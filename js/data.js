@@ -993,7 +993,7 @@ $master.api.item = {
 				"name": "Lưỡi Cỏ gai",
 				"qty": 3
 			}, {
-				"name": "Nhánh Chuông Gió",
+				"name": "Nhánh Chuông gió",
 				"qty": 3
 			}]
 		},
@@ -1341,7 +1341,7 @@ $master.api.item = {
 		"name": "Máy Bơm",
 		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": " Cái máy bơm này sẽ sản xuất vô hạn bóng nước khi được đặt ở hồ trên Savanna.",
+		"description": " Cái Máy Bơm này sẽ sản xuất vô hạn Bóng nước khi được đặt ở hồ trên Savanna.",
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
@@ -1359,8 +1359,8 @@ $master.api.item = {
 		},
 		"icon": "water_pump.png"
 	},
-	"Bóng Nước": {
-		"name": "Bóng Nước",
+	"Bóng nước": {
+		"name": "Bóng nước",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
 		"description": " Nó phát ra những tiếng rít phiền phức khi bạn chà tay lên nó.",
@@ -1508,7 +1508,7 @@ $master.api.item = {
 				"name": "Keo cơ bản",
 				"qty": 5
 			}, {
-				"name": "Bóng Nước",
+				"name": "Bóng nước",
 				"qty": 42
 			}]
 		},
@@ -1524,7 +1524,7 @@ $master.api.item = {
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Nhánh Chuông Gió",
+				"name": "Nhánh Chuông gió",
 				"qty": 93
 			}, {
 				"name": "Lá Cỏ gai",
@@ -1705,7 +1705,7 @@ $master.api.item = {
 				"name": "Cưa Cỏ gai",
 				"qty": 1
 			}, {
-				"name": "Bóng Nước",
+				"name": "Bóng nước",
 				"qty": 8
 			}]
 		},
@@ -2009,7 +2009,7 @@ $master.api.item = {
 			"output_qty": 1,
 			"type": "Thú Nuôi",
 			"ingredients": [{
-				"name": "Nhánh Chuông Gió",
+				"name": "Nhánh Chuông gió",
 				"qty": 2
 			}, {
 				"name": "Nấm Mặt Trời",
@@ -2074,7 +2074,7 @@ $master.api.item = {
 				"name": "Khối lam thạch",
 				"qty": 5
 			}, {
-				"name": "Bóng Nước",
+				"name": "Bóng nước",
 				"qty": 15
 			}]
 		},
@@ -2097,7 +2097,7 @@ $master.api.item = {
 				"name": "Thùng Cao su",
 				"qty": 4
 			}, {
-				"name": "Nhánh Chuông Gió",
+				"name": "Nhánh Chuông gió",
 				"qty": 17
 			}, {
 				"name": "Khối lam thạch",
@@ -2339,7 +2339,7 @@ $master.api.item = {
 				"name": "Mực Glidopus",
 				"qty": 106
 			}, {
-				"name": "Bóng Nước",
+				"name": "Bóng nước",
 				"qty": 62
 			}, {
 				"name": "Cây Bội Thảo",
@@ -2972,7 +2972,7 @@ $master.api.item = {
 				"name": "Bụi Pha lê",
 				"qty": 1
 			}, {
-				"name": "Bóng Nước",
+				"name": "Bóng nước",
 				"qty": 1
 			}]
 		},
@@ -3290,7 +3290,7 @@ $master.api.item = {
 				"name": "Phấn cánh Glutterfly",
 				"qty": 3
 			}, {
-				"name": "Bóng Nước",
+				"name": "Bóng nước",
 				"qty": 27
 			}]
 		},
@@ -4078,7 +4078,7 @@ $master.api.item = {
 		"name": "Bom nước",
 		"type": "Bom",
 		"rarity": "Bình Thường",
-		"description": "Bằng việc nhồi thêm đồ vào quả bóng nước, bạn đã có thể ném quả bóng nước với lực KINH KHỦNG KHIẾP vào hạt giống. Chúng thích thứ này mà, phải không?",
+		"description": "Bằng việc nhồi thêm đồ vào quả Bóng nước, bạn đã có thể ném quả Bóng nước với lực KINH KHỦNG KHIẾP vào hạt giống. Chúng thích thứ này mà, phải không?",
 		"recipe": {
 			"name": "Máy Bơm",
 			"output_qty": 1,
