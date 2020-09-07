@@ -1738,7 +1738,7 @@ $master.api.item = {
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
 		"description": "Vỗ vào nó sẽ tạo ra tiếng trống. Với số lượng vừa đủ, Bạn có thể tạo nên một cộng đồng hippie đúng chất.",
-		"icon": "sQuee.png",
+		"icon": "squee.png",
 		"drop": ["Vỏ gỗ Cao su", "Thùng Cao su", "Kén Cao su", "Hạt giống Cao su"]
 	},
 	"Vỏ gỗ Cao su": {
@@ -1746,14 +1746,14 @@ $master.api.item = {
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
 		"description": "Đẹp, nhưng cứng tới kỳ lạ, vỏ của cây Cao su. Chà tay lên đó sẽ mang lại cảm giác dễ chịu. Có lẽ hơi quá dễ chịu...",
-		"icon": "sQuee_husk.png"
+		"icon": "squee_husk.png"
 	},
 	"Thùng Cao su": {
 		"name": "Thùng Cao su",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
 		"description": "Khi bạn bóp nó, một chất lỏng trắng đục rỉ ra. Khi bạn liếm nó, bạn sẽ cực kì hối hận..",
-		"icon": "sQuee_barrel.png"
+		"icon": "squee_barrel.png"
 	},
 	"Xương Hóa Thạch Khổng Lồ": {
 		"name": "Xương Hóa Thạch Khổng Lồ",
@@ -1910,7 +1910,7 @@ $master.api.item = {
 		"type": "Hạt Giống",
 		"rarity": "Tốt",
 		"description": "Với sự chăm sóc bằng cả tấm lòng, bạn có thể tự canh tác khu vườn cây Cao su của bạn!",
-		"icon": "sQuee_seed.png"
+		"icon": "squee_seed.png"
 	},
 	"Kén Cao su": {
 		"name": "Kén Cao su",
@@ -2186,7 +2186,7 @@ $master.api.item = {
 				"qty": 10
 			}]
 		},
-		"icon": "sQuee_flooring.png"
+		"icon": "squee_flooring.png"
 	},
 	"Búa Cao su": {
 		"name": "Búa Cao su",
@@ -2209,7 +2209,7 @@ $master.api.item = {
 				"qty": 4
 			}]
 		},
-		"icon": "sQueebop.png"
+		"icon": "squeebop.png"
 	},
 	"Hố Câu Savanna": {
 		"name": "Hố Câu Savanna",
