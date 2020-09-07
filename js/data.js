@@ -1739,7 +1739,7 @@ $master.api.item = {
 		"rarity": "Bình Thường",
 		"description": "Vỗ vào nó sẽ tạo ra tiếng trống. Với số lượng vừa đủ, Bạn có thể tạo nên một cộng đồng hippie đúng chất.",
 		"icon": "sQuee.png",
-		"drop": ["Vỏ gỗ Cao su", "Thùng Cao su", "Kén Cao su", "Hạt Giống Cao su"]
+		"drop": ["Vỏ gỗ Cao su", "Thùng Cao su", "Kén Cao su", "Hạt giống Cao su"]
 	},
 	"Vỏ gỗ Cao su": {
 		"name": "Vỏ gỗ Cao su",
@@ -1905,8 +1905,8 @@ $master.api.item = {
 		},
 		"icon": "stone_stool.png"
 	},
-	"Hạt Giống Cao su": {
-		"name": "Hạt Giống Cao su",
+	"Hạt giống Cao su": {
+		"name": "Hạt giống Cao su",
 		"type": "Hạt Giống",
 		"rarity": "Tốt",
 		"description": "Với sự chăm sóc bằng cả tấm lòng, bạn có thể tự canh tác khu vườn cây Cao su của bạn!",
