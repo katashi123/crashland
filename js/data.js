@@ -810,8 +810,8 @@ $master.api.item = {
 		"description": " Có vẻ nó sẽ sáng hơn với mật độ nhiều hơn. Thọc ngón tay vào bạn thấy nó nóng và ngứa ran cùng lúc.",
 		"icon": "glow_juice.png"
 	},
-	"Giáp Da": {
-		"name": "Giáp Da",
+	"Giáp da": {
+		"name": "Giáp da",
 		"type": "Áo Giáp",
 		"level": "Cấp 3",
 		"rarity": "Ngẫu Nhiên",
@@ -4107,8 +4107,8 @@ $master.api.item = {
 		"description": "Nó chỉ là cái tường từ con tàu của bạn!",
 		"icon": "ship_wall.png"
 	},
-	"Bảng điều khiển hỏng": {
-		"name": "Bảng điều khiển hỏng",
+	"Bảng Điều Khiển hỏng": {
+		"name": "Bảng Điều Khiển hỏng",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
 		"description": "Bảng điều khiển này đã hỏng và giờ nó RẤT NGUY HIỂM",
