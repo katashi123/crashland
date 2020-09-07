@@ -3654,7 +3654,7 @@ $master.api.item = {
 		"name": "Tảo Phát Quang",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Thứ sinh vật này bằng cách nào đó có thể sống trong axit của Bawg. Nó biến axit thành chất phát quang sinh học, và dụ những sinh vật phù du bất cẩn để ăn thịt.",
+		"description": "Thứ sinh vật này bằng cách nào đó có thể sống trong axit của Bawg. Nó biến axit thành chất phát quang sinh học, và dụ những Sinh Vật Phù Du bất cẩn để ăn thịt.",
 		"icon": "luminalgae.png"
 	},
 	"Ống san hô": {
@@ -10102,8 +10102,8 @@ $master.api.item = {
 		},
 		"icon": "bamli_incubator.png"
 	},
-	"Ổ trứng Satgat": {
-		"name": "Ổ trứng Satgat",
+	"Ổ Trứng Satgat": {
+		"name": "Ổ Trứng Satgat",
 		"type": "Ổ trứng",
 		"rarity": "Siêu Cấp",
 		"description": "Bọ xít với cái đầu nhỏ xíu là một thú cưng tuyệt vời. Bạn đã đọc về nó trên Internet một lần rồi.",
