@@ -5021,7 +5021,7 @@ $master.api.item = {
 				"name": "Mô cách điện",
 				"qty": 19
 			}, {
-				"name": "Da Zug nhiễm đện",
+				"name": "Da Zug nhiễm điện",
 				"qty": 1
 			}]
 		},
