@@ -12513,7 +12513,7 @@ $master.api.item = {
 				"qty": 3
 			}]
 		},
-		"icon": "sQuee_seedbomb.png"
+		"icon": "squee_seedbomb.png"
 	},
 	"Bom hạt Cây tĩnh điện": {
 		"name": "Bom hạt Cây tĩnh điện",
