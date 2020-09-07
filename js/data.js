@@ -652,7 +652,7 @@ $master.api.item = {
 		"icon": "glidopus_ink.png"
 	},
 	"Bia Mộ": {
-		"name": "Bia mộ",
+		"name": "Bia Mộ",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
 		"description": "Hãy yên nghĩ.",
