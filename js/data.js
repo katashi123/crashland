@@ -5005,6 +5005,28 @@ $master.api.item = {
 		},
 		"icon": "wojack_soap.png"
 	},
+	"Lò rèn Năng lượng": {
+		"name": "Lò rèn Năng lượng",
+		"type": "Trạm chế tạo",
+		"rarity": "Bình Thường",
+		"description": "Cái máy này sẽ giúp bạn khai thác sức mạnh của tinh thể nên bạn có thể sửa đổi trang bị!",
+		"recipe": {
+			"name": "Bàn Dệt",
+			"output_qty": 1,
+			"type": "Trạm chế tạo",
+			"ingredients": [{
+				"name": "Tinh thể Năng lượng",
+				"qty": 48
+			}, {
+				"name": "Mô cách điện",
+				"qty": 19
+			}, {
+				"name": "Da Zug nhiễm đện",
+				"qty": 1
+			}]
+		},
+		"icon": "sp_juiceforge_0.png"
+	},
 	"Mũ Rùa": {
 		"name": "Mũ Rùa",
 		"type": "Mũ giáp",
@@ -5341,28 +5363,6 @@ $master.api.item = {
 			}]
 		},
 		"icon": "granvil.png"
-	},
-	"Lò rèn Năng lượng": {
-		"name": "Lò rèn Năng lượng",
-		"type": "Trạm chế tạo",
-		"rarity": "Bình Thường",
-		"description": "Cái máy này sẽ giúp bạn khai thác sức mạnh của tinh thể nên bạn có thể sửa đổi trang bị!",
-		"recipe": {
-			"name": "Bàn Dệt",
-			"output_qty": 1,
-			"type": "Trạm chế tạo",
-			"ingredients": [{
-				"name": "Tinh thể Năng lượng",
-				"qty": 48
-			}, {
-				"name": "Mô cách điện",
-				"qty": 19
-			}, {
-				"name": "Da Zug nhiễm đện",
-				"qty": 1
-			}]
-		},
-		"icon": "sp_juiceforge_0.png"
 	},
 	"Biển gỗ": {
 		"name": "Biển gỗ",
