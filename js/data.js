@@ -626,7 +626,7 @@ $master.api.item = {
 	"Bọ hàm kìm": {
 		"name": "Bọ hàm kìm",
 		"type": "Mảnh thành phần",
-		"rarity": "Bình thường ",
+		"rarity": "Bình Thường ",
 		"description": "Sinh vật trông như mối này bị thu hút bởi âm thanh từ những cây Chuông gió. Mặc dù hàm nó rất sắc, nhưng nó sẽ không cắn bạn đâu.",
 		"icon": "whistle_borer.png"
 	},
@@ -2260,7 +2260,7 @@ $master.api.item = {
 		"name": "Rong biển",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": " Chỉ là một miếng rong biển ngoài hành tinh bình thường. Nó cực kì xơ và dai.",
+		"description": " Chỉ là một miếng rong biển ngoài hành tinh Bình Thường. Nó cực kì xơ và dai.",
 		"icon": "pond_shoot.png"
 	},
 	"Ốc sên cuộn": {
@@ -3401,7 +3401,7 @@ $master.api.item = {
 		"name": "Cây Cẩu Tích",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Chỉ là một mẩu tóc thông thường, cỡ con người và không thể bình thường hơn. ",
+		"description": "Chỉ là một mẩu tóc thông thường, cỡ con người và không thể Bình Thường hơn. ",
 		"icon": "bawg_hair.png",
 		"drop": ["Nhánh cây Cẩu tích", "Vỏ Cẩu tích", "Chấy", "Hạt Cẩu tích"]
 	},
@@ -4347,7 +4347,7 @@ $master.api.item = {
 	"Gối phát quang": {
 		"name": "Gối phát quang",
 		"type": "Đồ nội thất",
-		"rarity": "Bình thường ",
+		"rarity": "Bình Thường ",
 		"description": "Nó không chỉ nhìn rất thoải mái, mà nó còn phát ra ánh sáng khiến bạn buồn nôn!",
 		"recipe": {
 			"name": "Xưởng đồ da",
@@ -6050,7 +6050,7 @@ $master.api.item = {
 		"name": "Rương kho báu",
 		"type": "Rương",
 		"rarity": "Bình Thường",
-		"description": "Hewgodooko có một vài cái rương lớn. Nó sẽ có ích trong những hoạt động sử dụng rương bình thường.",
+		"description": "Hewgodooko có một vài cái rương lớn. Nó sẽ có ích trong những hoạt động sử dụng rương Bình Thường.",
 		"icon": "basic_hewgochest.png"
 	},
 	"Đèn Hewgo xanh mòng két": {
@@ -6847,7 +6847,7 @@ $master.api.item = {
 	"Đất": {
 		"name": "Đất",
 		"type": "Mảnh thành phần",
-		"rarity": "Bình thường",
+		"rarity": "Bình Thường",
 		"description": "Nó thật là bẩn.",
 		"icon": "dirt.png"
 	},
@@ -14514,7 +14514,7 @@ $master.api.item = {
 		"name": "Bóng bingo",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Mặc dù trông nó giống một quả bóng tennis bình thường, nhưng nó khá đặc đấy.",
+		"description": "Mặc dù trông nó giống một quả bóng tennis Bình Thường, nhưng nó khá đặc đấy.",
 		"icon": "bingo_ball.png"
 	},
 	"Chốt lượng tử": {
@@ -14671,7 +14671,7 @@ $master.api.creature = {
 		"type": "Zug",
 		"stone0": "Đèn plasma",
 		"stone1": "Động cơ vĩnh cửu",
-		"description": "Lũ Zug khá là lười khi chúng cố gắng tránh di chuyển nhiều nhất có thể. Vì lẽ đó, cơ thể chúng chứa một nguồn cung cấp điện vô hạn, phần còn lại tới từ quá trình trao đổi chất bình thường của chúng.",
+		"description": "Lũ Zug khá là lười khi chúng cố gắng tránh di chuyển nhiều nhất có thể. Vì lẽ đó, cơ thể chúng chứa một nguồn cung cấp điện vô hạn, phần còn lại tới từ quá trình trao đổi chất Bình Thường của chúng.",
 		"produce": "Da Zug nhiễm điện",
 		"symbiosis": "Sạc tĩnh điện",
 		"toughness": 10,
