@@ -5712,13 +5712,13 @@ $master.api.item = {
 		"icon": "bluff.png",
 		"drop": ["Hạt cây Phong phát", "Lõi Phong phát"]
 	},
-	"Cây Chùy gai": {
-		"name": "Cây Chùy gai",
+	"Cây Chùy Gai": {
+		"name": "Cây Chùy Gai",
 		"type": "Tài nguyên",
 		"rarity": "Bình Thường",
 		"description": "Cái cây này động đậy khi có tạo vật nguy hiểm tới gần, nhưng chưa bao giờ bật rễ. Bạn sẽ đoán rằng nó là một sinh vật hiền hoà.",
 		"icon": "flailtree.png",
-		"drop": ["Chùy Gai", "Vỏ Chuỳ gai", "Hạt giống Chùy gai"]
+		"drop": ["Chùy Gai", "Vỏ Chuỳ gai", "Hạt giống Chùy Gai"]
 	},
 	"Quặng Tinh thể Năng lượng": {
 		"name": "Quặng Tinh thể Năng lượng",
@@ -5751,8 +5751,8 @@ $master.api.item = {
 		"icon": "magmite_mound.png",
 		"drop": ["Mối Thợ", "Lụa xanh", "Mối vương", "Mối chúa"]
 	},
-	"Nấm Bè": {
-		"name": "Nấm Bè",
+	"Nấm bè": {
+		"name": "Nấm bè",
 		"type": "Tài nguyên",
 		"rarity": "Bình Thường",
 		"description": "Những chiếc túi có lẽ chứa đầy Heli hoặc cái gì đó. Nó trôi nổi nhẹ nhàng trên mặt nước ở Tundra.",
@@ -5878,8 +5878,8 @@ $master.api.item = {
 		"description": "Vỏ Chuỳ gai cực kì chắc khoẻ và đàn hồi.",
 		"icon": "blackbark.png"
 	},
-	"Hạt giống Chùy gai": {
-		"name": "Hạt giống Chùy gai",
+	"Hạt giống Chùy Gai": {
+		"name": "Hạt giống Chùy Gai",
 		"type": "Hạt giống",
 		"rarity": "Tốt",
 		"description": "Hạt của cây Chuỳ gai. Chúng rất hung hăng và gắt gỏng. Tốt hơn hết nên chôn nó và để nó tự vượt qua.",
@@ -12622,8 +12622,8 @@ $master.api.item = {
 		},
 		"icon": "furgrasp_seedbomb.png"
 	},
-	"Bom hạt Chùy gai": {
-		"name": "Bom hạt Chùy gai",
+	"Bom hạt Chùy Gai": {
+		"name": "Bom hạt Chùy Gai",
 		"type": "Bom",
 		"rarity": "Bình Thường",
 		"description": "Đừng tự làm đau mình khi cậu bé này nổ tung! Gây 125% ST/giây thành STVL.",
@@ -12632,7 +12632,7 @@ $master.api.item = {
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Hạt giống Chùy gai",
+				"name": "Hạt giống Chùy Gai",
 				"qty": 3
 			}, {
 				"name": "Vỏ Chuỳ gai",
