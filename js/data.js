@@ -469,7 +469,7 @@ $master.api.item = {
 		"type": "Công cụ",
 		"level": "Bậc 1",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Cuốc chim bậc 1. Chiếc cuốc chim này sẽ phá vỡ ngay cả những Cụm đá nhẵn cứng nhất! Hoặc chỉ bằng một nhát đập nhẹ nhất.",
+		"description": "Cuốc Chim bậc 1. Chiếc Cuốc Chim này sẽ phá vỡ ngay cả những Cụm đá nhẵn cứng nhất! Hoặc chỉ bằng một nhát đập nhẹ nhất.",
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
@@ -2844,7 +2844,7 @@ $master.api.item = {
 		"type": "Công Cụ",
 		"level": "Bậc 2",
 		"rarity": "Bình Thường",
-		"description": "Cuốc chim bậc 2. Ép dập Móng Wat thành mai Zug dường như là ý hay ngay lúc này. VÀ NÓ VẪN SẼ LÀM! Thứ này không thể phá được Pha lê Hoàng hôn!",
+		"description": "Cuốc Chim bậc 2. Ép dập Móng Wat thành mai Zug dường như là ý hay ngay lúc này. VÀ NÓ VẪN SẼ LÀM! Thứ này không thể phá được Pha lê Hoàng hôn!",
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
@@ -3214,8 +3214,8 @@ $master.api.item = {
 		},
 		"icon": "crystal_door.png"
 	},
-	"Chậu Nha đam": {
-		"name": "Chậu Nha đam",
+	"Chậu Nha Đam": {
+		"name": "Chậu Nha Đam",
 		"type": "Chậu cây",
 		"rarity": "Bình Thường",
 		"description": "Luôn là tốt khi tích trữ một kho Nha đam tự tái sinh để giữ cho vật nuối của bạn luôn vui vẻ.",
@@ -3385,9 +3385,9 @@ $master.api.item = {
 		"name": "Cây Cự cốt",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Những cây Cự cốt này có vẻ khiến Bawg cảm thấy đau đớn. Bạn sẽ làm điều có ích khi loại bỏ chúng.",
+		"description": "Những Cây Cự cốt này có vẻ khiến Bawg cảm thấy đau đớn. Bạn sẽ làm điều có ích khi loại bỏ chúng.",
 		"icon": "bone_spur.png",
-		"drop": ["Sáp cây Cự cốt", "Vỏ sừng", "Cục vàng", "Hạt giống Cự cốt"]
+		"drop": ["Sáp Cây Cự cốt", "Vỏ sừng", "Cục vàng", "Hạt giống Cự cốt"]
 	},
 	"Cây Tĩnh điện": {
 		"name": "Cây Tĩnh điện",
@@ -3752,7 +3752,7 @@ $master.api.item = {
 			"output_qty": 1,
 			"type": "Pet",
 			"ingredients": [{
-				"name": "Sáp cây Cự cốt",
+				"name": "Sáp Cây Cự cốt",
 				"qty": 1
 			}, {
 				"name": "Cây Hồ thảo",
@@ -3876,21 +3876,21 @@ $master.api.item = {
 		"name": "Cục vàng",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Bằng cách nào đó, những cây Cự cốt khổng lồ sẽ nhận thấy của Bawg có thể phát triển những mảnh vàng bên trong chúng. Bạn nên điều tra chúng nhiều hơn, để phục vụ khoa học.",
+		"description": "Bằng cách nào đó, những Cây Cự cốt khổng lồ sẽ nhận thấy của Bawg có thể phát triển những mảnh vàng bên trong chúng. Bạn nên điều tra chúng nhiều hơn, để phục vụ khoa học.",
 		"icon": "spur_gold.png"
 	},
 	"Vỏ sừng": {
 		"name": "Vỏ sừng",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Bạn đã có thể tách thứ này ra khỏi một cây Cự cốt. Nó rất cứng, hình vỏ sò và bóng loáng. Sẽ rất tuyệt nếu dùng nó để chế tạo xe.",
+		"description": "Bạn đã có thể tách thứ này ra khỏi một Cây Cự cốt. Nó rất cứng, hình vỏ sò và bóng loáng. Sẽ rất tuyệt nếu dùng nó để chế tạo xe.",
 		"icon": "grenamel.png"
 	},
-	"Sáp cây Cự cốt": {
-		"name": "Sáp cây Cự cốt",
+	"Sáp Cây Cự cốt": {
+		"name": "Sáp Cây Cự cốt",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Bạn đã cố gắng tách thứ này ra khỏi gốc nền của cây Cự cốt trước khi phá huỷ nó. Giống kiểu như nha sĩ vậy.",
+		"description": "Bạn đã cố gắng tách thứ này ra khỏi gốc nền của Cây Cự cốt trước khi phá huỷ nó. Giống kiểu như nha sĩ vậy.",
 		"icon": "spur_gum.png"
 	},
 	"Lông mi Wojack": {
@@ -3970,12 +3970,12 @@ $master.api.item = {
 		},
 		"icon": "dusk_trowel.png"
 	},
-	"Cuốc chim Thùa gai": {
-		"name": "Cuốc chim Thùa gai",
+	"Cuốc Chim Thùa gai": {
+		"name": "Cuốc Chim Thùa gai",
 		"type": "Công cụ",
 		"level": "Bậc 3",
 		"rarity": "Bình Thường",
-		"description": "Cuốc chim bậc 3. Cây cuốc chim này mạnh khủng khiếp, do được làm từ các xúc tu và nhiều loại cây!",
+		"description": "Cuốc Chim bậc 3. Cây Cuốc Chim này mạnh khủng khiếp, do được làm từ các xúc tu và nhiều loại cây!",
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
@@ -4001,7 +4001,7 @@ $master.api.item = {
 		"type": "Công cụ",
 		"level": "Bậc 4",
 		"rarity": "Bình Thường",
-		"description": "Cưa bậc 4. Râu của Bamli rất cứng và nhám, đến mức có thể chặt được cây Cự Cốt và vỏ Cẩu Tích! Và nhiều thứ khác nữa!",
+		"description": "Cưa bậc 4. Râu của Bamli rất cứng và nhám, đến mức có thể chặt được Cây Cự cốt và vỏ Cẩu Tích! Và nhiều thứ khác nữa!",
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
@@ -4294,7 +4294,7 @@ $master.api.item = {
 				"name": "Vỏ sừng",
 				"qty": 6
 			}, {
-				"name": "Sáp cây Cự cốt",
+				"name": "Sáp Cây Cự cốt",
 				"qty": 2
 			}, {
 				"name": "Sừng Bamli",
@@ -5446,7 +5446,7 @@ $master.api.item = {
 				"name": "Vỏ sừng",
 				"qty": 5
 			}, {
-				"name": "Sáp cây Cự cốt",
+				"name": "Sáp Cây Cự cốt",
 				"qty": 2
 			}, {
 				"name": "Cục vàng",
@@ -6488,7 +6488,7 @@ $master.api.item = {
 		"type": "Công cụ",
 		"level": "Bậc 4",
 		"rarity": "Bình Thường",
-		"description": "Cuốc chim bậc 4. Lòng bàn tay của bạn sẽ được những chiếc lông ống vuốt ve một cách dễ chịu khi dùng nó.",
+		"description": "Cuốc Chim bậc 4. Lòng bàn tay của bạn sẽ được những chiếc lông ống vuốt ve một cách dễ chịu khi dùng nó.",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
@@ -6500,7 +6500,7 @@ $master.api.item = {
 				"name": "Vỏ sừng",
 				"qty": 6
 			}, {
-				"name": "Cuốc chim Thùa gai",
+				"name": "Cuốc Chim Thùa gai",
 				"qty": 1
 			}, {
 				"name": "Mỏ Shirk",
@@ -7521,7 +7521,7 @@ $master.api.item = {
 		"type": "Công cụ",
 		"level": "Bậc 5",
 		"rarity": "Bình Thường",
-		"description": "Cuốc chim bậc 5. Cẩn thận không nghịch thứ này bằng bất cứ bộ phận nào trên cơ thể vì cây cuốc chim này có rất nhiều gai.",
+		"description": "Cuốc Chim bậc 5. Cẩn thận không nghịch thứ này bằng bất cứ bộ phận nào trên cơ thể vì cây Cuốc Chim này có rất nhiều gai.",
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
@@ -10553,7 +10553,7 @@ $master.api.item = {
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Sáp cây Cự cốt",
+				"name": "Sáp Cây Cự cốt",
 				"qty": 2
 			}, {
 				"name": "Râu Bamli",
@@ -10694,7 +10694,7 @@ $master.api.item = {
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Sáp cây Cự cốt",
+				"name": "Sáp Cây Cự cốt",
 				"qty": 2
 			}, {
 				"name": "Vỏ xương Satgat",
@@ -11005,7 +11005,7 @@ $master.api.item = {
 				"name": "Cây Hồ thảo",
 				"qty": 2
 			}, {
-				"name": "Sáp cây Cự cốt",
+				"name": "Sáp Cây Cự cốt",
 				"qty": 1
 			}]
 		},
@@ -12594,7 +12594,7 @@ $master.api.item = {
 				"name": "Vỏ sừng",
 				"qty": 3
 			}, {
-				"name": "Sáp cây Cự cốt",
+				"name": "Sáp Cây Cự cốt",
 				"qty": 3
 			}]
 		},
@@ -12892,7 +12892,7 @@ $master.api.item = {
 		"name": "Bom thu hoạch đời 4",
 		"type": "Bom",
 		"rarity": "Bình Thường",
-		"description": "Dùng khi bạn muốn phá gì đó, nhưng lại lười động tay! Phá được những thứ đời 3 phá được, cộng thêm cây Ngưng mạch, cây Cự cốt, cây Cẩu tích, cây Lược mao, cây Hoa quả tạ và Trứng xoắn ốc!",
+		"description": "Dùng khi bạn muốn phá gì đó, nhưng lại lười động tay! Phá được những thứ đời 3 phá được, cộng thêm cây Ngưng mạch, Cây Cự cốt, cây Cẩu tích, cây Lược mao, cây Hoa quả tạ và Trứng xoắn ốc!",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
@@ -13147,7 +13147,7 @@ $master.api.item = {
 		"name": "Rễ Cự cốt",
 		"type": "Mảnh thành phần",
 		"rarity": "Huyền thoại",
-		"description": "Khúc cây Cự cốt này đang co giật bởi NĂNG LƯỢNG SỰ SỐNG!",
+		"description": "Khúc Cây Cự cốt này đang co giật bởi NĂNG LƯỢNG SỰ SỐNG!",
 		"icon": "the_everliving_pulp.png"
 	},
 	"Huyết Căn": {
