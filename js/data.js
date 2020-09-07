@@ -6408,7 +6408,7 @@ $master.api.item = {
 				"qty": 2
 			}]
 		},
-		"icon": "blastcrab_hydrocarbon.png"
+		"icon": "blastcrab_hydroCarbon.png"
 	},
 	"Da Blastcrab": {
 		"name": "Da Blastcrab",
@@ -11304,7 +11304,7 @@ $master.api.item = {
 			"output_qty": 1,
 			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Mảnh vỏ Ốc sên",
+				"name": "Xương sống Slurb",
 				"qty": 3
 			}, {
 				"name": "Carbon",
