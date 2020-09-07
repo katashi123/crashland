@@ -12825,8 +12825,8 @@ $master.api.item = {
 		},
 		"icon": "flashfizzbang.png"
 	},
-	"Bom 'Bé bự'": {
-		"name": "Bom 'Bé bự'",
+	"Bom Bé bự": {
+		"name": "Bom Bé bự",
 		"type": "Bom",
 		"rarity": "Bình Thường",
 		"description": "Nó khá to, và nó nổ cũng khá to nữa! Ném ra ba quả bom, và gây ra 100% ST/giây thành STVL.",
