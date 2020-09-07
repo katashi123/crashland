@@ -3367,8 +3367,8 @@ $master.api.item = {
 		"description": "Thứ này TRƯƠNG PHỒNG lên với rất nhiều chất lỏng trong đấy! Nó mà nổ là dọn cực lắm đấy. ",
 		"icon": "thrombyte.png"
 	},
-	"Cây Hồ Thảo": {
-		"name": "Cây Hồ Thảo",
+	"Cây Hồ thảo": {
+		"name": "Cây Hồ thảo",
 		"type": "Tiêu Hao",
 		"rarity": "Bình Thường",
 		"description": "Sinh vật kí sinh này rút mòn sự sống của Bawg. ĐÃ TỚI LÚC TRẢ GIÁ! Hồi 2,234 HP khi ăn. ",
@@ -10996,7 +10996,7 @@ $master.api.item = {
 		"name": "Chậu Hồ thảo",
 		"type": "Chậu cây",
 		"rarity": "Bình Thường",
-		"description": "Giờ thì bạn có thể cắn nát những nhãn cầu của cây Hồ thảo bất cứ lúc nào vào ban ngày! Và không phải là vào ban đêm, việc đó thật kì quặc.",
+		"description": "Giờ thì bạn có thể cắn nát những nhãn cầu của Cây Hồ thảo bất cứ lúc nào vào ban ngày! Và không phải là vào ban đêm, việc đó thật kì quặc.",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
