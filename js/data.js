@@ -918,7 +918,7 @@ $master.api.item = {
 		"name": "Bom hạt Cỏ gai",
 		"type": "Bom",
 		"rarity": "Bình Thường",
-		"description": " Không có gì sắc hơn Cỏ gai cả...trừ khi hạt giống Cỏ gai bay vào mắt bạn. Gây 125% ST/giây thành STVL.",
+		"description": " Không có gì sắc hơn Cỏ gai cả...trừ khi Hạt giống Cỏ gai bay vào mắt bạn. Gây 125% ST/giây thành STVL.",
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
@@ -1676,7 +1676,7 @@ $master.api.item = {
 				"qty": 1
 			}]
 		},
-		"icon": "blastique.png"
+		"icon": "blastiQue.png"
 	},
 	"Mỏ Glidopus": {
 		"name": "Mỏ Glidopus",
@@ -1709,7 +1709,7 @@ $master.api.item = {
 				"qty": 8
 			}]
 		},
-		"icon": "blastique_saw.png"
+		"icon": "blastiQue_saw.png"
 	},
 	"Pha lê Hoàng hôn": {
 		"name": "Pha lê Hoàng hôn",
@@ -1738,7 +1738,7 @@ $master.api.item = {
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
 		"description": "Vỗ vào nó sẽ tạo ra tiếng trống. Với số lượng vừa đủ, Bạn có thể tạo nên một cộng đồng hippie đúng chất.",
-		"icon": "squee.png",
+		"icon": "sQuee.png",
 		"drop": ["Vỏ gỗ Cao su", "Thùng Cao su", "Kén Cao su", "Hạt Giống Cao su"]
 	},
 	"Vỏ gỗ Cao su": {
@@ -1746,14 +1746,14 @@ $master.api.item = {
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
 		"description": "Đẹp, nhưng cứng tới kỳ lạ, vỏ của cây Cao su. Chà tay lên đó sẽ mang lại cảm giác dễ chịu. Có lẽ hơi quá dễ chịu...",
-		"icon": "squee_husk.png"
+		"icon": "sQuee_husk.png"
 	},
 	"Thùng Cao su": {
 		"name": "Thùng Cao su",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
 		"description": "Khi bạn bóp nó, một chất lỏng trắng đục rỉ ra. Khi bạn liếm nó, bạn sẽ cực kì hối hận..",
-		"icon": "squee_barrel.png"
+		"icon": "sQuee_barrel.png"
 	},
 	"Xương Hóa Thạch Khổng Lồ": {
 		"name": "Xương Hóa Thạch Khổng Lồ",
@@ -1910,7 +1910,7 @@ $master.api.item = {
 		"type": "Hạt Giống",
 		"rarity": "Tốt",
 		"description": "Với sự chăm sóc bằng cả tấm lòng, bạn có thể tự canh tác khu vườn cây Cao su của bạn!",
-		"icon": "squee_seed.png"
+		"icon": "sQuee_seed.png"
 	},
 	"Kén Cao su": {
 		"name": "Kén Cao su",
@@ -2104,7 +2104,7 @@ $master.api.item = {
 				"qty": 3
 			}]
 		},
-		"icon": "squest.png"
+		"icon": "sQuest.png"
 	},
 	"Găng tay Cao su": {
 		"name": "Găng tay Cao su",
@@ -2186,7 +2186,7 @@ $master.api.item = {
 				"qty": 10
 			}]
 		},
-		"icon": "squee_flooring.png"
+		"icon": "sQuee_flooring.png"
 	},
 	"Búa Cao su": {
 		"name": "Búa Cao su",
@@ -2209,7 +2209,7 @@ $master.api.item = {
 				"qty": 4
 			}]
 		},
-		"icon": "squeebop.png"
+		"icon": "sQueebop.png"
 	},
 	"Hố Câu Savanna": {
 		"name": "Hố Câu Savanna",
@@ -2588,8 +2588,8 @@ $master.api.item = {
 		},
 		"icon": "elixir_of_luminescence.png"
 	},
-	"Mồi Câu": {
-		"name": "Mồi Câu",
+	"Mồi câu": {
+		"name": "Mồi câu",
 		"type": "Hạt Giống",
 		"rarity": "Tốt",
 		"description": "Thả thứ tuyệt phẩm này vào nước ở Savanna sẽ thu hút hàng đàn cá đến!",
@@ -2844,7 +2844,7 @@ $master.api.item = {
 		"type": "Công Cụ",
 		"level": "Bậc 2",
 		"rarity": "Bình Thường",
-		"description": "Cuốc chim bậc 2. Ép dập móng Wat thành mai Zug dường như là ý hay ngay lúc này. VÀ NÓ VẪN SẼ LÀM! Thứ này không thể phá được Pha lê Hoàng hôn!",
+		"description": "Cuốc chim bậc 2. Ép dập Móng Wat thành mai Zug dường như là ý hay ngay lúc này. VÀ NÓ VẪN SẼ LÀM! Thứ này không thể phá được Pha lê Hoàng hôn!",
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
@@ -5107,7 +5107,7 @@ $master.api.item = {
 		"type": "Quần giáp",
 		"level": "Cấp 19",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Quần cấp 19. Đôi chân bạn sẽ cảm thấy biết ơn bạn khi ngập trong dịch thơm của những quả téo... Ahhhhh... đây là đâu ?",
+		"description": "Quần cấp 19. Đôi chân bạn sẽ cảm thấy biết ơn bạn khi ngập trong dịch thơm của những Quả Téo... Ahhhhh... đây là đâu ?",
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
@@ -5659,7 +5659,7 @@ $master.api.item = {
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
 		"description": "Một con mực lông lá, thích nghi tốt để bơi trong môi trường cực lạnh của Tundra. Nó dường như thông minh vượt bậc.",
-		"icon": "squeti.png"
+		"icon": "sQueti.png"
 	},
 	"Sên hải nhiệt": {
 		"name": "Sên hải nhiệt",
@@ -7809,7 +7809,7 @@ $master.api.item = {
 		"name": "Bàn đúc",
 		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Nó hoạt động rất nhiệt huyết, nhưng không nhanh lắm. Bạn có thể hạ nó trong một cuộc chạy marathon, hoặc bằng một cái que.",
+		"description": "Nó hoạt động rất nhiệt huyết, nhưng không nhanh lắm. Bạn có thể hạ nó trong một cuộc chạy marathon, hoặc bằng một cái Que.",
 		"recipe": {
 			"name": "Lò Tinh Luyện",
 			"output_qty": 1,
@@ -10372,8 +10372,8 @@ $master.api.item = {
 		"description": "Nó sẽ lọc toàn bộ mầm bệnh ra khỏi mạch máu của bạn!",
 		"icon": "healing_shrine.png"
 	},
-	"Bệ đá mồi câu": {
-		"name": "Bệ đá mồi câu",
+	"Bệ đá Mồi câu": {
+		"name": "Bệ đá Mồi câu",
 		"type": "Bệ",
 		"rarity": "Bình Thường",
 		"description": "Cây cần câu của bạn sẽ có khả năng câu cá bá đạo sau khi chạm vào thứ này.",
@@ -11171,7 +11171,7 @@ $master.api.item = {
 		"type": "Hạt giống",
 		"rarity": "Tốt",
 		"description": "Đường cong khiêu gợi của Mối chúa thu hút tất cả mối đực!",
-		"icon": "magmite_queen.png"
+		"icon": "magmite_Queen.png"
 	},
 	"Hạt giống quả tạ": {
 		"name": "Hạt giống quả tạ",
@@ -11662,7 +11662,7 @@ $master.api.item = {
 		"name": "Tinh chất Gallum [Vôi hoá]",
 		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
-		"description": "Nó sẽ không ngừng rung. Bạn có thể nghĩ về một tác dụng hữu ích cho thứ này. Trông nó rất quen :)))!",
+		"description": "Nó sẽ không ngừng rung. Bạn có thể nghĩ về một tác dụng hữu ích cho thứ này. Trông nó rất Quen :)))!",
 		"icon": "calcified_gallum_essence.png"
 	},
 	"Tinh chất Gallum Đơn sắc": {
@@ -12513,7 +12513,7 @@ $master.api.item = {
 				"qty": 3
 			}]
 		},
-		"icon": "squee_seedbomb.png"
+		"icon": "sQuee_seedbomb.png"
 	},
 	"Bom hạt Cây tĩnh điện": {
 		"name": "Bom hạt Cây tĩnh điện",
@@ -13065,7 +13065,7 @@ $master.api.item = {
 		"name": "Cỏ móng rồng",
 		"type": "Mảnh thành phần",
 		"rarity": "Huyền thoại",
-		"description": "Bạn đã từng nghe về một truyền thuyết về ba lưỡi Cỏ gai gắn lại làm một... nhưng bạn chưa bao giờ tưởng tượng nó đẹp tới cỡ nào.",
+		"description": "Bạn đã từng nghe về một truyền thuyết về ba Lưỡi Cỏ gai gắn lại làm một... nhưng bạn chưa bao giờ tưởng tượng nó đẹp tới cỡ nào.",
 		"icon": "the_hydrablade.png"
 	},
 	"Mảnh đồng hổ cổ": {
@@ -13415,7 +13415,7 @@ $master.api.item = {
 		"name": "Radio ngoài hành tinh",
 		"type": "Đồ nội thất",
 		"rarity": "Siêu cấp",
-		"description": "Hãy quen dần với nhạc jazz nhẹ đi, cưng à.",
+		"description": "Hãy Quen dần với nhạc jazz nhẹ đi, cưng à.",
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
@@ -14600,7 +14600,7 @@ $master.api.creature = {
 		"fire_r": -20,
 		"ice_r": 0,
 		"drop": ["Dịch Phát quang", "Vỏ Kitin"],
-		"icon": ["glutterfly_worker.png", "glutterfly_drone.png", "glutterfly_queen.png", "ancient_glutterfly_drone.png", "ancient_glutterfly_queen.png", "bloated_glutterfly.png"]
+		"icon": ["glutterfly_worker.png", "glutterfly_drone.png", "glutterfly_Queen.png", "ancient_glutterfly_drone.png", "ancient_glutterfly_Queen.png", "bloated_glutterfly.png"]
 	},
 	"Glidopus": {
 		"name": ["Glidopus Mới nở", "Glidopus", "Glidopus Đại mẫu", "[Lục] Glidopus", "[Lục] Glidopus Đại mẫu", "Glidopus Cao niên"],
@@ -14799,7 +14799,7 @@ $master.api.creature = {
 		"type": "Glaser",
 		"stone0": "Bẫy Glaser",
 		"stone1": "Tẩu thuốc",
-		"description": "Bằng cách khai thác trường điện từ của hành tình, lũ Glaser có thể đánh các nguyên tử vào nhau để tạo ra một luồng laser cực mạnh. Chúng cũng có thể chà những cái que để lấy lửa, nhưng cách đó trông chẳng ấn tượng lắm.",
+		"description": "Bằng cách khai thác trường điện từ của hành tình, lũ Glaser có thể đánh các nguyên tử vào nhau để tạo ra một luồng laser cực mạnh. Chúng cũng có thể chà những cái Que để lấy lửa, nhưng cách đó trông chẳng ấn tượng lắm.",
 		"produce": "Sợi len",
 		"symbiosis": "Cơn lạnh lướt qua",
 		"toughness": 0,
