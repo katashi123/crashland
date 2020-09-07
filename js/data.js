@@ -5005,8 +5005,8 @@ $master.api.item = {
 		},
 		"icon": "wojack_soap.png"
 	},
-	"Lò Rèn Năng Lượng": {
-		"name": "Lò Rèn Năng Lượng",
+	"Lò rèn Năng lượng": {
+		"name": "Lò rèn Năng lượng",
 		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
 		"description": "Cái máy này sẽ giúp bạn khai thác sức mạnh của tinh thể nên bạn có thể sửa đổi trang bị!",
@@ -12319,8 +12319,8 @@ $master.api.item = {
 		},
 		"icon": "snorby_airchair.png"
 	},
-	"Bàn da Snorble": {
-		"name": "Bàn da Snorble",
+	"Bàn Da Snorble": {
+		"name": "Bàn Da Snorble",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
 		"description": "Phải mất nhiều lần Hơi Thở Của Gió mới có thể thổi nổi thứ này căng phồng lên.",
