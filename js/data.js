@@ -833,8 +833,8 @@ $master.api.item = {
 		},
 		"icon": "wompvest.png"
 	},
-	"Quần Da": {
-		"name": "Quần Da",
+	"Quần da": {
+		"name": "Quần da",
 		"type": "Quần Giáp",
 		"level": "Cấp 3",
 		"rarity": "Ngẫu Nhiên",
@@ -1738,7 +1738,7 @@ $master.api.item = {
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
 		"description": "Vỗ vào nó sẽ tạo ra tiếng trống. Với số lượng vừa đủ, Bạn có thể tạo nên một cộng đồng hippie đúng chất.",
-		"icon": "squee.png",
+		"icon": "sQuee.png",
 		"drop": ["Vỏ gỗ Cao su", "Thùng Cao su", "Kén Cao Su", "Hạt giống Cao su"]
 	},
 	"Vỏ gỗ Cao su": {
@@ -1746,14 +1746,14 @@ $master.api.item = {
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
 		"description": "Đẹp, nhưng cứng tới kỳ lạ, vỏ của cây Cao su. Chà tay lên đó sẽ mang lại cảm giác dễ chịu. Có lẽ hơi quá dễ chịu...",
-		"icon": "squee_husk.png"
+		"icon": "sQuee_husk.png"
 	},
 	"Thùng Cao su": {
 		"name": "Thùng Cao su",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
 		"description": "Khi bạn bóp nó, một chất lỏng trắng đục rỉ ra. Khi bạn liếm nó, bạn sẽ cực kì hối hận..",
-		"icon": "squee_barrel.png"
+		"icon": "sQuee_barrel.png"
 	},
 	"Xương Hóa Thạch Khổng Lồ": {
 		"name": "Xương Hóa Thạch Khổng Lồ",
@@ -1910,7 +1910,7 @@ $master.api.item = {
 		"type": "Hạt Giống",
 		"rarity": "Tốt",
 		"description": "Với sự chăm sóc bằng cả tấm lòng, bạn có thể tự canh tác khu vườn cây Cao su của bạn!",
-		"icon": "squee_seed.png"
+		"icon": "sQuee_seed.png"
 	},
 	"Kén Cao Su": {
 		"name": "Kén Cao Su",
@@ -2186,7 +2186,7 @@ $master.api.item = {
 				"qty": 10
 			}]
 		},
-		"icon": "squee_flooring.png"
+		"icon": "sQuee_flooring.png"
 	},
 	"Búa Cao su": {
 		"name": "Búa Cao su",
@@ -2209,7 +2209,7 @@ $master.api.item = {
 				"qty": 4
 			}]
 		},
-		"icon": "squeebop.png"
+		"icon": "sQueebop.png"
 	},
 	"Hố Câu Savanna": {
 		"name": "Hố Câu Savanna",
@@ -12513,7 +12513,7 @@ $master.api.item = {
 				"qty": 3
 			}]
 		},
-		"icon": "squee_seedbomb.png"
+		"icon": "sQuee_seedbomb.png"
 	},
 	"Bom hạt Cây tĩnh điện": {
 		"name": "Bom hạt Cây tĩnh điện",
