@@ -17,7 +17,7 @@ var $master = {
 $master.api.item = {
 	"Bãi đáp B.S.S.S": {
 		"name": "Bãi đáp B.S.S.S",
-		"type": "Bệ DịCh Chuyển",
+		"type": "Bệ Dịch Chuyển",
 		"rarity": "Huyền Thoại",
 		"description": "Thứ đã giúp bạn có cuộc sống như trong anime isekai",
 		"icon": "bs_ss_assess_lander.png"
@@ -26,7 +26,7 @@ $master.api.item = {
 		"name": "Que",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Bạn nhận thấy rằng nếu Chạy cùng nó, nó sẽ làm vướng mắt bạn.",
+		"description": "Bạn nhận thấy rằng nếu chạy cùng nó, nó sẽ làm vướng mắt bạn.",
 		"icon": "stick.png"
 	},
 	"Cưa Cỏ gai": {
@@ -34,11 +34,11 @@ $master.api.item = {
 		"type": "Công cụ",
 		"level": "Bậc 1",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Cưa bậc 1. Một cây cưa làm từ Cỏ gai. Đây là loại cưa Chất lượng trung bình nhất bạn từng thấy, nhưng Cho phép bạn Chặt được Cây Khúc mộc và Cây Chuông gió!",
+		"description": "Cưa bậc 1. Một cây cưa làm từ Cỏ gai. Đây là loại cưa chất lượng trung bình nhất bạn từng thấy, nhưng cho phép bạn chặt được Cây Khúc mộc và Cây Chuông gió!",
 		"recipe": {
 			"name": "BS SSSS SS5",
 			"output_qty": 1,
-			"type": "Bàn Chế tạo",
+			"type": "Bàn chế tạo",
 			"ingredients": [{
 				"name": "Que",
 				"qty": 4
@@ -54,11 +54,11 @@ $master.api.item = {
 		"type": "Vũ Khí",
 		"level": "Cấp 2",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Chàng trai hư này được Chứng nhận 100% hữu cơ. HỮU CƠ MỘT CÁCh ChẾT ChÓC.",
+		"description": "Chàng trai hư này được chứng nhận 100% hữu cơ. HỮU CƠ MỘT CÁCH CHẾT CHÓC.",
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 15
@@ -79,7 +79,7 @@ $master.api.item = {
 		"name": "Đá nhẵn",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Độ phẳng của viên đá này hư cấu tới nỗi bạn có thể Cho nó solo với tờ giấy",
+		"description": "Độ phẳng của viên đá này hư cấu tới nỗi bạn có thể cho nó solo với tờ giấy",
 		"icon": "flatstone.png"
 	},
 	"Búa đá nhẵn": {
@@ -87,11 +87,11 @@ $master.api.item = {
 		"type": "Vũ khí",
 		"level": "Cấp 3",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Búa cấp 3. Một Chiếc búa công nghệ cao được làm từ những hòn đá nhẫn tốt nhất. Dùng để nghiền nát mọi thứ. THEO CÁCh CỦA BẠN!",
+		"description": "Búa cấp 3. Một chiếc búa công nghệ cao được làm từ những hòn đá nhẫn tốt nhất. Dùng để nghiền nát mọi thứ. THEO CÁCH CỦA BẠN!",
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 21
@@ -117,11 +117,11 @@ $master.api.item = {
 		"name": "Sàn Gỗ",
 		"type": "Sàn",
 		"rarity": "Bình Thường",
-		"description": "Nó có một mặt Bóng Độc đáo, và bạn sẽ thấy mảnh vụn khi đi Chân trần lên nó. Vì thế, đừng làm việc đó.",
+		"description": "Nó có một mặt Bóng Độc đáo, và bạn sẽ thấy mảnh vụn khi đi chân trần lên nó. Vì thế, đừng làm việc đó.",
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 10
@@ -137,7 +137,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 5
@@ -156,7 +156,7 @@ $master.api.item = {
 		"name": "Cỏ gai",
 		"type": "Tài nguyên",
 		"rarity": "Bình Thường",
-		"description": "Cây cỏ này siêu sắc và Chắc Chắn, nhưng linh hoạt. Và nó có vị khá giống kẹo dẻo nướng sương sương với một Chút dư vị của thịt bò.",
+		"description": "Cây cỏ này siêu sắc và chắc chắn, nhưng linh hoạt. Và nó có vị khá giống kẹo dẻo nướng sương sương với một chút dư vị của thịt bò.",
 		"icon": "sawgrass.png"
 	},
 	"Vợt Glutterfly": {
@@ -167,7 +167,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nhánh Chuông gió",
 				"qty": 154
@@ -178,7 +178,7 @@ $master.api.item = {
 				"name": "Vỏ Kitin",
 				"qty": 48
 			}, {
-				"name": "Tinh Chất Glutterfly [Già cỗi]",
+				"name": "Tinh chất Glutterfly [Già cỗi]",
 				"qty": 5
 			}]
 		},
@@ -188,53 +188,53 @@ $master.api.item = {
 		"name": "Lưỡi Cỏ gai",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Lưỡi đao làm từ Cỏ gai. Khi bạn Chà tay lên nó, bạn Chảy máu đầm đìa. Nhưng khi bạn Chà vào nó lần thứ HAI, bạn tiếp tục bị Chảy máu sml.",
+		"description": "Lưỡi đao làm từ Cỏ gai. Khi bạn chà tay lên nó, bạn chảy máu đầm đìa. Nhưng khi bạn chà vào nó lần thứ HAI, bạn tiếp tục bị chảy máu sml.",
 		"icon": "sawgrass_blade.png"
 	},
 	"Lá Cỏ gai": {
 		"name": "Lá Cỏ gai",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Một Chiếc Lá Cỏ gai mềm. Chà nó lên mặt đã lắm, dù nó dễ gây ra phát ban.",
+		"description": "Một chiếc Lá Cỏ gai mềm. Chà nó lên mặt đã lắm, dù nó dễ gây ra phát ban.",
 		"icon": "sawgrass_leaf.png"
 	},
 	"Gân chân Wompit": {
 		"name": "Gân chân Wompit",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Một cái gân siêu co giãn từ Chân của Wompit. Thậm Chí bạn có thể buộc tóc với nó, nếu bạn không ở trong bộ đồ không gian.",
+		"description": "Một cái gân siêu co giãn từ chân của Wompit. Thậm chí bạn có thể buộc tóc với nó, nếu bạn không ở trong bộ đồ không gian.",
 		"icon": "wompit_sinew.png"
 	},
 	"Khúc gỗ": {
 		"name": "Khúc gỗ",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Một mảnh gỗ tròn, lấy từ Cây Khúc mộc. Bạn Chưa từng thấy thứ gì như thế này!",
+		"description": "Một mảnh gỗ tròn, lấy từ Cây Khúc mộc. Bạn chưa từng thấy thứ gì như thế này!",
 		"icon": "log.png"
 	},
 	"Mùn cưa": {
 		"name": "Mùn cưa",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Một phụ phẩm từ việc Chế biến gỗ. Nếu tay bạn dính vào đống đó thì sẽ có cảm giác tuyệt vời. Mùi của Chúng cũng rất tuyệt!",
+		"description": "Một phụ phẩm từ việc chế biến gỗ. Nếu tay bạn dính vào đống đó thì sẽ có cảm giác tuyệt vời. Mùi của chúng cũng rất tuyệt!",
 		"icon": "sawdust.png"
 	},
 	"Nấm mặt trời": {
 		"name": "Nấm mặt trời",
 		"type": "Tiêu hao",
 		"rarity": "Bình Thường",
-		"description": "Những cây nấm này thíCh mọc trong bùn, và vị của nó mặn mặn. Hồi 149 HP.",
+		"description": "Những cây nấm này thích mọc trong bùn, và vị của nó mặn mặn. Hồi 149 HP.",
 		"icon": "sunshroom.png"
 	},
 	"Bàn cưa": {
 		"name": "Bàn cưa",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Cái bàn làm việc với cái cưa vòng này sẽ giúp bạn cắt bất cứ loại gỗ nào một cáCh hoàn hảo!",
+		"description": "Cái bàn làm việc với cái cưa vòng này sẽ giúp bạn cắt bất cứ loại gỗ nào một cách hoàn hảo!",
 		"recipe": {
 			"name": "BS SSSS SS5",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lưỡi Cỏ gai",
 				"qty": 14
@@ -247,13 +247,13 @@ $master.api.item = {
 	},
 	"Máy đập đá": {
 		"name": "Máy đập đá",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Nình thường",
-		"description": "Đúng là một cáCh tiện lợi để tạo hình những cục đá thành những hình dạng khác!",
+		"description": "Đúng là một cách tiện lợi để tạo hình những cục đá thành những hình dạng khác!",
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chết tạo",
+			"type": "Trạm chết tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 27
@@ -271,11 +271,11 @@ $master.api.item = {
 		"name": "Tường đá",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Truyền thuyết kể rằng bức Tường đá được sáng Chế bởi một người đàn ông đeo găng với điệu nhảy ngọt ngào.",
+		"description": "Truyền thuyết kể rằng bức Tường đá được sáng chế bởi một người đàn ông đeo găng với điệu nhảy ngọt ngào.",
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 5
@@ -288,11 +288,11 @@ $master.api.item = {
 		"type": "Mũ giáp",
 		"level": "Cấp 3",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Mũ giáp cấp 3. Nó sẽ bảo vệ da đầu của bạn khỏi những cú Chạm \"thân thương\" nhất.",
+		"description": "Mũ giáp cấp 3. Nó sẽ bảo vệ da đầu của bạn khỏi những cú chạm \"thân thương\" nhất.",
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Wompit",
 				"qty": 18
@@ -308,11 +308,11 @@ $master.api.item = {
 		"type": "Quần giáp",
 		"level": "Cấp 1",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Quần cấp 1. Nó sẽ giữ Chân bạn ấm khi trời lạnh! Hừm. Cũng không hẳn. Nó làm từ gỗ :v.",
+		"description": "Quần cấp 1. Nó sẽ giữ chân bạn ấm khi trời lạnh! Hừm. Cũng không hẳn. Nó làm từ gỗ :v.",
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 9
@@ -328,11 +328,11 @@ $master.api.item = {
 		"type": "Áo giáp",
 		"level": "Cấp 1",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Giáp ngực cấp 1. Che Chắn lồng ngực của bạn với những tấm ván tuyệt vời giúp xương sườn của bạn không bị tổn thương!",
+		"description": "Giáp ngực cấp 1. Che chắn lồng ngực của bạn với những tấm ván tuyệt vời giúp xương sườn của bạn không bị tổn thương!",
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 15
@@ -341,7 +341,7 @@ $master.api.item = {
 				"qty": 5
 			}]
 		},
-		"icon": "logChest.png"
+		"icon": "logchest.png"
 	},
 	"Găng tay gỗ": {
 		"name": "Găng tay gỗ",
@@ -352,7 +352,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 12
@@ -372,7 +372,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 52
@@ -394,7 +394,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Anh túc",
 				"qty": 16
@@ -414,7 +414,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 11
@@ -461,7 +461,7 @@ $master.api.item = {
 		"name": "Sỏi đá vụn",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nó sẽ cực kì hữu dụng Cho bất kì việc gì cần đến một đống đá nhỏ.",
+		"description": "Nó sẽ cực kì hữu dụng cho bất kì việc gì cần đến một đống đá nhỏ.",
 		"icon": "flatstone_gravel.png"
 	},
 	"Cuốc Chim": {
@@ -469,11 +469,11 @@ $master.api.item = {
 		"type": "Công cụ",
 		"level": "Bậc 1",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Cuốc Chim bậc 1. Chiếc Cuốc Chim này sẽ phá vỡ ngay cả những Cụm đá nhẵn cứng nhất! Hoặc Chỉ bằng một nhát đập nhẹ nhất.",
+		"description": "Cuốc Chim bậc 1. Chiếc Cuốc Chim này sẽ phá vỡ ngay cả những Cụm đá nhẵn cứng nhất! Hoặc chỉ bằng một nhát đập nhẹ nhất.",
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Que",
 				"qty": 9
@@ -492,7 +492,7 @@ $master.api.item = {
 		"type": "Vũ Khí",
 		"level": "Cấp 1",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Kiếm cấp 1. Một cây kiếm làm từ cỏ. Nó Chắc hẳn Chỉ hợp với mỗi bạn.",
+		"description": "Kiếm cấp 1. Một cây kiếm làm từ cỏ. Nó chắc hẳn chỉ hợp với mỗi bạn.",
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
@@ -516,7 +516,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Kitin",
 				"qty": 13
@@ -531,18 +531,18 @@ $master.api.item = {
 		"name": "Xương Wompit",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nó có thể Chịu được rất nhiều cân nặng và áp lực, nhưng nó không thể Chịu được sự Chỉ tríCh.",
+		"description": "Nó có thể chịu được rất nhiều cân nặng và áp lực, nhưng nó không thể chịu được sự chỉ trích.",
 		"icon": "wompit_bone.png"
 	},
 	"Sàn đá": {
 		"name": "Sàn đá",
 		"type": "Sàn",
 		"rarity": "Bình Thường",
-		"description": "Một sàn nhà đàn hồi hơn Cho người có thị hiếu tốt hơn.",
+		"description": "Một sàn nhà đàn hồi hơn cho người có thị hiếu tốt hơn.",
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 10
@@ -554,18 +554,18 @@ $master.api.item = {
 		"name": "Rương Vàng",
 		"type": "Rương",
 		"rarity": "Tốt",
-		"description": "Làm từ thứ gì đó có ánh kim và Chất lượng hảo hạng. Có lẽ cần Chìa để mở !",
-		"icon": "golden_Chest.png"
+		"description": "Làm từ thứ gì đó có ánh kim và chất lượng hảo hạng. Có lẽ cần chìa để mở !",
+		"icon": "golden_chest.png"
 	},
 	"Thuốc Thiêu đốt": {
 		"name": "Thuốc Thiêu đốt",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Đổ thứ này dọc theo phần Chết người của vũ khí của bạn khiến nó NÓNG ĐỎ LÊN! 3% tỉ lệ thiêu đốt mục tiêu khi đánh. Hiệu lực trong 20 phút.",
+		"description": "Đổ thứ này dọc theo phần chết người của vũ khí của bạn khiến nó NÓNG ĐỎ LÊN! 3% tỉ lệ thiêu đốt mục tiêu khi đánh. Hiệu lực trong 20 phút.",
 		"recipe": {
 			"name": "Cái Vạc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ sừng",
 				"qty": 2
@@ -576,11 +576,11 @@ $master.api.item = {
 				"name": "Sinh Vật Phù Du",
 				"qty": 1
 			}, {
-				"name": "Tinh Chất Satgat [Nhạy cảm]",
+				"name": "Tinh chất Satgat [Nhạy cảm]",
 				"qty": 1
 			}]
 		},
-		"icon": "elixir_of_scorChing.png"
+		"icon": "elixir_of_scorching.png"
 	},
 	"Bình hồi máu Nhẹ": {
 		"name": "Bình hồi máu Nhẹ",
@@ -590,7 +590,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bếp lửa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 3
@@ -601,16 +601,16 @@ $master.api.item = {
 		},
 		"icon": "mild_hp_potion.png"
 	},
-	"Cột DịCh Chuyển": {
-		"name": "Cột DịCh Chuyển",
-		"type": "Bệ dịCh Chuyển",
+	"Cột Dịch Chuyển": {
+		"name": "Cột Dịch Chuyển",
+		"type": "Bệ dịch chuyển",
 		"rarity": "Tốt",
-		"description": "Đặt đèn hiệu này trên mặt Đất sẽ Cho phép bạn dịCh Chuyển đến nó từ bản đồ của bạn nếu trong phạm vi.",
+		"description": "Đặt đèn hiệu này trên mặt Đất sẽ cho phép bạn dịch chuyển đến nó từ bản đồ của bạn nếu trong phạm vi.",
 		"icon": "warp_beacon.png"
 	},
-	"Tấm dịCh Chuyển": {
-		"name": "Tấm dịCh Chuyển",
-		"type": "Bệ dịCh Chuyển",
+	"Tấm dịch chuyển": {
+		"name": "Tấm dịch chuyển",
+		"type": "Bệ dịch chuyển",
 		"rarity": "Tối thượng",
 		"description": "Hewgodooko bỏ thứ này nằm lăn lóc. Đúng là ngu ngốc!!!!!",
 		"icon": "telepad.png"
@@ -634,7 +634,7 @@ $master.api.item = {
 		"name": "Nhánh Chuông gió",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": " Nhánh cây lau này dài và rỗng. Nó có thể Chịu bẻ cong rất tốt ,nhưng không thể Chống lại vẻ đẹp cuốn hút và bắt mắt của bạn. CLGT?",
+		"description": " Nhánh cây lau này dài và rỗng. Nó có thể chịu bẻ cong rất tốt ,nhưng không thể chống lại vẻ đẹp cuốn hút và bắt mắt của bạn. CLGT?",
 		"icon": "whistleroot_reed.png"
 	},
 	"Vòi Glidopus": {
@@ -648,7 +648,7 @@ $master.api.item = {
 		"name": "Mực Glidopus",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": " Glidopus giữ mực của Chúng trong Chai thuỷ tinh Cho an toàn. Một mùi thơm giống như xăng lấp đầy không khí khi bạn bật nút Chai.",
+		"description": " Glidopus giữ mực của chúng trong chai thuỷ tinh cho an toàn. Một mùi thơm giống như xăng lấp đầy không khí khi bạn bật nút chai.",
 		"icon": "glidopus_ink.png"
 	},
 	"Bia Mộ": {
@@ -658,36 +658,36 @@ $master.api.item = {
 		"description": "Hãy yên nghĩ.",
 		"icon": "gravestone.png"
 	},
-	"Móng Chân Wompit": {
-		"name": "Móng Chân Wompit",
+	"Móng chân Wompit": {
+		"name": "Móng chân Wompit",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": " Móng Chân này khá cứng và thô. Vị cũng không ngon Chút nào, nhưng theo một hướng tốt.",
+		"description": " Móng chân này khá cứng và thô. Vị cũng không ngon chút nào, nhưng theo một hướng tốt.",
 		"icon": "wompit_toenail.png"
 	},
 	"Trái tim Wompit nguyên vẹn": {
 		"name": "Trái tim Wompit nguyên vẹn",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": " Trái tim vẫn đập một lúc lâu sau khi bị táCh ra khỏi vật Chủ. Nó thật thú vị và điên rồ!",
+		"description": " Trái tim vẫn đập một lúc lâu sau khi bị tách ra khỏi vật chủ. Nó thật thú vị và điên rồ!",
 		"icon": "intact_wompit_heart.png"
 	},
 	"Da Wompit": {
 		"name": "Da Wompit",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": " Bạn vừa giết một con Wompit và lột da nó. Hi vọng bạn có lí do Chính đáng để bào Chữa Cho hành động này.",
+		"description": " Bạn vừa giết một con Wompit và lột da nó. Hi vọng bạn có lí do chính đáng để bào chữa cho hành động này.",
 		"icon": "wompit_leather.png"
 	},
 	"Ghế gỗ": {
 		"name": "Ghế gỗ",
 		"type": "Đồ Nội Thất",
 		"rarity": "Bình Thường",
-		"description": " Nếu bạn có đầu gối, đây sẽ là Chỗ tốt để ngồi. Nhưng vẫn trông... bắt mắt.",
+		"description": " Nếu bạn có đầu gối, đây sẽ là chỗ tốt để ngồi. Nhưng vẫn trông... bắt mắt.",
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Que",
 				"qty": 6
@@ -696,7 +696,7 @@ $master.api.item = {
 				"qty": 13
 			}]
 		},
-		"icon": "wooden_Chair.png"
+		"icon": "wooden_chair.png"
 	},
 	"Bàn gỗ": {
 		"name": "Bàn gỗ",
@@ -706,7 +706,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Que",
 				"qty": 6
@@ -725,7 +725,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 25
@@ -741,12 +741,12 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mùn cưa",
 				"qty": 1
 			}, {
-				"name": "Móng Chân Wompit",
+				"name": "Móng chân Wompit",
 				"qty": 1
 			}]
 		},
@@ -754,13 +754,13 @@ $master.api.item = {
 	},
 	"Bình Hóa Chất": {
 		"name": "Bình Hóa Chất",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": " Cần kha khá hóa Chất để thí nghiệm với các vật liệu điên rồ. Thứ này sẽ rất hữu íCh!",
+		"description": " Cần kha khá hóa chất để thí nghiệm với các vật liệu điên rồ. Thứ này sẽ rất hữu ích!",
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trái tim Wompit nguyên vẹn",
 				"qty": 2
@@ -775,24 +775,24 @@ $master.api.item = {
 				"qty": 3
 			}]
 		},
-		"icon": "Chemworks.png"
+		"icon": "chemworks.png"
 	},
 	"Vỏ Kitin": {
 		"name": "Vỏ Kitin",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": " Nó cực kì khó để phát âm. Nhưng cáCh nó bắt sáng thật sự tuyệt vời!",
-		"icon": "glutterfly_Chitin.png"
+		"description": " Nó cực kì khó để phát âm. Nhưng cách nó bắt sáng thật sự tuyệt vời!",
+		"icon": "glutterfly_chitin.png"
 	},
 	"Đèn xanh lá": {
 		"name": "Đèn xanh lá",
 		"type": "Nguồn Sáng",
 		"rarity": "Bình Thường",
-		"description": " Đã tới lúc Chuyển ánh sáng thành màu xanh.",
+		"description": " Đã tới lúc chuyển ánh sáng thành màu xanh.",
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 5
@@ -801,7 +801,7 @@ $master.api.item = {
 				"qty": 2
 			}]
 		},
-		"icon": "glorCh.png"
+		"icon": "glorch.png"
 	},
 	"Dịch phát quang": {
 		"name": "Dịch phát quang",
@@ -815,11 +815,11 @@ $master.api.item = {
 		"type": "Áo Giáp",
 		"level": "Cấp 3",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Giáp ngực cấp 3. Nếu bạn có dự định Chạy marathon thì nhớ mang theo băng cứu thương nhé.",
+		"description": "Giáp ngực cấp 3. Nếu bạn có dự định chạy marathon thì nhớ mang theo băng cứu thương nhé.",
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Wompit",
 				"qty": 11
@@ -842,12 +842,12 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Wompit",
 				"qty": 10
 			}, {
-				"name": "Móng Chân Wompit",
+				"name": "Móng chân Wompit",
 				"qty": 1
 			}]
 		},
@@ -862,7 +862,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Wompit",
 				"qty": 13
@@ -881,7 +881,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mực Glidopus",
 				"qty": 1
@@ -900,7 +900,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Thuốc súng",
 				"qty": 3
@@ -922,7 +922,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Hạt giống Cỏ gai",
 				"qty": 3
@@ -940,11 +940,11 @@ $master.api.item = {
 		"name": "Bom hạt Khúc mộc",
 		"type": "Bom",
 		"rarity": "Bình Thường",
-		"description": " Tại sao phải trồng cây xuống Đất khi bạn có thể trồng Chúng trên mặt? Gây 125% ST/giây thành STVL.",
+		"description": " Tại sao phải trồng cây xuống Đất khi bạn có thể trồng chúng trên mặt? Gây 125% ST/giây thành STVL.",
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Hạt giống Khúc mộc",
 				"qty": 3
@@ -960,13 +960,13 @@ $master.api.item = {
 	},
 	"Bếp lửa": {
 		"name": "Bếp lửa",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
 		"description": "Nó ấm và khá thoải mái. Có tí cacao nóng nữa thì tuyệt vời.",
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 29
@@ -980,15 +980,15 @@ $master.api.item = {
 		},
 		"icon": "hearth.png"
 	},
-	"Bom thu hoạCh": {
-		"name": "Bom thu hoạCh",
+	"Bom thu hoạch": {
+		"name": "Bom thu hoạch",
 		"type": "Bom",
 		"rarity": "Tốt",
 		"description": " Phá được Cỏ gai, Cây Khúc mộc, và Cây Chuông gió. VỚI SỰ CỤC SÚC, PHÁ ĐƯỢC Cỏ gai, Cây Khúc mộc VÀ Cây Chuông gió!",
 		"recipe": {
 			"name": "BS SSSS SS5",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lưỡi Cỏ gai",
 				"qty": 3
@@ -1007,7 +1007,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 2
@@ -1023,23 +1023,23 @@ $master.api.item = {
 		"recipe": {
 			"name": "BS SSSS SS5",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lưỡi Cỏ gai",
 				"qty": 10
 			}]
 		},
-		"icon": "thatChed_sawfloor.png"
+		"icon": "thatched_sawfloor.png"
 	},
-	"Sàn Chống thấm": {
-		"name": "Sàn Chống thấm",
+	"Sàn chống thấm": {
+		"name": "Sàn chống thấm",
 		"type": "Sàn",
 		"rarity": "Bình Thường",
 		"description": " Sàn nhà giúp ngăn quái xuất hiện ở nhà bạn, dùng để bắc cầu cũng được!",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Búi lông Wat",
 				"qty": 10
@@ -1047,17 +1047,17 @@ $master.api.item = {
 		},
 		"icon": "sp_watfur_floor_0.png"
 	},
-	"Sàn Cẩu tíCh": {
-		"name": "Sàn Cẩu tíCh",
+	"Sàn Cẩu tích": {
+		"name": "Sàn Cẩu tích",
 		"type": "Sàn",
 		"rarity": "Bình Thường",
-		"description": "Ngươi nghĩ nó sẽ mềm và mịn? Ngươi nghĩ có Chuyện ngon ăn thế sao?",
+		"description": "Ngươi nghĩ nó sẽ mềm và mịn? Ngươi nghĩ có chuyện ngon ăn thế sao?",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Vỏ Cẩu tíCh",
+				"name": "Vỏ Cẩu tích",
 				"qty": 10
 			}]
 		},
@@ -1067,11 +1067,11 @@ $master.api.item = {
 		"name": "Sàn Vỏ xương",
 		"type": "Sàn",
 		"rarity": "Bình Thường",
-		"description": "Nó khá cứng, dù các cạnh sắc liên tục cắt vào ngón Chân bạn.",
+		"description": "Nó khá cứng, dù các cạnh sắc liên tục cắt vào ngón chân bạn.",
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ xương Satgat",
 				"qty": 10
@@ -1087,7 +1087,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Chùm lông lạ",
 				"qty": 10
@@ -1103,7 +1103,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lõi Phong phát",
 				"qty": 10
@@ -1119,7 +1119,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Xúc tu Throak",
 				"qty": 10
@@ -1135,7 +1135,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cục vàng",
 				"qty": 1
@@ -1152,15 +1152,15 @@ $master.api.item = {
 		},
 		"icon": "sp_gogos_south_0.png"
 	},
-	"Bàn đẩy Chỉ Bắc": {
-		"name": "Bàn đẩy Chỉ Bắc",
+	"Bàn đẩy chỉ Bắc": {
+		"name": "Bàn đẩy chỉ Bắc",
 		"type": "Tấm sàn",
 		"rarity": "Bình Thường",
 		"description": "Đứng trên nó sẽ khiến bạn bị đẩy về hướng Bắc!",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cục vàng",
 				"qty": 1
@@ -1177,15 +1177,15 @@ $master.api.item = {
 		},
 		"icon": "sp_gogos_north_0.png"
 	},
-	"Bàn đẩy Chỉ Đông": {
-		"name": "Bàn đẩy Chỉ Đông",
+	"Bàn đẩy chỉ Đông": {
+		"name": "Bàn đẩy chỉ Đông",
 		"type": "Tấm sàn",
 		"rarity": "Bình Thường",
 		"description": "Đứng trên nó sẽ khiến bạn bị đẩy về hướng Dông!",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cục vàng",
 				"qty": 1
@@ -1202,15 +1202,15 @@ $master.api.item = {
 		},
 		"icon": "sp_gogos_east_0.png"
 	},
-	"Bàn đẩy Chỉ Tây": {
-		"name": "Bàn đẩy Chỉ Tây",
+	"Bàn đẩy chỉ Tây": {
+		"name": "Bàn đẩy chỉ Tây",
 		"type": "Tấm sàn",
 		"rarity": "Bình Thường",
 		"description": "Đứng trên nó sẽ khiến bạn bị đẩy về hướng Tây!",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cục vàng",
 				"qty": 1
@@ -1235,7 +1235,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa xanh",
 				"qty": 1
@@ -1257,7 +1257,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa xanh",
 				"qty": 1
@@ -1271,15 +1271,15 @@ $master.api.item = {
 		},
 		"icon": "sp_gomos_north_0.png"
 	},
-	"Bàn đẩy mạnh Chỉ Đông": {
-		"name": "Bàn đẩy mạnh Chỉ Đông",
+	"Bàn đẩy mạnh chỉ Đông": {
+		"name": "Bàn đẩy mạnh chỉ Đông",
 		"type": "Tấm sàn",
 		"rarity": "Bình Thường",
 		"description": "Đứng trên nó sẽ khiến bạn bị đẩy RẤT MẠNH về hướng Dông!",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa xanh",
 				"qty": 1
@@ -1293,15 +1293,15 @@ $master.api.item = {
 		},
 		"icon": "sp_gomos_east_0.png"
 	},
-	"Bàn đẩy mạnh Chỉ Tây": {
-		"name": "Bàn đẩy mạnh Chỉ Tây",
+	"Bàn đẩy mạnh chỉ Tây": {
+		"name": "Bàn đẩy mạnh chỉ Tây",
 		"type": "Tấm sàn",
 		"rarity": "Bình Thường",
 		"description": "Đứng trên nó sẽ khiến bạn bị đẩy RẤT MẠNH về hướng Tây!",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa xanh",
 				"qty": 1
@@ -1319,11 +1319,11 @@ $master.api.item = {
 		"name": "Chuồng thú đá",
 		"type": "Chuồng Thú",
 		"rarity": "Tốt",
-		"description": " Cung cấp nơi nghỉ ngơi thoải mái Cho thú nuôi của bạn. Cùng với một nhãn tên!",
+		"description": " Cung cấp nơi nghỉ ngơi thoải mái cho thú nuôi của bạn. Cùng với một nhãn tên!",
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lá Cỏ gai",
 				"qty": 5
@@ -1339,13 +1339,13 @@ $master.api.item = {
 	},
 	"Máy bơm": {
 		"name": "Máy bơm",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
 		"description": " Cái Máy bơm này sẽ sản xuất vô hạn Bóng nước khi được đặt ở hồ trên Savanna.",
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 30
@@ -1363,11 +1363,11 @@ $master.api.item = {
 		"name": "Bóng nước",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": " Nó phát ra những tiếng rít phiền phức khi bạn Chà tay lên nó.",
+		"description": " Nó phát ra những tiếng rít phiền phức khi bạn chà tay lên nó.",
 		"recipe": {
 			"name": "Máy bơm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vòi Glidopus",
 				"qty": 3
@@ -1378,15 +1378,15 @@ $master.api.item = {
 		},
 		"icon": "water_balloon.png"
 	},
-	"Đèn bảo thạCh": {
-		"name": "Đèn bảo thạCh",
+	"Đèn bảo thạch": {
+		"name": "Đèn bảo thạch",
 		"type": "Nguồn Sáng",
 		"rarity": "Bình Thường",
-		"description": " Chỉ những người có gu thời trang và có điều kiện mới có thể trả giá Cho sự sang trọng của Đèn bảo thạCh.",
+		"description": " Chỉ những người có gu thời trang và có điều kiện mới có thể trả giá cho sự sang trọng của Đèn bảo thạch.",
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 8
@@ -1404,15 +1404,15 @@ $master.api.item = {
 		"description": " Nếu bạn gửi nó trên mắt và nheo mắt một cái thật mạnh, bạn sẽ tự ý thức được và tự giác dừng lại.",
 		"icon": "yellow_gem.png"
 	},
-	"Đai Chân Wompit": {
-		"name": "Đai Chân Wompit",
+	"Đai chân Wompit": {
+		"name": "Đai chân Wompit",
 		"type": "Vật Phẩm Tiến Hóa",
 		"rarity": "Siêu Cấp",
-		"description": " Wompit rất thíCh mặc nịt tất với cặp đùi thon thả của Chúng. Tiến hoá Wompit của bạn thành dạng SIÊU CẤP!",
+		"description": " Wompit rất thích mặc nịt tất với cặp đùi thon thả của chúng. Tiến hoá Wompit của bạn thành dạng SIÊU CẤP!",
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 149
@@ -1420,7 +1420,7 @@ $master.api.item = {
 				"name": "Da Wompit",
 				"qty": 107
 			}, {
-				"name": "Tinh Chất Wompit[Cứng cáp]Cứng Cáp",
+				"name": "Tinh chất Wompit[Cứng cáp]Cứng Cáp",
 				"qty": 12
 			}]
 		},
@@ -1430,11 +1430,11 @@ $master.api.item = {
 		"name": "Gương Choáng",
 		"type": "Thiết Bị",
 		"rarity": "Tốt",
-		"description": " Tạm thời làm Choáng đối thủ trong 2 giây bằng cáCh đập vào mặt Chúng cái gương hợp mốt này!",
+		"description": " Tạm thời làm choáng đối thủ trong 2 giây bằng cách đập vào mặt chúng cái gương hợp mốt này!",
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 68
@@ -1452,11 +1452,11 @@ $master.api.item = {
 		"name": "Thuốc Kháng lửa",
 		"type": "Tiêu Hao",
 		"rarity": "Tốt",
-		"description": " LẠY ChÚA. SAO NÓ LẠNH THẾ. NÓ THẬT LẠNH GIÁ. ĐỂ NÓ XA TÔI RA. Giảm ST lửa nhận vào 15%. Hiệu lực trong 20 phút.",
+		"description": " LẠY CHÚA. SAO NÓ LẠNH THẾ. NÓ THẬT LẠNH GIÁ. ĐỂ NÓ XA TÔI RA. Giảm ST lửa nhận vào 15%. Hiệu lực trong 20 phút.",
 		"recipe": {
 			"name": "Cái Vạc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Bọng mỡ",
 				"qty": 1
@@ -1467,7 +1467,7 @@ $master.api.item = {
 				"name": "Thạch Throak",
 				"qty": 1
 			}, {
-				"name": "Tinh Chất Throak [Độc ác]ộc Ác",
+				"name": "Tinh chất Throak [Độc ác]ộc Ác",
 				"qty": 1
 			}]
 		},
@@ -1477,11 +1477,11 @@ $master.api.item = {
 		"name": "Bóng da",
 		"type": "Đồ Ném Được",
 		"rarity": "Bình Thường",
-		"description": " Chơi Bóng da đã là trò tiêu khiển của mọi người ở nơi của  bạn trong nhiều thiên niên kỷ. Tại sao lại phá vỡ truyền thống cơ Chứ?",
+		"description": " Chơi Bóng da đã là trò tiêu khiển của mọi người ở nơi của  bạn trong nhiều thiên niên kỷ. Tại sao lại phá vỡ truyền thống cơ chứ?",
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Wompit",
 				"qty": 10
@@ -1496,11 +1496,11 @@ $master.api.item = {
 		"name": "Kính Bảo Hộ",
 		"type": "Trang sức",
 		"rarity": "Siêu Cấp",
-		"description": " Sức hút mạnh mẽ kéo dài dây thần kinh thị giác, Cho phép bạn đánh Chí mạng như một vị thần! Tăng 10% tỉ lệ đánh Chí mạng!",
+		"description": " Sức hút mạnh mẽ kéo dài dây thần kinh thị giác, cho phép bạn đánh chí mạng như một vị thần! Tăng 10% tỉ lệ đánh chí mạng!",
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mực Glidopus",
 				"qty": 71
@@ -1522,7 +1522,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nhánh Chuông gió",
 				"qty": 93
@@ -1540,11 +1540,11 @@ $master.api.item = {
 		"name": "Bù Nhìn",
 		"type": "Đồ Nội Thất",
 		"rarity": "Bình Thường",
-		"description": " Khá buồn là trên hành tinh này không có quạ, nên giờ nó khá vô dụng. Mà trông nó khá ổn đấy Chứ.",
+		"description": " Khá buồn là trên hành tinh này không có quạ, nên giờ nó khá vô dụng. Mà trông nó khá ổn đấy chứ.",
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trái tim Wompit nguyên vẹn",
 				"qty": 1
@@ -1566,11 +1566,11 @@ $master.api.item = {
 		"type": "Mũ Giáp",
 		"level": "Cấp 5",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Mũ giáp cấp 5. Giống như mũ giáp, nhưng có Chút giống pizza hơn.",
+		"description": "Mũ giáp cấp 5. Giống như mũ giáp, nhưng có chút giống pizza hơn.",
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Kitin",
 				"qty": 7
@@ -1582,7 +1582,7 @@ $master.api.item = {
 				"qty": 3
 			}]
 		},
-		"icon": "Chelm.png"
+		"icon": "chelm.png"
 	},
 	"Giáp đá": {
 		"name": "Giáp đá",
@@ -1593,7 +1593,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy Mập Đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Kitin",
 				"qty": 10
@@ -1602,7 +1602,7 @@ $master.api.item = {
 				"qty": 23
 			}]
 		},
-		"icon": "Charmor.png"
+		"icon": "charmor.png"
 	},
 	"Quần Đá": {
 		"name": "Quần Đá",
@@ -1613,7 +1613,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Kitin",
 				"qty": 6
@@ -1622,7 +1622,7 @@ $master.api.item = {
 				"qty": 15
 			}]
 		},
-		"icon": "Choots.png"
+		"icon": "choots.png"
 	},
 	"Găng Đá": {
 		"name": "Găng Đá",
@@ -1633,7 +1633,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Kitin",
 				"qty": 8
@@ -1642,32 +1642,32 @@ $master.api.item = {
 				"qty": 19
 			}]
 		},
-		"icon": "Chittens.png"
+		"icon": "chittens.png"
 	},
 	"Hoa Móng gà": {
 		"name": "Hoa Móng gà",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Bông hoa thơm này có thể hái được từ Cây Móng gà. Khi để sát mắt, nó sẽ thiêu Cháy mắt bạn đấy.",
+		"description": "Bông hoa thơm này có thể hái được từ Cây Móng gà. Khi để sát mắt, nó sẽ thiêu cháy mắt bạn đấy.",
 		"icon": "walker_blossom.png"
 	},
 	"Cây Móng gà": {
 		"name": "Cây Móng gà",
 		"type": "Tài Nguyên",
 		"rarity": "Tốt",
-		"description": "Những cái cây này trông như đang cố gắng để trốn thoát, nhưng Chúng không lừa ai cả.",
+		"description": "Những cái cây này trông như đang cố gắng để trốn thoát, nhưng chúng không lừa ai cả.",
 		"icon": "walkerroot.png",
 		"drop": ["Hoa Móng gà"]
 	},
-	"Khối lam thạCh": {
-		"name": "Khối lam thạCh",
+	"Khối lam thạch": {
+		"name": "Khối lam thạch",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
 		"description": "Chất mềm lúc đầu này sẽ cực kì cứng theo thời gian. ",
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Hoa Móng gà",
 				"qty": 1
@@ -1682,7 +1682,7 @@ $master.api.item = {
 		"name": "Mỏ Glidopus",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Glidopus giấu mỏ của Chúng sâu trong bụng, hoặc là thứ gì đó. Thật sự mà nói, điều này thật bí ẩn.",
+		"description": "Glidopus giấu mỏ của chúng sâu trong bụng, hoặc là thứ gì đó. Thật sự mà nói, điều này thật bí ẩn.",
 		"icon": "glidopus_beak.png"
 	},
 	"Cưa Lưỡi Liềm": {
@@ -1690,13 +1690,13 @@ $master.api.item = {
 		"type": "Công Cụ",
 		"level": "Bậc 2",
 		"rarity": "Bình Thường",
-		"description": "Cưa bậc 2. Cạnh Lam thạCh răng cưa của Chiếc cưa này sẽ Chém xuyên qua những Cây Nắp ấm như dao đâm qua thứ gì đó mềm và xốp!",
+		"description": "Cưa bậc 2. Cạnh Lam thạch răng cưa của chiếc cưa này sẽ chém xuyên qua những Cây Nắp ấm như dao đâm qua thứ gì đó mềm và xốp!",
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Khối lam thạCh",
+				"name": "Khối lam thạch",
 				"qty": 3
 			}, {
 				"name": "Đá nhẵn",
@@ -1723,7 +1723,7 @@ $master.api.item = {
 		"name": "Mảnh Pha lê",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Một Mảnh Pha lê Hoàng hôn hoàn hảo. Nó toả ra hào quang mạnh mẽ như những Chú Chó kéo xe.",
+		"description": "Một Mảnh Pha lê Hoàng hôn hoàn hảo. Nó toả ra hào quang mạnh mẽ như những chú chó kéo xe.",
 		"icon": "dusk_shard.png"
 	},
 	"Bụi Pha lê": {
@@ -1737,7 +1737,7 @@ $master.api.item = {
 		"name": "Cây Cao su",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Vỗ vào nó sẽ tạo ra tiếng trống. Với số lượng vừa đủ, Bạn có thể tạo nên một cộng đồng hippie đúng Chất.",
+		"description": "Vỗ vào nó sẽ tạo ra tiếng trống. Với số lượng vừa đủ, Bạn có thể tạo nên một cộng đồng hippie đúng chất.",
 		"icon": "sQuee.png",
 		"drop": ["Vỏ Gỗ Cao su", "Thùng Cao su", "Kén Cao su", "Hạt giống Cao su"]
 	},
@@ -1745,28 +1745,28 @@ $master.api.item = {
 		"name": "Vỏ Gỗ Cao su",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Đẹp, nhưng cứng tới kỳ lạ, vỏ của Cây Cao su. Chà tay lên đó sẽ mang lại cảm giác dễ Chịu. Có lẽ hơi quá dễ Chịu...",
+		"description": "Đẹp, nhưng cứng tới kỳ lạ, vỏ của Cây Cao su. Chà tay lên đó sẽ mang lại cảm giác dễ chịu. Có lẽ hơi quá dễ chịu...",
 		"icon": "sQuee_husk.png"
 	},
 	"Thùng Cao su": {
 		"name": "Thùng Cao su",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Khi bạn bóp nó, một Chất lỏng trắng đục rỉ ra. Khi bạn liếm nó, bạn sẽ cực kì hối hận..",
+		"description": "Khi bạn bóp nó, một chất lỏng trắng đục rỉ ra. Khi bạn liếm nó, bạn sẽ cực kì hối hận..",
 		"icon": "sQuee_barrel.png"
 	},
-	"Xương hóa thạCh khổng lồ": {
-		"name": "Xương hóa thạCh khổng lồ",
+	"Xương hóa thạch khổng lồ": {
+		"name": "Xương hóa thạch khổng lồ",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Huyền Thoại",
-		"description": "Cặp ngà này Cho thấy hộp sọ của con thú này thuộc về một loài có ngà.",
+		"description": "Cặp ngà này cho thấy hộp sọ của con thú này thuộc về một loài có ngà.",
 		"icon": "giant_fossilized_skull.png"
 	},
-	"Hóa ThạCh Đại Cốt": {
-		"name": "Hóa ThạCh Đại Cốt",
+	"Hóa Thạch Đại Cốt": {
+		"name": "Hóa Thạch Đại Cốt",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Bạn thắc mắc cái xương Chân này à của loài nào. Có lẽ là loài nào đó khổng lồ.",
+		"description": "Bạn thắc mắc cái xương chân này à của loài nào. Có lẽ là loài nào đó khổng lồ.",
 		"icon": "giant_fossilized_femur.png"
 	},
 	"Thuốc tăng tốc nhẹ": {
@@ -1777,7 +1777,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bếp lửa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 3
@@ -1792,7 +1792,7 @@ $master.api.item = {
 		"name": "Đuốc Pha lê",
 		"type": "Đuốc",
 		"rarity": "Tốt",
-		"description": "Trong lúc tối tăm nhất, thiết bị này sẽ giữ Cho xung quanh bạn được Chiếu sáng. Trong lúc quang đãng nhất, nó hoàn toàn vô dụng.",
+		"description": "Trong lúc tối tăm nhất, thiết bị này sẽ giữ cho xung quanh bạn được chiếu sáng. Trong lúc quang đãng nhất, nó hoàn toàn vô dụng.",
 		"icon": "crystal_flare.png"
 	},
 	"Chậu Anh túc": {
@@ -1803,7 +1803,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 5
@@ -1837,7 +1837,7 @@ $master.api.item = {
 		"name": "Phấn cánh Glutterfly",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Thu hoạCh một cáCh cẩn thận từ đôi cánh đập dữ dội của một con Glutterfly đã thuần hóa. Hoăc phấn sẽ bay tứ tung, bám vào mọi thứ và rất khó lấy lại được.",
+		"description": "Thu hoạch một cách cẩn thận từ đôi cánh đập dữ dội của một con Glutterfly đã thuần hóa. Hoăc phấn sẽ bay tứ tung, bám vào mọi thứ và rất khó lấy lại được.",
 		"recipe": {
 			"name": "Glutterfly",
 			"output_qty": 1,
@@ -1856,32 +1856,32 @@ $master.api.item = {
 		"name": "Nhựa nhầy Tartil",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Một quả bóng nhầy từ các mảnh của Tartil. Nó có vị hơi giống hạnh nhân và sữa đặc có đường. Khá giống bơ. Thứ này Chắc Chắn sẽ làm nên một cái bánh bông lan bơ tuyệt vời.",
-		"icon": "tartil_pitCh.png"
+		"description": "Một quả bóng nhầy từ các mảnh của Tartil. Nó có vị hơi giống hạnh nhân và sữa đặc có đường. Khá giống bơ. Thứ này chắc chắn sẽ làm nên một cái bánh bông lan bơ tuyệt vời.",
+		"icon": "tartil_pitch.png"
 	},
 	"Lưỡi Tartil": {
 		"name": "Lưỡi Tartil",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Nó được bao phủ bởi đầy bọng dịCh, thứ sẽ rỉ ra Chất nhờn gây phê khi vỡ. Mặc dù với lớp màng bọc, thật khó để cưỡng lại.",
+		"description": "Nó được bao phủ bởi đầy bọng dịch, thứ sẽ rỉ ra chất nhờn gây phê khi vỡ. Mặc dù với lớp màng bọc, thật khó để cưỡng lại.",
 		"icon": "tartil_tongue.png"
 	},
-	"Hổ PháCh": {
-		"name": "Hổ PháCh",
+	"Hổ Phách": {
+		"name": "Hổ Phách",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Những khối Hổ PháCh cổ được tìm thấy trong cơ thể lũ Tartil. Bạn có thể thấy bọ bị mắc kẹt bên trong.",
+		"description": "Những khối Hổ Phách cổ được tìm thấy trong cơ thể lũ Tartil. Bạn có thể thấy bọ bị mắc kẹt bên trong.",
 		"icon": "petrified_amber.png"
 	},
 	"Bàn đá": {
 		"name": "Bàn đá",
 		"type": "Đồ Nội Thất",
 		"rarity": "Bình Thường",
-		"description": "Chủ động mời kháCh dùng bữa tối với Chiếc Bàn đá cứng này.",
+		"description": "Chủ động mời khách dùng bữa tối với chiếc Bàn đá cứng này.",
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 40
@@ -1893,11 +1893,11 @@ $master.api.item = {
 		"name": "Ghế Đá",
 		"type": "Đồ Nội Thất",
 		"rarity": "Bình Thường",
-		"description": "Nó khá cứng nếu ngồi lúc đầu, nhưng dễ Chịu ngay sau đó.",
+		"description": "Nó khá cứng nếu ngồi lúc đầu, nhưng dễ chịu ngay sau đó.",
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 40
@@ -1909,21 +1909,21 @@ $master.api.item = {
 		"name": "Hạt giống Cao su",
 		"type": "Hạt Giống",
 		"rarity": "Tốt",
-		"description": "Với sự Chăm sóc bằng cả tấm lòng, bạn có thể tự canh tác khu vườn Cây Cao su của bạn!",
+		"description": "Với sự chăm sóc bằng cả tấm lòng, bạn có thể tự canh tác khu vườn Cây Cao su của bạn!",
 		"icon": "sQuee_seed.png"
 	},
 	"Kén Cao su": {
 		"name": "Kén Cao su",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Cái kén này được tìm thấy bên trong một Cây Cao su. Nó cười khúc khíCh và dội lại tiếng nhạc.",
+		"description": "Cái kén này được tìm thấy bên trong một Cây Cao su. Nó cười khúc khích và dội lại tiếng nhạc.",
 		"icon": "squocoon.png"
 	},
 	"Cây Trụ thảo": {
 		"name": "Cây Trụ thảo",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Cây này không có rễ, nhưng đế cực kỳ dính và khó táCh khỏi những thứ khác một khi nó bám vào.",
+		"description": "Cây này không có rễ, nhưng đế cực kỳ dính và khó tách khỏi những thứ khác một khi nó bám vào.",
 		"icon": "straddlebark.png"
 	},
 	"Cây Nọc Độc": {
@@ -1938,7 +1938,7 @@ $master.api.item = {
 		"name": "Cây Sen cạn",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Mỗi ngày nó sẽ mọc ra một Chùm quả phát sáng mới, và nở ra vào ban đêm. Những quả mọng rực rỡ tới mức có thể nhìn thấy từ không gian!",
+		"description": "Mỗi ngày nó sẽ mọc ra một chùm quả phát sáng mới, và nở ra vào ban đêm. Những quả mọng rực rỡ tới mức có thể nhìn thấy từ không gian!",
 		"icon": "night_glotus.png",
 		"drop": ["Quả Sen cạn"]
 	},
@@ -1946,14 +1946,14 @@ $master.api.item = {
 		"name": "Cây Bội thảo",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Một loài cây nhỏ, yếu ớt và Chỉ có duy nhất một búp. Mặc dù Chỉ là cây, nó dường như sợ hãi mọi thứ.",
+		"description": "Một loài cây nhỏ, yếu ớt và chỉ có duy nhất một búp. Mặc dù chỉ là cây, nó dường như sợ hãi mọi thứ.",
 		"icon": "bulbi.png"
 	},
 	"Túi khí độc": {
 		"name": "Túi khí độc",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Được hái từ Cây Nọc Độc, nhưng túi sủi bọt này nồng nặc mùi Ch4.",
+		"description": "Được hái từ Cây Nọc Độc, nhưng túi sủi bọt này nồng nặc mùi CH4.",
 		"icon": "gassak_gas_sack.png"
 	},
 	"Quả Sen cạn": {
@@ -1967,7 +1967,7 @@ $master.api.item = {
 		"name": "Túi Nọc độc đôi",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Hai Túi khí độc ghép làm một, có lẽ là ở hông. Chúng không thể táCh rời.",
+		"description": "Hai Túi khí độc ghép làm một, có lẽ là ở hông. Chúng không thể tách rời.",
 		"icon": "gassak_doublesack.png"
 	},
 	"Bọ ăn khí": {
@@ -1981,7 +1981,7 @@ $master.api.item = {
 		"name": "Đèn Dầu Tartil",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Hợp Chất cực kì dễ bay hơi này được tổng hợp trong bụng một con Tartil đã thuần hoá. Vì thế, việc tríCh xuất phải cực kì cẩn thận.",
+		"description": "Hợp chất cực kì dễ bay hơi này được tổng hợp trong bụng một con Tartil đã thuần hoá. Vì thế, việc trích xuất phải cực kì cẩn thận.",
 		"recipe": {
 			"name": "Tartil",
 			"output_qty": 1,
@@ -1993,7 +1993,7 @@ $master.api.item = {
 				"name": "Cây Bội thảo",
 				"qty": 1
 			}, {
-				"name": "Hóa ThạCh Đại Cốt",
+				"name": "Hóa Thạch Đại Cốt",
 				"qty": 2
 			}]
 		},
@@ -2029,14 +2029,14 @@ $master.api.item = {
 		"name": "Móng Wat",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Những ngón tay của Wat ngon nức tiếng vì được Chiên trong bơ và sôcôla. Chúng cũng tuyệt để gẩy bụi mắt!",
+		"description": "Những ngón tay của Wat ngon nức tiếng vì được chiên trong bơ và sôcôla. Chúng cũng tuyệt để gẩy bụi mắt!",
 		"icon": "watfinger.png"
 	},
 	"Búi lông Wat": {
 		"name": "Búi lông Wat",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Bạn đã cẩn thận táCh thứ lông này từ mặt của một con Wat bằng cáCh đâm nó tới Chết. Tốt hơn là nó phải thật đáng giá!",
+		"description": "Bạn đã cẩn thận tách thứ lông này từ mặt của một con Wat bằng cách đâm nó tới chết. Tốt hơn là nó phải thật đáng giá!",
 		"icon": "wat_fur_tuft.png"
 	},
 	"Phân Wat": {
@@ -2060,18 +2060,18 @@ $master.api.item = {
 	},
 	"Máy tiện Cao su": {
 		"name": "Máy tiện Cao su",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Trạm Chế tạo này có thể giải quyết mọi phẩm Chất xấu! Và nó quay tròn!",
+		"description": "Trạm chế tạo này có thể giải quyết mọi phẩm chất xấu! Và nó quay tròn!",
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Gỗ Cao su",
 				"qty": 24
 			}, {
-				"name": "Khối lam thạCh",
+				"name": "Khối lam thạch",
 				"qty": 5
 			}, {
 				"name": "Bóng nước",
@@ -2085,11 +2085,11 @@ $master.api.item = {
 		"type": "Áo Giáp",
 		"level": "Cấp 7",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Giáp ngực cấp 7. Đôi khi bạn cảm thấy giống như một con ngựa đua. Đây Chỉ là một trong số những lần như thế.",
+		"description": "Giáp ngực cấp 7. Đôi khi bạn cảm thấy giống như một con ngựa đua. Đây chỉ là một trong số những lần như thế.",
 		"recipe": {
 			"name": "Máy tiện Cao su",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Gỗ Cao su",
 				"qty": 10
@@ -2100,7 +2100,7 @@ $master.api.item = {
 				"name": "Nhánh Chuông gió",
 				"qty": 17
 			}, {
-				"name": "Khối lam thạCh",
+				"name": "Khối lam thạch",
 				"qty": 3
 			}]
 		},
@@ -2111,11 +2111,11 @@ $master.api.item = {
 		"type": "Găng tay",
 		"level": "Cấp 7",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Găng tay cấp 7. Hai lòng bàn tay bạn đang bị dính bởi một Chất siêu dính.",
+		"description": "Găng tay cấp 7. Hai lòng bàn tay bạn đang bị dính bởi một chất siêu dính.",
 		"recipe": {
 			"name": "Máy tiện Cao su",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Gỗ Cao su",
 				"qty": 11
@@ -2134,13 +2134,13 @@ $master.api.item = {
 		"type": "Quần Giáp",
 		"level": "Cấp 7",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Quần cấp 7. Chúng khá bó nên bạn có thể thấy các bắp Chân gợn lên qua Chất liệu này.",
+		"description": "Quần cấp 7. Chúng khá bó nên bạn có thể thấy các bắp chân gợn lên qua chất liệu này.",
 		"recipe": {
 			"name": "Máy tiện Cao su",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Khối lam thạCh",
+				"name": "Khối lam thạch",
 				"qty": 3
 			}, {
 				"name": "Vòi Glidopus",
@@ -2154,13 +2154,13 @@ $master.api.item = {
 		"type": "Mũ Giáp",
 		"level": "Cấp 7",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Mũ giáp cấp 7. Việc bao bọc hoàn toàn sẽ giữ Cho cái não của bạn nguyên vẹn.",
+		"description": "Mũ giáp cấp 7. Việc bao bọc hoàn toàn sẽ giữ cho cái não của bạn nguyên vẹn.",
 		"recipe": {
 			"name": "Máy tiện Cao su",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Khối lam thạCh",
+				"name": "Khối lam thạch",
 				"qty": 4
 			}, {
 				"name": "Vỏ Gỗ Cao su",
@@ -2176,11 +2176,11 @@ $master.api.item = {
 		"name": "Sàn Cao su",
 		"type": "Sàn",
 		"rarity": "Bình Thường",
-		"description": "Siêu thấm và Chạm vào rất thíCh, Sàn Cao su có thể làm thành một ngôi nhà trong những hầm ngục ẩm ướt nhất!",
+		"description": "Siêu thấm và chạm vào rất thích, Sàn Cao su có thể làm thành một ngôi nhà trong những hầm ngục ẩm ướt nhất!",
 		"recipe": {
 			"name": "Máy tiện Cao su",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Thùng Cao su",
 				"qty": 10
@@ -2193,11 +2193,11 @@ $master.api.item = {
 		"type": "Vũ Khí",
 		"level": "Cấp 7",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Búa cấp 7. Lấp đầy Thùng Cao su bằng Khối lam thạCh sẽ tạo nên một cây búa cực kì khó dùng. May thay, Chỉ mình bạn làm việc đó.",
+		"description": "Búa cấp 7. Lấp đầy Thùng Cao su bằng Khối lam thạch sẽ tạo nên một cây búa cực kì khó dùng. May thay, chỉ mình bạn làm việc đó.",
 		"recipe": {
 			"name": "Máy tiện Cao su",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Gỗ Cao su",
 				"qty": 17
@@ -2205,7 +2205,7 @@ $master.api.item = {
 				"name": "Thùng Cao su",
 				"qty": 6
 			}, {
-				"name": "Khối lam thạCh",
+				"name": "Khối lam thạch",
 				"qty": 4
 			}]
 		},
@@ -2224,16 +2224,16 @@ $master.api.item = {
 		"type": "Công Cụ",
 		"level": "Bậc 1",
 		"rarity": "Thường",
-		"description": "Cần câu bậc 1. Lùa cá mắc vào lưỡi câu bóng bẩy, Chết Chóc của bạn!",
+		"description": "Cần câu bậc 1. Lùa cá mắc vào lưỡi câu bóng bẩy, chết chóc của bạn!",
 		"recipe": {
 			"name": "Máy tiện Cao su",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Kén Cao su",
 				"qty": 2
 			}, {
-				"name": "Hổ PháCh",
+				"name": "Hổ Phách",
 				"qty": 8
 			}, {
 				"name": "Que",
@@ -2278,7 +2278,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "BS SSSS SS5",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lưỡi Cỏ gai",
 				"qty": 5
@@ -2287,7 +2287,7 @@ $master.api.item = {
 				"qty": 5
 			}]
 		},
-		"icon": "thatChed_wall.png"
+		"icon": "thatched_wall.png"
 	},
 	"Rìu Cá rồng": {
 		"name": "Rìu Cá rồng",
@@ -2308,11 +2308,11 @@ $master.api.item = {
 		"name": "Bình Nitơ",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Hỗn hợp này đốt tay bạn khi bạn cầm nó. Cầm lâu thêm tí thì nó nổ. Căn bản là, đừng Chạm vào nó.",
+		"description": "Hỗn hợp này đốt tay bạn khi bạn cầm nó. Cầm lâu thêm tí thì nó nổ. Căn bản là, đừng chạm vào nó.",
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 1
@@ -2334,7 +2334,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mực Glidopus",
 				"qty": 106
@@ -2345,7 +2345,7 @@ $master.api.item = {
 				"name": "Cây Bội thảo",
 				"qty": 11
 			}, {
-				"name": "Tinh Chất Glidopus [Lục]",
+				"name": "Tinh chất Glidopus [Lục]",
 				"qty": 13
 			}]
 		},
@@ -2355,11 +2355,11 @@ $master.api.item = {
 		"name": "Thùng phóng xạ",
 		"type": "Vật Phẩm Tiến Hóa",
 		"rarity": "Siêu Cấp",
-		"description": "Một cái thùng VUUỪA đủ lượng hoá Chất để ảnh hưởng tới Tartil ở bất kì dạng nào! Tiến hoá Tartil của bạn thành dạng SIÊU CẤP!",
+		"description": "Một cái thùng VUUỪA đủ lượng hoá chất để ảnh hưởng tới Tartil ở bất kì dạng nào! Tiến hoá Tartil của bạn thành dạng SIÊU CẤP!",
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Thùng Cao su",
 				"qty": 37
@@ -2370,7 +2370,7 @@ $master.api.item = {
 				"name": "Quả Sen cạn",
 				"qty": 34
 			}, {
-				"name": "Tinh Chất Tartil [Nhớp nháp]",
+				"name": "Tinh chất Tartil [Nhớp nháp]",
 				"qty": 11
 			}]
 		},
@@ -2384,7 +2384,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Rong biển",
 				"qty": 1
@@ -2403,7 +2403,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Ốc sên cuộn",
 				"qty": 1
@@ -2422,7 +2422,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy tiện Cao su",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Túi khí độc",
 				"qty": 3
@@ -2441,12 +2441,12 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy tiện Cao su",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Bọ ăn khí",
 				"qty": 2
 			}, {
-				"name": "Khối lam thạCh",
+				"name": "Khối lam thạch",
 				"qty": 1
 			}, {
 				"name": "Phấn cánh Glutterfly",
@@ -2462,11 +2462,11 @@ $master.api.item = {
 		"name": "Bom độc",
 		"type": "Bom",
 		"rarity": "Bình Thường",
-		"description": "Không thứ gì thíCh một mùi hương độc và Chết Chóc dưới gầm bàn vào buổi sáng cả. Gây 250% ST/giây thành STVL và độc.",
+		"description": "Không thứ gì thích một mùi hương độc và chết chóc dưới gầm bàn vào buổi sáng cả. Gây 250% ST/giây thành STVL và độc.",
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Phấn cánh Glutterfly",
 				"qty": 3
@@ -2485,11 +2485,11 @@ $master.api.item = {
 		"type": "Trang sức",
 		"level": "Cấp 7",
 		"rarity": "Siêu Cấp",
-		"description": "Với Chiếc đèn đẹp đẽ này ở ngay cạnh, bạn đột nhiên muốn nghịCh lửa. Nhận thêm 20% kháng lửa.",
+		"description": "Với chiếc đèn đẹp đẽ này ở ngay cạnh, bạn đột nhiên muốn nghịch lửa. Nhận thêm 20% kháng lửa.",
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vảy ngọc",
 				"qty": 10
@@ -2507,11 +2507,11 @@ $master.api.item = {
 		"name": "Súng phun lửa",
 		"type": "Thiết Bị",
 		"rarity": "Siêu Cấp",
-		"description": "Không có mùi của sự Cháy bất kể ngày hay đêm. Gây 100% ST/giây thành ST Lửa trong một khu vực.",
+		"description": "Không có mùi của sự cháy bất kể ngày hay đêm. Gây 100% ST/giây thành ST Lửa trong một khu vực.",
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Bình Nitơ",
 				"qty": 3
@@ -2519,7 +2519,7 @@ $master.api.item = {
 				"name": "Đèn Dầu Tartil",
 				"qty": 4
 			}, {
-				"name": "Hổ PháCh",
+				"name": "Hổ Phách",
 				"qty": 34
 			}]
 		},
@@ -2529,11 +2529,11 @@ $master.api.item = {
 		"name": "Thanh dược",
 		"type": "Tiêu Hao",
 		"rarity": "Tốt",
-		"description": "Nó có vị hạt điều. Nó thanh lọc 1.378 Chất độc ra khỏi cơ thể bạn (+1.378 HP)",
+		"description": "Nó có vị hạt điều. Nó thanh lọc 1.378 chất độc ra khỏi cơ thể bạn (+1.378 HP)",
 		"recipe": {
 			"name": "Bếp lửa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 3
@@ -2552,7 +2552,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bếp lửa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 3
@@ -2567,11 +2567,11 @@ $master.api.item = {
 		"name": "Thuốc Phát quang",
 		"type": "Tiêu Hao",
 		"rarity": "Tốt",
-		"description": "Chà thứ này lên cơ thể Cho bạn một ánh sáng lành mạnh! Hiệu lực trong 20 phút.",
+		"description": "Chà thứ này lên cơ thể cho bạn một ánh sáng lành mạnh! Hiệu lực trong 20 phút.",
 		"recipe": {
 			"name": "Bếp lửa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 6
@@ -2582,7 +2582,7 @@ $master.api.item = {
 				"name": "Dịch phát quang",
 				"qty": 2
 			}, {
-				"name": "Tinh Chất Glutterfly [Già cỗi]ià Cỗi",
+				"name": "Tinh chất Glutterfly [Già cỗi]ià Cỗi",
 				"qty": 1
 			}]
 		},
@@ -2596,7 +2596,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Bọ ăn khí",
 				"qty": 1
@@ -2614,11 +2614,11 @@ $master.api.item = {
 		"name": "Bình Hồi Máu Bậc I",
 		"type": "Tiêu Hao",
 		"rarity": "Tốt",
-		"description": "Được làm từ những con Cá đầu búa Chất lượng nhất, lọ thuốc này sẽ Chữa lành mọi khó Chịu của bạn, kể cả những thứ khiến bạn như sắp Chết. Hồi 638 HP.",
+		"description": "Được làm từ những con Cá đầu búa chất lượng nhất, lọ thuốc này sẽ chữa lành mọi khó chịu của bạn, kể cả những thứ khiến bạn như sắp chết. Hồi 638 HP.",
 		"recipe": {
 			"name": "Bếp lửa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 3
@@ -2638,7 +2638,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vảy ngọc",
 				"qty": 3
@@ -2661,7 +2661,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vảy ngọc",
 				"qty": 2
@@ -2669,7 +2669,7 @@ $master.api.item = {
 				"name": "Lưỡi Tartil",
 				"qty": 2
 			}, {
-				"name": "Hổ PháCh",
+				"name": "Hổ Phách",
 				"qty": 6
 			}, {
 				"name": "Dây Biển",
@@ -2683,11 +2683,11 @@ $master.api.item = {
 		"type": "Quần Giáp",
 		"level": "Cấp 9",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Quần cấp 9. Ánh bóng loáng của Chúng thật sự làm nổi bật rõ cặp đùi của bạn.",
+		"description": "Quần cấp 9. Ánh bóng loáng của chúng thật sự làm nổi bật rõ cặp đùi của bạn.",
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vảy ngọc",
 				"qty": 2
@@ -2695,7 +2695,7 @@ $master.api.item = {
 				"name": "Lưỡi Tartil",
 				"qty": 2
 			}, {
-				"name": "Hổ PháCh",
+				"name": "Hổ Phách",
 				"qty": 5
 			}]
 		},
@@ -2706,11 +2706,11 @@ $master.api.item = {
 		"type": "Găng tay",
 		"level": "Cấp 9",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Găng tay cấp 9. Tay bạn Chưa bao giờ có vảy như vậy.",
+		"description": "Găng tay cấp 9. Tay bạn chưa bao giờ có vảy như vậy.",
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vảy ngọc",
 				"qty": 2
@@ -2733,7 +2733,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vảy ngọc",
 				"qty": 2
@@ -2741,7 +2741,7 @@ $master.api.item = {
 				"name": "Lưỡi Tartil",
 				"qty": 2
 			}, {
-				"name": "Hổ PháCh",
+				"name": "Hổ Phách",
 				"qty": 5
 			}, {
 				"name": "Dây Biển",
@@ -2750,16 +2750,16 @@ $master.api.item = {
 		},
 		"icon": "pearlplate.png"
 	},
-	"Rìu Chiến cánh bướm": {
-		"name": "Rìu Chiến cánh bướm",
+	"Rìu chiến cánh bướm": {
+		"name": "Rìu chiến cánh bướm",
 		"type": "Vũ Khí",
 		"level": "Cấp 11",
 		"rarity": "Huyền Thoại",
-		"description": "Rìu Huyền Thoại cấp 11.Rất nhiều thời gian, tình yêu, máu, mồ hôi và Hổ PháCh đã được cống hiến vào thứ này. THẬT ĐÁNG GIÁ.",
+		"description": "Rìu Huyền Thoại cấp 11.Rất nhiều thời gian, tình yêu, máu, mồ hôi và Hổ Phách đã được cống hiến vào thứ này. THẬT ĐÁNG GIÁ.",
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Pha lê cánh bướm",
 				"qty": 1
@@ -2767,7 +2767,7 @@ $master.api.item = {
 				"name": "Bình Nitơ",
 				"qty": 3
 			}, {
-				"name": "Khối lam thạCh",
+				"name": "Khối lam thạch",
 				"qty": 16
 			}]
 		},
@@ -2778,17 +2778,17 @@ $master.api.item = {
 		"type": "Rương",
 		"rarity": "Bình Thường",
 		"description": "RƯƠNG BẰNG CÂY LÀ TỐT NHẤT ĐẤY.",
-		"icon": "wooden_Chest.png"
+		"icon": "wooden_chest.png"
 	},
 	"Giường đá": {
 		"name": "Giường đá",
 		"type": "Đồ Nội Thất",
 		"rarity": "Bình Thường",
-		"description": "Một Chỗ đẹp để Chợp mắt nhanh một lúc. Huyền thoại nói rằng khi bạn đang ngủ, toàn bộ cơ thể bạn sẽ hồi phục.",
+		"description": "Một chỗ đẹp để chợp mắt nhanh một lúc. Huyền thoại nói rằng khi bạn đang ngủ, toàn bộ cơ thể bạn sẽ hồi phục.",
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 20
@@ -2803,28 +2803,28 @@ $master.api.item = {
 		"name": "Mai Zug",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Có vẻ như bạn có thể cạy cái mai một cáCh thận trọng khỏi con Zug bằng việc đập hoặc đâm nó đến Chết. ĐÓ LÀ KHOA HỌC!",
+		"description": "Có vẻ như bạn có thể cạy cái mai một cách thận trọng khỏi con Zug bằng việc đập hoặc đâm nó đến chết. ĐÓ LÀ KHOA HỌC!",
 		"icon": "zug_shell.png"
 	},
 	"Bugi phóng điện": {
 		"name": "Bugi phóng điện",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Khi những con Zug đủ lớn, Chúng sẽ tự Chế tạo những Chiếc bugi, và tự cấy vào vỏ của Chúng. Đó là nghi thức truyền thống thể hiện sự kế thừa văn hoá. Bạn sẽ không thể hiểu nổi Chúng đâu.",
+		"description": "Khi những con Zug đủ lớn, chúng sẽ tự chế tạo những chiếc bugi, và tự cấy vào vỏ của chúng. Đó là nghi thức truyền thống thể hiện sự kế thừa văn hoá. Bạn sẽ không thể hiểu nổi chúng đâu.",
 		"icon": "zug_sparkplug.png"
 	},
-	"Xương bánh Chè Zug": {
-		"name": "Xương bánh Chè Zug",
+	"Xương bánh chè Zug": {
+		"name": "Xương bánh chè Zug",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Mấy con Zug có những cái xương bánh Chè phức tạp không thể tin nổi, nó cạnh tranh trực tiếp với một tá thứ khác, như xương bánh Chè của con người.",
+		"description": "Mấy con Zug có những cái xương bánh chè phức tạp không thể tin nổi, nó cạnh tranh trực tiếp với một tá thứ khác, như xương bánh chè của con người.",
 		"icon": "zug_kneecap.png"
 	},
 	"Da Zug nhiễm điện": {
 		"name": "Da Zug nhiễm điện",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Khi một con Zug đã thuần hoá ăn quá no, nó sẽ phải thay da. Và giật điện bạn mỗi khi Chạm vào!",
+		"description": "Khi một con Zug đã thuần hoá ăn quá no, nó sẽ phải thay da. Và giật điện bạn mỗi khi chạm vào!",
 		"recipe": {
 			"name": "Zug",
 			"output_qty": 1,
@@ -2848,7 +2848,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Móng Wat",
 				"qty": 2
@@ -2867,13 +2867,13 @@ $master.api.item = {
 	},
 	"Lò nung Pha lê": {
 		"name": "Lò nung Pha lê",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Pha lê Hoàng hôn có thể Chịu một nhiệt độ cực lớn khiến Chúng hoàn hảo để TÍCh TRỮ MỘT NHIỆT LƯỢNG KHỔNG LỒ!",
+		"description": "Pha lê Hoàng hôn có thể chịu một nhiệt độ cực lớn khiến chúng hoàn hảo để TÍCH TRỮ MỘT NHIỆT LƯỢNG KHỔNG LỒ!",
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 5
@@ -2894,11 +2894,11 @@ $master.api.item = {
 		"name": "Lăng Kính Pha lê",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Khi Chuyển hoá thành hình lăng trụ và bị lấp đầy bởi vô số linh hồn Glidopus con, Pha lê Hoàng hôn nhất định sẽ trở thành một khối pha lê quái đản!",
+		"description": "Khi chuyển hoá thành hình lăng trụ và bị lấp đầy bởi vô số linh hồn Glidopus con, Pha lê Hoàng hôn nhất định sẽ trở thành một khối pha lê quái đản!",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 1
@@ -2917,7 +2917,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 26
@@ -2925,10 +2925,10 @@ $master.api.item = {
 				"name": "Bugi phóng điện",
 				"qty": 17
 			}, {
-				"name": "Tinh Chất Zug [Ngoại cỡ]goại Cỡ",
+				"name": "Tinh chất Zug [Ngoại cỡ]goại Cỡ",
 				"qty": 13
 			}, {
-				"name": "Xương bánh Chè Zug",
+				"name": "Xương bánh chè Zug",
 				"qty": 74
 			}]
 		},
@@ -2938,16 +2938,16 @@ $master.api.item = {
 		"name": "Búa cánh dơi",
 		"type": "Vật Phẩm Tiến Hóa",
 		"rarity": "Siêu Cấp",
-		"description": "Wat nổi tiếng với tình yêu dành Cho thể thao! Tiến hóa Wat của bạn thành dạng SIÊU CẤP!",
+		"description": "Wat nổi tiếng với tình yêu dành cho thể thao! Tiến hóa Wat của bạn thành dạng SIÊU CẤP!",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cánh Wat",
 				"qty": 43
 			}, {
-				"name": "Tinh Chất Wat [Siêu cường]",
+				"name": "Tinh chất Wat [Siêu cường]",
 				"qty": 8
 			}, {
 				"name": "Móng Wat",
@@ -2967,7 +2967,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Bụi Pha lê",
 				"qty": 1
@@ -2982,11 +2982,11 @@ $master.api.item = {
 		"name": "Biển viết được",
 		"type": "Biển Hiệu",
 		"rarity": "Bình Thường",
-		"description": "Một cái biển mà bạn có thể viết được! Với nó, bạn có thể đánh dấu khu vực trên bản đồ. ĐÓ LÀ MỘT CUỘC CÁCh MẠNG LỚN!",
+		"description": "Một cái biển mà bạn có thể viết được! Với nó, bạn có thể đánh dấu khu vực trên bản đồ. ĐÓ LÀ MỘT CUỘC CÁCH MẠNG LỚN!",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 1
@@ -3005,7 +3005,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cái Vạc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Bọng mỡ",
 				"qty": 1
@@ -3016,7 +3016,7 @@ $master.api.item = {
 				"name": "Đỉa",
 				"qty": 1
 			}, {
-				"name": "Tinh Chất Snorble [Cháy nắng]",
+				"name": "Tinh chất Snorble [Cháy nắng]",
 				"qty": 1
 			}]
 		},
@@ -3026,11 +3026,11 @@ $master.api.item = {
 		"name": "Sàn Pha lê",
 		"type": "Sàn",
 		"rarity": "Bình Thường",
-		"description": "Nó là một trong những thứ cứng nhất, hiếm nhất Savanna. Vậy nên... cáCh nào tốt hơn để dùng nó thay vì ĐI QUA LẠI TRÊN NÓ?",
+		"description": "Nó là một trong những thứ cứng nhất, hiếm nhất Savanna. Vậy nên... cách nào tốt hơn để dùng nó thay vì ĐI QUA LẠI TRÊN NÓ?",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 10
@@ -3043,11 +3043,11 @@ $master.api.item = {
 		"type": "Vũ Khí",
 		"level": "Cấp 11",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Rìu cấp 11. Rìu Pha lê cực kì sắc khi nó vỡ thành từng mảnh. Khá tuyệt Cho một phát ĐÂM!",
+		"description": "Rìu cấp 11. Rìu Pha lê cực kì sắc khi nó vỡ thành từng mảnh. Khá tuyệt cho một phát ĐÂM!",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mai Zug",
 				"qty": 22
@@ -3066,11 +3066,11 @@ $master.api.item = {
 		"type": "Mũ Giáp",
 		"level": "Cấp 11",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Mũ giáp cấp 11. Những tia lửa kíCh thíCh não của bạn giúp bạn suy nghĩ thông thoáng hơn!",
+		"description": "Mũ giáp cấp 11. Những tia lửa kích thích não của bạn giúp bạn suy nghĩ thông thoáng hơn!",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 3
@@ -3092,11 +3092,11 @@ $master.api.item = {
 		"type": "Áo Giáp",
 		"level": "Cấp 11",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Giáp ngực cấp 11. Đồ pha lê thật tuyệt, nó phản Chiếu lên bề mặt từng đường cong của bạn.",
+		"description": "Giáp ngực cấp 11. Đồ pha lê thật tuyệt, nó phản chiếu lên bề mặt từng đường cong của bạn.",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 3
@@ -3122,12 +3122,12 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 3
 			}, {
-				"name": "Xương bánh Chè Zug",
+				"name": "Xương bánh chè Zug",
 				"qty": 6
 			}, {
 				"name": "Búi lông Wat",
@@ -3164,11 +3164,11 @@ $master.api.item = {
 		"type": "Găng tay",
 		"level": "Cấp 11",
 		"rarity": "Ngẫu nhiên",
-		"description": "Găng tay cấp 11. Thêm một lớp da Wat sẽ giúp bạn ấm đến tận cùi Chỏ!",
+		"description": "Găng tay cấp 11. Thêm một lớp da Wat sẽ giúp bạn ấm đến tận cùi chỏ!",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 3
@@ -3190,7 +3190,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 5
@@ -3202,11 +3202,11 @@ $master.api.item = {
 		"name": "Cửa Pha lê",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Cái cửa vuông này khiến mọi thứ an toàn hơn, nhưng CẨN THẬN CẲNG ChÂN BẠN.",
+		"description": "Cái cửa vuông này khiến mọi thứ an toàn hơn, nhưng CẨN THẬN CẲNG CHÂN BẠN.",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 2
@@ -3218,11 +3218,11 @@ $master.api.item = {
 		"name": "Chậu Nha Đam",
 		"type": "Chậu cây",
 		"rarity": "Bình Thường",
-		"description": "Luôn là tốt khi tíCh trữ một kho Nha đam tự tái sinh để giữ Cho vật nuối của bạn luôn vui vẻ.",
+		"description": "Luôn là tốt khi tích trữ một kho Nha đam tự tái sinh để giữ cho vật nuối của bạn luôn vui vẻ.",
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Nha đam",
 				"qty": 1
@@ -3237,11 +3237,11 @@ $master.api.item = {
 		"name": "Chậu Nấm mặt trời",
 		"type": "Chậu cây",
 		"rarity": "Bình Thường",
-		"description": "Hãy Chắc Chắn rằng hãy đặt Chúng trong bóng râm! Ah, tôi đang đùa với ai đây? Không hề có bóng râm nào trên hành tinh này cả. Cứ đặt Chúng ở đâu tuỳ bạn.",
+		"description": "Hãy chắc chắn rằng hãy đặt chúng trong bóng râm! Ah, tôi đang đùa với ai đây? Không hề có bóng râm nào trên hành tinh này cả. Cứ đặt chúng ở đâu tuỳ bạn.",
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nấm mặt trời",
 				"qty": 3
@@ -3256,11 +3256,11 @@ $master.api.item = {
 		"name": "Chậu Bội thảo",
 		"type": "Chậu cây",
 		"rarity": "Bình Thường",
-		"description": "Sẽ luôn là hữu íCh nếu dự trữ Bội thảo ở xung quanh. Bạn biết đấy... Cho mục đíCh y tế.",
+		"description": "Sẽ luôn là hữu ích nếu dự trữ Bội thảo ở xung quanh. Bạn biết đấy... cho mục đích y tế.",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Bội thảo",
 				"qty": 1
@@ -3279,7 +3279,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 58
@@ -3300,11 +3300,11 @@ $master.api.item = {
 		"name": "Ốp la phẫn nộ",
 		"type": "Thức ăn sinh vật",
 		"rarity": "Bình Thường",
-		"description": "Thú cưng của bạn sẽ rất thíCh món siêu cay nhưng hấp dẫn này, Chúng sẽ rơi vào trạng thái đồ sát! Tăng 15% ST thú cưng trong 20 phút.",
+		"description": "Thú cưng của bạn sẽ rất thích món siêu cay nhưng hấp dẫn này, chúng sẽ rơi vào trạng thái đồ sát! Tăng 15% ST thú cưng trong 20 phút.",
 		"recipe": {
 			"name": "Bếp lửa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Dâu độc",
 				"qty": 1
@@ -3312,7 +3312,7 @@ $master.api.item = {
 				"name": "Cây Nha đam",
 				"qty": 1
 			}, {
-				"name": "Tinh Chất Wompit[Cứng cáp][Cứng cáp]",
+				"name": "Tinh chất Wompit[Cứng cáp][Cứng cáp]",
 				"qty": 1
 			}]
 		},
@@ -3322,11 +3322,11 @@ $master.api.item = {
 		"name": "Chậu Dâu độc",
 		"type": "Chậu cây",
 		"rarity": "Bình Thường",
-		"description": "Dâu độc khá là hiếm. Vài Chậu cây này xung quanh nhà sẽ là ý hay!",
+		"description": "Dâu độc khá là hiếm. Vài chậu cây này xung quanh nhà sẽ là ý hay!",
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Dâu độc",
 				"qty": 1
@@ -3341,17 +3341,17 @@ $master.api.item = {
 		"name": "Cây Đậu mụn xanh",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Vỏ của những quả hạt kín phát triển trên cái cây nhiều nhánh này Chứa đầy một loại Chất nhầy thơm, thứ sẽ Cháy dữ dội khi bạn Chà khắp người.",
+		"description": "Vỏ của những quả hạt kín phát triển trên cái cây nhiều nhánh này chứa đầy một loại chất nhầy thơm, thứ sẽ cháy dữ dội khi bạn chà khắp người.",
 		"icon": "blegh.png",
 		"drop": ["Đậu mụn xanh"]
 	},
-	"Cây Ngưng mạCh": {
-		"name": "Cây Ngưng mạCh",
+	"Cây Ngưng mạch": {
+		"name": "Cây Ngưng mạch",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Nhìn thì nó như một cái cây, nhưng thực ra nó đang kết nối với hệ mạCh của Bawg.",
+		"description": "Nhìn thì nó như một cái cây, nhưng thực ra nó đang kết nối với hệ mạch của Bawg.",
 		"icon": "artree.png",
-		"drop": ["Bọng mỡ", "MạCh Bawg", "Rận hút máu", "Hạt giống Ngưng mạCh"]
+		"drop": ["Bọng mỡ", "Mạch Bawg", "Rận hút máu", "Hạt giống Ngưng mạch"]
 	},
 	"Cây Thùa gai": {
 		"name": "Cây Thùa gai",
@@ -3364,7 +3364,7 @@ $master.api.item = {
 		"name": "Huyết khối",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Thứ này TRƯƠNG PHỒNG lên với rất nhiều Chất lỏng trong đấy! Nó mà nổ là dọn cực lắm đấy. ",
+		"description": "Thứ này TRƯƠNG PHỒNG lên với rất nhiều chất lỏng trong đấy! Nó mà nổ là dọn cực lắm đấy. ",
 		"icon": "thrombyte.png"
 	},
 	"Cây Hồ thảo": {
@@ -3378,14 +3378,14 @@ $master.api.item = {
 		"name": "Con nhộng",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Bất cứ khi nào bạn đứng cạnh Cây Nắp ấm với một thứ ngoe nguẩy này trong tay, cái Cây Nắp ấm trông có vẻ rất thíCh thú. ",
+		"description": "Bất cứ khi nào bạn đứng cạnh Cây Nắp ấm với một thứ ngoe nguẩy này trong tay, cái Cây Nắp ấm trông có vẻ rất thích thú. ",
 		"icon": "bloo.png"
 	},
 	"Cây Cự cốt": {
 		"name": "Cây Cự cốt",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Những Cây Cự cốt này có vẻ khiến Bawg cảm thấy đau đớn. Bạn sẽ làm điều có íCh khi loại bỏ Chúng.",
+		"description": "Những Cây Cự cốt này có vẻ khiến Bawg cảm thấy đau đớn. Bạn sẽ làm điều có ích khi loại bỏ chúng.",
 		"icon": "bone_spur.png",
 		"drop": ["Sáp cây Cự cốt", "Vỏ sừng", "Cục vàng", "Hạt giống Cự cốt"]
 	},
@@ -3393,23 +3393,23 @@ $master.api.item = {
 		"name": "Cây Tĩnh điện",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Cây Tĩnh điện là một nhánh cây của tế bào thần kinh bằng cáCh nào đó nhô ra từ phần thịt của Bawg. Nó phát ra tiếng tanh táCh với điện!",
+		"description": "Cây Tĩnh điện là một nhánh cây của tế bào thần kinh bằng cách nào đó nhô ra từ phần thịt của Bawg. Nó phát ra tiếng tanh tách với điện!",
 		"icon": "nurva.png",
-		"drop": ["Sợi trục Tĩnh điện", "Mô cáCh điện", "Gai cột sống", "Hạt giống Tĩnh điện"]
+		"drop": ["Sợi trục Tĩnh điện", "Mô cách điện", "Gai cột sống", "Hạt giống Tĩnh điện"]
 	},
-	"Cây Cẩu tíCh": {
-		"name": "Cây Cẩu tíCh",
+	"Cây Cẩu tích": {
+		"name": "Cây Cẩu tích",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
 		"description": "Chỉ là một mẩu tóc thông thường, cỡ con người và không thể Bình Thường hơn. ",
 		"icon": "bawg_hair.png",
-		"drop": ["Nhánh cây Cẩu tíCh", "Vỏ Cẩu tíCh", "Chấy", "Hạt Cẩu tíCh"]
+		"drop": ["Nhánh cây Cẩu tích", "Vỏ Cẩu tích", "Chấy", "Hạt Cẩu tích"]
 	},
 	"Rễ bụt mọc": {
 		"name": "Rễ bụt mọc",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Loài cây này phát triển sâu bên trong mô của Bawg. Ở góc độ nào đó, Chúng rất giống khoai tây. Nhưng ở một góc độ khác, Chúng Chẳng giống khoai tây Chút nào.",
+		"description": "Loài cây này phát triển sâu bên trong mô của Bawg. Ở góc độ nào đó, chúng rất giống khoai tây. Nhưng ở một góc độ khác, chúng chẳng giống khoai tây chút nào.",
 		"icon": "tuber.png",
 		"drop": ["Khúc cây Bụt mọc"]
 	},
@@ -3417,7 +3417,7 @@ $master.api.item = {
 		"name": "Cây Téo",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Loại cây/sinh vật hình ngón tay này mọc Chi Chít những bọng mụn màu đỏ có vị như quả anh đào. Chúng luôn ngần ngại khi sắp được Chọn.",
+		"description": "Loại cây/sinh vật hình ngón tay này mọc chi chít những bọng mụn màu đỏ có vị như quả anh đào. Chúng luôn ngần ngại khi sắp được chọn.",
 		"icon": "pikkaye.png",
 		"drop": ["Quả Téo"]
 	},
@@ -3426,13 +3426,13 @@ $master.api.item = {
 		"type": "Mũ Giáp",
 		"level": "Cấp 12",
 		"rarity": "Huyền Thoại",
-		"description": "Mũ giáp cấp 12. Sau khi cố gắng tìm Chiếc đầu lâu lớn nhất xung quanh, bạn đã gắn kết Chúng lại thành thứ mà mọi người Cho là... một Chiếc mũ tuyệt vời.",
+		"description": "Mũ giáp cấp 12. Sau khi cố gắng tìm chiếc đầu lâu lớn nhất xung quanh, bạn đã gắn kết chúng lại thành thứ mà mọi người cho là... một chiếc mũ tuyệt vời.",
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Xương hóa thạCh khổng lồ",
+				"name": "Xương hóa thạch khổng lồ",
 				"qty": 1
 			}, {
 				"name": "Đèn Dầu Tartil",
@@ -3448,7 +3448,7 @@ $master.api.item = {
 		"name": "Vụn xương",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Mảnh vật Chất lớn này Chắc Chắn có thể tìm thấy trong da thịt của Bawg. Lấy Chúng ra khiến Bawg cảm thấy dễ Chịu hơn.",
+		"description": "Mảnh vật chất lớn này chắc chắn có thể tìm thấy trong da thịt của Bawg. Lấy chúng ra khiến Bawg cảm thấy dễ chịu hơn.",
 		"icon": "splinter.png"
 	},
 	"Actiso": {
@@ -3462,15 +3462,15 @@ $master.api.item = {
 		"name": "Cây Nắp ấm",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Những gã bé nhỏ này thíCh đi theo đàn, và Chúng luôn luôn đói. Cho Chúng ăn, Chúng sẽ trả ơn bạn bằng một thứ gì đó!",
-		"icon": "jollyChomp.png",
+		"description": "Những gã bé nhỏ này thích đi theo đàn, và chúng luôn luôn đói. Cho chúng ăn, chúng sẽ trả ơn bạn bằng một thứ gì đó!",
+		"icon": "jollychomp.png",
 		"drop": ["Đá Cây Nắp ấm", "Thịt Nắp ấm", "Chất dính Nắp ấm", "Thỏ Cụt Tai", "Hạt giống Nắp ấm"]
 	},
 	"Vỏ xương Satgat": {
 		"name": "Vỏ xương Satgat",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Sau khi bị lấy ra một cáCh ép buộc khỏi cơ thể Satgat, bộ khung xương sáng lên một lúc và tạo ra âm thanh vo ve lớn. Nó khiến bạn cảm thấy khó Chịu.",
+		"description": "Sau khi bị lấy ra một cách ép buộc khỏi cơ thể Satgat, bộ khung xương sáng lên một lúc và tạo ra âm thanh vo ve lớn. Nó khiến bạn cảm thấy khó chịu.",
 		"icon": "satgat_exoskeleton.png"
 	},
 	"Ruột Satgat": {
@@ -3478,13 +3478,13 @@ $master.api.item = {
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
 		"description": "Liếm hai đầu ruột sẽ bị giật điện đấy. Cơ mà ngon. Không biết làm sao để cảm nhận vị khi đang tê lưỡi nhỉ??",
-		"icon": "satgat_Chemoreceptors.png"
+		"icon": "satgat_chemoreceptors.png"
 	},
 	"Lụa Satgat": {
 		"name": "Lụa Satgat",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Thu hoạCh từ Satgat đã thuần hóa. Nó mềm cực kì, mềm đến mức bạn có thể làm một Chiếc quần lót đắt tiền từ nó!",
+		"description": "Thu hoạch từ Satgat đã thuần hóa. Nó mềm cực kì, mềm đến mức bạn có thể làm một chiếc quần lót đắt tiền từ nó!",
 		"recipe": {
 			"name": "Satgat",
 			"output_qty": 1,
@@ -3506,21 +3506,21 @@ $master.api.item = {
 		"name": "Thịt Satgat",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Mặc dù lũ Satgat có vỏ rất cứng, thịt của Chúng rất mềm và mịn. Giống như những con sò, Chỉ đáng yêu hơn thôi.",
+		"description": "Mặc dù lũ Satgat có vỏ rất cứng, thịt của chúng rất mềm và mịn. Giống như những con sò, chỉ đáng yêu hơn thôi.",
 		"icon": "satgat_flesh.png"
 	},
 	"Túi khí Snorble": {
 		"name": "Túi khí Snorble",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Khi bạn vắt kiệt nó, nó đột ngột phát ra một tiếng nghe như tiếng đánh rắm. Nó sẽ rất tuyệt để trêu người khác, Chỉ khi bạn không phải con người duy nhất trên hành tinh này.",
+		"description": "Khi bạn vắt kiệt nó, nó đột ngột phát ra một tiếng nghe như tiếng đánh rắm. Nó sẽ rất tuyệt để trêu người khác, chỉ khi bạn không phải con người duy nhất trên hành tinh này.",
 		"icon": "snorble_airsak.png"
 	},
 	"Polymer Snorble": {
 		"name": "Polymer Snorble",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Lũ Snorble dùng thứ này như 1 loại tiền tệ. Nếu bạn đối xử tốt với một con Snorble đã thuần hoá, Chúng sẽ Cho bạn một ít!",
+		"description": "Lũ Snorble dùng thứ này như 1 loại tiền tệ. Nếu bạn đối xử tốt với một con Snorble đã thuần hoá, chúng sẽ cho bạn một ít!",
 		"recipe": {
 			"name": "Snorble",
 			"output_qty": 1,
@@ -3539,14 +3539,14 @@ $master.api.item = {
 		"name": "Da Snorble",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Nó thật sự lởm Chởm ở một mặt nhưng mặt còn lại thì thô và ẩm ướt. Có một Chút không thuận lợi ở cả 2 mặt, thật sự là vậy.",
+		"description": "Nó thật sự lởm chởm ở một mặt nhưng mặt còn lại thì thô và ẩm ướt. Có một chút không thuận lợi ở cả 2 mặt, thật sự là vậy.",
 		"icon": "snorble_skin.png"
 	},
 	"Lưỡi Snorble": {
 		"name": "Lưỡi Snorble",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Lưỡi Snorble là một thứ rất nhạy cảm, bởi bên trong nó Chứa phần não thứ 3 của Snorble. Khi bạn Chọc vào nó, nó sẽ cố gắng rụt lại",
+		"description": "Lưỡi Snorble là một thứ rất nhạy cảm, bởi bên trong nó chứa phần não thứ 3 của Snorble. Khi bạn chọc vào nó, nó sẽ cố gắng rụt lại",
 		"icon": "snorble_uvula.png"
 	},
 	"Dãi Throak": {
@@ -3560,7 +3560,7 @@ $master.api.item = {
 		"name": "Thạch Throak",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Quả bóng Chất nhầy này được Chiết ra từ cơ thể của một con Throak đã thuần hoá. Nó không ngừng rung rinh!",
+		"description": "Quả bóng chất nhầy này được chiết ra từ cơ thể của một con Throak đã thuần hoá. Nó không ngừng rung rinh!",
 		"recipe": {
 			"name": "Throak",
 			"output_qty": 1,
@@ -3579,14 +3579,14 @@ $master.api.item = {
 		"name": "Tuyến trùng Throak",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Tuyến trùng này Chứa một lượng lớn Chất hoá học dùng để đóng băng các thứ, làm Chậm Chúng một cáCh kinh khủng. Nếu bạn liếm nó, lưỡi bạn sẽ dính vào nó.",
+		"description": "Tuyến trùng này chứa một lượng lớn chất hoá học dùng để đóng băng các thứ, làm chậm chúng một cách kinh khủng. Nếu bạn liếm nó, lưỡi bạn sẽ dính vào nó.",
 		"icon": "throak_nematocyte.png"
 	},
 	"Throak Polyp": {
 		"name": "Throak Polyp",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Nó dường như là một phiên bản nhỏ của Throak. Nó trong Chẳng đáng yêu Chút nào.",
+		"description": "Nó dường như là một phiên bản nhỏ của Throak. Nó trong chẳng đáng yêu chút nào.",
 		"icon": "throak_polyp.png"
 	},
 	"Xúc tu Throak": {
@@ -3600,7 +3600,7 @@ $master.api.item = {
 		"name": "Đá Cây Nắp ấm",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "JollyChomps eat these hard stones and use them to grind up whatever they eat. They even use the stones to somehow convert food into other useful materials!",
+		"description": "Jollychomps eat these hard stones and use them to grind up whatever they eat. They even use the stones to somehow convert food into other useful materials!",
 		"icon": "jolly_gastrolith.png"
 	},
 	"Chất dính Nắp ấm": {
@@ -3614,25 +3614,25 @@ $master.api.item = {
 		"name": "Hạt giống Nắp ấm",
 		"type": "Hạt giống",
 		"rarity": "Tốt",
-		"description": "Cây Nắp ấm tí hon này giống như một đứa bé. Chúng phải mất đi đôi mắt của Chúng bằng cáCh nào đó. Việc này thật vô nghĩa, nhưng đó là việc Chúng phải làm.",
+		"description": "Cây Nắp ấm tí hon này giống như một đứa bé. Chúng phải mất đi đôi mắt của chúng bằng cách nào đó. Việc này thật vô nghĩa, nhưng đó là việc chúng phải làm.",
 		"icon": "jollybab.png"
 	},
 	"Thịt Nắp ấm": {
 		"name": "Thịt Nắp ấm",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Thứ tuyệt phẩm này được nôn ra từ miệng của Cây Nắp ấm trong điều kiện thíCh hợp. Nó có mùi và vị như trái cây!",
+		"description": "Thứ tuyệt phẩm này được nôn ra từ miệng của Cây Nắp ấm trong điều kiện thích hợp. Nó có mùi và vị như trái cây!",
 		"icon": "jolly.png"
 	},
 	"Tơ Huyết khối": {
 		"name": "Tơ Huyết khối",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Cường hoá Bơm Huyết khối với vài nguyên liệu từ Bawg Cho phép bạn Chiết táCh ra loại sợi dai này. Mặn thật đấy!",
+		"description": "Cường hoá Bơm Huyết khối với vài nguyên liệu từ Bawg cho phép bạn chiết tách ra loại sợi dai này. Mặn thật đấy!",
 		"recipe": {
 			"name": "Bơm Huyết khối",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Con nhộng",
 				"qty": 3
@@ -3647,42 +3647,42 @@ $master.api.item = {
 		"name": "Khúc cây Bụt mọc",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Sinh vật nhỏ bé nào mọc lên từ lỗ Chân lông của Bawg. Nó trông có vẻ không vui khi bị di Chuyển khỏi nhà của nó, nhưng bạn không quan tâm.",
+		"description": "Sinh vật nhỏ bé nào mọc lên từ lỗ chân lông của Bawg. Nó trông có vẻ không vui khi bị di chuyển khỏi nhà của nó, nhưng bạn không quan tâm.",
 		"icon": "extracted_tuber.png"
 	},
 	"Tảo Phát Quang": {
 		"name": "Tảo Phát Quang",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Thứ sinh vật này bằng cáCh nào đó có thể sống trong axit của Bawg. Nó biến axit thành Chất phát quang sinh học, và dụ những Sinh Vật Phù Du bất cẩn để ăn thịt.",
+		"description": "Thứ sinh vật này bằng cách nào đó có thể sống trong axit của Bawg. Nó biến axit thành chất phát quang sinh học, và dụ những Sinh Vật Phù Du bất cẩn để ăn thịt.",
 		"icon": "luminalgae.png"
 	},
 	"Ống san hô": {
 		"name": "Ống san hô",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Có những sinh vật nhỏ bé sống trong đây. Chúng không thíCh rời khỏi môi trường axit của Bawg, nhưng bạn lại không quan tâm đến điều đó.",
+		"description": "Có những sinh vật nhỏ bé sống trong đây. Chúng không thích rời khỏi môi trường axit của Bawg, nhưng bạn lại không quan tâm đến điều đó.",
 		"icon": "coral_tubes.png"
 	},
 	"Xương cá đầu búa": {
 		"name": "Xương cá đầu búa",
 		"type": "Tiêu Hao",
 		"rarity": "Bình Thường",
-		"description": "Axít từ Bawg đã thanh lọc ra tinh Chất hồi phục từ con Cá đầu búa này. Hồi 2,234 HP!",
+		"description": "Axít từ Bawg đã thanh lọc ra tinh chất hồi phục từ con Cá đầu búa này. Hồi 2,234 HP!",
 		"icon": "skeletonized_fathead.png"
 	},
 	"Đỉa": {
 		"name": "Đỉa",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Ma cà rồng tự bám mình vào bất cứ thứ gì nhưng không thể tự nhúng mình xuống nước. Răng nanh làm Chúng rất khó gỡ ra. May thay, Chúng đang kẹt.",
+		"description": "Ma cà rồng tự bám mình vào bất cứ thứ gì nhưng không thể tự nhúng mình xuống nước. Răng nanh làm chúng rất khó gỡ ra. May thay, chúng đang kẹt.",
 		"icon": "vampry.png"
 	},
 	"Sinh Vật Phù Du": {
 		"name": "Sinh Vật Phù Du",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Siêu Cấp",
-		"description": "Sinh vật này Chỉ sống, trôi nổi và bị ăn. Một cuộc sống thật ngu ngốc.",
+		"description": "Sinh vật này chỉ sống, trôi nổi và bị ăn. Một cuộc sống thật ngu ngốc.",
 		"icon": "plonktan.png"
 	},
 	"Sợi trục Tĩnh điện": {
@@ -3696,21 +3696,21 @@ $master.api.item = {
 		"name": "Gai cột sống",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Nhánh Cây Tĩnh điện thường Chọc vào mắt những sinh vật lai vãng gần nó. Nếu bạn nhìn gần quá nó sẽ Chọc vào mắt bạn. Bạn không biết nó sẽ làm gì đâu.",
+		"description": "Nhánh Cây Tĩnh điện thường chọc vào mắt những sinh vật lai vãng gần nó. Nếu bạn nhìn gần quá nó sẽ chọc vào mắt bạn. Bạn không biết nó sẽ làm gì đâu.",
 		"icon": "dendrite_sPine.png"
 	},
-	"Mô cáCh điện": {
-		"name": "Mô cáCh điện",
+	"Mô cách điện": {
+		"name": "Mô cách điện",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Thứ mô xốp này có thể được táCh ra từ các Cây Tĩnh điện, và nó mang lại khả năng cáCh điện tuyệt vời!",
+		"description": "Thứ mô xốp này có thể được tách ra từ các Cây Tĩnh điện, và nó mang lại khả năng cách điện tuyệt vời!",
 		"icon": "myelar.png"
 	},
 	"Hạt giống Tĩnh điện": {
 		"name": "Hạt giống Tĩnh điện",
 		"type": "Hạt giống",
 		"rarity": "Tốt",
-		"description": "Hạt nhỏ này có thể bị kẹt vào thịt của Bawg và phát triển thành một Cây Tĩnh điện mới. Thật kì quặc khi bạn nghĩ về \"Chuyện đó\". Bớt nghĩ bậy bạ đi ",
+		"description": "Hạt nhỏ này có thể bị kẹt vào thịt của Bawg và phát triển thành một Cây Tĩnh điện mới. Thật kì quặc khi bạn nghĩ về \"chuyện đó\". Bớt nghĩ bậy bạ đi ",
 		"icon": "nurva_seed.png"
 	},
 	"Rìu Cá tím": {
@@ -3718,14 +3718,14 @@ $master.api.item = {
 		"type": "Vũ khí",
 		"level": "Cấp 21",
 		"rarity": "Tối Thượng",
-		"description": "Rìu cấp 21. Bạn không biết phải giữ nó bằng gì. Nó rất sắc, tới nỗi không có gì có thể Chạm vào nó.",
+		"description": "Rìu cấp 21. Bạn không biết phải giữ nó bằng gì. Nó rất sắc, tới nỗi không có gì có thể chạm vào nó.",
 		"icon": "jackagong.png"
 	},
 	"Râu Bamli": {
 		"name": "Râu Bamli",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Bộ râu huyền thoại của một con Bamli. Khi bạn Chăm Chú nhìn, nó sẽ phản Chiếu lại hình ảnh của linh hồn bạn.",
+		"description": "Bộ râu huyền thoại của một con Bamli. Khi bạn chăm chú nhìn, nó sẽ phản chiếu lại hình ảnh của linh hồn bạn.",
 		"icon": "bamstache.png"
 	},
 	"Sừng Bamli": {
@@ -3746,7 +3746,7 @@ $master.api.item = {
 		"name": "Hormone lạ",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Những con Bamli đã thuần hoá sản sinh ra rất nhiều hormone này. Nhưng ta hoàn toàn không biết Chúng dùng làm gì.",
+		"description": "Những con Bamli đã thuần hoá sản sinh ra rất nhiều hormone này. Nhưng ta hoàn toàn không biết chúng dùng làm gì.",
 		"recipe": {
 			"name": "Bamli",
 			"output_qty": 1,
@@ -3772,7 +3772,7 @@ $master.api.item = {
 		"name": "Mỡ Vomma",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Vomma được bao phủ bởi những thớ thịt. Mục đíCh Chính của Chúng có vẻ là Chỉ để trang trí. Vomma cái rất thíCh những con đực 'nhiều thịt'.",
+		"description": "Vomma được bao phủ bởi những thớ thịt. Mục đích chính của chúng có vẻ là chỉ để trang trí. Vomma cái rất thích những con đực 'nhiều thịt'.",
 		"icon": "vlap.png"
 	},
 	"Bóng gelatin": {
@@ -3798,106 +3798,106 @@ $master.api.item = {
 		"name": "Ch*m Vomma",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Đây là nơi những con Vomma con được tạo ra. Bạn không Chắc tại sao lại cảm thấy bị ép buộc nhặt nó lên và mang nó đi xung quanh.",
+		"description": "Đây là nơi những con Vomma con được tạo ra. Bạn không chắc tại sao lại cảm thấy bị ép buộc nhặt nó lên và mang nó đi xung quanh.",
 		"icon": "vomma_babymaker.png"
 	},
 	"Hố câu Bawg": {
 		"name": "Hố câu Bawg",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Thứ gì đó đang Chuyển động dưới làn axít...",
+		"description": "Thứ gì đó đang chuyển động dưới làn axít...",
 		"icon": "bawg_fishing.png",
 		"drop": ["Đỉa", "Xương cá đầu búa", "Ống san hô", "Sinh Vật Phù Du", "Tảo Phát Quang", "Rìu Cá tím"]
 	},
-	"MạCh Bawg": {
-		"name": "MạCh Bawg",
+	"Mạch Bawg": {
+		"name": "Mạch Bawg",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "MạCh này mang một Chất lỏng xanh đi xung quanh trong cơ thể Bawg. Nó thật sự co giãn và cực kì đàn hồi. Bạn có lẽ có thể quất thứ gì đó với nó!",
+		"description": "Mạch này mang một chất lỏng xanh đi xung quanh trong cơ thể Bawg. Nó thật sự co giãn và cực kì đàn hồi. Bạn có lẽ có thể quất thứ gì đó với nó!",
 		"icon": "blube.png"
 	},
 	"Rận hút máu": {
 		"name": "Rận hút máu",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Nhóc tí nị này bám vào MạCh Bawg và hút máu. Việc đó khá thô bỉ, nhưng có vẻ nhóc đó không bận tâm.",
+		"description": "Nhóc tí nị này bám vào Mạch Bawg và hút máu. Việc đó khá thô bỉ, nhưng có vẻ nhóc đó không bận tâm.",
 		"icon": "blood_louse.png"
 	},
 	"Bọng mỡ": {
 		"name": "Bọng mỡ",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Gãy ra từ một nhánh của Cây Ngưng mạCh, cái túi Chảy xệ này Chứa đầy mỡ trong đấy.",
+		"description": "Gãy ra từ một nhánh của Cây Ngưng mạch, cái túi chảy xệ này chứa đầy mỡ trong đấy.",
 		"icon": "sagtatoe.png"
 	},
-	"Hạt giống Ngưng mạCh": {
-		"name": "Hạt giống Ngưng mạCh",
+	"Hạt giống Ngưng mạch": {
+		"name": "Hạt giống Ngưng mạch",
 		"type": "Hạt giống",
 		"rarity": "Tốt",
-		"description": "Bằng việc cắm thứ này vào Đất ở Bawg, bạn đã thúc đẩy quá trình tăng trưởng của Cây Ngưng mạCh. Thứ mà sau này bị bạn đập tơi bời ấy.",
+		"description": "Bằng việc cắm thứ này vào Đất ở Bawg, bạn đã thúc đẩy quá trình tăng trưởng của Cây Ngưng mạch. Thứ mà sau này bị bạn đập tơi bời ấy.",
 		"icon": "artree_seed.png"
 	},
 	"Đậu mụn xanh": {
 		"name": "Đậu mụn xanh",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Sau khi bứt thứ này ra từ Chòm hạt của Cây Đậu mụn xanh xấu xa, bạn đã có thể quan sát bên trên nó gần hơn. Và bạn kết luận rằng nó gồ ghề.",
+		"description": "Sau khi bứt thứ này ra từ chòm hạt của Cây Đậu mụn xanh xấu xa, bạn đã có thể quan sát bên trên nó gần hơn. Và bạn kết luận rằng nó gồ ghề.",
 		"icon": "bleghpod.png"
 	},
-	"Vỏ Cẩu tíCh": {
-		"name": "Vỏ Cẩu tíCh",
+	"Vỏ Cẩu tích": {
+		"name": "Vỏ Cẩu tích",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Giống như vỏ cây, vỏ từ những sợi lông khổng lồ của Bawg rất cứng và khô. Chúng có vẻ dễ Cháy, nhưng có lẽ mùi sẽ rất kinh khủng.",
+		"description": "Giống như vỏ cây, vỏ từ những sợi lông khổng lồ của Bawg rất cứng và khô. Chúng có vẻ dễ cháy, nhưng có lẽ mùi sẽ rất kinh khủng.",
 		"icon": "hairbark.png"
 	},
-	"Nhánh cây Cẩu tíCh": {
-		"name": "Nhánh cây Cẩu tíCh",
+	"Nhánh cây Cẩu tích": {
+		"name": "Nhánh cây Cẩu tích",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Bawg Chắc Chắn Chưa bao giờ được nghe về Dầu dưỡng tóc.",
+		"description": "Bawg chắc chắn chưa bao giờ được nghe về Dầu dưỡng tóc.",
 		"icon": "split_end.png"
 	},
 	"Quả Téo": {
 		"name": "Quả Téo",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Thứ này được tặng Cho bạn Cho bạn từ một Cây Téo thân thiện. Phải, đúng là vậy đấy. Dành Cho bạn.",
+		"description": "Thứ này được tặng cho bạn cho bạn từ một Cây Téo thân thiện. Phải, đúng là vậy đấy. Dành cho bạn.",
 		"icon": "ayeayes.png"
 	},
 	"Chấy": {
 		"name": "Chấy",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Thứ này được Chôn sâu trong một búi tóc khổng lồ. Chỉ nhìn nó thôi đã làm bạn cảm thấy ngứa ngáy",
+		"description": "Thứ này được chôn sâu trong một búi tóc khổng lồ. Chỉ nhìn nó thôi đã làm bạn cảm thấy ngứa ngáy",
 		"icon": "hair_louse.png"
 	},
 	"Cục vàng": {
 		"name": "Cục vàng",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Bằng cáCh nào đó, những Cây Cự cốt khổng lồ sẽ nhận thấy của Bawg có thể phát triển những mảnh vàng bên trong Chúng. Bạn nên điều tra Chúng nhiều hơn, để phục vụ khoa học.",
+		"description": "Bằng cách nào đó, những Cây Cự cốt khổng lồ sẽ nhận thấy của Bawg có thể phát triển những mảnh vàng bên trong chúng. Bạn nên điều tra chúng nhiều hơn, để phục vụ khoa học.",
 		"icon": "spur_gold.png"
 	},
 	"Vỏ sừng": {
 		"name": "Vỏ sừng",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Bạn đã có thể táCh thứ này ra khỏi một Cây Cự cốt. Nó rất cứng, hình Vỏ sò và bóng loáng. Sẽ rất tuyệt nếu dùng nó để Chế tạo xe.",
+		"description": "Bạn đã có thể tách thứ này ra khỏi một Cây Cự cốt. Nó rất cứng, hình Vỏ sò và bóng loáng. Sẽ rất tuyệt nếu dùng nó để chế tạo xe.",
 		"icon": "grenamel.png"
 	},
 	"Sáp cây Cự cốt": {
 		"name": "Sáp cây Cự cốt",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Bạn đã cố gắng táCh thứ này ra khỏi gốc nền của Cây Cự cốt trước khi phá huỷ nó. Giống kiểu như nha sĩ vậy.",
+		"description": "Bạn đã cố gắng tách thứ này ra khỏi gốc nền của Cây Cự cốt trước khi phá huỷ nó. Giống kiểu như nha sĩ vậy.",
 		"icon": "spur_gum.png"
 	},
 	"Lông mi Wojack": {
 		"name": "Lông mi Wojack",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Thì ra đây là cáCh Wojack di Chuyển dưới Đất. Nó sẽ không ngừng ngọ nguậy.",
+		"description": "Thì ra đây là cách Wojack di chuyển dưới Đất. Nó sẽ không ngừng ngọ nguậy.",
 		"icon": "wojack_cilia.png"
 	},
 	"Giác mạc Wojack": {
@@ -3952,11 +3952,11 @@ $master.api.item = {
 		"type": "Công cụ",
 		"level": "Bậc 1",
 		"rarity": "Bình Thường",
-		"description": "Bay bậc 1. Cái bay này rất tiện Cho việc trồng cây và nhổ nhũng thứ cứng đầu khỏi mặt Đất",
+		"description": "Bay bậc 1. Cái bay này rất tiện cho việc trồng cây và nhổ nhũng thứ cứng đầu khỏi mặt Đất",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 5
@@ -3970,8 +3970,8 @@ $master.api.item = {
 		},
 		"icon": "dusk_trowel.png"
 	},
-	"Cuốc Chim Thùa gai": {
-		"name": "Cuốc Chim Thùa gai",
+	"Cuốc chim Thùa gai": {
+		"name": "Cuốc chim Thùa gai",
 		"type": "Công cụ",
 		"level": "Bậc 3",
 		"rarity": "Bình Thường",
@@ -3979,7 +3979,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Thùa gai",
 				"qty": 2
@@ -3990,7 +3990,7 @@ $master.api.item = {
 				"name": "Cuốc Móng Vuốt",
 				"qty": 1
 			}, {
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 17
 			}]
 		},
@@ -4001,11 +4001,11 @@ $master.api.item = {
 		"type": "Công cụ",
 		"level": "Bậc 4",
 		"rarity": "Bình Thường",
-		"description": "Cưa bậc 4. Râu của Bamli rất cứng và nhám, đến mức có thể Chặt được Cây Cự cốt và Vỏ Cẩu tíCh! Và nhiều thứ khác nữa!",
+		"description": "Cưa bậc 4. Râu của Bamli rất cứng và nhám, đến mức có thể chặt được Cây Cự cốt và Vỏ Cẩu tích! Và nhiều thứ khác nữa!",
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Sừng Bamli",
 				"qty": 32
@@ -4020,23 +4020,23 @@ $master.api.item = {
 				"qty": 1
 			}]
 		},
-		"icon": "sawstaChe.png"
+		"icon": "sawstache.png"
 	},
 	"Cần câu Vỏ xương": {
 		"name": "Cần câu Vỏ xương",
 		"type": "Công cụ",
 		"level": "Bậc 2",
 		"rarity": "Bình Thường",
-		"description": "Cần câu bậc 2. Cần câu này được làm từ các nguyên liệu bền nhất từ Bawg, nên nó có thể Chịu một Chút axít.",
+		"description": "Cần câu bậc 2. Cần câu này được làm từ các nguyên liệu bền nhất từ Bawg, nên nó có thể chịu một chút axít.",
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Quả Téo",
 				"qty": 8
 			}, {
-				"name": "MạCh Bawg",
+				"name": "Mạch Bawg",
 				"qty": 9
 			}, {
 				"name": "Cần Câu Cơ Bản",
@@ -4053,11 +4053,11 @@ $master.api.item = {
 		"type": "Công cụ",
 		"level": "Bậc 3",
 		"rarity": "Bình Thường",
-		"description": "Cưa bậc 3. Thực vật ở Bawg dường như rất đàn hồi để bạn thành thạo việc Chế tạo Cưa Lưỡi Liềm, nhưng thứ bé nhỏ này nên làm nó.",
+		"description": "Cưa bậc 3. Thực vật ở Bawg dường như rất đàn hồi để bạn thành thạo việc chế tạo Cưa Lưỡi Liềm, nhưng thứ bé nhỏ này nên làm nó.",
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cưa Lưỡi Liềm",
 				"qty": 1
@@ -4078,11 +4078,11 @@ $master.api.item = {
 		"name": "Bom nước",
 		"type": "Bom",
 		"rarity": "Bình Thường",
-		"description": "Bằng việc nhồi thêm đồ vào quả Bóng nước, bạn đã có thể ném quả Bóng nước với lực KINH KHỦNG KHIẾP vào hạt giống. Chúng thíCh thứ này mà, phải không?",
+		"description": "Bằng việc nhồi thêm đồ vào quả Bóng nước, bạn đã có thể ném quả Bóng nước với lực KINH KHỦNG KHIẾP vào hạt giống. Chúng thích thứ này mà, phải không?",
 		"recipe": {
 			"name": "Máy bơm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nhánh Chuông gió",
 				"qty": 3
@@ -4104,7 +4104,7 @@ $master.api.item = {
 		"name": "Tường tàu không gian",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Nó Chỉ là cái tường từ con tàu của bạn!",
+		"description": "Nó chỉ là cái tường từ con tàu của bạn!",
 		"icon": "ship_wall.png"
 	},
 	"Bảng Điều Khiển hỏng": {
@@ -4118,8 +4118,8 @@ $master.api.item = {
 		"name": "Cờ lê không gian",
 		"type": "Thiết bị",
 		"rarity": "Bình Thường",
-		"description": "Đây là thứ tuyệt vời để dọn dẹp các mảnh tàu vỡ, và làm Choáng sinh vật ở khoảng cáCh xa!",
-		"icon": "space_wrenCh.png"
+		"description": "Đây là thứ tuyệt vời để dọn dẹp các mảnh tàu vỡ, và làm choáng sinh vật ở khoảng cách xa!",
+		"icon": "space_wrench.png"
 	},
 	"Cửa tàu hỏng": {
 		"name": "Cửa tàu hỏng",
@@ -4139,7 +4139,7 @@ $master.api.item = {
 		"name": "Quỷ lùn giữ cửa",
 		"type": "Đồ Nội Thất",
 		"rarity": "Bình Thường",
-		"description": "Có vẻ ông ta đang nhìn vào linh hồn bạn một cáCh lạnh lùng, với đôi mắt cá Chết.",
+		"description": "Có vẻ ông ta đang nhìn vào linh hồn bạn một cách lạnh lùng, với đôi mắt cá chết.",
 		"icon": "the_g-gnome.png"
 	},
 	"Đèn trên tàu": {
@@ -4165,7 +4165,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mỡ Vomma",
 				"qty": 21
@@ -4184,11 +4184,11 @@ $master.api.item = {
 		"type": "Vũ khí",
 		"level": "Cấp 15",
 		"rarity": "Ngẫu nhiên",
-		"description": "Kiếm cấp 15. Cánh hoa của Wojack nhọn một cáCh dị thường. Bạn tưởng tượng khi đâm Chúng vào ai đó, họ hẳn sẽ rất thốn.",
+		"description": "Kiếm cấp 15. Cánh hoa của Wojack nhọn một cách dị thường. Bạn tưởng tượng khi đâm chúng vào ai đó, họ hẳn sẽ rất thốn.",
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Sợi trục Tĩnh điện",
 				"qty": 5
@@ -4214,7 +4214,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Xúc tu Throak",
 				"qty": 25
@@ -4233,11 +4233,11 @@ $master.api.item = {
 		"type": "Vũ khí",
 		"level": "Cấp 19",
 		"rarity": "Ngẫu nhiên",
-		"description": "Búa cấp 19. Đã tới lúc bạn Cho lũ Snorble nếm mùi túi khí của Chúng.",
+		"description": "Búa cấp 19. Đã tới lúc bạn cho lũ Snorble nếm mùi túi khí của chúng.",
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Thùa gai",
 				"qty": 3
@@ -4256,11 +4256,11 @@ $master.api.item = {
 		"type": "Vũ khí",
 		"level": "Cấp 21",
 		"rarity": "Ngẫu nhiên",
-		"description": "Kiếm cấp 21. Thứ vũ khí này có thể cắt xuyên qua những vật Chất rắn Chắc nhất .... À thì, Chắc là vậy.",
+		"description": "Kiếm cấp 21. Thứ vũ khí này có thể cắt xuyên qua những vật chất rắn chắc nhất .... À thì, chắc là vậy.",
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Ống san hô",
 				"qty": 2
@@ -4282,11 +4282,11 @@ $master.api.item = {
 		"type": "Vũ khí",
 		"level": "Cấp 23",
 		"rarity": "Ngẫu nhiên",
-		"description": "Rìu cấp 23. Bằng cáCh khai thác sức mạnh của Bamli, bạn đã rèn được cây rìu có thể đánh gục TẤT CẢ NHỮNG AI CẢN ĐƯỜNG BẠN! Hầu hết thôi.",
+		"description": "Rìu cấp 23. Bằng cách khai thác sức mạnh của Bamli, bạn đã rèn được cây rìu có thể đánh gục TẤT CẢ NHỮNG AI CẢN ĐƯỜNG BẠN! Hầu hết thôi.",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cục vàng",
 				"qty": 2
@@ -4307,11 +4307,11 @@ $master.api.item = {
 		"name": "Xô Bamli",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Siêu Cấp",
-		"description": "Vì một vài lý do, lũ Bamli bị ám ảnh một cáCh bất thường bởi những thứ có hình cái xô. Tiến hoá Bamli của bạn thành dạng SIÊU CẤP!",
+		"description": "Vì một vài lý do, lũ Bamli bị ám ảnh một cách bất thường bởi những thứ có hình cái xô. Tiến hoá Bamli của bạn thành dạng SIÊU CẤP!",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mào Bamli",
 				"qty": 65
@@ -4322,7 +4322,7 @@ $master.api.item = {
 				"name": "Cục vàng",
 				"qty": 10
 			}, {
-				"name": "Tinh Chất Bamli [Xảo quyệt]",
+				"name": "Tinh chất Bamli [Xảo quyệt]",
 				"qty": 22
 			}]
 		},
@@ -4336,7 +4336,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Wompit",
 				"qty": 27
@@ -4348,11 +4348,11 @@ $master.api.item = {
 		"name": "Gối phát quang",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường ",
-		"description": "Nó không Chỉ nhìn rất thoải mái, mà nó còn phát ra ánh sáng khiến bạn buồn nôn!",
+		"description": "Nó không chỉ nhìn rất thoải mái, mà nó còn phát ra ánh sáng khiến bạn buồn nôn!",
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Wompit",
 				"qty": 9
@@ -4374,7 +4374,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Wompit",
 				"qty": 9
@@ -4392,11 +4392,11 @@ $master.api.item = {
 		"name": "Glidopus nhồi bông",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Thứ trông như Glidopus Chết này sẽ khiến phòng kháCh của bạn nổi bật hơn, hoặc điều tương tự nhưng ngược lại.",
+		"description": "Thứ trông như Glidopus chết này sẽ khiến phòng khách của bạn nổi bật hơn, hoặc điều tương tự nhưng ngược lại.",
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vòi Glidopus",
 				"qty": 9
@@ -4417,11 +4417,11 @@ $master.api.item = {
 		"name": "Glutterfly nhồi bông",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Nếu bạn đặt con Glutterfly nhồi bông này ở đâu đó một cáCh có Chiến lược, nó sẽ trông rất đáng sợ.",
+		"description": "Nếu bạn đặt con Glutterfly nhồi bông này ở đâu đó một cách có chiến lược, nó sẽ trông rất đáng sợ.",
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Kitin",
 				"qty": 6
@@ -4443,7 +4443,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Wompit",
 				"qty": 14
@@ -4452,17 +4452,17 @@ $master.api.item = {
 				"qty": 7
 			}]
 		},
-		"icon": "leather_bagChair.png"
+		"icon": "leather_bagchair.png"
 	},
 	"Gối đệm phát sáng": {
 		"name": "Gối đệm phát sáng",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Chỉ ngồi trên Chiếc ghế này thôi có thể khiến một số Chỗ trên cơ thể bạn nhiễm phóng xạ. Phóng xạ, thật đáng sợ.",
+		"description": "Chỉ ngồi trên chiếc ghế này thôi có thể khiến một số chỗ trên cơ thể bạn nhiễm phóng xạ. Phóng xạ, thật đáng sợ.",
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Wompit",
 				"qty": 7
@@ -4477,17 +4477,17 @@ $master.api.item = {
 				"qty": 3
 			}]
 		},
-		"icon": "glowy_bagChair.png"
+		"icon": "glowy_bagchair.png"
 	},
 	"Cuộn BS": {
 		"name": "Cuộn BS",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Với khả năng VIẾT TRÊN GIẤY THÔ, giờ bạn có thể truyền đạt tình yêu của mình thông qua Cục Chuyển phát. Làm tốt lắm!",
+		"description": "Với khả năng VIẾT TRÊN GIẤY THÔ, giờ bạn có thể truyền đạt tình yêu của mình thông qua Cục chuyển phát. Làm tốt lắm!",
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 9
@@ -4510,7 +4510,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Thịt Nắp ấm",
 				"qty": 7
@@ -4533,7 +4533,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá Cây Nắp ấm",
 				"qty": 3
@@ -4555,11 +4555,11 @@ $master.api.item = {
 		"type": "Quần giáp",
 		"level": "Cấp 13",
 		"rarity": "Ngẫu nhiên",
-		"description": "Quần cấp 13. Những vết xẻ này được phô ra ở phía sau, Cho bạn cảm giác thoáng mát, dễ Chịu.",
+		"description": "Quần cấp 13. Những vết xẻ này được phô ra ở phía sau, cho bạn cảm giác thoáng mát, dễ chịu.",
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Thịt Nắp ấm",
 				"qty": 5
@@ -4571,7 +4571,7 @@ $master.api.item = {
 				"qty": 4
 			}]
 		},
-		"icon": "vlapChaps.png"
+		"icon": "vlapchaps.png"
 	},
 	"Mũ Cao bồi": {
 		"name": "Mũ Cao bồi",
@@ -4582,7 +4582,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cánh Wat",
 				"qty": 7
@@ -4598,13 +4598,13 @@ $master.api.item = {
 	},
 	"Kính Nắp ấm": {
 		"name": "Kính Nắp ấm",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Sử dụng khả năng cô đặc của Chất dính Nắp ấm, bạn có thể Chế tạo những thứ tinh xảo tới nỗi muốn mù mắt khi nghĩ về Chúng.",
+		"description": "Sử dụng khả năng cô đặc của Chất dính Nắp ấm, bạn có thể chế tạo những thứ tinh xảo tới nỗi muốn mù mắt khi nghĩ về chúng.",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mỡ Vomma",
 				"qty": 23
@@ -4629,7 +4629,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mỡ Vomma",
 				"qty": 131
@@ -4640,7 +4640,7 @@ $master.api.item = {
 				"name": "Actiso",
 				"qty": 40
 			}, {
-				"name": "Tinh Chất Vomma [Nóng nảy]",
+				"name": "Tinh chất Vomma [Nóng nảy]",
 				"qty": 14
 			}]
 		},
@@ -4650,11 +4650,11 @@ $master.api.item = {
 		"name": "Sàn siêu thấm",
 		"type": "Sàn",
 		"rarity": "Bình Thường",
-		"description": "Sàn nhà phát ra tiếng \"phạCh phạCh\" khó tả khi đặt Chân lên nó, nhưng thế lại khá hay.",
+		"description": "Sàn nhà phát ra tiếng \"phạch phạch\" khó tả khi đặt chân lên nó, nhưng thế lại khá hay.",
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vòi Glidopus",
 				"qty": 10
@@ -4670,23 +4670,23 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Kitin",
 				"qty": 10
 			}]
 		},
-		"icon": "Chitin_floor.png"
+		"icon": "chitin_floor.png"
 	},
 	"Sàn Cự cốt": {
 		"name": "Sàn Cự cốt",
 		"type": "Sàn",
 		"rarity": "Bình Thường",
-		"description": "Không có gì giống với xương của một sinh vật ngoài hành tinh để thật sự tạo điểm nhấn Cho căn phòng.",
+		"description": "Không có gì giống với xương của một sinh vật ngoài hành tinh để thật sự tạo điểm nhấn cho căn phòng.",
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Xương Wompit",
 				"qty": 10
@@ -4701,8 +4701,8 @@ $master.api.item = {
 		"name": "Rương đá",
 		"type": "Rương",
 		"rarity": "Bình Thường",
-		"description": "Cái rương to đùng này có thể Chứa bất cứ thứ gì! Trừ tình yêu. Không gì có thể Chứa đựng được tình yêu cả.",
-		"icon": "stone_Chest.png"
+		"description": "Cái rương to đùng này có thể chứa bất cứ thứ gì! Trừ tình yêu. Không gì có thể chứa đựng được tình yêu cả.",
+		"icon": "stone_chest.png"
 	},
 	"Mũ xác ướp": {
 		"name": "Mũ xác ướp",
@@ -4713,7 +4713,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Xúc tu Throak",
 				"qty": 17
@@ -4724,7 +4724,7 @@ $master.api.item = {
 				"name": "Ch*m Vomma",
 				"qty": 3
 			}, {
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 15
 			}]
 		},
@@ -4735,11 +4735,11 @@ $master.api.item = {
 		"type": "Áo giáp",
 		"level": "Cấp 17",
 		"rarity": "Ngẫu nhiên",
-		"description": "Giáp ngực cấp 17. Những cái giác hút trên xúc tu của Throak liên tục xoa bóp lưng bạn. Rất dễ Chịu..",
+		"description": "Giáp ngực cấp 17. Những cái giác hút trên xúc tu của Throak liên tục xoa bóp lưng bạn. Rất dễ chịu..",
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Xúc tu Throak",
 				"qty": 20
@@ -4758,11 +4758,11 @@ $master.api.item = {
 		"type": "Găng tay",
 		"level": "Cấp17",
 		"rarity": "Ngẫu nhiên",
-		"description": "Găng tay cấp 17. Các xúc tu phản ứng với các Chuyển động của bạn và làm bạn cảm thấy mạnh mẽ và tuyệt vời hơn 30%.",
+		"description": "Găng tay cấp 17. Các xúc tu phản ứng với các chuyển động của bạn và làm bạn cảm thấy mạnh mẽ và tuyệt vời hơn 30%.",
 		"recipe": {
 			"name": "Khung cưởi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Xúc tu Throak",
 				"qty": 25
@@ -4778,11 +4778,11 @@ $master.api.item = {
 		"type": "Quần giáp",
 		"level": "Cấp 17",
 		"rarity": "Ngẫu nhiên",
-		"description": "Quần cấp 17. Bằng cáCh gắn lông mi vào Chân, bạn cảm thấy như đang lướt đi trên mặt Đất. Nghe vô lý nhưng lại rất thuyết phục.",
+		"description": "Quần cấp 17. Bằng cách gắn lông mi vào chân, bạn cảm thấy như đang lướt đi trên mặt Đất. Nghe vô lý nhưng lại rất thuyết phục.",
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Xúc tu Throak",
 				"qty": 13
@@ -4796,18 +4796,18 @@ $master.api.item = {
 		},
 		"icon": "tentaclaps.png"
 	},
-	"Mũ cáCh điện": {
-		"name": "Mũ cáCh điện",
+	"Mũ cách điện": {
+		"name": "Mũ cách điện",
 		"type": "Mũ giáp",
 		"level": "Cấp 15",
 		"rarity": "Ngẫu nhiên",
-		"description": "Mũ giáp cấp 15. Bản Chất cáCh điện của Mô cáCh điện giữ Cho mặt bạn luôn nóng hổi, như một viên marshmallow nướng quá lửa. Khá là thốn đấy.",
+		"description": "Mũ giáp cấp 15. Bản chất cách điện của Mô cách điện giữ cho mặt bạn luôn nóng hổi, như một viên marshmallow nướng quá lửa. Khá là thốn đấy.",
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 19
 			}, {
 				"name": "Đậu mụn xanh",
@@ -4819,8 +4819,8 @@ $master.api.item = {
 		},
 		"icon": "myelar_faceholder.png"
 	},
-	"Quần cáCh điện": {
-		"name": "Quần cáCh điện",
+	"Quần cách điện": {
+		"name": "Quần cách điện",
 		"type": "Quần giáp",
 		"level": "Cấp 15",
 		"rarity": "Ngẫu Nhiên",
@@ -4828,9 +4828,9 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 16
 			}, {
 				"name": "Cánh hoa Wojack",
@@ -4844,13 +4844,13 @@ $master.api.item = {
 		"type": "Áo giáp",
 		"level": "Cấp 15",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Giáp ngực cấp 15. Sự co bóp của Mô cáCh điện khiến bạn vô cùng khó thở, nhưng bạn vẫn thấy nên mặc thì hơn.",
+		"description": "Giáp ngực cấp 15. Sự co bóp của Mô cách điện khiến bạn vô cùng khó thở, nhưng bạn vẫn thấy nên mặc thì hơn.",
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 25
 			}, {
 				"name": "Cánh hoa Wojack",
@@ -4859,8 +4859,8 @@ $master.api.item = {
 		},
 		"icon": "myelirt.png"
 	},
-	"Găng tay cáCh điện": {
-		"name": "Găng tay cáCh điện",
+	"Găng tay cách điện": {
+		"name": "Găng tay cách điện",
 		"type": "Găng tay",
 		"level": "Cấp 15",
 		"rarity": "Ngẫu Nhiên",
@@ -4868,12 +4868,12 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vòi Wojack",
 				"qty": 9
 			}, {
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 14
 			}, {
 				"name": "Vụn xương",
@@ -4884,13 +4884,13 @@ $master.api.item = {
 	},
 	"Khung cửi vi sinh": {
 		"name": "Khung cửi vi sinh",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Bằng cáCh đan nhanh tất cả các loại nội tạng mảnh xoắn lại, bạn đã cố gắng để tạo ra một Trạm Chế tạo hoàn hảo!",
+		"description": "Bằng cách đan nhanh tất cả các loại nội tạng mảnh xoắn lại, bạn đã cố gắng để tạo ra một Trạm chế tạo hoàn hảo!",
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Xúc tu Throak",
 				"qty": 27
@@ -4909,13 +4909,13 @@ $master.api.item = {
 	},
 	"Cái Vạc": {
 		"name": "Cái Vạc",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Đậu mụn xanh được nghiền dập và kéo sợi để tạo ra một vật Chứa hoàn hảo!",
+		"description": "Đậu mụn xanh được nghiền dập và kéo sợi để tạo ra một vật chứa hoàn hảo!",
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đậu mụn xanh",
 				"qty": 4
@@ -4938,7 +4938,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vụn xương",
 				"qty": 12
@@ -4959,11 +4959,11 @@ $master.api.item = {
 		"name": "Cụm cáp xúc tu",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Siêu Cấp",
-		"description": "Throak non thường mất kiểm soát những xúc tu của Chúng. Nhưng không phải với thứ này! Tiến hoá Throak của bạn thành dạng SIÊU CẤP!",
+		"description": "Throak non thường mất kiểm soát những xúc tu của chúng. Nhưng không phải với thứ này! Tiến hoá Throak của bạn thành dạng SIÊU CẤP!",
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Xúc tu Throak",
 				"qty": 157
@@ -4971,10 +4971,10 @@ $master.api.item = {
 				"name": "Throak Polyp",
 				"qty": 29
 			}, {
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 137
 			}, {
-				"name": "Tinh Chất Throak [Độc ác]",
+				"name": "Tinh chất Throak [Độc ác]",
 				"qty": 15
 			}]
 		},
@@ -4984,13 +4984,13 @@ $master.api.item = {
 		"name": "Xà phòng Wojack",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Siêu Cấp",
-		"description": "Mặc dù trông Chúng ghê tởm, Nhưng lũ Wojack bị ám ảnh bởi sự sạCh sẽ! Tiến hoá Wojack của bạn thành dạng SIÊU CẤP!",
+		"description": "Mặc dù trông chúng ghê tởm, Nhưng lũ Wojack bị ám ảnh bởi sự sạch sẽ! Tiến hoá Wojack của bạn thành dạng SIÊU CẤP!",
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Tinh Chất Wojack [Bết dính]",
+				"name": "Tinh chất Wojack [Bết dính]",
 				"qty": 15
 			}, {
 				"name": "Cánh hoa Wojack",
@@ -5007,18 +5007,18 @@ $master.api.item = {
 	},
 	"Lò rèn Năng lượng": {
 		"name": "Lò rèn Năng lượng",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
 		"description": "Cái máy này sẽ giúp bạn khai thác sức mạnh của tinh thể nên bạn có thể sửa đổi trang bị!",
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Tinh thể Năng lượng",
 				"qty": 48
 			}, {
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 19
 			}, {
 				"name": "Da Zug nhiễm điện",
@@ -5036,7 +5036,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Snorble",
 				"qty": 10
@@ -5058,11 +5058,11 @@ $master.api.item = {
 		"type": "Áo giáp",
 		"level": "Cấp19",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Giáp ngực cấp 19. Các túi khí bảo vệ làn da ngực tuyệt vời của bạn khỏi các thiệt hại sắp tới, cộng thêm một Chút hương liệu từ Wojack sẽ tẩy sạCh da Chết tới từng lỗ Chân lông. Đúng là hàng công nghệ cao!",
+		"description": "Giáp ngực cấp 19. Các túi khí bảo vệ làn da ngực tuyệt vời của bạn khỏi các thiệt hại sắp tới, cộng thêm một chút hương liệu từ Wojack sẽ tẩy sạch da chết tới từng lỗ chân lông. Đúng là hàng công nghệ cao!",
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Snorble",
 				"qty": 9
@@ -5070,7 +5070,7 @@ $master.api.item = {
 				"name": "Túi khí Snorble",
 				"qty": 5
 			}, {
-				"name": "MạCh Bawg",
+				"name": "Mạch Bawg",
 				"qty": 7
 			}, {
 				"name": "Hương liệu Wojack",
@@ -5088,7 +5088,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Snorble",
 				"qty": 10
@@ -5096,7 +5096,7 @@ $master.api.item = {
 				"name": "Túi khí Snorble",
 				"qty": 5
 			}, {
-				"name": "MạCh Bawg",
+				"name": "Mạch Bawg",
 				"qty": 8
 			}]
 		},
@@ -5107,11 +5107,11 @@ $master.api.item = {
 		"type": "Quần giáp",
 		"level": "Cấp 19",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Quần cấp 19. Đôi Chân bạn sẽ cảm thấy biết ơn bạn khi ngập trong dịCh thơm của những Quả Téo... Ahhhhh... đây là đâu ?",
+		"description": "Quần cấp 19. Đôi chân bạn sẽ cảm thấy biết ơn bạn khi ngập trong dịch thơm của những Quả Téo... Ahhhhh... đây là đâu ?",
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Snorble",
 				"qty": 11
@@ -5122,8 +5122,8 @@ $master.api.item = {
 		},
 		"icon": "snoots.png"
 	},
-	"Mũ Xuất kíCh": {
-		"name": "Mũ Xuất kíCh",
+	"Mũ Xuất kích": {
+		"name": "Mũ Xuất kích",
 		"type": "Mũ giáp",
 		"level": "Cấp 21",
 		"rarity": "Ngẫu Nhiên",
@@ -5131,7 +5131,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ xương Satgat",
 				"qty": 11
@@ -5153,11 +5153,11 @@ $master.api.item = {
 		"type": "Áo giáp",
 		"level": "Cấp 21",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Giáp ngực cấp 21. Dù trông có vẻ đồ sộ, nó thực sự khá nhẹ. Nó thậm Chí còn tuân theo khí động lực học!",
+		"description": "Giáp ngực cấp 21. Dù trông có vẻ đồ sộ, nó thực sự khá nhẹ. Nó thậm chí còn tuân theo khí động lực học!",
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ xương Satgat",
 				"qty": 10
@@ -5172,10 +5172,10 @@ $master.api.item = {
 				"qty": 1
 			}]
 		},
-		"icon": "exoChest.png"
+		"icon": "exochest.png"
 	},
-	"Găng tay Xuất kíCh": {
-		"name": "Găng tay Xuất kíCh",
+	"Găng tay Xuất kích.: {
+		"name": "Găng tay Xuất kích.,
 		"type": "Găng tay",
 		"level": "Cấp 21",
 		"rarity": "Ngẫu Nhiên",
@@ -5183,7 +5183,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ xương Satgat",
 				"qty": 8
@@ -5200,8 +5200,8 @@ $master.api.item = {
 		},
 		"icon": "exosleeves.png"
 	},
-	"Quần Xuất kíCh": {
-		"name": "Quần Xuất kíCh",
+	"Quần Xuất kích": {
+		"name": "Quần Xuất kích",
 		"type": "Quần giáp",
 		"level": "Cấp 21",
 		"rarity": "Ngẫu Nhiên",
@@ -5209,7 +5209,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ xương Satgat",
 				"qty": 8
@@ -5227,11 +5227,11 @@ $master.api.item = {
 		"name": "Bình hồi máu Pha lê Hoàng hôn",
 		"type": "Tiêu Hao",
 		"rarity": "Tốt",
-		"description": "Khi được nấu thật nhẹ nhàng, Cá đầu búa Cho ra một Chất lỏng thơm ngon, thứ sẽ hồi 1,609 HP.",
+		"description": "Khi được nấu thật nhẹ nhàng, Cá đầu búa cho ra một chất lỏng thơm ngon, thứ sẽ hồi 1,609 HP.",
 		"recipe": {
 			"name": "Bếp lửa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 3
@@ -5246,13 +5246,13 @@ $master.api.item = {
 		"name": "Đai Snorble",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Siêu Cấp",
-		"description": "Snorble có nhận thức rất tốt về an toàn bản thân. Vì thế Chúng đã tiến hoá với những túi khí khổng lồ trên cơ thể. Tiến hoá Snorble của bạn thành dạng SIÊU CẤP.",
+		"description": "Snorble có nhận thức rất tốt về an toàn bản thân. Vì thế chúng đã tiến hoá với những túi khí khổng lồ trên cơ thể. Tiến hoá Snorble của bạn thành dạng SIÊU CẤP.",
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Tinh Chất Snorble [Cháy nắng]",
+				"name": "Tinh chất Snorble [Cháy nắng]",
 				"qty": 9
 			}, {
 				"name": "Da Snorble",
@@ -5261,7 +5261,7 @@ $master.api.item = {
 				"name": "Khúc cây Bụt mọc",
 				"qty": 7
 			}, {
-				"name": "MạCh Bawg",
+				"name": "Mạch Bawg",
 				"qty": 73
 			}]
 		},
@@ -5271,11 +5271,11 @@ $master.api.item = {
 		"name": "Bánh phô mai mốc",
 		"type": "Thức ăn sinh vật",
 		"rarity": "Bình Thường",
-		"description": "Nhồi đầy một trái Đậu mụn xanh với Chất dính Nắp ấm? Ý hay đấy! Cường hoá 15% tỉ lệ đánh Chí mạng của pet trong 20 phút.",
+		"description": "Nhồi đầy một trái Đậu mụn xanh với Chất dính Nắp ấm? Ý hay đấy! Cường hoá 15% tỉ lệ đánh chí mạng của pet trong 20 phút.",
 		"recipe": {
 			"name": "Cái Vạc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đậu mụn xanh",
 				"qty": 1
@@ -5283,7 +5283,7 @@ $master.api.item = {
 				"name": "Chất dính Nắp ấm",
 				"qty": 1
 			}, {
-				"name": "Tinh Chất Wojack [Bết dính]",
+				"name": "Tinh chất Wojack [Bết dính]",
 				"qty": 1
 			}]
 		},
@@ -5291,18 +5291,18 @@ $master.api.item = {
 	},
 	"Bơm Huyết khối": {
 		"name": "Bơm Huyết khối",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Bằng cáCh đặt cái bơm này lên Huyết khối, bạn có thể khai thác mọi thứ hữu íCh nằm ở bên trong!",
+		"description": "Bằng cách đặt cái bơm này lên Huyết khối, bạn có thể khai thác mọi thứ hữu ích nằm ở bên trong!",
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Túi khí Snorble",
 				"qty": 9
 			}, {
-				"name": "MạCh Bawg",
+				"name": "Mạch Bawg",
 				"qty": 14
 			}, {
 				"name": "Quả Téo",
@@ -5318,11 +5318,11 @@ $master.api.item = {
 		"name": "Mặt nạ quyến rũ",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Siêu Cấp",
-		"description": "Satgat tự ý thức được về khuôn mặt đần độn của mình, vì thế Chúng luôn cố gắng để đảm bảo Che đi khuôn mặt Chúng! Tiến hoá Satgat của bạn thành dạng SIÊU CẤP!",
+		"description": "Satgat tự ý thức được về khuôn mặt đần độn của mình, vì thế chúng luôn cố gắng để đảm bảo che đi khuôn mặt chúng! Tiến hoá Satgat của bạn thành dạng SIÊU CẤP!",
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ xương Satgat",
 				"qty": 101
@@ -5330,7 +5330,7 @@ $master.api.item = {
 				"name": "Sinh Vật Phù Du",
 				"qty": 4
 			}, {
-				"name": "Tinh Chất Satgat [Nhạy cảm]",
+				"name": "Tinh chất Satgat [Nhạy cảm]",
 				"qty": 8
 			}, {
 				"name": "Ruột Satgat",
@@ -5341,13 +5341,13 @@ $master.api.item = {
 	},
 	"Cái Đe Cứng": {
 		"name": "Cái Đe Cứng",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Râu của Bamli cực kì mạnh, bạn có thể dùng nó để BẺ CONG MỌI THỨ THEO Ý THÍCh! Nó cũng rất hấp dẫn.",
+		"description": "Râu của Bamli cực kì mạnh, bạn có thể dùng nó để BẺ CONG MỌI THỨ THEO Ý THÍCH! Nó cũng rất hấp dẫn.",
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Tơ Huyết khối",
 				"qty": 7
@@ -5368,11 +5368,11 @@ $master.api.item = {
 		"name": "Biển gỗ",
 		"type": "Biển hiệu",
 		"rarity": "Bình Thường",
-		"description": "Bạn đã Chế biến tấm gỗ nên giờ bạn có thể viết và tẩy trên nó! Giờ bạn có thể đánh nhãn một phần của bản đồ.",
+		"description": "Bạn đã chế biến tấm gỗ nên giờ bạn có thể viết và tẩy trên nó! Giờ bạn có thể đánh nhãn một phần của bản đồ.",
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 1
@@ -5388,11 +5388,11 @@ $master.api.item = {
 		"type": "Quần giáp",
 		"level": "Cấp 23",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Quần cấp 23. Sức mạnh từ Sừng Bamli cổ đại Cho phép bạn nhảy qua những vật nhỏ trong một phạm vi nhất định hoặc hơn thế! HIYOOOO!",
+		"description": "Quần cấp 23. Sức mạnh từ Sừng Bamli cổ đại cho phép bạn nhảy qua những vật nhỏ trong một phạm vi nhất định hoặc hơn thế! HIYOOOO!",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Sừng Bamli",
 				"qty": 33
@@ -5408,11 +5408,11 @@ $master.api.item = {
 		"type": "Mũ giáp",
 		"level": "Cấp 23",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Mũ giáp cấp 23. Có gì tốt hơn một khuôn mặt đầy lông Chứ. Một khuôn mắt đầy lông và râu?",
+		"description": "Mũ giáp cấp 23. Có gì tốt hơn một khuôn mặt đầy lông chứ. Một khuôn mắt đầy lông và râu?",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Sừng Bamli",
 				"qty": 30
@@ -5420,25 +5420,25 @@ $master.api.item = {
 				"name": "Vỏ sừng",
 				"qty": 5
 			}, {
-				"name": "Vỏ Cẩu tíCh",
+				"name": "Vỏ Cẩu tích",
 				"qty": 26
 			}, {
 				"name": "Râu Bamli",
 				"qty": 7
 			}]
 		},
-		"icon": "grenamel_staChemask.png"
+		"icon": "grenamel_stachemask.png"
 	},
 	"Giáp Cơ khí": {
 		"name": "Giáp Cơ khí",
 		"type": "Áo giáp",
 		"level": "Cấp 23",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Giáp ngực cấp 23. Đôi khi, bạn Chỉ cần bao bọc toàn bộ thân mình trong bộ xương đã tôi luyện của một con quái thú cổ đại. Đây là một trong những lần như vậy.",
+		"description": "Giáp ngực cấp 23. Đôi khi, bạn chỉ cần bao bọc toàn bộ thân mình trong bộ xương đã tôi luyện của một con quái thú cổ đại. Đây là một trong những lần như vậy.",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Sừng Bamli",
 				"qty": 27
@@ -5464,7 +5464,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Sừng Bamli",
 				"qty": 29
@@ -5472,7 +5472,7 @@ $master.api.item = {
 				"name": "Vỏ sừng",
 				"qty": 5
 			}, {
-				"name": "Vỏ Cẩu tíCh",
+				"name": "Vỏ Cẩu tích",
 				"qty": 25
 			}]
 		},
@@ -5486,7 +5486,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Nồi áp suất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 3
@@ -5505,7 +5505,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Nồi áp suất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Ống Tre gai",
 				"qty": 3
@@ -5520,11 +5520,11 @@ $master.api.item = {
 		"name": "Thuốc Huyễn vực",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Uống loại bia này khiến bạn muốn đập phá đồ đạc! 2% tỉ lệ Choáng mục tiêu khi đánh mỗi giây. Hiệu lực trong 20 phút.",
+		"description": "Uống loại bia này khiến bạn muốn đập phá đồ đạc! 2% tỉ lệ choáng mục tiêu khi đánh mỗi giây. Hiệu lực trong 20 phút.",
 		"recipe": {
 			"name": "Nồi áp suất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đế Hoa quả tạ",
 				"qty": 6
@@ -5535,7 +5535,7 @@ $master.api.item = {
 				"name": "Đỉa điện từ",
 				"qty": 1
 			}, {
-				"name": "Tinh Chất Glaser [Quý tộc]",
+				"name": "Tinh chất Glaser [Quý tộc]",
 				"qty": 1
 			}]
 		},
@@ -5545,11 +5545,11 @@ $master.api.item = {
 		"name": "Bình hồi máu Đậu mụn xanh",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Hãy thành thực ở đây; Bạn Chỉ cần quẳng hết nguyên liệu vào cái lọ và xem Chúng kết hợp với nhau. Hồi 2,221 Máu.",
+		"description": "Hãy thành thực ở đây; Bạn chỉ cần quẳng hết nguyên liệu vào cái lọ và xem chúng kết hợp với nhau. Hồi 2,221 Máu.",
 		"recipe": {
 			"name": "Cái Vạc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đậu mụn xanh",
 				"qty": 3
@@ -5564,11 +5564,11 @@ $master.api.item = {
 		"name": "Thuốc Giật điện",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Bạn nghĩ rằng Chẳng cần thiết phải gọi sét làm gì... nhưng bạn đã làm. 3% tỉ lệ gây Choáng mục tiêu ở gần khi đánh. Hiệu lực trong 20 phút.",
+		"description": "Bạn nghĩ rằng chẳng cần thiết phải gọi sét làm gì... nhưng bạn đã làm. 3% tỉ lệ gây choáng mục tiêu ở gần khi đánh. Hiệu lực trong 20 phút.",
 		"recipe": {
 			"name": "Nồi áp suất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 5
@@ -5579,7 +5579,7 @@ $master.api.item = {
 				"name": "Chùy Gai",
 				"qty": 3
 			}, {
-				"name": "Tinh Chất Gallum [Vôi hoá]",
+				"name": "Tinh chất Gallum [Vôi hoá]",
 				"qty": 1
 			}]
 		},
@@ -5589,16 +5589,16 @@ $master.api.item = {
 		"name": "Bình hồi máu Vỏ sừng",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Như người ta thường nói: Có qua có lại ... Đôi khi bạn uống nước ép Chấy, thi đôi khi Chúng cũng sẽ hút máu bạn. Hồi 9,670 HP.",
+		"description": "Như người ta thường nói: Có qua có lại ... Đôi khi bạn uống nước ép Chấy, thi đôi khi chúng cũng sẽ hút máu bạn. Hồi 9,670 HP.",
 		"recipe": {
 			"name": "Cái Vạc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ sừng",
 				"qty": 3
 			}, {
-				"name": "Vỏ Cẩu tíCh",
+				"name": "Vỏ Cẩu tích",
 				"qty": 3
 			}, {
 				"name": "Vomma con",
@@ -5611,7 +5611,7 @@ $master.api.item = {
 		"name": "Cây Lược mao",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Những cành cây dài  lởm Chởm thường cào xước da của những con thú đi ngang. Chắc nó dùng lông thú để đan nón.",
+		"description": "Những cành cây dài  lởm chởm thường cào xước da của những con thú đi ngang. Chắc nó dùng lông thú để đan nón.",
 		"icon": "furgrasp.png",
 		"drop": ["Nhánh Lược mao", "Lá Lược mao", "Chùm lông lạ", "Hạt giống Lược mao"]
 	},
@@ -5619,7 +5619,7 @@ $master.api.item = {
 		"name": "Trứng Xoắn ốc",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Không Chắc con gì đã đẻ quả trứng này. Nhưng Chắc Chắn rằng trong này Chứa đầy dinh dưỡng, giống như mấy con ngựa giấy có kẹo ở trong ấy.",
+		"description": "Không chắc con gì đã đẻ quả trứng này. Nhưng chắc chắn rằng trong này chứa đầy dinh dưỡng, giống như mấy con ngựa giấy có kẹo ở trong ấy.",
 		"icon": "spiregg.png",
 		"drop": ["Lòng xanh Trứng Xoắn ốc", "Vỏ trứng Xoắn ốc", "Lòng đỏ Trứng Xoắn ốc"]
 	},
@@ -5631,11 +5631,11 @@ $master.api.item = {
 		"icon": "smashblossom.png",
 		"drop": ["Nhụy Hoa quả tạ", "Đế Hoa quả tạ", "Cánh Hoa quả tạ", "Bọ Lục Bảo", "Hạt giống Hoa quả tạ"]
 	},
-	"MạCh Băng áp": {
-		"name": "MạCh Băng áp",
+	"Mạch Băng áp": {
+		"name": "Mạch Băng áp",
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
-		"description": "Nước ở bên trong tràn ra Cho đến khi bị đóng băng hoàn toàn tạo ra 1 lớp phủ. Khi lớp phủ băng đã ở yên thì MạCh Băng áp tạo ra 1 áp lực kinh khủng ở bên trong và Chỉ dịu bớt khi lớp phủ bị cạy ra.",
+		"description": "Nước ở bên trong tràn ra cho đến khi bị đóng băng hoàn toàn tạo ra 1 lớp phủ. Khi lớp phủ băng đã ở yên thì Mạch Băng áp tạo ra 1 áp lực kinh khủng ở bên trong và chỉ dịu bớt khi lớp phủ bị cạy ra.",
 		"icon": "geysir.png",
 		"drop": ["Cục bùn", "Kim cương", "Thỏ Cụt Tai"]
 	},
@@ -5644,7 +5644,7 @@ $master.api.item = {
 		"type": "Tài Nguyên",
 		"rarity": "Bình Thường",
 		"description": "Có cái gì đó khuấy động dưới làn nước lạnh cóng này.",
-		"icon": "tundra_sChool.png",
+		"icon": "tundra_school.png",
 		"drop": ["Cá đuối băng", "Bụi san hô", "Sên hải nhiệt", "Mực Lông", "Búa Cá sấu"]
 	},
 	"Cá đuối băng": {
@@ -5658,21 +5658,21 @@ $master.api.item = {
 		"name": "Mực Lông",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
-		"description": "Một con Mực Lông lá, thíCh nghi tốt để bơi trong môi trường cực lạnh của Tundra. Nó dường như thông minh vượt bậc.",
+		"description": "Một con Mực Lông lá, thích nghi tốt để bơi trong môi trường cực lạnh của Tundra. Nó dường như thông minh vượt bậc.",
 		"icon": "sQueti.png"
 	},
 	"Sên hải nhiệt": {
 		"name": "Sên hải nhiệt",
 		"type": "Mảnh Thành Phần",
 		"rarity": "Tốt",
-		"description": "Những sinh vật giống sên này sống ở các khe nứt nước nóng sâu dưới đáy biển. Nó cứ run mình không ngừng Cho đến khi bạn kéo nó ra khỏi nước.",
+		"description": "Những sinh vật giống sên này sống ở các khe nứt nước nóng sâu dưới đáy biển. Nó cứ run mình không ngừng cho đến khi bạn kéo nó ra khỏi nước.",
 		"icon": "ventsleeper.png"
 	},
 	"Bụi san hô": {
 		"name": "Bụi san hô",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Cái tơ cứng của nó rất mềm mại. Nó nhắc bạn nhớ tới khi còn làm một hầu gái cầm theo cái Chổi lông đi khắp nơi.",
+		"description": "Cái tơ cứng của nó rất mềm mại. Nó nhắc bạn nhớ tới khi còn làm một hầu gái cầm theo cái chổi lông đi khắp nơi.",
 		"icon": "coralduster.png"
 	},
 	"Búa Cá sấu": {
@@ -5680,14 +5680,14 @@ $master.api.item = {
 		"type": "Vũ khí",
 		"level": "Cấp 29",
 		"rarity": "Tối Thượng",
-		"description": "Búa cấp 29. Con cá này không có hộp sọ và dạ dày nằm trên đầu. Vì thế nó nuốt rất nhiều viên đá nhỏ để bảo vệ bộ não siêu siêu nhỏ của Chúng.",
+		"description": "Búa cấp 29. Con cá này không có hộp sọ và dạ dày nằm trên đầu. Vì thế nó nuốt rất nhiều viên đá nhỏ để bảo vệ bộ não siêu siêu nhỏ của chúng.",
 		"icon": "bonkagong.png"
 	},
-	"Cây Song Chi": {
-		"name": "Cây Song Chi",
+	"Cây Song chi": {
+		"name": "Cây Song chi",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Những cái cây này mọc thành cặp, và Chúng đều rất nhút nhát. Sẽ là sáng suốt nếu không để Chúng lừa. Hồi 7,103 HP.",
+		"description": "Những cái cây này mọc thành cặp, và chúng đều rất nhút nhát. Sẽ là sáng suốt nếu không để chúng lừa. Hồi 7,103 HP.",
 		"icon": "conjoined_perp.png"
 	},
 	"Cây Kiên thảo": {
@@ -5708,7 +5708,7 @@ $master.api.item = {
 		"name": "Cây Phong phát",
 		"type": "Tài nguyên",
 		"rarity": "Bình Thường",
-		"description": "Thay vì mọc lá cái cây này mọc rất nhiều tóc. Cái mái tóc sản sinh năng lượng Cho cây nhờ gió. Nó làm bạn nhớ đến một người họ hàng xa.",
+		"description": "Thay vì mọc lá cái cây này mọc rất nhiều tóc. Cái mái tóc sản sinh năng lượng cho cây nhờ gió. Nó làm bạn nhớ đến một người họ hàng xa.",
 		"icon": "bluff.png",
 		"drop": ["Hạt Cây Phong phát", "Lõi Phong phát"]
 	},
@@ -5716,7 +5716,7 @@ $master.api.item = {
 		"name": "Cây Chùy gai",
 		"type": "Tài nguyên",
 		"rarity": "Bình Thường",
-		"description": "Cái cây này động đậy khi có tạo vật nguy hiểm tới gần, nhưng Chưa bao giờ bật rễ. Bạn sẽ đoán rằng nó là một sinh vật hiền hoà.",
+		"description": "Cái cây này động đậy khi có tạo vật nguy hiểm tới gần, nhưng chưa bao giờ bật rễ. Bạn sẽ đoán rằng nó là một sinh vật hiền hoà.",
 		"icon": "flailtree.png",
 		"drop": ["Chùy Gai", "Vỏ Chuỳ gai", "Hạt giống Chùy gai"]
 	},
@@ -5724,7 +5724,7 @@ $master.api.item = {
 		"name": "Quặng Tinh thể Năng lượng",
 		"type": "Tài nguyên",
 		"rarity": "Tối Thượng",
-		"description": "Một số dung dịCh của hành tinh này đã kết tinh và đâm xuyên qua các tầng địa Chất. Ếy, THIÊN NHIÊN TRAO TẶNG ĐẤY!",
+		"description": "Một số dung dịch của hành tinh này đã kết tinh và đâm xuyên qua các tầng địa chất. Ếy, THIÊN NHIÊN TRAO TẶNG ĐẤY!",
 		"icon": "sp_juice_crystal_cluster_0.png",
 		"drop": ["Tinh thể Năng lượng"]
 	},
@@ -5732,7 +5732,7 @@ $master.api.item = {
 		"name": "Bụi tre gai",
 		"type": "Tài nguyên",
 		"rarity": "Bình Thường",
-		"description": "Không Chắc đây là một loại san hô, thực vật, động vật, hoặc thứ gì ở giữa cả. Âm thanh nó tạo ra như gió thổi rít qua ống làm bạn nhớ tới một Chiếc đại phong cầm lâu đời ở nhà thờ!",
+		"description": "Không chắc đây là một loại san hô, thực vật, động vật, hoặc thứ gì ở giữa cả. Âm thanh nó tạo ra như gió thổi rít qua ống làm bạn nhớ tới một chiếc đại phong cầm lâu đời ở nhà thờ!",
 		"icon": "pipedirt.png",
 		"drop": ["Ống Tre gai", "Rêu rỉ sét", "Hạt giống Tre gai"]
 	},
@@ -5747,15 +5747,15 @@ $master.api.item = {
 		"name": "Tổ mối",
 		"type": "Tài nguyên",
 		"rarity": "Bình Thường",
-		"description": "Đầy những con mối! Chúng xây tổ bằng máu, mồ hôi, nước mắt, và một Chút keo sinh học từ khớp Chân. Dù vậy, cái tổ vẫn có thể bị xới tung lên bằng một cây xẻng.",
+		"description": "Đầy những con mối! Chúng xây tổ bằng máu, mồ hôi, nước mắt, và một chút keo sinh học từ khớp chân. Dù vậy, cái tổ vẫn có thể bị xới tung lên bằng một cây xẻng.",
 		"icon": "magmite_mound.png",
-		"drop": ["Mối Thợ", "Lụa xanh", "Mối vương", "Mối Chúa"]
+		"drop": ["Mối Thợ", "Lụa xanh", "Mối vương", "Mối chúa"]
 	},
 	"Nấm Bè": {
 		"name": "Nấm Bè",
 		"type": "Tài nguyên",
 		"rarity": "Bình Thường",
-		"description": "Những Chiếc túi có lẽ Chứa đầy Heli hoặc cái gì đó. Nó trôi nổi nhẹ nhàng trên mặt nước ở Tundra.",
+		"description": "Những chiếc túi có lẽ chứa đầy Heli hoặc cái gì đó. Nó trôi nổi nhẹ nhàng trên mặt nước ở Tundra.",
 		"icon": "flungus.png",
 		"drop": ["Rễ nổi Nấm bè", "Khối Nấm Bè", "Não Nấm bè", "Hạt giống Nấm Bè"]
 	},
@@ -5770,21 +5770,21 @@ $master.api.item = {
 		"name": "Cửa Hewgodooko",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Thứ này Chế ra bằng gì vậy?",
+		"description": "Thứ này chế ra bằng gì vậy?",
 		"icon": "hewgodooko_door.png"
 	},
 	"Cây Băng tảo": {
 		"name": "Cây Băng tảo",
 		"type": "Tiêu hao",
 		"rarity": "Bình Thường",
-		"description": "Một cụm Tảo Phát Quang đã thíCh nghi với việc phát triển trên băng. Bạn sẽ bị dính lưỡi nếu liếm nó. Hồi 16,906 HP.",
+		"description": "Một cụm Tảo Phát Quang đã thích nghi với việc phát triển trên băng. Bạn sẽ bị dính lưỡi nếu liếm nó. Hồi 16,906 HP.",
 		"icon": "icequill.png"
 	},
 	"Cây Bọt đồng": {
 		"name": "Cây Bọt đồng",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Loài cây này phát triển như một miếng bọt biển hoàn hảo làm từ đồng. Nó sẽ siêu hữu íCh khi bạn rửa bát.",
+		"description": "Loài cây này phát triển như một miếng bọt biển hoàn hảo làm từ đồng. Nó sẽ siêu hữu ích khi bạn rửa bát.",
 		"icon": "coppersponge.png"
 	},
 	"Sâu hồng nhan": {
@@ -5798,14 +5798,14 @@ $master.api.item = {
 		"name": "Đỉa điện từ",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Sinh vật nhỏ bé này sử dụng công nghệ điện từ hiện đại để tìm ra cái cổ gần nhất và bóp nghẹt nó. Có thể làm quà Cho tụi nít mà bạn ghét.",
+		"description": "Sinh vật nhỏ bé này sử dụng công nghệ điện từ hiện đại để tìm ra cái cổ gần nhất và bóp nghẹt nó. Có thể làm quà cho tụi nít mà bạn ghét.",
 		"icon": "fanged_strangler.png"
 	},
 	"Nấm phát quang": {
 		"name": "Nấm phát quang",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Nó phát sáng giữa một dải màu để dụ con mồi của nó. Khi mục tiêu đã đến gần, nó Chỉ ở đấy và không làm gì, vì nó là một cây nấm :v.",
+		"description": "Nó phát sáng giữa một dải màu để dụ con mồi của nó. Khi mục tiêu đã đến gần, nó chỉ ở đấy và không làm gì, vì nó là một cây nấm :v.",
 		"icon": "boreole.png"
 	},
 	"Chất nhầy cam": {
@@ -5819,28 +5819,28 @@ $master.api.item = {
 		"name": "Cây Thố thảo",
 		"type": "Tiêu hao",
 		"rarity": "Bình Thường",
-		"description": "Mặc dù trông nó giống một Chú thỏ đáng yêu, nó Chỉ là lớp nguỵ trang Cho phần rễ. Ngoại trừ việc nó kêu lên khi bạn ăn nó. Đó cũng Chỉ là nguỵ trang. Hồi 40,293 HP.",
+		"description": "Mặc dù trông nó giống một chú thỏ đáng yêu, nó chỉ là lớp nguỵ trang cho phần rễ. Ngoại trừ việc nó kêu lên khi bạn ăn nó. Đó cũng chỉ là nguỵ trang. Hồi 40,293 HP.",
 		"icon": "bunnion.png"
 	},
 	"Hạt Cây Phong phát": {
 		"name": "Hạt Cây Phong phát",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Bạn đã đập Cây Phong phát một lực vừa đủ để Cho hạt rơi ra ngay lập tức! Nó dường như bất khả thi về mặt vật lý, nhưng bạn đã làm được.",
+		"description": "Bạn đã đập Cây Phong phát một lực vừa đủ để cho hạt rơi ra ngay lập tức! Nó dường như bất khả thi về mặt vật lý, nhưng bạn đã làm được.",
 		"icon": "bluffollicle.png"
 	},
 	"Lõi Phong phát": {
 		"name": "Lõi Phong phát",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nó thật mềm mại, bạn có thể hình dung số lượng sợi của nó thuộc hàng tỷ tỷ tỷ ...... Nó có thể dùng để làm thành một Chiếc giường đẹp, hoặc Chỉ đủ một Chiếc áo khoác",
+		"description": "Nó thật mềm mại, bạn có thể hình dung số lượng sợi của nó thuộc hàng tỷ tỷ tỷ ...... Nó có thể dùng để làm thành một chiếc giường đẹp, hoặc chỉ đủ một chiếc áo khoác",
 		"icon": "bluffluff.png"
 	},
 	"Nhụy Hoa quả tạ": {
 		"name": "Nhụy Hoa quả tạ",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Cái thứ này xuất hiện để Chuẩn bị diễn hành động không thể diễn tả bằng lời sự của lãng mạn giữa thực vật.",
+		"description": "Cái thứ này xuất hiện để chuẩn bị diễn hành động không thể diễn tả bằng lời sự của lãng mạn giữa thực vật.",
 		"icon": "smashblossom_pistil.png"
 	},
 	"Cánh Hoa quả tạ": {
@@ -5854,35 +5854,35 @@ $master.api.item = {
 		"name": "Đế Hoa quả tạ",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Cái đế cây này Chắc Chắn sẽ Chịu được một cú giã.",
+		"description": "Cái đế cây này chắc chắn sẽ chịu được một cú giã.",
 		"icon": "smashblossom_trunk.png"
 	},
 	"Bọ Lục Bảo": {
 		"name": "Bọ Lục Bảo",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Nó khá bồn Chồn. Nó Chỉ có thể dịu đi bởi tiếng đập nhịp nhàng, mạnh mẽ của một Cây Hoa quả tạ.",
+		"description": "Nó khá bồn chồn. Nó chỉ có thể dịu đi bởi tiếng đập nhịp nhàng, mạnh mẽ của một Cây Hoa quả tạ.",
 		"icon": "emerald_smashborer.png"
 	},
 	"Chùy Gai": {
 		"name": "Chùy Gai",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nó có một tay cầm tiện lợi, gần như được tạo ra để Cho bạn có thể ném một mình. Khi bạn nhìn Chằm Chằm cây Chuỳ gai, bạn cảm thấy như có bướm bay trong bụng. Nó có nghĩa là vậy.",
+		"description": "Nó có một tay cầm tiện lợi, gần như được tạo ra để cho bạn có thể ném một mình. Khi bạn nhìn chằm chằm cây Chuỳ gai, bạn cảm thấy như có bướm bay trong bụng. Nó có nghĩa là vậy.",
 		"icon": "flailpod.png"
 	},
 	"Vỏ Chuỳ gai": {
 		"name": "Vỏ Chuỳ gai",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Vỏ Chuỳ gai cực kì Chắc khoẻ và đàn hồi.",
+		"description": "Vỏ Chuỳ gai cực kì chắc khoẻ và đàn hồi.",
 		"icon": "blackbark.png"
 	},
 	"Hạt giống Chùy gai": {
 		"name": "Hạt giống Chùy gai",
 		"type": "Hạt giống",
 		"rarity": "Tốt",
-		"description": "Hạt của cây Chuỳ gai. Chúng rất hung hăng và gắt gỏng. Tốt hơn hết nên Chôn nó và để nó tự vượt qua.",
+		"description": "Hạt của cây Chuỳ gai. Chúng rất hung hăng và gắt gỏng. Tốt hơn hết nên chôn nó và để nó tự vượt qua.",
 		"icon": "flaycorn.png"
 	},
 	"Nhánh Lược mao": {
@@ -5896,35 +5896,35 @@ $master.api.item = {
 		"name": "Lá Lược mao",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Những Chiếc lá đã xơ, trông như Chúng được dệt bởi người tí hon với những ngón tay bé xíu. Hoặc cũng có thể là bởi những con khỉ bé xíu.",
+		"description": "Những chiếc lá đã xơ, trông như chúng được dệt bởi người tí hon với những ngón tay bé xíu. Hoặc cũng có thể là bởi những con khỉ bé xíu.",
 		"icon": "furgrasp_foliage.png"
 	},
 	"Hạt giống Lược mao": {
 		"name": "Hạt giống Lược mao",
 		"type": "Hạt giống",
 		"rarity": "Tốt",
-		"description": "Sau khi giết Cha Chúng, thứ bạn ít nhất phải làm là trồng cái hạt này xuống. Đừng trở thành một kẻ tàn ác.",
+		"description": "Sau khi giết cha chúng, thứ bạn ít nhất phải làm là trồng cái hạt này xuống. Đừng trở thành một kẻ tàn ác.",
 		"icon": "furgrasp_seed.png"
 	},
 	"Chùm lông lạ": {
 		"name": "Chùm lông lạ",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Cây Lược mao Chắc hẳn đã bứt Chùm lông này từ thứ gì đó... khá kì lạ...",
+		"description": "Cây Lược mao chắc hẳn đã bứt chùm lông này từ thứ gì đó... khá kì lạ...",
 		"icon": "strange_tuft.png"
 	},
 	"Rễ nổi Nấm bè": {
 		"name": "Rễ nổi Nấm bè",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nấm Bè dùng những cái rễ này để giữ Cho mình lơ lửng trên cao bằng cáCh nào đó. Nó có vẻ giống như ma thuật, nên có lẽ là vậy, giống thuyết 'Dao cạo của Occam' (Wikipedia).",
+		"description": "Nấm Bè dùng những cái rễ này để giữ cho mình lơ lửng trên cao bằng cách nào đó. Nó có vẻ giống như ma thuật, nên có lẽ là vậy, giống thuyết 'Dao cạo của Occam' (Wikipedia).",
 		"icon": "flungus_airoot.png"
 	},
 	"Não Nấm bè": {
 		"name": "Não Nấm bè",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Dựa trên kíCh cỡ và sự phức tạp của bộ não, Nấm Bè có lẽ là sinh vật thông minh nhất trong vũ trụ. Nhưng Chúng lại không thể di Chuyển hay nói!",
+		"description": "Dựa trên kích cỡ và sự phức tạp của bộ não, Nấm Bè có lẽ là sinh vật thông minh nhất trong vũ trụ. Nhưng chúng lại không thể di chuyển hay nói!",
 		"icon": "flungus_brain.png"
 	},
 	"Hạt giống Nấm Bè": {
@@ -5938,21 +5938,21 @@ $master.api.item = {
 		"name": "Khối Nấm Bè",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Thứ này đã tránh bị xé xác bởi những đòn tấn công bạo lực của bạn. Trực giác máCh bảo rằng nó sợ bạn, và nó rất ngon.",
+		"description": "Thứ này đã tránh bị xé xác bởi những đòn tấn công bạo lực của bạn. Trực giác mách bảo rằng nó sợ bạn, và nó rất ngon.",
 		"icon": "flungus_pod.png"
 	},
 	"Lòng xanh Trứng Xoắn ốc": {
 		"name": "Lòng xanh Trứng Xoắn ốc",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nó nhớp và dính, y như lòng trắng từ một quả trứng. Ơ, khoan... nó ChÍNH XÁC LÀ NHỮNG GÌ BẠN NGHĨ.",
+		"description": "Nó nhớp và dính, y như lòng trắng từ một quả trứng. Ơ, khoan... nó CHÍNH XÁC LÀ NHỮNG GÌ BẠN NGHĨ.",
 		"icon": "spiregg_goop.png"
 	},
 	"Lòng đỏ Trứng Xoắn ốc": {
 		"name": "Lòng đỏ Trứng Xoắn ốc",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nó có rất nhiều Chất dinh dưỡng, như mỡ, Cholesterol, và rất nhiều loại độc! Nó trông có vẻ khá hợp với bạn.",
+		"description": "Nó có rất nhiều chất dinh dưỡng, như mỡ, cholesterol, và rất nhiều loại độc! Nó trông có vẻ khá hợp với bạn.",
 		"icon": "spiregg_yolk.png"
 	},
 	"Vỏ trứng Xoắn ốc": {
@@ -5973,85 +5973,85 @@ $master.api.item = {
 		"name": "Mối Thợ",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Con bọ nhỏ bé này sẽ bổ vào gáy bạn nếu rời mắt khỏi nó Chỉ một giây. Tốt hơn hết, bạn hãy cố gắng cẩn thận.",
+		"description": "Con bọ nhỏ bé này sẽ bổ vào gáy bạn nếu rời mắt khỏi nó chỉ một giây. Tốt hơn hết, bạn hãy cố gắng cẩn thận.",
 		"icon": "magmite_worker.png"
 	},
 	"Lụa xanh": {
 		"name": "Lụa xanh",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Thứ vật Chất này cứng hơn bất cứ thứ gì bạn từng biết. Lũ Mối xây tổ gần nơi có những thứ này với hy vọng có thể khai thác được thứ này, nhưng tới giờ vẫn Chưa thể làm được.",
+		"description": "Thứ vật chất này cứng hơn bất cứ thứ gì bạn từng biết. Lũ Mối xây tổ gần nơi có những thứ này với hy vọng có thể khai thác được thứ này, nhưng tới giờ vẫn chưa thể làm được.",
 		"icon": "lonsdaleite.png"
 	},
 	"Dầu": {
 		"name": "Dầu",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Bạn không thể tưởng tượng được là thứ này sẽ hữu íCh Cho việc gì.",
+		"description": "Bạn không thể tưởng tượng được là thứ này sẽ hữu ích cho việc gì.",
 		"icon": "oil.png"
 	},
 	"Ống Tre gai": {
 		"name": "Ống Tre gai",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nó Chỉ là một cái ống, làm từ một số thành phần thực vật hữu cơ. Nó sẽ mềm dần theo thời gian.",
+		"description": "Nó chỉ là một cái ống, làm từ một số thành phần thực vật hữu cơ. Nó sẽ mềm dần theo thời gian.",
 		"icon": "pipedirt_pipe.png"
 	},
 	"Rêu rỉ sét": {
 		"name": "Rêu rỉ sét",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Loại rêu này phải làm điều gì đó để tạo ra các ống mà bạn luôn thấy nhô ra từ Chúng. NHƯNG LÀ THỨ GÌ? Khoa học sẽ không bao giờ biết.",
+		"description": "Loại rêu này phải làm điều gì đó để tạo ra các ống mà bạn luôn thấy nhô ra từ chúng. NHƯNG LÀ THỨ GÌ? Khoa học sẽ không bao giờ biết.",
 		"icon": "rustmoss.png"
 	},
 	"Kim cương": {
 		"name": "Kim cương",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Áp lực ở bên trong MạCh Băng áp CỰC KÌ MẠNH, nó có thể biến tất cả mọi thứ thành Kim cương! Bao gồm tất những gì nó đã từng!",
+		"description": "Áp lực ở bên trong Mạch Băng áp CỰC KÌ MẠNH, nó có thể biến tất cả mọi thứ thành Kim cương! Bao gồm tất những gì nó đã từng!",
 		"icon": "diamond.png"
 	},
 	"Cục bùn": {
 		"name": "Cục bùn",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Khi bị Chà xuống, khối cầu này làm lộ ra một lượng lớn kim loại quý!",
+		"description": "Khi bị chà xuống, khối cầu này làm lộ ra một lượng lớn kim loại quý!",
 		"icon": "geysir_slurry.png"
 	},
 	"Thỏ Cụt Tai": {
 		"name": "Thỏ Cụt Tai",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Thứ nhỏ bé kì lạ này THẬT SỰ có thể Chạy rất nhanh. Bất cứ khi nào. Mà nó không làm vậy. BẠN KHÔNG THỂ SAI NÓ LÀM GÌ CẢ.",
+		"description": "Thứ nhỏ bé kì lạ này THẬT SỰ có thể chạy rất nhanh. Bất cứ khi nào. Mà nó không làm vậy. BẠN KHÔNG THỂ SAI NÓ LÀM GÌ CẢ.",
 		"icon": "spood_beast.png"
 	},
 	"Bàn Hewgo Đơn Giản": {
 		"name": "Bàn Hewgo Đơn Giản",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Chiếc bàn này làm bởi Hewgodooko với đôi tay trần. Hoặc hắn có thể làm nó nó bằng cáCh nào đó. Lazer, có thể lắm Chứ. Một tia lazer.",
+		"description": "Chiếc bàn này làm bởi Hewgodooko với đôi tay trần. Hoặc hắn có thể làm nó nó bằng cách nào đó. Lazer, có thể lắm chứ. Một tia lazer.",
 		"icon": "basic_hewgotable.png"
 	},
 	"Ghế Hewgo Đơn Giản": {
 		"name": "Ghế Hewgo Đơn Giản",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Chiếc ghế này được tìm thấy ở một trong những căn cứ của Hewgodooko. Tạo tác thủ công rất tinh tế. Có khi Hewgodooko đã từng là một thợ mộc cao tay, cơ mà.... tại sao hắn ta làm ghế trong khi có thể trôi nổi Chứ?",
-		"icon": "basic_hewgoChair.png"
+		"description": "Chiếc ghế này được tìm thấy ở một trong những căn cứ của Hewgodooko. Tạo tác thủ công rất tinh tế. Có khi Hewgodooko đã từng là một thợ mộc cao tay, cơ mà.... tại sao hắn ta làm ghế trong khi có thể trôi nổi chứ?",
+		"icon": "basic_hewgochair.png"
 	},
 	"Đèn Hewgo": {
 		"name": "Đèn Hewgo",
 		"type": "Nguồn sáng",
 		"rarity": "Bình Thường",
-		"description": "Cái đèn này sáng vĩnh viễn, có thể nó sử dụng một dạng nguồn năng lượng ma thuật nào đó... mà Chỉ Hewgodooko biết.",
+		"description": "Cái đèn này sáng vĩnh viễn, có thể nó sử dụng một dạng nguồn năng lượng ma thuật nào đó... mà chỉ Hewgodooko biết.",
 		"icon": "hewgolamp.png"
 	},
 	"Rương kho báu": {
 		"name": "Rương kho báu",
 		"type": "Rương",
 		"rarity": "Bình Thường",
-		"description": "Hewgodooko có một vài cái rương lớn. Nó sẽ có íCh trong những hoạt động sử dụng rương Bình Thường.",
-		"icon": "basic_hewgoChest.png"
+		"description": "Hewgodooko có một vài cái rương lớn. Nó sẽ có ích trong những hoạt động sử dụng rương Bình Thường.",
+		"icon": "basic_hewgochest.png"
 	},
 	"Đèn Hewgo xanh mòng két": {
 		"name": "Đèn Hewgo xanh mòng két",
@@ -6106,14 +6106,14 @@ $master.api.item = {
 		"name": "Khối Lập Thể",
 		"type": "Đồ nội thất",
 		"rarity": "Siêu Cấp",
-		"description": "Khối Lập Thể này ghi nhớ cấu trúc của bất cứ thứ gì bạn Cho nó ghi nhớ. Nhưng không may, nó quá phức tạp đối với kiến thức của bạn về công nghệ và nâng cấp màn hình. Mà, nhìn nó vẫn đẹp!",
+		"description": "Khối Lập Thể này ghi nhớ cấu trúc của bất cứ thứ gì bạn cho nó ghi nhớ. Nhưng không may, nó quá phức tạp đối với kiến thức của bạn về công nghệ và nâng cấp màn hình. Mà, nhìn nó vẫn đẹp!",
 		"icon": "hologram.png"
 	},
 	"Sợi len": {
 		"name": "Sợi len",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "TríCh xuất ra từ một con Glaser đã thuần hoá, nó thật tốt để buộc các thứ lại. Không thể đòi hỏi gì hơn ở một món đồ tốt.",
+		"description": "Trích xuất ra từ một con Glaser đã thuần hoá, nó thật tốt để buộc các thứ lại. Không thể đòi hỏi gì hơn ở một món đồ tốt.",
 		"recipe": {
 			"name": "Glaser",
 			"output_qty": 1,
@@ -6132,35 +6132,35 @@ $master.api.item = {
 		"name": "Mảnh Gạc Glaser",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nó nhọn và kêu ro ro bởi năng lượng. Bạn tự hỏi nó sẽ như thế nào nếu bị Chọc bởi nó.",
+		"description": "Nó nhọn và kêu ro ro bởi năng lượng. Bạn tự hỏi nó sẽ như thế nào nếu bị chọc bởi nó.",
 		"icon": "glaser_antler_fragment.png"
 	},
 	"Dạ dày Glaser": {
 		"name": "Dạ dày Glaser",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Khi Glaser ăn thứ gì đó bất thường, dạ dày của Chúng sẽ thắt lại. Điều này dường như là một sự thiệt thòi.",
-		"icon": "glaser_stomaChball.png"
+		"description": "Khi Glaser ăn thứ gì đó bất thường, dạ dày của chúng sẽ thắt lại. Điều này dường như là một sự thiệt thòi.",
+		"icon": "glaser_stomachball.png"
 	},
 	"Guốc Glaser": {
 		"name": "Guốc Glaser",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nó cáCh nhiệt rất tốt, giống như xốp. Nó cũng có bề mặt như xốp. Bạn tự hỏi nếu nó xốp. Nó có thể là một mô xốp.",
+		"description": "Nó cách nhiệt rất tốt, giống như xốp. Nó cũng có bề mặt như xốp. Bạn tự hỏi nếu nó xốp. Nó có thể là một mô xốp.",
 		"icon": "glaser_hoof.png"
 	},
 	"Bướu điện Glaser": {
 		"name": "Bướu điện Glaser",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Trung tâm năng lượng cực mạnh của Glaser, bướu điện này có thể sạc Cho một Chiếc điện thoại cục gạCh nhỏ.",
+		"description": "Trung tâm năng lượng cực mạnh của Glaser, bướu điện này có thể sạc cho một chiếc điện thoại cục gạch nhỏ.",
 		"icon": "glaser_chargenub.png"
 	},
 	"Mỡ Shirk": {
 		"name": "Mỡ Shirk",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nó nảy lại và phát ra tiếng lạCh bạCh khi bạn ném nó vào bất kì thứ gì.",
+		"description": "Nó nảy lại và phát ra tiếng lạch bạch khi bạn ném nó vào bất kì thứ gì.",
 		"icon": "shirk_blubber.png"
 	},
 	"Mỏ Shirk": {
@@ -6174,7 +6174,7 @@ $master.api.item = {
 		"name": "Khối Natri",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Bạn cố gắng vắt Khối Natri này ra từ tuyến muối một con Shirk đã thuần hoá. Và bạn gần như Chỉ mất tứ Chi!",
+		"description": "Bạn cố gắng vắt Khối Natri này ra từ tuyến muối một con Shirk đã thuần hoá. Và bạn gần như chỉ mất tứ chi!",
 		"recipe": {
 			"name": "Shirk",
 			"output_qty": 1,
@@ -6190,27 +6190,27 @@ $master.api.item = {
 				"qty": 2
 			}]
 		},
-		"icon": "sodium_Chunk.png"
+		"icon": "sodium_chunk.png"
 	},
 	"Lông Shirk": {
 		"name": "Lông Shirk",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Những Chiếc lông này Cho lũ Shirk sự đẹp đẽ, sự oai phong lẫm liệt. Chúng thật sự là những con quỷ Chim ăn thịt đẹp đẽ nhất trong tự nhiên.",
+		"description": "Những chiếc lông này cho lũ Shirk sự đẹp đẽ, sự oai phong lẫm liệt. Chúng thật sự là những con quỷ chim ăn thịt đẹp đẽ nhất trong tự nhiên.",
 		"icon": "shirk_plumage.png"
 	},
 	"Tuyến muối Shirk": {
 		"name": "Tuyến muối Shirk",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Lũ Shirk thíCh thêm muối vào đồ ăn, nên tuyến muối này rất hữu dụng đấy.",
+		"description": "Lũ Shirk thích thêm muối vào đồ ăn, nên tuyến muối này rất hữu dụng đấy.",
 		"icon": "shirk_saltgland.png"
 	},
 	"Tinh thể Lyff": {
 		"name": "Tinh thể Lyff",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Truyền thuyết nói rằng Lyff sẽ tặng những tinh thể của Chúng Cho những ai Chúng coi là bạn. Truyền thuyết nào thế? Bạn biết đấy... Chỉ là truyền thuyết thôi.",
+		"description": "Truyền thuyết nói rằng Lyff sẽ tặng những tinh thể của chúng cho những ai chúng coi là bạn. Truyền thuyết nào thế? Bạn biết đấy... chỉ là truyền thuyết thôi.",
 		"recipe": {
 			"name": "Lyff",
 			"output_qty": 1,
@@ -6232,84 +6232,84 @@ $master.api.item = {
 		"name": "Gân Lyff",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Là cơ quan duy nhất mà Lyff dùng để di Chuyển. Nó phát ra một tiếng 'BOING' lớn khi bạn kéo dãn nó rồi thả ra",
+		"description": "Là cơ quan duy nhất mà Lyff dùng để di chuyển. Nó phát ra một tiếng 'BOING' lớn khi bạn kéo dãn nó rồi thả ra",
 		"icon": "lyff_donglespring.png"
 	},
 	"Da Lyff": {
 		"name": "Da Lyff",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Da khá mỏng, nhưng nó được bao phủ bởi một lớp lông \"cực kỳ dày\". Thực tế, nó dày đến nỗi nó có thể không có lông. Nó có thể Chỉ là da dày hơn.",
+		"description": "Da khá mỏng, nhưng nó được bao phủ bởi một lớp lông \"cực kỳ dày\". Thực tế, nó dày đến nỗi nó có thể không có lông. Nó có thể chỉ là da dày hơn.",
 		"icon": "lyff_leather.png"
 	},
 	"Bong bóng khí Lyff": {
 		"name": "Bong bóng khí Lyff",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Khi Lyff muốn ngâm mình, phần này sẽ làm Cho Chúng nổi. Nó công hiệu tới nỗi làm Lyff không thể bơi bằng Chân dưới nước mà không bật nổi lên.",
+		"description": "Khi Lyff muốn ngâm mình, phần này sẽ làm cho chúng nổi. Nó công hiệu tới nỗi làm Lyff không thể bơi bằng chân dưới nước mà không bật nổi lên.",
 		"icon": "lyff_swimbladder.png"
 	},
 	"Lưỡi Lyff": {
 		"name": "Lưỡi Lyff",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nó hơi khô và ráp. Nếu bạn Chà nó lên má, sẽ không có gì xảy ra cả.",
+		"description": "Nó hơi khô và ráp. Nếu bạn chà nó lên má, sẽ không có gì xảy ra cả.",
 		"icon": "lyfftongue.png"
 	},
-	"Lõi DịCh Chuyển": {
-		"name": "Lõi DịCh Chuyển",
+	"Lõi Dịch Chuyển": {
+		"name": "Lõi Dịch Chuyển",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "RáCh ra từ lồng ngực của Gallum. Lõi này sẽ hữu dụng với những thứ liên quan tới dịCh Chuyển.",
+		"description": "Rách ra từ lồng ngực của Gallum. Lõi này sẽ hữu dụng với những thứ liên quan tới dịch chuyển.",
 		"icon": "gallum_warpcore.png"
 	},
 	"Xương sườn Gallum": {
 		"name": "Xương sườn Gallum",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Những xương sườn này tạo sự bảo vệ Cho lõi hình cong của Gallum. Nhưng nó rõ ràng không đủ Chắc Chắn khi bạn có thể phá vỡ bằng tay không.",
+		"description": "Những xương sườn này tạo sự bảo vệ cho lõi hình cong của Gallum. Nhưng nó rõ ràng không đủ chắc chắn khi bạn có thể phá vỡ bằng tay không.",
 		"icon": "gallum_rib.png"
 	},
 	"Thịt Gallum": {
 		"name": "Thịt Gallum",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Miếng thịt này giữ Cho các xương sườn của Gallum gắn lại với nhau. Ném nó và nồi cùng một Chút muối và tiêu, cùng một con non, bạn sẽ có một món hầm.",
+		"description": "Miếng thịt này giữ cho các xương sườn của Gallum gắn lại với nhau. Ném nó và nồi cùng một chút muối và tiêu, cùng một con non, bạn sẽ có một món hầm.",
 		"icon": "gallum_meat.png"
 	},
 	"Giáp Gallum": {
 		"name": "Giáp Gallum",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Đây có lẽ là vật Chất bền nhất mà loài người từng biết, vì nó thực sự bền... và loài người biết đến.",
+		"description": "Đây có lẽ là vật chất bền nhất mà loài người từng biết, vì nó thực sự bền... và loài người biết đến.",
 		"icon": "gallum_armor.png"
 	},
 	"Tai Gulanti": {
 		"name": "Tai Gulanti",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Bạn vừa giúp Gulanti có thêm một cái lỗ mới ngay trên cái lỗ cũ, to hơn Chút.",
+		"description": "Bạn vừa giúp Gulanti có thêm một cái lỗ mới ngay trên cái lỗ cũ, to hơn chút.",
 		"icon": "gulanti_blowhole.png"
 	},
 	"Da Gulanti": {
 		"name": "Da Gulanti",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nó trở nên ấm khi bạn giữ lửa Cho nó, nhưng sẽ ngừng ấm lên nếu bạn lấy lửa ra khỏi nó.",
+		"description": "Nó trở nên ấm khi bạn giữ lửa cho nó, nhưng sẽ ngừng ấm lên nếu bạn lấy lửa ra khỏi nó.",
 		"icon": "gulanti_calcite.png"
 	},
 	"Xương hàm Gulanti": {
 		"name": "Xương hàm Gulanti",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Lũ Gulanti có lẽ đã sử dụng những lưỡi răng cưa này để xé thịt khỏi xương của những con mồi của Chúng, hoặc cũng có thể để làm mộc.",
-		"icon": "gulanti_Chomper.png"
+		"description": "Lũ Gulanti có lẽ đã sử dụng những lưỡi răng cưa này để xé thịt khỏi xương của những con mồi của chúng, hoặc cũng có thể để làm mộc.",
+		"icon": "gulanti_chomper.png"
 	},
 	"Lõi điện Gulanti": {
 		"name": "Lõi điện Gulanti",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Bạn có biết cái cảm giác mà khi Chà tất xuống nền thảm, sau đó Chạm vào một vật, và nó bật lại? Chạm thứ này sẽ không giống vậy.",
+		"description": "Bạn có biết cái cảm giác mà khi chà tất xuống nền thảm, sau đó chạm vào một vật, và nó bật lại? Chạm thứ này sẽ không giống vậy.",
 		"icon": "gulanti_elecore.png"
 	},
 	"Thịt Gulanti": {
@@ -6335,14 +6335,14 @@ $master.api.item = {
 		"name": "Vỏ Slurb",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Khi bạn nhìn vào lớp vỏ sáng bóng, bạn bắt đầu ảo tưởng rằng mình mắc kẹt một mình trên một hành tinh, đấu tranh sinh tồn trong khi cố gắng đánh bại một tên ngoài hành tinh cụt tứ Chi.",
+		"description": "Khi bạn nhìn vào lớp vỏ sáng bóng, bạn bắt đầu ảo tưởng rằng mình mắc kẹt một mình trên một hành tinh, đấu tranh sinh tồn trong khi cố gắng đánh bại một tên ngoài hành tinh cụt tứ chi.",
 		"icon": "slurbshell.png"
 	},
 	"Nước nhầy Slurb": {
 		"name": "Nước nhầy Slurb",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Có được từ một con Slurb đã thuần hoá. Nó có phải Chất nhầy không? Nó có điện không? Đúng rồi đấy.",
+		"description": "Có được từ một con Slurb đã thuần hoá. Nó có phải chất nhầy không? Nó có điện không? Đúng rồi đấy.",
 		"recipe": {
 			"name": "Slurb",
 			"output_qty": 1,
@@ -6360,36 +6360,36 @@ $master.api.item = {
 		},
 		"icon": "slurb_electrucus.png"
 	},
-	"Nam Châm Slurb": {
-		"name": "Nam Châm Slurb",
+	"Nam châm Slurb": {
+		"name": "Nam châm Slurb",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Slurbs có thể sử dụng những thứ này để mở rộng thêm những cú nhào lộn nghệ thuật của Chúng trên không. Chiếc nam Châm này được Chế tác khéo léo một cáCh hoàn hảo.",
+		"description": "Slurbs có thể sử dụng những thứ này để mở rộng thêm những cú nhào lộn nghệ thuật của chúng trên không. Chiếc nam châm này được chế tác khéo léo một cách hoàn hảo.",
 		"icon": "slurb_magnet.png"
 	},
 	"Xương sống Slurb": {
 		"name": "Xương sống Slurb",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nó cực kì nhọn, bạn có thể gắn nó vào thứ gì đó, sau đó Chọc đồ vật, và nó gây thiệt hại rất lớn.",
+		"description": "Nó cực kì nhọn, bạn có thể gắn nó vào thứ gì đó, sau đó chọc đồ vật, và nó gây thiệt hại rất lớn.",
 		"icon": "slurb_sPine.png"
 	},
 	"Vỏ Blastcrab": {
 		"name": "Vỏ Blastcrab",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nó không Chắc Chắn lắm ở điều kiện thường, nhưng sẽ rất Chắc Chắn ngay khi tiếp xúc với một vụ nổ.",
+		"description": "Nó không chắc chắn lắm ở điều kiện thường, nhưng sẽ rất chắc chắn ngay khi tiếp xúc với một vụ nổ.",
 		"icon": "blastcrab_shell.png"
 	},
 	"Tuyến đánh lửa": {
 		"name": "Tuyến đánh lửa",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Trông nó giống cái bật lửa hơn, nó đánh những tia lửa bên trong cơ thể của Blastcrab và kíCh nổ... bất cứ thứ gì trong đó.",
+		"description": "Trông nó giống cái bật lửa hơn, nó đánh những tia lửa bên trong cơ thể của Blastcrab và kích nổ... bất cứ thứ gì trong đó.",
 		"icon": "blastcrab_ignition_gland.png"
 	},
-	"Ch4": {
-		"name": "Ch4",
+	"CH4": {
+		"name": "CH4",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
 		"description": "Được đẩy ra từ ống xả của Blastcrab đã thuần hoá, hỗn hợp này khiến bạn khè ra lửa!",
@@ -6408,13 +6408,13 @@ $master.api.item = {
 				"qty": 2
 			}]
 		},
-		"icon": "blastcrab_hydrocarbon.png"
+		"icon": "blastcrab_hydroCarbon.png"
 	},
 	"Da Blastcrab": {
 		"name": "Da Blastcrab",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nó Chắc và dai! Gần như quá dai...",
+		"description": "Nó chắc và dai! Gần như quá dai...",
 		"icon": "blastcrab_hide.png"
 	},
 	"Chất nhầy Gallum": {
@@ -6447,7 +6447,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Kitin",
 				"qty": 3
@@ -6463,13 +6463,13 @@ $master.api.item = {
 	},
 	"Xưởng đồ da": {
 		"name": "Xưởng đồ da",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Giờ đây bạn đang Chế tạo những thứ làm từ Wompit!",
+		"description": "Giờ đây bạn đang chế tạo những thứ làm từ Wompit!",
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Wompit",
 				"qty": 12
@@ -6488,19 +6488,19 @@ $master.api.item = {
 		"type": "Công cụ",
 		"level": "Bậc 4",
 		"rarity": "Bình Thường",
-		"description": "Cuốc Chim bậc 4. Lòng bàn tay của bạn sẽ được những Chiếc lông ống vuốt ve một cáCh dễ Chịu khi dùng nó.",
+		"description": "Cuốc Chim bậc 4. Lòng bàn tay của bạn sẽ được những chiếc lông ống vuốt ve một cách dễ chịu khi dùng nó.",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Nhánh cây Cẩu tíCh",
+				"name": "Nhánh cây Cẩu tích",
 				"qty": 8
 			}, {
 				"name": "Vỏ sừng",
 				"qty": 6
 			}, {
-				"name": "Cuốc Chim Thùa gai",
+				"name": "Cuốc chim Thùa gai",
 				"qty": 1
 			}, {
 				"name": "Mỏ Shirk",
@@ -6511,13 +6511,13 @@ $master.api.item = {
 	},
 	"Cối xay gió nhỏ": {
 		"name": "Cối xay gió nhỏ",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
 		"description": "Nếu bạn đặt một miếng bánh mì vào đó, bạn sẽ có thêm nhiều miếng bánh mì.",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đế Hoa quả tạ",
 				"qty": 23
@@ -6539,11 +6539,11 @@ $master.api.item = {
 		"type": "Vũ khí",
 		"level": "Cấp 25",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Búa cấp 25. Chòm lông đính ở Chuôi khiến Chúng có một đối trọng hoàn hảo.",
+		"description": "Búa cấp 25. Chòm lông đính ở chuôi khiến chúng có một đối trọng hoàn hảo.",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nhánh Lược mao",
 				"qty": 8
@@ -6565,11 +6565,11 @@ $master.api.item = {
 		"type": "Mũ giáp",
 		"level": "Cấp 25",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Mũ giáp cấp 25. Thứ cuối cùng mà kẻ thù thấy Chỉ là thấp thoáng nụ cười tỏa nắng của bạn.",
+		"description": "Mũ giáp cấp 25. Thứ cuối cùng mà kẻ thù thấy chỉ là thấp thoáng nụ cười tỏa nắng của bạn.",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nhánh Lược mao",
 				"qty": 7
@@ -6591,11 +6591,11 @@ $master.api.item = {
 		"type": "Áo giáp",
 		"level": "Cấp 25",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Giáp ngực cấp 25. Cây quả tạ có thể Chịu một cú nện mạnh, và giờ bạn cũng thế!",
+		"description": "Giáp ngực cấp 25. Cây quả tạ có thể chịu một cú nện mạnh, và giờ bạn cũng thế!",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nhánh Lược mao",
 				"qty": 7
@@ -6617,11 +6617,11 @@ $master.api.item = {
 		"type": "Găng tay",
 		"level": "Cấp 25",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Găng tay cấp 25. Phần lòng đỏ khá dính, nhưng nó giữ Cho đôi găng tay bám Chắc Chắn vào tay bạn. Nó là một sự đánh đổi.",
+		"description": "Găng tay cấp 25. Phần lòng đỏ khá dính, nhưng nó giữ cho đôi găng tay bám chắc chắn vào tay bạn. Nó là một sự đánh đổi.",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nhánh Lược mao",
 				"qty": 5
@@ -6647,7 +6647,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nhánh Lược mao",
 				"qty": 4
@@ -6668,13 +6668,13 @@ $master.api.item = {
 		"name": "Trứng Shirk vá sơ sài",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Siêu Cấp",
-		"description": "Nó Chỉ là một bản Chắp vá sơ sài, nhưng hầu hết lũ Shirk đủ ngu để rơi vào bẫy. Tiến hoá Shirk của bạn thành dạng SIÊU CẤP!",
+		"description": "Nó chỉ là một bản chắp vá sơ sài, nhưng hầu hết lũ Shirk đủ ngu để rơi vào bẫy. Tiến hoá Shirk của bạn thành dạng SIÊU CẤP!",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Tinh Chất Shirk [Tinh quái]",
+				"name": "Tinh chất Shirk [Tinh quái]",
 				"qty": 12
 			}, {
 				"name": "Mỡ Shirk",
@@ -6691,13 +6691,13 @@ $master.api.item = {
 	},
 	"Nồi áp suất": {
 		"name": "Nồi áp suất",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Hãy Chắc Chắn rằng bạn không để mặt bạn ngay trước nó khi nó đang hoạt động. Trừ khi bạn đang thử một phương pháp spa kinh dị",
+		"description": "Hãy chắc chắn rằng bạn không để mặt bạn ngay trước nó khi nó đang hoạt động. Trừ khi bạn đang thử một phương pháp spa kinh dị",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Kim cương",
 				"qty": 3
@@ -6716,13 +6716,13 @@ $master.api.item = {
 	},
 	"Xưởng hóa học": {
 		"name": "Xưởng hóa học",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Giống bộ đồ Chơi hóa học lúc nhỏ ấy, nhưng ở một tầm cao mới.",
+		"description": "Giống bộ đồ chơi hóa học lúc nhỏ ấy, nhưng ở một tầm cao mới.",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Dạ dày Glaser",
 				"qty": 4
@@ -6741,11 +6741,11 @@ $master.api.item = {
 		"type": "Công cụ",
 		"level": "Bậc 3",
 		"rarity": "Bình Thường",
-		"description": "Bay bậc 3. Sừng gạc và móng guốc là 2 thứ khá tệ để cậy mở, Cho tới khi bạn kết hợp Chúng lại. Theo cáCh khác, nó giống như việc mù tạt và mayonnaise của một quả trứng vỡ.",
+		"description": "Bay bậc 3. Sừng gạc và móng guốc là 2 thứ khá tệ để cậy mở, cho tới khi bạn kết hợp chúng lại. Theo cách khác, nó giống như việc mù tạt và mayonnaise của một quả trứng vỡ.",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Bay Vụn xương",
 				"qty": 1
@@ -6766,11 +6766,11 @@ $master.api.item = {
 		"name": "Bình hồi máu Bọng mỡ",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Các Bọng mỡ thật sự Chứa vitamin P. Hồi 6,521 HP.",
+		"description": "Các Bọng mỡ thật sự chứa vitamin P. Hồi 6,521 HP.",
 		"recipe": {
 			"name": "Cái Vạc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Bọng mỡ",
 				"qty": 3
@@ -6785,16 +6785,16 @@ $master.api.item = {
 		"name": "Thuốc Hấp huyết",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Ép nước với thứ này Cho phép bạn tước đi sinh lực từ mọi sinh thể xung quanh! 2% tỉ lệ hút máu khi đánh. Hiệu lực trong 20 phút.",
+		"description": "Ép nước với thứ này cho phép bạn tước đi sinh lực từ mọi sinh thể xung quanh! 2% tỉ lệ hút máu khi đánh. Hiệu lực trong 20 phút.",
 		"recipe": {
 			"name": "Nồi áp suất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Ống Tre gai",
 				"qty": 8
 			}, {
-				"name": "Tinh Chất Gulanti [Nhún nhảy]",
+				"name": "Tinh chất Gulanti [Nhún nhảy]",
 				"qty": 1
 			}, {
 				"name": "Tinh thể xanh lá",
@@ -6811,7 +6811,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Nồi áp suất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đế Hoa quả tạ",
 				"qty": 3
@@ -6826,19 +6826,19 @@ $master.api.item = {
 		"name": "Thuốc Điên loạn nhất thời",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Cái thứ Chất lỏng ghê tởm này THỰC SỰ KHIẾN BẠN BỰC BỘI. Có 3% tỉ lệ mỗi giây khi đánh khiến bạn vào trạng thái cuồng bạo. Hiệu lực trong 20 phút.",
+		"description": "Cái thứ chất lỏng ghê tởm này THỰC SỰ KHIẾN BẠN BỰC BỘI. Có 3% tỉ lệ mỗi giây khi đánh khiến bạn vào trạng thái cuồng bạo. Hiệu lực trong 20 phút.",
 		"recipe": {
 			"name": "Nồi áp suất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đế Hoa quả tạ",
 				"qty": 8
 			}, {
-				"name": "Cây Song Chi",
+				"name": "Cây Song chi",
 				"qty": 1
 			}, {
-				"name": "Tinh Chất Shirk [Tinh quái]",
+				"name": "Tinh chất Shirk [Tinh quái]",
 				"qty": 1
 			}]
 		},
@@ -6859,7 +6859,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "BS SSSS SS5",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đất",
 				"qty": 8
@@ -6878,12 +6878,12 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Gạc Glaser",
 				"qty": 67
 			}, {
-				"name": "Tinh Chất Glaser [Quý tộc]",
+				"name": "Tinh chất Glaser [Quý tộc]",
 				"qty": 8
 			}, {
 				"name": "Đỉa điện từ",
@@ -6893,7 +6893,7 @@ $master.api.item = {
 				"qty": 17
 			}]
 		},
-		"icon": "gaze_catCher.png"
+		"icon": "gaze_catcher.png"
 	},
 	"Đao bạo thực": {
 		"name": "Đao bạo thực",
@@ -6904,7 +6904,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Dạ dày Glaser",
 				"qty": 2
@@ -6930,7 +6930,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Guốc Glaser",
 				"qty": 3
@@ -6949,11 +6949,11 @@ $master.api.item = {
 		"type": "Áo giáp",
 		"level": "Cấp 27",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Giáp ngực cấp 27. Nó bảo vệ, nâng đỡ và hỗ trợ! Đó là phẩm cáCh của bạn.",
+		"description": "Giáp ngực cấp 27. Nó bảo vệ, nâng đỡ và hỗ trợ! Đó là phẩm cách của bạn.",
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Kiên thảo",
 				"qty": 7
@@ -6975,11 +6975,11 @@ $master.api.item = {
 		"type": "Mũ giáp",
 		"level": "Cấp 27",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Mũ giáp cấp 27. Nó bảo vệ đầu bạn rất Chắc, bạn sẽ Chẳng ngán thứ gì cả. Nghiêm túc mà nói, bạn Chẳng cần ý kiến gì về việc này.",
+		"description": "Mũ giáp cấp 27. Nó bảo vệ đầu bạn rất chắc, bạn sẽ chẳng ngán thứ gì cả. Nghiêm túc mà nói, bạn chẳng cần ý kiến gì về việc này.",
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Kiên thảo",
 				"qty": 8
@@ -7001,11 +7001,11 @@ $master.api.item = {
 		"type": "Găng tay",
 		"level": "Cấp 27",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Găng tay cấp 27. Nồng độ axit cao trong đấy sẽ khiến tay bạn mềm ra. Mà ai cũng thíCh tay mềm mà!",
+		"description": "Găng tay cấp 27. Nồng độ axit cao trong đấy sẽ khiến tay bạn mềm ra. Mà ai cũng thích tay mềm mà!",
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Dạ dày Glaser",
 				"qty": 2
@@ -7022,15 +7022,15 @@ $master.api.item = {
 		},
 		"icon": "stomagloves.png"
 	},
-	"Khoáng thạCh": {
-		"name": "Khoáng thạCh",
+	"Khoáng thạch": {
+		"name": "Khoáng thạch",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Bằng cáCh đổ Cục bùn vào Máy lọc bùn, bạn có thể làm sạCh nó và táCh ra những thứ hữu dụng từ nó.",
+		"description": "Bằng cách đổ Cục bùn vào Máy lọc bùn, bạn có thể làm sạch nó và tách ra những thứ hữu dụng từ nó.",
 		"recipe": {
 			"name": "Máy lọc bùn",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cục bùn",
 				"qty": 1
@@ -7044,13 +7044,13 @@ $master.api.item = {
 	},
 	"Máy lọc bùn": {
 		"name": "Máy lọc bùn",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Dường như những Cục bùn bạn lấy từ MạCh Băng áp có thể Chứa rất nhiều tài nguyên giá trị. Cái máy này sẽ giúp bạn Chiết táCh tất cả những thứ tinh túy thơm ngon!",
+		"description": "Dường như những Cục bùn bạn lấy từ Mạch Băng áp có thể chứa rất nhiều tài nguyên giá trị. Cái máy này sẽ giúp bạn chiết tách tất cả những thứ tinh túy thơm ngon!",
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Kiên thảo",
 				"qty": 2
@@ -7071,21 +7071,21 @@ $master.api.item = {
 		"name": "Carbon",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Nó được bao bọc trong Cục bùn, và bạn phải dọn sạCh nó. Các góc cạnh của nó khá là thô, nhưng nó có lẽ sẽ tốt Cho thứ gì đó.",
+		"description": "Nó được bao bọc trong Cục bùn, và bạn phải dọn sạch nó. Các góc cạnh của nó khá là thô, nhưng nó có lẽ sẽ tốt cho thứ gì đó.",
 		"icon": "karboan.png"
 	},
 	"Hợp Kim Titan": {
 		"name": "Hợp Kim Titan",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Cứng và Chống cào xước, và mài đế bóng loáng. Không gì có thể làm sứt mẻ được nó, và nó kêu nhẹ nhàng mỗi khi đến gần nó.",
-		"icon": "teChnium.png"
+		"description": "Cứng và chống cào xước, và mài đế bóng loáng. Không gì có thể làm sứt mẻ được nó, và nó kêu nhẹ nhàng mỗi khi đến gần nó.",
+		"icon": "technium.png"
 	},
 	"Chất nhầy độc": {
 		"name": "Chất nhầy độc",
 		"type": "Mảnh thành phần",
 		"rarity": "Bình Thường",
-		"description": "Phần Chất nhầy này là thành phần Chính của bùn. Nó dính Chặt vào bất cứ thứ gì nó Chạm vào, kể cả lỗ mũi bạn.",
+		"description": "Phần chất nhầy này là thành phần chính của bùn. Nó dính chặt vào bất cứ thứ gì nó chạm vào, kể cả lỗ mũi bạn.",
 		"icon": "meltor.png"
 	},
 	"Cần câu Carbon": {
@@ -7093,11 +7093,11 @@ $master.api.item = {
 		"type": "Công cụ",
 		"level": "Bậc 3",
 		"rarity": "Bình Thường",
-		"description": "Cần câu bậc 3. Nó dài, cứng và đầy gai. Giống những thứ một Chiếc cần câu nên có.",
+		"description": "Cần câu bậc 3. Nó dài, cứng và đầy gai. Giống những thứ một chiếc cần câu nên có.",
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 12
@@ -7116,13 +7116,13 @@ $master.api.item = {
 	},
 	"Lò sấy": {
 		"name": "Lò sấy",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Cung cấp mọi thứ mà Lò sấy của bạn cần, và nó còn đi kèm với một cái giá để ly! Và nó có nghĩa là bạn có thể đặt một Chiếc ly ở đó",
+		"description": "Cung cấp mọi thứ mà Lò sấy của bạn cần, và nó còn đi kèm với một cái giá để ly! Và nó có nghĩa là bạn có thể đặt một chiếc ly ở đó",
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 18
@@ -7147,7 +7147,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Nồi áp suất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Ống Tre gai",
 				"qty": 6
@@ -7158,7 +7158,7 @@ $master.api.item = {
 				"name": "Rêu rỉ sét",
 				"qty": 2
 			}, {
-				"name": "Tinh Chất Blastcrab [Tăng áp]",
+				"name": "Tinh chất Blastcrab [Tăng áp]",
 				"qty": 1
 			}]
 		},
@@ -7169,11 +7169,11 @@ $master.api.item = {
 		"type": "Vũ khí",
 		"level": "Cấp 29",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Rìu cấp 29. Khi vung đủ mạnh, giày trượt băng có thể là vũ khí Chết người. Như hầu hết mọi thứ, có lẽ vậy.",
+		"description": "Rìu cấp 29. Khi vung đủ mạnh, giày trượt băng có thể là vũ khí chết người. Như hầu hết mọi thứ, có lẽ vậy.",
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 12
@@ -7199,7 +7199,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 11
@@ -7221,11 +7221,11 @@ $master.api.item = {
 		"type": "Áo giáp",
 		"level": "Cấp 29",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Giáp ngực cấp 29. Không gì có thể Che Chắn cơ thể bạn một cáCh ngang tàng như Mực Lông.",
+		"description": "Giáp ngực cấp 29. Không gì có thể che chắn cơ thể bạn một cách ngang tàng như Mực Lông.",
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 10
@@ -7247,11 +7247,11 @@ $master.api.item = {
 		"type": "Găng tay",
 		"level": "Cấp 29",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Găng tay cấp 29. Có sự cố với miếng đệm vai bên trong! Mốt thời trang đều tuần hoàn, phải Chứ? ... Phải vậy không?",
+		"description": "Găng tay cấp 29. Có sự cố với miếng đệm vai bên trong! Mốt thời trang đều tuần hoàn, phải chứ? ... Phải vậy không?",
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mực Lông",
 				"qty": 6
@@ -7270,11 +7270,11 @@ $master.api.item = {
 		"type": "Quần giáp",
 		"level": "Cấp 29",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Quần cấp 29. Chiếc quần với lông thú, bảo vệ đôi Chân của bạn khỏi lạnh.",
+		"description": "Quần cấp 29. Chiếc quần với lông thú, bảo vệ đôi chân của bạn khỏi lạnh.",
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mực Lông",
 				"qty": 5
@@ -7292,22 +7292,22 @@ $master.api.item = {
 		"name": "Vòng Tay Từ Tính",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Siêu Cấp",
-		"description": "Slurb sử dụng từ tính để lấy đà Cho mỗi bước nhảy. Tiến hoá Slurb của bạn thành dạng SIÊU CẤP!",
+		"description": "Slurb sử dụng từ tính để lấy đà cho mỗi bước nhảy. Tiến hoá Slurb của bạn thành dạng SIÊU CẤP!",
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Slurb",
 				"qty": 147
 			}, {
-				"name": "Nam Châm Slurb",
+				"name": "Nam châm Slurb",
 				"qty": 18
 			}, {
 				"name": "Nước nhầy Slurb",
 				"qty": 10
 			}, {
-				"name": "Tinh Chất Slurb [Phẫn nộ]",
+				"name": "Tinh chất Slurb [Phẫn nộ]",
 				"qty": 14
 			}]
 		},
@@ -7318,11 +7318,11 @@ $master.api.item = {
 		"type": "Công cụ",
 		"level": "Bậc 5",
 		"rarity": "Bình Thường",
-		"description": "Cưa bậc 5. Những Chiếc gai lởm Chởm của lũ Slurb làm Cho Chiếc cưa trông ngầu hơn. Rất tuyệt vời Cho việc bắt đầu và kết thúc cuộc trò Chuyện!",
+		"description": "Cưa bậc 5. Những chiếc gai lởm chởm của lũ Slurb làm cho chiếc cưa trông ngầu hơn. Rất tuyệt vời cho việc bắt đầu và kết thúc cuộc trò chuyện!",
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lưỡi Lyff",
 				"qty": 4
@@ -7341,13 +7341,13 @@ $master.api.item = {
 	},
 	"Lò đốt": {
 		"name": "Lò đốt",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Nếu tốt thì nó sẽ tự Chạy, hoặc bạn sẽ nhận được thứ mang một đống vết móp méo!",
+		"description": "Nếu tốt thì nó sẽ tự chạy, hoặc bạn sẽ nhận được thứ mang một đống vết móp méo!",
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Chuỳ gai",
 				"qty": 6
@@ -7362,18 +7362,18 @@ $master.api.item = {
 				"qty": 7
 			}]
 		},
-		"icon": "burnChurn.png"
+		"icon": "burnchurn.png"
 	},
 	"Búa Tạ Nấm": {
 		"name": "Búa Tạ Nấm",
 		"type": "Vũ khí",
 		"level": "Cấp 31",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Búa cấp 31. Dù mềm và Chứa đầy khí, Nấm Bè có thể gây ra những thiệt hại nghiêm trọng trong thời gian rất, rất lâu. Có thể là rất nhiều năm sau đó.",
+		"description": "Búa cấp 31. Dù mềm và chứa đầy khí, Nấm Bè có thể gây ra những thiệt hại nghiêm trọng trong thời gian rất, rất lâu. Có thể là rất nhiều năm sau đó.",
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khối Nấm Bè",
 				"qty": 20
@@ -7390,17 +7390,17 @@ $master.api.item = {
 		},
 		"icon": "flungmallet.png"
 	},
-	"Đồ Chơi Lyff": {
-		"name": "Đồ Chơi Lyff",
+	"Đồ chơi Lyff": {
+		"name": "Đồ chơi Lyff",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Siêu Cấp",
-		"description": "Lyff của bạn rất hiếu động, vì thế món đồ giống đồ Chơi này cần người Chơi cùng. Tiến hoá Lyff của bạn thành dạng SIÊU CẤP!",
+		"description": "Lyff của bạn rất hiếu động, vì thế món đồ giống đồ chơi này cần người chơi cùng. Tiến hoá Lyff của bạn thành dạng SIÊU CẤP!",
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Tinh Chất Lyff [Dị sắc]",
+				"name": "Tinh chất Lyff [Dị sắc]",
 				"qty": 7
 			}, {
 				"name": "Gân Lyff",
@@ -7420,11 +7420,11 @@ $master.api.item = {
 		"type": "Mũ giáp",
 		"level": "Cấp 31",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Mũ giáp cấp 31. Đội thứ này truyền tới tiểu não của bạn năng lực thần kinh của Nấm Bè. Nó cũng lợi bỏ nhận thức của bạn một cáCh sâu sắc, thứ là lợi thế.",
+		"description": "Mũ giáp cấp 31. Đội thứ này truyền tới tiểu não của bạn năng lực thần kinh của Nấm Bè. Nó cũng lợi bỏ nhận thức của bạn một cách sâu sắc, thứ là lợi thế.",
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Lyff",
 				"qty": 7
@@ -7446,11 +7446,11 @@ $master.api.item = {
 		"type": "Áo giáp",
 		"level": "Cấp 31",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Giáp ngực cấp 31. Hơi Chật một xíu, cơ mà Chật vậy lại càng đẹp.",
+		"description": "Giáp ngực cấp 31. Hơi chật một xíu, cơ mà chật vậy lại càng đẹp.",
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Lyff",
 				"qty": 6
@@ -7476,7 +7476,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Rễ nổi Nấm bè",
 				"qty": 13
@@ -7498,11 +7498,11 @@ $master.api.item = {
 		"type": "Quần giáp",
 		"level": "Cấp 31",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Quần cấp 31. Lông tơ cảm giác đã thực sự. Giờ nó sẽ còn rậm rạp hơn nếu bạn có lông Chân.",
+		"description": "Quần cấp 31. Lông tơ cảm giác đã thực sự. Giờ nó sẽ còn rậm rạp hơn nếu bạn có lông chân.",
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lõi Phong phát",
 				"qty": 9
@@ -7521,11 +7521,11 @@ $master.api.item = {
 		"type": "Công cụ",
 		"level": "Bậc 5",
 		"rarity": "Bình Thường",
-		"description": "Cuốc Chim bậc 5. Cẩn thận không nghịCh thứ này bằng bất cứ bộ phận nào trên cơ thể vì cây Cuốc Chim này có rất nhiều gai.",
+		"description": "Cuốc Chim bậc 5. Cẩn thận không nghịch thứ này bằng bất cứ bộ phận nào trên cơ thể vì cây Cuốc Chim này có rất nhiều gai.",
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Blastcrab",
 				"qty": 8
@@ -7544,13 +7544,13 @@ $master.api.item = {
 	},
 	"Lò tinh luyện": {
 		"name": "Lò tinh luyện",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Bơm nó lên và xử lý nó xuống~! Cậu bé hư này sẽ biến những thứ thô thiển thành bất cứ gì con tim nhỏ bé Chả bạn muốn!",
+		"description": "Bơm nó lên và xử lý nó xuống~! Cậu bé hư này sẽ biến những thứ thô thiển thành bất cứ gì con tim nhỏ bé chả bạn muốn!",
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Ống Tre gai",
 				"qty": 26
@@ -7571,11 +7571,11 @@ $master.api.item = {
 		"name": "Đá Hợp Kim",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Nó cứng, tròn và mịn. Mặc dù có 1 Chút tính dẻo, nhưng nó cũng đủ tạo ra độ đàn hồi khá tốt.",
+		"description": "Nó cứng, tròn và mịn. Mặc dù có 1 chút tính dẻo, nhưng nó cũng đủ tạo ra độ đàn hồi khá tốt.",
 		"recipe": {
 			"name": "Máy lọc Dầu",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 1
@@ -7591,11 +7591,11 @@ $master.api.item = {
 		"type": "Mũ giáp",
 		"level": "Cấp 33",
 		"rarity": "Ngẫu nhiên",
-		"description": "Mũ giáp cấp 33. Nó vừa đủ nặng để bẻ gãy cổ bạn khi đội. Đó là cáCh bạn biết nó tốt.",
+		"description": "Mũ giáp cấp 33. Nó vừa đủ nặng để bẻ gãy cổ bạn khi đội. Đó là cách bạn biết nó tốt.",
 		"recipe": {
 			"name": "Máy lọc Dầu",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá Hợp Kim",
 				"qty": 4
@@ -7617,11 +7617,11 @@ $master.api.item = {
 		"type": "Giáp ngực",
 		"level": "Cấp 33",
 		"rarity": "Ngẫu nhiên",
-		"description": "Giáp ngực cấp 33. Nó đủ mạnh Cho một người đàn ông, và tất nhiên cũng đủ mạnh Cho một người phụ nữ. Bởi vì phụ nữ và đàn ông bình đẳng như nhau.",
+		"description": "Giáp ngực cấp 33. Nó đủ mạnh cho một người đàn ông, và tất nhiên cũng đủ mạnh cho một người phụ nữ. Bởi vì phụ nữ và đàn ông bình đẳng như nhau.",
 		"recipe": {
 			"name": "Máy lọc Dầu",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá Hợp Kim",
 				"qty": 3
@@ -7647,7 +7647,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá Hợp Kim",
 				"qty": 3
@@ -7669,11 +7669,11 @@ $master.api.item = {
 		"type": "Quần giáp",
 		"level": "Cấp 33",
 		"rarity": "Ngẫu Nhiên",
-		"description": "Quần cấp 33. Những Chiếc ủng sẽ Cho bạn phong cáCh của một con đại bàng và sự khéo léo của một con đại bàng khác khi bay lượn trên bầu trời.",
+		"description": "Quần cấp 33. Những chiếc ủng sẽ cho bạn phong cách của một con đại bàng và sự khéo léo của một con đại bàng khác khi bay lượn trên bầu trời.",
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá Hợp Kim",
 				"qty": 3
@@ -7696,7 +7696,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá Hợp Kim",
 				"qty": 4
@@ -7715,13 +7715,13 @@ $master.api.item = {
 	},
 	"Bơm Thu Hồi": {
 		"name": "Bơm Thu Hồi",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Nó tạo ra những âm thanh kì lạ khi Chiết xuất Dầu từ nước ở Tundra. Nó làm bạn muốn nhảy.",
+		"description": "Nó tạo ra những âm thanh kì lạ khi chiết xuất Dầu từ nước ở Tundra. Nó làm bạn muốn nhảy.",
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Ống Tre gai",
 				"qty": 27
@@ -7729,7 +7729,7 @@ $master.api.item = {
 				"name": "Da Blastcrab",
 				"qty": 7
 			}, {
-				"name": "Nam Châm Slurb",
+				"name": "Nam châm Slurb",
 				"qty": 4
 			}, {
 				"name": "Bong bóng khí Lyff",
@@ -7742,11 +7742,11 @@ $master.api.item = {
 		"name": "Túi Dầu",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Lót Bơm Thu Hồi bằng Băng tảo sẽ Cho phép bạn táCh thứ này ra khỏi nước. Nó bóng nhẫy ở bên ngoài và trơn nhớt ở bên trong!",
+		"description": "Lót Bơm Thu Hồi bằng Băng tảo sẽ cho phép bạn tách thứ này ra khỏi nước. Nó bóng nhẫy ở bên ngoài và trơn nhớt ở bên trong!",
 		"recipe": {
 			"name": "Bơm Thu Hồi",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Băng tảo",
 				"qty": 3
@@ -7763,7 +7763,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Gulanti",
 				"qty": 11
@@ -7784,11 +7784,11 @@ $master.api.item = {
 		"name": "Thùng Dầu",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Siêu Cấp",
-		"description": "Lũ Blastcrab Chỉ quan tâm mỗi một điều, đó là đốt Cháy tất cả mọi thứ. Tiến hoá Blastcrab của bạn thành dạng SIÊU CẤP!",
+		"description": "Lũ Blastcrab chỉ quan tâm mỗi một điều, đó là đốt cháy tất cả mọi thứ. Tiến hoá Blastcrab của bạn thành dạng SIÊU CẤP!",
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Blastcrab",
 				"qty": 67
@@ -7799,7 +7799,7 @@ $master.api.item = {
 				"name": "Túi Dầu",
 				"qty": 42
 			}, {
-				"name": "Tinh Chất Blastcrab [Tăng áp]",
+				"name": "Tinh chất Blastcrab [Tăng áp]",
 				"qty": 7
 			}]
 		},
@@ -7807,13 +7807,13 @@ $master.api.item = {
 	},
 	"Bàn đúc": {
 		"name": "Bàn đúc",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Nó hoạt động rất nhiệt huyết, nhưng không nhanh lắm. Bạn có thể hạ nó trong một cuộc Chạy marathon, hoặc bằng một cái Que.",
+		"description": "Nó hoạt động rất nhiệt huyết, nhưng không nhanh lắm. Bạn có thể hạ nó trong một cuộc chạy marathon, hoặc bằng một cái Que.",
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa xanh",
 				"qty": 12
@@ -7839,7 +7839,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa xanh",
 				"qty": 35
@@ -7861,11 +7861,11 @@ $master.api.item = {
 		"type": "Mũ giáp",
 		"level": "Cấp 35",
 		"rarity": "Huyền Thoại",
-		"description": "Mũ giáp cấp 35. Nó vừa khít khìn khịt, bạn có thể nghe, nghĩ, nhìn, thở một cáCh vừa đủ. Thật là hoàn hảo!",
+		"description": "Mũ giáp cấp 35. Nó vừa khít khìn khịt, bạn có thể nghe, nghĩ, nhìn, thở một cách vừa đủ. Thật là hoàn hảo!",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa xanh",
 				"qty": 42
@@ -7884,11 +7884,11 @@ $master.api.item = {
 		"type": "Áo giáp",
 		"level": "Cấp 35",
 		"rarity": "Huyền Thoại",
-		"description": "Giáp ngực cấp 35. Nó giữ Chặt xương sườn bạn với sức mạnh của một nghìn con bọ hung!",
+		"description": "Giáp ngực cấp 35. Nó giữ chặt xương sườn bạn với sức mạnh của một nghìn con bọ hung!",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa xanh",
 				"qty": 28
@@ -7903,7 +7903,7 @@ $master.api.item = {
 				"qty": 41
 			}]
 		},
-		"icon": "lonsChest.png"
+		"icon": "lonschest.png"
 	},
 	"Găng tay Lụa xanh": {
 		"name": "Găng tay Lụa xanh",
@@ -7914,7 +7914,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa xanh",
 				"qty": 30
@@ -7933,11 +7933,11 @@ $master.api.item = {
 		"type": "Quần giáp",
 		"level": "Cấp 35",
 		"rarity": "Huyền Thoại",
-		"description": "Quần cấp 35. Những lỗ ráCh quanh đùi gợi nhớ về những ngày còn là sinh viên nghèo.",
+		"description": "Quần cấp 35. Những lỗ rách quanh đùi gợi nhớ về những ngày còn là sinh viên nghèo.",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa xanh",
 				"qty": 18
@@ -7958,11 +7958,11 @@ $master.api.item = {
 		"name": "Bánh đuông dừa",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Siêu Cấp",
-		"description": "Gulanti rất thíCh trốn tìm. Có thể trò đùa này sẽ giúp nó doạ ai đó. Tiến hoá Gulanti của bạn thành dạng SIÊU CẤP",
+		"description": "Gulanti rất thích trốn tìm. Có thể trò đùa này sẽ giúp nó doạ ai đó. Tiến hoá Gulanti của bạn thành dạng SIÊU CẤP",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lõi điện Gulanti",
 				"qty": 14
@@ -7973,7 +7973,7 @@ $master.api.item = {
 				"name": "Cây Thố thảo",
 				"qty": 15
 			}, {
-				"name": "Tinh Chất Gulanti [Nhún nhảy]",
+				"name": "Tinh chất Gulanti [Nhún nhảy]",
 				"qty": 10
 			}]
 		},
@@ -7987,7 +7987,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa xanh",
 				"qty": 65
@@ -7995,10 +7995,10 @@ $master.api.item = {
 				"name": "Tinh thể xanh lá",
 				"qty": 39
 			}, {
-				"name": "Tinh Chất Gallum [Vôi hoá]",
+				"name": "Tinh chất Gallum [Vôi hoá]",
 				"qty": 9
 			}, {
-				"name": "Lõi DịCh Chuyển",
+				"name": "Lõi Dịch Chuyển",
 				"qty": 12
 			}]
 		},
@@ -8006,13 +8006,13 @@ $master.api.item = {
 	},
 	"Máy nướng cá": {
 		"name": "Máy nướng cá",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
 		"description": "Nó có thể giữ được rất nhiều nhiệt, nó sẽ trở lên rất dính sau khi dùng nhiều lần. Nó sẽ tốt hơn nếu bạn cọ rửa sau mỗi lần dùng.",
 		"recipe": {
 			"name": "Máy tiện Cao su",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Ốc sên cuộn",
 				"qty": 5
@@ -8020,7 +8020,7 @@ $master.api.item = {
 				"name": "Cá đuôi quỷ",
 				"qty": 3
 			}, {
-				"name": "Hóa ThạCh Đại Cốt",
+				"name": "Hóa Thạch Đại Cốt",
 				"qty": 4
 			}, {
 				"name": "Nhựa nhầy Tartil",
@@ -8031,15 +8031,15 @@ $master.api.item = {
 	},
 	"Bàn Dệt": {
 		"name": "Bàn Dệt",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Nó trộn mọi thứ vào nhau, táCh thành từng sợi, và dệt Chúng thành một loại vải. Quá đỉnh!",
+		"description": "Nó trộn mọi thứ vào nhau, tách thành từng sợi, và dệt chúng thành một loại vải. Quá đỉnh!",
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 23
 			}, {
 				"name": "Lông mi Wojack",
@@ -8056,13 +8056,13 @@ $master.api.item = {
 	},
 	"Máy nén": {
 		"name": "Máy nén",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Tất cả mọi thứ bạn cần là một thái độ không lồi lõm, một Chút keo sinh học từ khớp Chân, một Trạm Chế tạo hoàn hảo làm từ da người ngoài hành tinh bơm căng phồng lên.",
+		"description": "Tất cả mọi thứ bạn cần là một thái độ không lồi lõm, một chút keo sinh học từ khớp chân, một Trạm chế tạo hoàn hảo làm từ da người ngoài hành tinh bơm căng phồng lên.",
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Snorble",
 				"qty": 16
@@ -8073,7 +8073,7 @@ $master.api.item = {
 				"name": "Cây Thùa gai",
 				"qty": 3
 			}, {
-				"name": "MạCh Bawg",
+				"name": "Mạch Bawg",
 				"qty": 13
 			}]
 		},
@@ -8081,13 +8081,13 @@ $master.api.item = {
 	},
 	"Máy ly tâm": {
 		"name": "Máy ly tâm",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
 		"description": "Quay đều, quay đều, quay đều,....",
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ xương Satgat",
 				"qty": 18
@@ -8108,11 +8108,11 @@ $master.api.item = {
 		"name": "Hoả trượng",
 		"type": "Trang sức",
 		"rarity": "Siêu Cấp",
-		"description": "Khi rỗi hơi không có gì làm, bạn Chỉ dùng nó để đốt trụi mọi thứ. Nhận 10% tỉ lệ thiêu đốt mục tiêu.",
+		"description": "Khi rỗi hơi không có gì làm, bạn chỉ dùng nó để đốt trụi mọi thứ. Nhận 10% tỉ lệ thiêu đốt mục tiêu.",
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Polymer Snorble",
 				"qty": 5
@@ -8124,17 +8124,17 @@ $master.api.item = {
 				"qty": 31
 			}]
 		},
-		"icon": "Chemwand.png"
+		"icon": "chemwand.png"
 	},
 	"Xúc tu gai": {
 		"name": "Xúc tu gai",
 		"type": "Trang sức",
 		"rarity": "Siêu Cấp",
-		"description": "Nâng cấp đòn đánh của bạn với SỨC MẠNH XÚC TU CỦA THROAK! Nhận 10% tỉ lệ gây ST băng khi cận Chiến.",
+		"description": "Nâng cấp đòn đánh của bạn với SỨC MẠNH XÚC TU CỦA THROAK! Nhận 10% tỉ lệ gây ST băng khi cận chiến.",
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Tuyến trùng Throak",
 				"qty": 8
@@ -8159,7 +8159,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Hương liệu Wojack",
 				"qty": 4
@@ -8180,11 +8180,11 @@ $master.api.item = {
 		"name": "Tay game tối ưu",
 		"type": "Trang sức",
 		"rarity": "Siêu Cấp",
-		"description": "Giờ với cái tay cầm cực Chắc này. Thu hoạCh tài nguyên theo mọi hướng trở nên thật dễ dàng. Nhận 15% tỉ lệ tăng tốc Chạy khi đập tài nguyên.",
+		"description": "Giờ với cái tay cầm cực chắc này. Thu hoạch tài nguyên theo mọi hướng trở nên thật dễ dàng. Nhận 15% tỉ lệ tăng tốc chạy khi đập tài nguyên.",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Bóng khí Bamli",
 				"qty": 17
@@ -8205,11 +8205,11 @@ $master.api.item = {
 		"name": "Tượng Phát Tài",
 		"type": "Trang sức",
 		"rarity": "Siêu Cấp",
-		"description": "Đây là cáCh bạn biết được bạn đã làm nó. Nhận 10% tỉ lệ nhận gấp đôi tài nguyên khi phá!",
+		"description": "Đây là cách bạn biết được bạn đã làm nó. Nhận 10% tỉ lệ nhận gấp đôi tài nguyên khi phá!",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Hormone lạ",
 				"qty": 5
@@ -8230,16 +8230,16 @@ $master.api.item = {
 		"name": "Tấm Sưởi",
 		"type": "Trang sức",
 		"rarity": "Siêu Cấp",
-		"description": "Giữ ấm là dành Cho trẻ em. Và bạn, cũng như vậy. Nhận 20% kháng ST Băng và hiệu ứng lạnh.",
+		"description": "Giữ ấm là dành cho trẻ em. Và bạn, cũng như vậy. Nhận 20% kháng ST Băng và hiệu ứng lạnh.",
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Chất dính Nắp ấm",
 				"qty": 7
 			}, {
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 63
 			}, {
 				"name": "Ch*m Vomma",
@@ -8259,7 +8259,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Ruột Satgat",
 				"qty": 4
@@ -8280,11 +8280,11 @@ $master.api.item = {
 		"name": "Quả cầu máu",
 		"type": "Trang sức",
 		"rarity": "Siêu Cấp",
-		"description": "Chỉ việc có thứ đẹp đẽ này xung quanh đã khiếu bạn muốn nghiền nát mọi mục tiêu và tước đi sinh mệnh của Chúng! Nhận 5% tỉ lệ hút máu khi cận Chiến.",
+		"description": "Chỉ việc có thứ đẹp đẽ này xung quanh đã khiếu bạn muốn nghiền nát mọi mục tiêu và tước đi sinh mệnh của chúng! Nhận 5% tỉ lệ hút máu khi cận chiến.",
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Rận hút máu",
 				"qty": 4
@@ -8305,13 +8305,13 @@ $master.api.item = {
 		"name": "Ống phê pha",
 		"type": "Trang sức",
 		"rarity": "Tối Thượng",
-		"description": "Bạn sẽ trở thành trung tâm của mọi bữa tiệc với Ống phê pha kì lạ này. Trừ khi bạn là cớm. Có 5% tỉ lệ tăng tốc Chạy với mỗi phát đánh cận Chiến.",
+		"description": "Bạn sẽ trở thành trung tâm của mọi bữa tiệc với Ống phê pha kì lạ này. Trừ khi bạn là cớm. Có 5% tỉ lệ tăng tốc chạy với mỗi phát đánh cận chiến.",
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "MạCh Bawg",
+				"name": "Mạch Bawg",
 				"qty": 43
 			}, {
 				"name": "Thạch Throak",
@@ -8330,11 +8330,11 @@ $master.api.item = {
 		"name": "Hộp móng",
 		"type": "Trang sức",
 		"rarity": "Siêu Cấp",
-		"description": "Bạn không có thời gian để Chảy máu, nhưng kẻ thù của bạn Chắc Chắn có! Nhận 10% tỉ lệ gây Chảy máu mục tiêu khi cận Chiến.",
+		"description": "Bạn không có thời gian để chảy máu, nhưng kẻ thù của bạn chắc chắn có! Nhận 10% tỉ lệ gây chảy máu mục tiêu khi cận chiến.",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Thùa gai",
 				"qty": 9
@@ -8355,11 +8355,11 @@ $master.api.item = {
 		"name": "Lưỡi lê độc",
 		"type": "Trang sức",
 		"rarity": "Siêu Cấp",
-		"description": "Với lượng độc vừa đủ, bạn có thể cân mọi thể loại! Nhận 10% tỉ lệ gây độc lên mục tiêu khi cận Chiến.",
+		"description": "Với lượng độc vừa đủ, bạn có thể cân mọi thể loại! Nhận 10% tỉ lệ gây độc lên mục tiêu khi cận chiến.",
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Dâu độc",
 				"qty": 7
@@ -8380,11 +8380,11 @@ $master.api.item = {
 		"name": "Điện gai",
 		"type": "Trang sức",
 		"rarity": "Siêu Cấp",
-		"description": "Thứ này cực kì tốt để gây giật điện bất ngờ mọi thứ. Đừng liếm đầu mút. Nhận 10% tỉ lệ gây ST Điện khi cận Chiến!",
+		"description": "Thứ này cực kì tốt để gây giật điện bất ngờ mọi thứ. Đừng liếm đầu mút. Nhận 10% tỉ lệ gây ST Điện khi cận chiến!",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Bugi phóng điện",
 				"qty": 9
@@ -8409,7 +8409,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Keo cơ bản",
 				"qty": 4
@@ -8430,13 +8430,13 @@ $master.api.item = {
 		"name": "Xương thu lôi",
 		"type": "Trang sức",
 		"rarity": "Siêu Cấp",
-		"description": "Một Chân trên mặt Đất, và Chân còn lại tiếp Đất. Nhận 20% kháng ST Điện.",
+		"description": "Một chân trên mặt Đất, và chân còn lại tiếp Đất. Nhận 20% kháng ST Điện.",
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Hóa ThạCh Đại Cốt",
+				"name": "Hóa Thạch Đại Cốt",
 				"qty": 11
 			}, {
 				"name": "Đất",
@@ -8455,11 +8455,11 @@ $master.api.item = {
 		"name": "Quần tăng tốc",
 		"type": "Trang sức",
 		"rarity": "Siêu Cấp",
-		"description": "Giữ nó xung quanh khiến bạn hồi tưởng về ngày mà bạn còn là vận động viên Olympic. Chính là lúc đó. Gia tăng 5% tốc Chạy!",
+		"description": "Giữ nó xung quanh khiến bạn hồi tưởng về ngày mà bạn còn là vận động viên Olympic. Chính là lúc đó. Gia tăng 5% tốc chạy!",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cánh Wat",
 				"qty": 22
@@ -8484,7 +8484,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Quả Sen cạn",
 				"qty": 23
@@ -8502,11 +8502,11 @@ $master.api.item = {
 		"name": "Gia Trọng",
 		"type": "Trang sức",
 		"rarity": "Siêu Cấp",
-		"description": "Nó khá nặng, nhưng bạn đã căn cả rồi. Nhận 3% tỉ lệ gây Choáng mục tiêu khi cận Chiến.",
+		"description": "Nó khá nặng, nhưng bạn đã căn cả rồi. Nhận 3% tỉ lệ gây choáng mục tiêu khi cận chiến.",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cánh Hoa quả tạ",
 				"qty": 46
@@ -8528,7 +8528,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Tinh thể Lyff",
 				"qty": 5
@@ -8549,11 +8549,11 @@ $master.api.item = {
 		"name": "Gậy Gai",
 		"type": "Trang sức",
 		"rarity": "Siêu Cấp",
-		"description": "Cây gậy này sẽ Cho bạn nhiều tài nguyên hơn khi đào! 75% tỉ lệ ra thêm tài nguyên cùng loại khi khai thác.",
+		"description": "Cây gậy này sẽ cho bạn nhiều tài nguyên hơn khi đào! 75% tỉ lệ ra thêm tài nguyên cùng loại khi khai thác.",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Gân Lyff",
 				"qty": 9
@@ -8574,11 +8574,11 @@ $master.api.item = {
 		"name": "Trứng Phản Công",
 		"type": "Trang sức",
 		"rarity": "Siêu Cấp",
-		"description": "Đôi khi nó Chỉ cần một mồi lửa nhỏ dưới ngòi Châm. Gia tăng 15% tốc Chạy khi thấp máu!",
+		"description": "Đôi khi nó chỉ cần một mồi lửa nhỏ dưới ngòi châm. Gia tăng 15% tốc chạy khi thấp máu!",
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Bướu điện Glaser",
 				"qty": 7
@@ -8603,7 +8603,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Ống Tre gai",
 				"qty": 87
@@ -8624,11 +8624,11 @@ $master.api.item = {
 		"name": "Đèn pha",
 		"type": "Trang sức",
 		"rarity": "Tối Thượng",
-		"description": "Cho pet của bạn biết phải đánh vào đâu! Gia tăng 20% tỉ lệ Chí mang của pet.",
+		"description": "Cho pet của bạn biết phải đánh vào đâu! Gia tăng 20% tỉ lệ chí mang của pet.",
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Băng tảo",
 				"qty": 24
@@ -8643,17 +8643,17 @@ $master.api.item = {
 				"qty ": 18
 			}]
 		},
-		"icon": "searChlight.png"
+		"icon": "searchlight.png"
 	},
 	"Súng Thép Gai": {
 		"name": "Súng Thép Gai",
 		"type": "Thiết bị",
 		"rarity": "Tốt",
-		"description": "Khai thác sức mạnh của Throak để thổi tung kẻ địCh với SỰ LẠNH LÙNG CỦA CRUSH! Gây 100% ST/giây thành ST băng.",
+		"description": "Khai thác sức mạnh của Throak để thổi tung kẻ địch với SỰ LẠNH LÙNG CỦA CRUSH! Gây 100% ST/giây thành ST băng.",
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Xúc tu Throak",
 				"qty": 68
@@ -8674,11 +8674,11 @@ $master.api.item = {
 		"name": "Doping",
 		"type": "Phụ trợ",
 		"rarity": "Siêu Cấp",
-		"description": "Chỉ cần nhìn một cái nhìn vào thứ đáng sợ này sẽ khiến Adrenaline tuôn trào! Tăng tốc Chạy trong 10 giây.",
+		"description": "Chỉ cần nhìn một cái nhìn vào thứ đáng sợ này sẽ khiến Adrenaline tuôn trào! Tăng tốc chạy trong 10 giây.",
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Hạt giống Nắp ấm",
 				"qty": 11
@@ -8703,7 +8703,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Ch*m Vomma",
 				"qty": 11
@@ -8724,11 +8724,11 @@ $master.api.item = {
 		"name": "Gậy sét",
 		"type": "Thiết bị",
 		"rarity": "Siêu Cấp",
-		"description": "Ria mép của Bamli tạo tĩnh điện rất nhanh, bạn sẽ không điên tới mức vũ khí hoá Chúng đâu! Gây 100% ST/giây thành ST điện lên các mục tiêu đã Chọn và xung quanh.",
+		"description": "Ria mép của Bamli tạo tĩnh điện rất nhanh, bạn sẽ không điên tới mức vũ khí hoá chúng đâu! Gây 100% ST/giây thành ST điện lên các mục tiêu đã chọn và xung quanh.",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Râu Bamli",
 				"qty": 33
@@ -8743,17 +8743,17 @@ $master.api.item = {
 				"qty": 21
 			}]
 		},
-		"icon": "shockstaChe.png"
+		"icon": "shockstache.png"
 	},
 	"Kẻ lây nhiễm": {
 		"name": "Kẻ lây nhiễm",
 		"type": "Thiết bị",
 		"rarity": "Siêu Cấp",
-		"description": "Đập kẻ địCh với thứ này sẽ khiến Chúng bị độc và mọi thứ, mọi người nó thíCh! Gây 100% ST/giây thành ST độc lên mục tiêu của bạn và những mục tiêu gần đó.",
+		"description": "Đập kẻ địch với thứ này sẽ khiến chúng bị độc và mọi thứ, mọi người nó thích! Gây 100% ST/giây thành ST độc lên mục tiêu của bạn và những mục tiêu gần đó.",
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đỉa",
 				"qty": 5
@@ -8774,11 +8774,11 @@ $master.api.item = {
 		"name": "Kính thiên văn",
 		"type": "Phụ trợ",
 		"rarity": "Tốt",
-		"description": "Bằng cáCh hội tụ ánh sáng vào một điểm nhỏ trên võng mạc, bạn đã có thể lập tức đổi Chỗ với pet bằng cáCh nào đó. Rất nhiều thành tựu khoa học bên trong thứ này.",
+		"description": "Bằng cách hội tụ ánh sáng vào một điểm nhỏ trên võng mạc, bạn đã có thể lập tức đổi chỗ với pet bằng cách nào đó. Rất nhiều thành tựu khoa học bên trong thứ này.",
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Túi khí Snorble",
 				"qty": 28
@@ -8792,15 +8792,15 @@ $master.api.item = {
 		},
 		"icon": "swapscope.png"
 	},
-	"Boomerang Chân dơi": {
-		"name": "Boomerang Chân dơi",
+	"Boomerang chân dơi": {
+		"name": "Boomerang chân dơi",
 		"type": "Thiết bị",
 		"rarity": "Siêu Cấp",
-		"description": "Nó sẽ gây sát thương cực lớn Cho kẻ thù của bạn và khiến Chúng Chảy máu, nhưng hãy cẩn thận khi thu hồi nó, hoặc không bạn sẽ mất ... một ngón tay. Khiến mục tiêu bị Chảy máu bằng 100% ST/giây.",
+		"description": "Nó sẽ gây sát thương cực lớn cho kẻ thù của bạn và khiến chúng chảy máu, nhưng hãy cẩn thận khi thu hồi nó, hoặc không bạn sẽ mất ... một ngón tay. Khiến mục tiêu bị chảy máu bằng 100% ST/giây.",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Móng Wat",
 				"qty": 8
@@ -8821,11 +8821,11 @@ $master.api.item = {
 		"name": "DBot",
 		"type": "Phụ trợ",
 		"rarity": "Tối Thượng",
-		"description": "Chỉ cần ấn nút, DBot sẽ có mặt ngay lập tức, làm bạn bất khả Chiến bại! Nhưng nó dễ mất sức, nên đừng dùng nó quá mức.",
+		"description": "Chỉ cần ấn nút, DBot sẽ có mặt ngay lập tức, làm bạn bất khả chiến bại! Nhưng nó dễ mất sức, nên đừng dùng nó quá mức.",
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Bảo thạch vàng",
 				"qty": 12
@@ -8843,11 +8843,11 @@ $master.api.item = {
 		"name": "Máy bắn tuyết",
 		"type": "Thiết bị",
 		"rarity": "Tốt",
-		"description": "Ném quả bóng Chứa tuyết và băng vào mặt kẻ thù, gây 70% ST/giây thành ST Băng và đóng băng Chân của Chúng trong một khu vực!",
+		"description": "Ném quả bóng chứa tuyết và băng vào mặt kẻ thù, gây 70% ST/giây thành ST Băng và đóng băng chân của chúng trong một khu vực!",
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 58
@@ -8859,7 +8859,7 @@ $master.api.item = {
 				"qty": 19
 			}]
 		},
-		"icon": "slowball_maChine.png"
+		"icon": "slowball_machine.png"
 	},
 	"Sấm Truyền Lệnh": {
 		"name": "Sấm Truyền Lệnh",
@@ -8869,7 +8869,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa xanh",
 				"qty": 33
@@ -8890,13 +8890,13 @@ $master.api.item = {
 		"name": "Lò bát quái",
 		"type": "Phụ trợ",
 		"rarity": "Tối Thượng",
-		"description": "Người ta nói nơi an toàn nhất của một địa ngục bạo tàn là điểm gốc. Nó có lẽ không đúng lắm, nhưng ta không thể kiểm Chứng nó. Thiêu đốt mục tiêu bằng 100% ST/giây!",
+		"description": "Người ta nói nơi an toàn nhất của một địa ngục bạo tàn là điểm gốc. Nó có lẽ không đúng lắm, nhưng ta không thể kiểm chứng nó. Thiêu đốt mục tiêu bằng 100% ST/giây!",
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Ch4",
+				"name": "CH4",
 				"qty": 6
 			}, {
 				"name": "Tuyến đánh lửa",
@@ -8919,7 +8919,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Bướu điện Glaser",
 				"qty": 7
@@ -8937,11 +8937,11 @@ $master.api.item = {
 		"name": "Sàn Cây Nắp ấm",
 		"type": "Sàn",
 		"rarity": "Bình Thường",
-		"description": "Nó len vào giữa những ngón Chân khi bạn đi trên nó bằng Chân trần. Nó sẽ phát ra tiếng như rít như khi Chà tay vào Bóng bay",
+		"description": "Nó len vào giữa những ngón chân khi bạn đi trên nó bằng chân trần. Nó sẽ phát ra tiếng như rít như khi chà tay vào Bóng bay",
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Thịt Nắp ấm",
 				"qty": 10
@@ -8957,9 +8957,9 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 10
 			}]
 		},
@@ -8973,7 +8973,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cục vàng",
 				"qty": 10
@@ -8989,7 +8989,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đế Hoa quả tạ",
 				"qty": 10
@@ -9005,7 +9005,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 10
@@ -9021,7 +9021,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa xanh",
 				"qty": 10
@@ -9033,11 +9033,11 @@ $master.api.item = {
 		"name": "Tường Cây Nắp ấm",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Bạn cảm thấy nếu Chạy đủ lực, nó sẽ nhường lối. Triển ngay nào!",
+		"description": "Bạn cảm thấy nếu chạy đủ lực, nó sẽ nhường lối. Triển ngay nào!",
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Thịt Nắp ấm",
 				"qty": 5
@@ -9045,17 +9045,17 @@ $master.api.item = {
 		},
 		"icon": "jollywall.png"
 	},
-	"Tường cáCh điện": {
-		"name": "Tường cáCh điện",
+	"Tường cách điện": {
+		"name": "Tường cách điện",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
 		"description": "Nó sẽ kêu lóc bóc nếu bạn áp mặt lên đấy. Chắc hẳn không phải là vật liệu tốt nhất rồi, nhưng bạn tính làm gì nữa?",
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 5
 			}]
 		},
@@ -9065,11 +9065,11 @@ $master.api.item = {
 		"name": "Tường vàng",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Nó thật sáng bóng tới nỗi bạn có thể thấy ảnh phản Chiếu của mình trong đó! Điều này phải thật là hữu íCh, theo cáCh nào đó.",
+		"description": "Nó thật sáng bóng tới nỗi bạn có thể thấy ảnh phản chiếu của mình trong đó! Điều này phải thật là hữu ích, theo cách nào đó.",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cục vàng",
 				"qty": 5
@@ -9081,11 +9081,11 @@ $master.api.item = {
 		"name": "Tường Hoa quả tạ",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Nó còn đặc hơn vật Chất trong lỗ đen. May thay là không phải lỗ đen, nếu không bạn có thể đang rơi ngay bây giờ.",
+		"description": "Nó còn đặc hơn vật chất trong lỗ đen. May thay là không phải lỗ đen, nếu không bạn có thể đang rơi ngay bây giờ.",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đế Hoa quả tạ",
 				"qty": 5
@@ -9097,11 +9097,11 @@ $master.api.item = {
 		"name": "Tường Carbon",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Nó đủ Chắc Chắn để có thể cản lốc xoáy, nhưng lại dịu dàng đến mức bạn có thể tin tưởng Cho Chúng trông coi con bạn.",
+		"description": "Nó đủ chắc chắn để có thể cản lốc xoáy, nhưng lại dịu dàng đến mức bạn có thể tin tưởng cho chúng trông coi con bạn.",
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 5
@@ -9113,11 +9113,11 @@ $master.api.item = {
 		"name": "Tường Lụa xanh",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Nó là vật liệu rắn Chắc nhất vũ trụ. Nhưng nó khiến việc Chế tạo thành hình dạng này là một điều không thể tin được.",
+		"description": "Nó là vật liệu rắn chắc nhất vũ trụ. Nhưng nó khiến việc chế tạo thành hình dạng này là một điều không thể tin được.",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa xanh",
 				"qty": 5
@@ -9133,7 +9133,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá nhẵn",
 				"qty": 2
@@ -9145,11 +9145,11 @@ $master.api.item = {
 		"name": "Cửa Nắp ấm",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Khi nó co lại, Chất nhầy màu đỏ phụt ra. Nó có mùi giống kẹo!",
+		"description": "Khi nó co lại, chất nhầy màu đỏ phụt ra. Nó có mùi giống kẹo!",
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Thịt Nắp ấm",
 				"qty": 2
@@ -9161,13 +9161,13 @@ $master.api.item = {
 		"name": "Cửa cách điện",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Cái cửa này có lẽ không giữ được nhiều thứ tránh xa khỏi nó, nhưng Chắc Chắn nó rất tuyệt!",
+		"description": "Cái cửa này có lẽ không giữ được nhiều thứ tránh xa khỏi nó, nhưng chắc chắn nó rất tuyệt!",
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 2
 			}]
 		},
@@ -9177,11 +9177,11 @@ $master.api.item = {
 		"name": "Cửa vàng",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Mặt trời phản Chiếu trên nó một cáCh sáng Chói, làm nó thật khó để mở. Thật đẹp làm sao!",
+		"description": "Mặt trời phản chiếu trên nó một cách sáng chói, làm nó thật khó để mở. Thật đẹp làm sao!",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cục vàng",
 				"qty": 2
@@ -9193,11 +9193,11 @@ $master.api.item = {
 		"name": "Cửa Hoa quả tạ",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Những cái núm của Chúng khiến nó rất khó đóng và mở, nhưng về mặt nào đó Chúng cũng làm nó trở nên dễ dàng hơn.",
+		"description": "Những cái núm của chúng khiến nó rất khó đóng và mở, nhưng về mặt nào đó chúng cũng làm nó trở nên dễ dàng hơn.",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đế Hoa quả tạ",
 				"qty": 2
@@ -9213,7 +9213,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 2
@@ -9229,7 +9229,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa xanh",
 				"qty": 2
@@ -9239,13 +9239,13 @@ $master.api.item = {
 	},
 	"BS SSSS SS5": {
 		"name": "BS SSSS SS5",
-		"type": "Trạm Chế tạo",
+		"type": "Trạm chế tạo",
 		"rarity": "Bình Thường",
-		"description": "Bạn đang sử dụng Cục Vận Chuyển Hàng không Tự duy trì S-5 đáng tin cậy! Nó sẽ giúp bạn bắt đầu ở một hành tinh đầy quái vật này.",
+		"description": "Bạn đang sử dụng Cục Vận chuyển Hàng không Tự duy trì S-5 đáng tin cậy! Nó sẽ giúp bạn bắt đầu ở một hành tinh đầy quái vật này.",
 		"recipe": {
 			"name": "BS SSSS SS5",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Que",
 				"qty": 6
@@ -9260,11 +9260,11 @@ $master.api.item = {
 		"name": "Mỏ neo",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Nó sẽ khá tốt để Chế tạo một trong số Chúng, phòng khi bạn kết thúc với một con tàu hỏng thuộc sở hữu của bạn.",
+		"description": "Nó sẽ khá tốt để chế tạo một trong số chúng, phòng khi bạn kết thúc với một con tàu hỏng thuộc sở hữu của bạn.",
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vảy ngọc",
 				"qty": 2
@@ -9276,17 +9276,17 @@ $master.api.item = {
 				"qty": 1
 			}]
 		},
-		"icon": "pearlscale_anChor.png"
+		"icon": "pearlscale_anchor.png"
 	},
-	"Kệ sáCh Pha lê": {
-		"name": "Kệ sáCh Pha lê",
+	"Kệ sách Pha lê": {
+		"name": "Kệ sách Pha lê",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Đây là nơi bạn cất những quyển sáCh mà bạn kể với mọi người rằng bạn đã đọc!",
+		"description": "Đây là nơi bạn cất những quyển sách mà bạn kể với mọi người rằng bạn đã đọc!",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 3
@@ -9307,11 +9307,11 @@ $master.api.item = {
 		"name": "Ngai vàng Pha lê",
 		"type": "Đồ nội thất",
 		"rarity": "Tối Thượng",
-		"description": "Thứ này khiến bạn quên đi sự quan trọng của mình trong Chốc lát!",
+		"description": "Thứ này khiến bạn quên đi sự quan trọng của mình trong chốc lát!",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 4
@@ -9332,28 +9332,28 @@ $master.api.item = {
 		"name": "Bệ đá tăng tốc",
 		"type": "Bệ",
 		"rarity": "Bình Thường",
-		"description": "Chạm vào bệ đá này khiến đôi Chân bạn trở nên ngứa ngáy. Giống cảm giác khi bạn ngồi trên toilet quá lâu, Chỉ hơi khác thôi.",
+		"description": "Chạm vào bệ đá này khiến đôi chân bạn trở nên ngứa ngáy. Giống cảm giác khi bạn ngồi trên toilet quá lâu, chỉ hơi khác thôi.",
 		"icon": "turbo_shrine.png"
 	},
 	"Bệ đá thời gian": {
 		"name": "Bệ đá thời gian",
 		"type": "Bệ",
 		"rarity": "Bình Thường",
-		"description": "Lạm dụng bệ đá này sẽ khiến mọi thứ trở nên CỰC KÌ NHÀM ChÁN.",
+		"description": "Lạm dụng bệ đá này sẽ khiến mọi thứ trở nên CỰC KÌ NHÀM CHÁN.",
 		"icon": "glowing_shrine.png"
 	},
 	"Khúc mộc nhỏ": {
 		"name": "Khúc mộc nhỏ",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Nó đu đưa qua lại, nhìn bạn Chằm Chằm với đôi mắt tô hố. Bạn cảm thấy khó Chịu khi nhìn nó",
+		"description": "Nó đu đưa qua lại, nhìn bạn chằm chằm với đôi mắt tô hố. Bạn cảm thấy khó chịu khi nhìn nó",
 		"icon": "logbaby.png"
 	},
-	"Rễ Maarla lởm Chởm": {
-		"name": "Rễ Maarla lởm Chởm",
+	"Rễ Maarla lởm chởm": {
+		"name": "Rễ Maarla lởm chởm",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Rễ Maarla. Nó ngân nga khúc ca mang lại năng lượng Cho sự sống!",
+		"description": "Rễ Maarla. Nó ngân nga khúc ca mang lại năng lượng cho sự sống!",
 		"icon": "exposed_root_of_maarla.png"
 	},
 	"Chồi Maarla": {
@@ -9375,7 +9375,7 @@ $master.api.item = {
 		"type": "Nguồn sáng",
 		"rarity": "Bình Thường",
 		"description": "Tendraam sử dụng những nụ nhỏ của Maarla như nguồn sáng vào ban đêm.",
-		"icon": "tendraam_torCh.png"
+		"icon": "tendraam_torch.png"
 	},
 	"Mầm Đá": {
 		"name": "Mầm Đá",
@@ -9388,11 +9388,11 @@ $master.api.item = {
 		"name": "Đường sỏi đá",
 		"type": "Tấm sàn",
 		"rarity": "Bình Thường",
-		"description": "Đi bộ trên nó sẽ khiến Cho bàn Chân bạn cảm thấy phê khó tả. Phê tới từng đầu ngón Chân luôn!",
+		"description": "Đi bộ trên nó sẽ khiến cho bàn chân bạn cảm thấy phê khó tả. Phê tới từng đầu ngón chân luôn!",
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá Cây Nắp ấm",
 				"qty": 1
@@ -9408,7 +9408,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cánh Wat",
 				"qty": 3
@@ -9416,14 +9416,14 @@ $master.api.item = {
 				"name": "Quả Sen cạn",
 				"qty": 6
 			}, {
-				"name": "Xương bánh Chè Zug",
+				"name": "Xương bánh chè Zug",
 				"qty": 1
 			}, {
 				"name": "Hoa Móng gà",
 				"qty": 2
 			}]
 		},
-		"icon": "blueglow_beaChball.png"
+		"icon": "blueglow_beachball.png"
 	},
 	"Bóng bãi biển": {
 		"name": "Bóng bãi biển",
@@ -9433,7 +9433,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cánh Wat",
 				"qty": 6
@@ -9441,14 +9441,14 @@ $master.api.item = {
 				"name": "Bọ ăn khí",
 				"qty": 3
 			}, {
-				"name": "Xương bánh Chè Zug",
+				"name": "Xương bánh chè Zug",
 				"qty": 2
 			}, {
 				"name": "Hoa Móng gà",
 				"qty": 4
 			}]
 		},
-		"icon": "beaChball.png"
+		"icon": "beachball.png"
 	},
 	"Bóng bãi biển lục": {
 		"name": "Bóng bãi biển lục",
@@ -9458,7 +9458,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Dịch phát quang",
 				"qty": 10
@@ -9469,21 +9469,21 @@ $master.api.item = {
 				"name": "Bọ ăn khí",
 				"qty": 5
 			}, {
-				"name": "Xương bánh Chè Zug",
+				"name": "Xương bánh chè Zug",
 				"qty": 1
 			}]
 		},
-		"icon": "greenglow_beaChball.png"
+		"icon": "greenglow_beachball.png"
 	},
 	"Chậu Trụ thảo": {
 		"name": "Chậu Trụ thảo",
 		"type": "Chậu cây",
 		"rarity": "Bình Thường",
-		"description": "Ờ, nó là Cây Trụ thảo trong Chậu. ChỨ BẠN MUỐN GÌ NỮA?",
+		"description": "Ờ, nó là Cây Trụ thảo trong chậu. CHỨ BẠN MUỐN GÌ NỮA?",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Trụ thảo",
 				"qty": 1
@@ -9498,11 +9498,11 @@ $master.api.item = {
 		"name": "Thùng ủ",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Đứng gần nó sẽ khiến bạn muốn Giơ tay lên, nhìn cờ ~ Chào.",
+		"description": "Đứng gần nó sẽ khiến bạn muốn Giơ tay lên, nhìn cờ ~ chào.",
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mỡ Vomma",
 				"qty": 11
@@ -9527,7 +9527,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vụn xương",
 				"qty": 9
@@ -9548,11 +9548,11 @@ $master.api.item = {
 		"name": "Hải đăng",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Nó nổi trên mặt nước, dù nó được làm từ vật liệu siêu nặng. Chắc Chắn phải có cái gì đó rất khoa học ở đây!",
+		"description": "Nó nổi trên mặt nước, dù nó được làm từ vật liệu siêu nặng. Chắc chắn phải có cái gì đó rất khoa học ở đây!",
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vảy ngọc",
 				"qty": 2
@@ -9573,11 +9573,11 @@ $master.api.item = {
 		"name": "Đèn Nắp ấm",
 		"type": "Nguồn sáng",
 		"rarity": "Bình Thường",
-		"description": "Quả cầu phát ra một hào quang kì ảo. Bạn có thể cảm thấy Chảy dãi khi xem nó.",
+		"description": "Quả cầu phát ra một hào quang kì ảo. Bạn có thể cảm thấy chảy dãi khi xem nó.",
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Thịt Nắp ấm",
 				"qty": 2
@@ -9602,7 +9602,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 3
@@ -9623,14 +9623,14 @@ $master.api.item = {
 		"name": "Trứng Bamli",
 		"type": "Trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Thậm Chí trước khi nở, Bamli đã phát triển bộ mào vĩ đại.",
+		"description": "Thậm chí trước khi nở, Bamli đã phát triển bộ mào vĩ đại.",
 		"icon": "bamli_egg.png"
 	},
 	"Trứng Blastcrab": {
 		"name": "Trứng Blastcrab",
 		"type": "Trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Nó nóng khi Chạm vào. Như một quả trứng, nhưng nó rất nóng để Chạm vào.",
+		"description": "Nó nóng khi chạm vào. Như một quả trứng, nhưng nó rất nóng để chạm vào.",
 		"icon": "blastcrab_egg.png"
 	},
 	"Trứng Gallum": {
@@ -9658,7 +9658,7 @@ $master.api.item = {
 		"name": "Trứng Glutterfly",
 		"type": "Trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Có thể một thứ gì đó dễ thương sẽ Chui ra từ đây. Hoặc có lẽ là một con côn trùng bay kinh tởm.",
+		"description": "Có thể một thứ gì đó dễ thương sẽ chui ra từ đây. Hoặc có lẽ là một con côn trùng bay kinh tởm.",
 		"icon": "glutterfly_egg.png"
 	},
 	"Trứng Gulanti": {
@@ -9672,7 +9672,7 @@ $master.api.item = {
 		"name": "Trứng Lyff",
 		"type": "Trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Khi bị đe doạ, quả trứng này phát ra âm thanh Chói tai. Đúng là Cha nào con nấy.",
+		"description": "Khi bị đe doạ, quả trứng này phát ra âm thanh chói tai. Đúng là cha nào con nấy.",
 		"icon": "lyff_egg.png"
 	},
 	"Trứng Satgat": {
@@ -9707,21 +9707,21 @@ $master.api.item = {
 		"name": "Trứng Tartil",
 		"type": "Trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Nó dính vào tay bạn khi bạn Chạm vào nó. Hi vọng không phải vĩnh viễn.",
+		"description": "Nó dính vào tay bạn khi bạn chạm vào nó. Hi vọng không phải vĩnh viễn.",
 		"icon": "tartil_egg.png"
 	},
 	"Trứng Throak": {
 		"name": "Trứng Throak",
 		"type": "Trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Nó lúc lắc như thạCh khi bạn vỗ nó. Có lẽ bạn không nên vỗ nó.",
+		"description": "Nó lúc lắc như thạch khi bạn vỗ nó. Có lẽ bạn không nên vỗ nó.",
 		"icon": "throak_egg.png"
 	},
 	"Trứng Vomma": {
 		"name": "Trứng Vomma",
 		"type": "Trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Trứng được bao phủ bởi một Chất nhầy dính, và có mùi như nhà vệ sinh của quán bar lúc tan giờ !!!",
+		"description": "Trứng được bao phủ bởi một chất nhầy dính, và có mùi như nhà vệ sinh của quán bar lúc tan giờ !!!",
 		"icon": "vomma_egg.png"
 	},
 	"Trứng Wat": {
@@ -9742,14 +9742,14 @@ $master.api.item = {
 		"name": "Trứng Wompit",
 		"type": "Trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Bạn nghĩ Wompit sẽ không đẻ trứng, Chỉ vì Chúng là động vật có vú? Bạn lầm rồi đấy.",
+		"description": "Bạn nghĩ Wompit sẽ không đẻ trứng, chỉ vì chúng là động vật có vú? Bạn lầm rồi đấy.",
 		"icon": "wompit_egg.png"
 	},
 	"Trứng Zug": {
 		"name": "Trứng Zug",
 		"type": "Trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Nó kêu tanh táCh cùng với luồng điện. Bạn bị giật nhẹ bất cứ khi nào bạn cầm nó.",
+		"description": "Nó kêu tanh tách cùng với luồng điện. Bạn bị giật nhẹ bất cứ khi nào bạn cầm nó.",
 		"icon": "zug_egg.png"
 	},
 	"Ổ Trứng Glidopus": {
@@ -9760,7 +9760,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nhánh Chuông gió",
 				"qty": 28
@@ -9785,7 +9785,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy đập đá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Glutterfly",
 				"qty": 1
@@ -9806,16 +9806,16 @@ $master.api.item = {
 		"name": "Ổ Trứng Tartil",
 		"type": "Ổ trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Trứng Tartil dính vào mọi thứ Chúng Chạm vào. Kể cả thứ này!",
+		"description": "Trứng Tartil dính vào mọi thứ chúng chạm vào. Kể cả thứ này!",
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Tartil",
 				"qty": 1
 			}, {
-				"name": "Hóa ThạCh Đại Cốt",
+				"name": "Hóa Thạch Đại Cốt",
 				"qty": 4
 			}, {
 				"name": "Lá Cỏ gai",
@@ -9835,7 +9835,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Bụi Pha lê",
 				"qty": 2
@@ -9860,7 +9860,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Wompit",
 				"qty": 1
@@ -9885,7 +9885,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Zug",
 				"qty": 1
@@ -9906,11 +9906,11 @@ $master.api.item = {
 		"name": "Ổ trứng Shirk",
 		"type": "Ổ trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Bạn có bao giờ muốn một con thân Chim đầu cá mập lắm mồm bay quanh bạn Chưa? Đây là cơ hội của bạn đấy!",
+		"description": "Bạn có bao giờ muốn một con thân chim đầu cá mập lắm mồm bay quanh bạn chưa? Đây là cơ hội của bạn đấy!",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Shirk",
 				"qty ": 1
@@ -9935,7 +9935,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Blastcrab",
 				"qty": 1
@@ -9956,11 +9956,11 @@ $master.api.item = {
 		"name": "Ổ trứng Gallum",
 		"type": "Ổ trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Việc này sẽ rất khó khăn, vì quả trứng luôn cố gắng dịCh Chuyển mọi lúc.",
+		"description": "Việc này sẽ rất khó khăn, vì quả trứng luôn cố gắng dịch chuyển mọi lúc.",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Gallum",
 				"qty": 1
@@ -9981,11 +9981,11 @@ $master.api.item = {
 		"name": "Ổ trứng Glaser",
 		"type": "Ổ trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Hãy Chắc Chắn rằng bạn đặt mặt bên phải ngửa lên, nếu không bạn sẽ nhận được một con Glaser lộn ngược.",
+		"description": "Hãy chắc chắn rằng bạn đặt mặt bên phải ngửa lên, nếu không bạn sẽ nhận được một con Glaser lộn ngược.",
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Glaser",
 				"qty": 1
@@ -10010,7 +10010,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Slurb",
 				"qty": 1
@@ -10035,7 +10035,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Gulanti",
 				"qty": 1
@@ -10056,11 +10056,11 @@ $master.api.item = {
 		"name": "Ổ Trứng Lyff",
 		"type": "Ổ trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Không có cáCh nào để giữ quả Trứng Lyff một cáCh nguyên vẹn. Nhưng bạn sẽ thử làm nó bằng cáCh nào đó.",
+		"description": "Không có cách nào để giữ quả Trứng Lyff một cách nguyên vẹn. Nhưng bạn sẽ thử làm nó bằng cách nào đó.",
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Lyff",
 				"qty": 1
@@ -10081,11 +10081,11 @@ $master.api.item = {
 		"name": "Ổ trứng Bamli",
 		"type": "Ổ trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Với một đống Vỏ sừng và một Chút TLC, bạn có thể ấp nở mọi loại trứng!",
+		"description": "Với một đống Vỏ sừng và một chút TLC, bạn có thể ấp nở mọi loại trứng!",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Bamli",
 				"qty": 1
@@ -10110,7 +10110,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Satgat",
 				"qty": 1
@@ -10131,16 +10131,16 @@ $master.api.item = {
 		"name": "Ổ trứng Snorble",
 		"type": "Ổ trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Với số mạCh máu cần thiết, bạn có thể nhét Trứng Snorble vào bất cứ thứ gì.",
+		"description": "Với số mạch máu cần thiết, bạn có thể nhét Trứng Snorble vào bất cứ thứ gì.",
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Snorble",
 				"qty": 1
 			}, {
-				"name": "MạCh Bawg",
+				"name": "Mạch Bawg",
 				"qty": 13
 			}, {
 				"name": "Mỡ Vomma",
@@ -10160,7 +10160,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Throak",
 				"qty": 1
@@ -10181,11 +10181,11 @@ $master.api.item = {
 		"name": "Ổ Trứng Vomma",
 		"type": "Ổ trứng",
 		"rarity": "Siêu Cấp",
-		"description": "Không có cáCh nào để biết được liệu thứ này có hoạt động không. Thực ra là có. TRIỂN NÀO!",
+		"description": "Không có cách nào để biết được liệu thứ này có hoạt động không. Thực ra là có. TRIỂN NÀO!",
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Vomma",
 				"qty": 1
@@ -10210,12 +10210,12 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Trứng Wojack",
 				"qty": 1
 			}, {
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 22
 			}, {
 				"name": "Mỡ Vomma",
@@ -10231,11 +10231,11 @@ $master.api.item = {
 		"name": "Tổ Cỏ gai",
 		"type": "Chuồng thú",
 		"rarity": "Bình Thường",
-		"description": "Nó sử dụng loại gỗ cáCh nhiệt cực mềm để giữ ấm Cho bầy con và ổ trứng!",
+		"description": "Nó sử dụng loại gỗ cách nhiệt cực mềm để giữ ấm cho bầy con và ổ trứng!",
 		"recipe": {
 			"name": "Bàn cưa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 9
@@ -10254,7 +10254,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mỡ Vomma",
 				"qty": 16
@@ -10269,11 +10269,11 @@ $master.api.item = {
 		"name": "Tổ Hoa quả tạ",
 		"type": "Chuồng thú",
 		"rarity": "Bình Thường",
-		"description": "Gai ư? Không, Chúng là... những kẻ thíCh Chọc.",
+		"description": "Gai ư? Không, chúng là... những kẻ thích chọc.",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nhánh Lược mao",
 				"qty": 8
@@ -10288,11 +10288,11 @@ $master.api.item = {
 		"name": "Bánh bông lan mốc",
 		"type": "Thức ăn sinh vật",
 		"rarity": "Bình Thường",
-		"description": "Nó có mùi của thứ gì đó đã Chết sau khi sống hết trọn vẹn vòng đời của mình. Đưa pet của bạn vào trạng thái cuồng bạo trong 3 phút!",
+		"description": "Nó có mùi của thứ gì đó đã chết sau khi sống hết trọn vẹn vòng đời của mình. Đưa pet của bạn vào trạng thái cuồng bạo trong 3 phút!",
 		"recipe": {
 			"name": "Nồi áp suất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Bọt đồng",
 				"qty": 1
@@ -10300,17 +10300,17 @@ $master.api.item = {
 				"name": "Cây Đậu bắp",
 				"qty": 1
 			}, {
-				"name": "Tinh Chất Glaser [Quý tộc]",
+				"name": "Tinh chất Glaser [Quý tộc]",
 				"qty": 1
 			}]
 		},
 		"icon": "spongy_podcake.png"
 	},
-	"Cổng dịCh Chuyển Bawg": {
-		"name": "Cổng dịCh Chuyển Bawg",
-		"type": "Bệ dịCh Chuyển",
+	"Cổng dịch chuyển Bawg": {
+		"name": "Cổng dịch chuyển Bawg",
+		"type": "Bệ dịch chuyển",
 		"rarity": "Tối Thượng",
-		"description": "Chiếc máy kì lạ này sẽ lập tức dịCh Chuyển bạn đến Bawg!",
+		"description": "Chiếc máy kì lạ này sẽ lập tức dịch chuyển bạn đến Bawg!",
 		"icon": "bawgaporter.png"
 	},
 	"Đất đỏ": {
@@ -10318,13 +10318,13 @@ $master.api.item = {
 		"type": "Mảnh thành phần",
 		"rarity": "Siêu Cấp",
 		"description": "Nó là một đống nhầy nhụa từ các vụn nhầy hữu cơ. Nó thật ấm!",
-		"icon": "blulCh.png"
+		"icon": "blulch.png"
 	},
 	"Băng Vĩnh Cửu": {
 		"name": "Băng Vĩnh Cửu",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Nó khá lạnh, và vĩnh cửu một cáCh vừa phải.",
+		"description": "Nó khá lạnh, và vĩnh cửu một cách vừa phải.",
 		"icon": "permafrost.png"
 	},
 	"Đất đỏ bazan": {
@@ -10335,7 +10335,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đất đỏ",
 				"qty": 4
@@ -10344,17 +10344,17 @@ $master.api.item = {
 				"qty": 8
 			}]
 		},
-		"icon": "furdle_blulCh.png"
+		"icon": "furdle_blulch.png"
 	},
 	"Đất địa cực": {
 		"name": "Đất địa cực",
 		"type": "Sàn",
 		"rarity": "Bình Thường",
-		"description": "Mọi thứ từ Tundra nên được phát triển một cáCh hạnh phúc trên loại Đất trồng giá lạnh này!",
+		"description": "Mọi thứ từ Tundra nên được phát triển một cách hạnh phúc trên loại Đất trồng giá lạnh này!",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Băng Vĩnh Cửu",
 				"qty": 4
@@ -10369,21 +10369,21 @@ $master.api.item = {
 		"name": "Bệ đá hồi phục",
 		"type": "Bệ",
 		"rarity": "Bình Thường",
-		"description": "Nó sẽ lọc toàn bộ mầm bệnh ra khỏi mạCh máu của bạn!",
+		"description": "Nó sẽ lọc toàn bộ mầm bệnh ra khỏi mạch máu của bạn!",
 		"icon": "healing_shrine.png"
 	},
 	"Bệ đá Mồi câu": {
 		"name": "Bệ đá Mồi câu",
 		"type": "Bệ",
 		"rarity": "Bình Thường",
-		"description": "Cây cần câu của bạn sẽ có khả năng câu cá bá đạo sau khi Chạm vào thứ này.",
+		"description": "Cây cần câu của bạn sẽ có khả năng câu cá bá đạo sau khi chạm vào thứ này.",
 		"icon": "bait_shrine.png"
 	},
 	"Bệ đá phản lực": {
 		"name": "Bệ đá phản lực",
 		"type": "Bệ",
 		"rarity": "Bình Thường",
-		"description": "HíCh nhẹ cái bệ này khiến tất cả ngón Chân bạn cảm thấy lấp la lấp lánh.",
+		"description": "Hích nhẹ cái bệ này khiến tất cả ngón chân bạn cảm thấy lấp la lấp lánh.",
 		"icon": "flight_shrine.png"
 	},
 	"Bệ đá thu hoạch": {
@@ -10393,11 +10393,11 @@ $master.api.item = {
 		"description": "ĐẾN GIỜ LÀM RỒI!",
 		"icon": "harvest_shrine.png"
 	},
-	"Hạt Cẩu tíCh": {
-		"name": "Hạt Cẩu tíCh",
+	"Hạt Cẩu tích": {
+		"name": "Hạt Cẩu tích",
 		"type": "Hạt giống",
 		"rarity": "Tốt",
-		"description": "Nó như một búi tóc lớn nhô lên khỏi mặt Đất. Sao vậy nhỉ? Chỉ là Hạt Cẩu tíCh thôi!",
+		"description": "Nó như một búi tóc lớn nhô lên khỏi mặt Đất. Sao vậy nhỉ? Chỉ là Hạt Cẩu tích thôi!",
 		"icon": "haircone.png"
 	},
 	"Hạt giống Cự cốt": {
@@ -10407,22 +10407,22 @@ $master.api.item = {
 		"description": "Ghim thứ này xuống sẽ làm Cự cốt lộ ra theo thời gian. Thô, nhưng hiệu quả.",
 		"icon": "spur_seed.png"
 	},
-	"Bảng ghi Chú": {
-		"name": "Bảng ghi Chú",
+	"Bảng ghi chú": {
+		"name": "Bảng ghi chú",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Các hội viên Brubus thường sẽ viết biên bản các cuộc thảo luận lên bảng vàng. Như bạn biết đấy, Cho hậu thế",
+		"description": "Các hội viên Brubus thường sẽ viết biên bản các cuộc thảo luận lên bảng vàng. Như bạn biết đấy, cho hậu thế",
 		"icon": "brubus_codewall.png"
 	},
 	"Đèn thảo luận": {
 		"name": "Đèn thảo luận",
 		"type": "Nguồn sáng",
 		"rarity": "Bình Thường",
-		"description": "Để duy trì những cuộc tranh luận đi sâu hơn trong những đêm lạnh lẽo, Brubus sẽ thắp những ngọn đèn này xung quanh cuộc thảo luận của Chúng.",
+		"description": "Để duy trì những cuộc tranh luận đi sâu hơn trong những đêm lạnh lẽo, Brubus sẽ thắp những ngọn đèn này xung quanh cuộc thảo luận của chúng.",
 		"icon": "brubus_debate_lamp.png"
 	},
-	"Bục sáCh diễn thuyết": {
-		"name": "Bục sáCh diễn thuyết",
+	"Bục sách diễn thuyết": {
+		"name": "Bục sách diễn thuyết",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
 		"description": "Nó rất là quan trọng khi có một nơi để hét vào những người ở dưới.",
@@ -10432,25 +10432,25 @@ $master.api.item = {
 		"name": "Tượng Bribery",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Các Brubus rất liên quan trong việc bôi trơn các mắt xíCh của nền dân Chủ.",
+		"description": "Các Brubus rất liên quan trong việc bôi trơn các mắt xích của nền dân chủ.",
 		"icon": "statue_of_bribery.png"
 	},
 	"Hòm bỏ phiếu": {
 		"name": "Hòm bỏ phiếu",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Viết tên bạn ra và bỏ nó vào cái xô. Nó Chắc Chắn không phải là máy huỷ tài liệu hay bất cứ thứ gì tương tự.",
+		"description": "Viết tên bạn ra và bỏ nó vào cái xô. Nó chắc chắn không phải là máy huỷ tài liệu hay bất cứ thứ gì tương tự.",
 		"icon": "brubus_voting_bucket.png"
 	},
 	"Đèn Nhộng": {
 		"name": "Đèn Nhộng",
 		"type": "Nguồn sáng",
 		"rarity": "Bình Thường",
-		"description": "Đôi khi những ý tưởng tuyệt vời lại được tạo ra từ việc lấy hai vật bất kì và nhét Chúng vào với nhau với một lực F mạnh.",
+		"description": "Đôi khi những ý tưởng tuyệt vời lại được tạo ra từ việc lấy hai vật bất kì và nhét chúng vào với nhau với một lực F mạnh.",
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Con nhộng",
 				"qty": 3
@@ -10465,13 +10465,13 @@ $master.api.item = {
 		"name": "Đèn Lam",
 		"type": "Nguồn sáng",
 		"rarity": "Bình Thường",
-		"description": "NÓ MÀU XANH, VÀ NÓ PHÁT SÁNG. BẠN CÒN MUỐN GÌ HƠN Ở NÓ ChỨ?",
+		"description": "NÓ MÀU XANH, VÀ NÓ PHÁT SÁNG. BẠN CÒN MUỐN GÌ HƠN Ở NÓ CHỨ?",
 		"recipe": {
 			"name": "Máy tiện Cao su",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Khối lam thạCh",
+				"name": "Khối lam thạch",
 				"qty": 1
 			}, {
 				"name": "Quả Sen cạn",
@@ -10487,11 +10487,11 @@ $master.api.item = {
 		"name": "Đèn tím ma mị",
 		"type": "Nguồn sáng",
 		"rarity": "Bình Thường",
-		"description": "Dành Cho bạn khi muốn đắm mình trong thế giới ánh sáng màu tím đầy ma mị này.",
+		"description": "Dành cho bạn khi muốn đắm mình trong thế giới ánh sáng màu tím đầy ma mị này.",
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Dãi Throak",
 				"qty": 4
@@ -10510,12 +10510,12 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Tảo Phát Quang",
 				"qty": 1
 			}, {
-				"name": "MạCh Bawg",
+				"name": "Mạch Bawg",
 				"qty": 3
 			}, {
 				"name": "Ống san hô",
@@ -10528,11 +10528,11 @@ $master.api.item = {
 		"name": "Đèn hoa quả tạ",
 		"type": "Nguồn sáng",
 		"rarity": "Bình Thường",
-		"description": "Cái thứ xinh đẹp này sẽ giữ Cho những thứ khác hiện rõ trong đêm.",
+		"description": "Cái thứ xinh đẹp này sẽ giữ cho những thứ khác hiện rõ trong đêm.",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Bọ Lục Bảo",
 				"qty": 1
@@ -10547,11 +10547,11 @@ $master.api.item = {
 		"name": "Bamli nhồi bông",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Khi đã Chơi Chán, bạn đem Chúng đi trưng bày.",
+		"description": "Khi đã chơi chán, bạn đem chúng đi trưng bày.",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Sáp cây Cự cốt",
 				"qty": 2
@@ -10569,11 +10569,11 @@ $master.api.item = {
 		"name": "Blastcrab nhồi bông",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Nó vẫn ấm khi Chạm vào, kể cả sau khi bị nhồi bông!",
+		"description": "Nó vẫn ấm khi chạm vào, kể cả sau khi bị nhồi bông!",
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 12
@@ -10595,7 +10595,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Tinh thể xanh lá",
 				"qty": 4
@@ -10616,11 +10616,11 @@ $master.api.item = {
 		"name": "Glaser nhồi bông",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Nhìn kĩ bạn sẽ thấy những vết Cháy xém trên sừng do tia laser gây ra!",
+		"description": "Nhìn kĩ bạn sẽ thấy những vết cháy xém trên sừng do tia laser gây ra!",
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đế Hoa quả tạ",
 				"qty": 12
@@ -10645,7 +10645,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá Hợp Kim",
 				"qty": 3
@@ -10666,11 +10666,11 @@ $master.api.item = {
 		"name": "Lyff nhồi bông",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Nó cực kì Chân thực, tới nỗi bạn cảm thấy gần như lúc nào nó cũng liếm bạn. GẦN NHƯ THÔI.",
+		"description": "Nó cực kì chân thực, tới nỗi bạn cảm thấy gần như lúc nào nó cũng liếm bạn. GẦN NHƯ THÔI.",
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 12
@@ -10688,11 +10688,11 @@ $master.api.item = {
 		"name": "Satgat nhồi bông",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Mặc dù Chúng được nhồi bông và bất động, cánh của Chúng vẫn Chuyển động nhanh tới mức không thể nhìn thấy.",
+		"description": "Mặc dù chúng được nhồi bông và bất động, cánh của chúng vẫn chuyển động nhanh tới mức không thể nhìn thấy.",
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Sáp cây Cự cốt",
 				"qty": 2
@@ -10714,7 +10714,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đế Hoa quả tạ",
 				"qty": 15
@@ -10736,7 +10736,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 12
@@ -10744,7 +10744,7 @@ $master.api.item = {
 				"name": "Xương sống Slurb",
 				"qty": 9
 			}, {
-				"name": "Nam Châm Slurb",
+				"name": "Nam châm Slurb",
 				"qty": 2
 			}]
 		},
@@ -10754,11 +10754,11 @@ $master.api.item = {
 		"name": "Snorble nhồi bông",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Nó tốn rất nhiều công để giữ những túi khí này phồng, nhưng nó sẽ trả được khoản thế Chấp.",
+		"description": "Nó tốn rất nhiều công để giữ những túi khí này phồng, nhưng nó sẽ trả được khoản thế chấp.",
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Thùa gai",
 				"qty": 2
@@ -10776,11 +10776,11 @@ $master.api.item = {
 		"name": "Tartil nhồi bông",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Phần hắc ín này không bao giờ khô Cho dù bạn để bao lâu đi nữa. Không may thay, mùi nó thực sự tệ.",
+		"description": "Phần hắc ín này không bao giờ khô cho dù bạn để bao lâu đi nữa. Không may thay, mùi nó thực sự tệ.",
 		"recipe": {
 			"name": "Máy nướng cá",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vảy ngọc",
 				"qty": 2
@@ -10798,11 +10798,11 @@ $master.api.item = {
 		"name": "Throak nhồi bông",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Các xúc tu sẽ dính lại trên người bạn mỗi khi đi qua. KimoChiiiii!",
+		"description": "Các xúc tu sẽ dính lại trên người bạn mỗi khi đi qua. Kimochiiiii!",
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Thùa gai",
 				"qty": 2
@@ -10820,11 +10820,11 @@ $master.api.item = {
 		"name": "Vomma nhồi bông",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Nó trông giống như đồ thật vậy. Dù gì cũng là phiên bản Chết của đồ thật.",
+		"description": "Nó trông giống như đồ thật vậy. Dù gì cũng là phiên bản chết của đồ thật.",
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá Cây Nắp ấm",
 				"qty": 3
@@ -10846,7 +10846,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 3
@@ -10864,11 +10864,11 @@ $master.api.item = {
 		"name": "Wojack nhồi bông",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Ôi Chúa ơi, nó đã Chết. Heh. Dù sao cũng đã một phút rồi ...",
+		"description": "Ôi Chúa ơi, nó đã chết. Heh. Dù sao cũng đã một phút rồi ...",
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá Cây Nắp ấm",
 				"qty": 3
@@ -10890,12 +10890,12 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 3
 			}, {
-				"name": "Xương bánh Chè Zug",
+				"name": "Xương bánh chè Zug",
 				"qty": 7
 			}, {
 				"name": "Da Zug nhiễm điện",
@@ -10915,7 +10915,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Wompit",
 				"qty": 11
@@ -10933,16 +10933,16 @@ $master.api.item = {
 		"name": "Thuốc Cường trí",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Thứ này sẽ nâng cao giác quan của bạn! TẤT CẢ ChÚNG. Khiến bạn nhanh như một viên đạn trong 3 giây.",
+		"description": "Thứ này sẽ nâng cao giác quan của bạn! TẤT CẢ CHÚNG. Khiến bạn nhanh như một viên đạn trong 3 giây.",
 		"recipe": {
 			"name": "Nồi áp suất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 3
 			}, {
-				"name": "Tinh Chất Slurb [Phẫn nộ]",
+				"name": "Tinh chất Slurb [Phẫn nộ]",
 				"qty": 3
 			}, {
 				"name": "Nấm phát quang",
@@ -10954,15 +10954,15 @@ $master.api.item = {
 		},
 		"icon": "brain_boost_potion.png"
 	},
-	"Đèn bo mạCh": {
-		"name": "Đèn bo mạCh",
+	"Đèn bo mạch": {
+		"name": "Đèn bo mạch",
 		"type": "Nguồn sáng",
 		"rarity": "Bình Thường",
-		"description": "Nó rất Chắc Chắn và rực rỡ! Đứng gần nó khiến bạn cảm thấy Chóng mặt và buồn nôn, vì vài lí do nào đó.",
+		"description": "Nó rất chắc chắn và rực rỡ! Đứng gần nó khiến bạn cảm thấy chóng mặt và buồn nôn, vì vài lí do nào đó.",
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nấm phát quang",
 				"qty": 1
@@ -10977,11 +10977,11 @@ $master.api.item = {
 		"name": "Đèn băng tảo",
 		"type": "Nguồn sáng",
 		"rarity": "Bình Thường",
-		"description": "Sức mạnh của cây Nấm Bè giữ Cây Băng tảo phát sáng bay một cáCh nhẹ nhàng trong không khí!",
+		"description": "Sức mạnh của cây Nấm Bè giữ Cây Băng tảo phát sáng bay một cách nhẹ nhàng trong không khí!",
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khối Nấm Bè",
 				"qty": 10
@@ -11000,7 +11000,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Hồ thảo",
 				"qty": 2
@@ -11015,13 +11015,13 @@ $master.api.item = {
 		"name": "Chậu Song chi",
 		"type": "Chậu cây",
 		"rarity": "Bình Thường",
-		"description": "Những Cây Song Chi này sẽ tạo môi trường Cho bất kì phòng nào Chưa có Song Chi ở đó!",
+		"description": "Những Cây Song chi này sẽ tạo môi trường cho bất kì phòng nào chưa có Song chi ở đó!",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Cây Song Chi",
+				"name": "Cây Song chi",
 				"qty": 1
 			}, {
 				"name": "Đế Hoa quả tạ",
@@ -11034,11 +11034,11 @@ $master.api.item = {
 		"name": "Chậu Thố thảo",
 		"type": "Chậu cây",
 		"rarity": "Bình Thường",
-		"description": "Những Cây Thố thảo hấp dẫn này kêu la thảm thiết Cho tới khi bị ăn. KAWAIIIIII-DESU!",
+		"description": "Những Cây Thố thảo hấp dẫn này kêu la thảm thiết cho tới khi bị ăn. KAWAIIIIII-DESU!",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Thố thảo",
 				"qty": 1
@@ -11053,11 +11053,11 @@ $master.api.item = {
 		"name": "Chậu Nấm phát quang",
 		"type": "Chậu cây",
 		"rarity": "Bình Thường",
-		"description": "Một khi được trồng, Nấm phát quang sẽ dừng phát sáng. Chắc Chắn phải có gì đó... khoa học ở đây...",
+		"description": "Một khi được trồng, Nấm phát quang sẽ dừng phát sáng. Chắc chắn phải có gì đó... khoa học ở đây...",
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nấm phát quang",
 				"qty": 1
@@ -11076,7 +11076,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Băng tảo",
 				"qty": 3
@@ -11095,7 +11095,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Bọt đồng",
 				"qty": 4
@@ -11114,7 +11114,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Kiên thảo",
 				"qty": 5
@@ -11133,7 +11133,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Đậu bắp",
 				"qty": 2
@@ -11152,7 +11152,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Kiên thảo",
 				"qty": 11
@@ -11166,11 +11166,11 @@ $master.api.item = {
 		},
 		"icon": "geysir_drill.png"
 	},
-	"Mối Chúa": {
-		"name": "Mối Chúa",
+	"Mối chúa": {
+		"name": "Mối chúa",
 		"type": "Hạt giống",
 		"rarity": "Tốt",
-		"description": "Đường cong khiêu gợi của Mối Chúa thu hút tất cả mối đực!",
+		"description": "Đường cong khiêu gợi của Mối chúa thu hút tất cả mối đực!",
 		"icon": "magmite_Queen.png"
 	},
 	"Hạt giống quả tạ": {
@@ -11184,7 +11184,7 @@ $master.api.item = {
 		"name": "Hạt giống Tre gai",
 		"type": "Hạt giống",
 		"rarity": "Tốt",
-		"description": "Bằng cáCh nào đó, thứ này Chuyển sang dạng ống. Tre gai. Một cây tre đầy Đất. Một cây tre.",
+		"description": "Bằng cách nào đó, thứ này chuyển sang dạng ống. Tre gai. Một cây tre đầy Đất. Một cây tre.",
 		"icon": "pipeseed.png"
 	},
 	"Chậu Actiso": {
@@ -11195,7 +11195,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá Cây Nắp ấm",
 				"qty": 2
@@ -11214,12 +11214,12 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc cây Bụt mọc",
 				"qty": 3
 			}, {
-				"name": "MạCh Bawg",
+				"name": "Mạch Bawg",
 				"qty": 3
 			}, {
 				"name": "Tuyến trùng Throak",
@@ -11236,7 +11236,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vomma con",
 				"qty": 3
@@ -11254,11 +11254,11 @@ $master.api.item = {
 		"name": "Bom máu",
 		"type": "Bom",
 		"rarity": "Bình Thường",
-		"description": "Nếu nó Chảy máu, bạn có thể giết nó. Nếu nó đã đang Chảy máu, bạn Chắc không phải làm. Khiến kẻ địCh Chảy máu bằng 250% ST/giây!",
+		"description": "Nếu nó chảy máu, bạn có thể giết nó. Nếu nó đã đang chảy máu, bạn chắc không phải làm. Khiến kẻ địch chảy máu bằng 250% ST/giây!",
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đỉa",
 				"qty": 3
@@ -11280,7 +11280,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Tuyến muối Shirk",
 				"qty": 3
@@ -11302,9 +11302,9 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Xương sống Slurb",
+				"name": "Mảnh vỏ Ốc sên",
 				"qty": 3
 			}, {
 				"name": "Carbon",
@@ -11324,7 +11324,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nấm Bè",
 				"qty": 3
@@ -11343,7 +11343,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vụn xương",
 				"qty": 25
@@ -11358,17 +11358,17 @@ $master.api.item = {
 				"qty": 15
 			}]
 		},
-		"icon": "handy_purptorCh.png"
+		"icon": "handy_purptorch.png"
 	},
 	"Đuốc Lục bảo": {
 		"name": "Đuốc Lục bảo",
 		"type": "Đuốc",
 		"rarity": "Siêu cấp",
-		"description": "Thoát khỏi bóng tối đáng sợ với NGỌN ĐUỐC NGỌC LỤC BẢO TUYỆT VỜI này! Đặt ngay bây giờ Chúng tôi sẽ ném vào túi kem đánh răng.",
+		"description": "Thoát khỏi bóng tối đáng sợ với NGỌN ĐUỐC NGỌC LỤC BẢO TUYỆT VỜI này! Đặt ngay bây giờ chúng tôi sẽ ném vào túi kem đánh răng.",
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nấm phát quang",
 				"qty": 4
@@ -11380,7 +11380,7 @@ $master.api.item = {
 				"qty": 6
 			}]
 		},
-		"icon": "emerald_hand_torCh.png"
+		"icon": "emerald_hand_torch.png"
 	},
 	"Biển Cây Nắp ấm": {
 		"name": "Biển Cây Nắp ấm",
@@ -11390,7 +11390,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Thịt Nắp ấm",
 				"qty": 1
@@ -11409,7 +11409,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nhánh Lược mao",
 				"qty": 1
@@ -11420,288 +11420,288 @@ $master.api.item = {
 		},
 		"icon": "smashy_sign.png"
 	},
-	"Tinh Chất Wompit[Cứng cáp][Cứng cáp]": {
-		"name": "Tinh Chất Wompit[Cứng cáp][Cứng cáp]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Wompit[Cứng cáp][Cứng cáp]": {
+		"name": "Tinh chất Wompit[Cứng cáp][Cứng cáp]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
 		"description": "Giữ vật này trong tay khiến bạn thấy... nặng nề.",
 		"icon": "sterling_wompit_essence.png"
 	},
-	"Tinh Chất Glutterfly [Già cỗi]": {
-		"name": "Tinh Chất Glutterfly [Già cỗi]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Glutterfly [Già cỗi]": {
+		"name": "Tinh chất Glutterfly [Già cỗi]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
-		"description": "Đứng gần tinh Chất này khiến bạn cảm thấy bay bổng và năng động!",
+		"description": "Đứng gần tinh chất này khiến bạn cảm thấy bay bổng và năng động!",
 		"icon": "ancient_glutterfly_essence.png"
 	},
-	"Tinh Chất Wompit[Cứng cáp]Chúa tể": {
-		"name": "Tinh Chất Wompit[Cứng cáp]Chúa tể",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Wompit[Cứng cáp]Chúa tể": {
+		"name": "Tinh chất Wompit[Cứng cáp]Chúa tể",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
-		"description": "Nhìn Chăm Chú vào thứ này bất Chấp nó là gì, bạn cảm thấy như phải cắt bỏ bớt 1 cân và nhảy xung quanh 1 cáCh điên loạn.",
+		"description": "Nhìn chăm chú vào thứ này bất chấp nó là gì, bạn cảm thấy như phải cắt bỏ bớt 1 cân và nhảy xung quanh 1 cách điên loạn.",
 		"icon": "womplord_essence.png"
 	},
-	"Tinh Chất Glutterfly Trướng phình": {
-		"name": "Tinh Chất Glutterfly Trướng phình",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Glutterfly Trướng phình": {
+		"name": "Tinh chất Glutterfly Trướng phình",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
-		"description": "Nó rung bần bật và rít liên hồi với sức mạnh của lũ Glutterfly! Bạn có cảm giác liếm nó sẽ đi Chầu diêm vương.",
+		"description": "Nó rung bần bật và rít liên hồi với sức mạnh của lũ Glutterfly! Bạn có cảm giác liếm nó sẽ đi chầu diêm vương.",
 		"icon": "bloated_glutterfly_essence.png"
 	},
-	"Tinh Chất Glidopus [Lục]": {
-		"name": "Tinh Chất Glidopus [Lục]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Glidopus [Lục]": {
+		"name": "Tinh chất Glidopus [Lục]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
-		"description": "Bỏ tinh Chất này vào túi làm bạn Chú ý tới những Cây Chuông gió một cáCh kì lạ.",
+		"description": "Bỏ tinh chất này vào túi làm bạn chú ý tới những Cây Chuông gió một cách kì lạ.",
 		"icon": "verdant_glidopus_essence.png"
 	},
-	"Tinh Chất Glidopus Cao niên": {
-		"name": "Tinh Chất Glidopus Cao niên",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Glidopus Cao niên": {
+		"name": "Tinh chất Glidopus Cao niên",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
 		"description": "Cầm vật này trong tay khiến bạn muốn biến tay mình thành xúc tu.",
 		"icon": "elder_glidopus_essence.png"
 	},
-	"Tinh Chất Tartil [Nhớp nháp]": {
-		"name": "Tinh Chất Tartil [Nhớp nháp]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Tartil [Nhớp nháp]": {
+		"name": "Tinh chất Tartil [Nhớp nháp]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
 		"description": "Nó khiến bạn thấy nhớp nháp, nhưng vẫn ngon. Giống loại bánh nhớp nháp hay đồ ngọt nào đó.",
 		"icon": "filthy_tartil_essence.png"
 	},
-	"Tinh Chất Tartil [Nhớp nháp]uyết sắc": {
-		"name": "Tinh Chất Tartil [Nhớp nháp]uyết sắc",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Tartil [Nhớp nháp]uyết sắc": {
+		"name": "Tinh chất Tartil [Nhớp nháp]uyết sắc",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
-		"description": "Nó dính vào tất cả mọi thứ TRÊN VŨ TRỤ NÀY. Trừ tình yêu, cắm mặt vào Chơi game thì bao giờ mới có người yêu.",
+		"description": "Nó dính vào tất cả mọi thứ TRÊN VŨ TRỤ NÀY. Trừ tình yêu, cắm mặt vào chơi game thì bao giờ mới có người yêu.",
 		"icon": "blood_tartil_essence.png"
 	},
-	"Tinh Chất Wat [Siêu cường]": {
-		"name": "Tinh Chất Wat [Siêu cường]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Wat [Siêu cường]": {
+		"name": "Tinh chất Wat [Siêu cường]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
-		"description": "Quả cầu mang năng lượng Wat ... này sẽ lập tức Chạy đi khi bạn cố gắng tiếp cận nó! Đúng vậy không? Đương nhiên rồi.",
+		"description": "Quả cầu mang năng lượng Wat ... này sẽ lập tức chạy đi khi bạn cố gắng tiếp cận nó! Đúng vậy không? Đương nhiên rồi.",
 		"icon": "grandwat_essence.png"
 	},
-	"Tinh Chất Wat [Siêu cường]ổ linh": {
-		"name": "Tinh Chất Wat [Siêu cường]ổ linh",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Wat [Siêu cường]ổ linh": {
+		"name": "Tinh chất Wat [Siêu cường]ổ linh",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
-		"description": "Đến gần tinh Chất này sẽ làm bạn muốn Chọc vào mọi thứ với những ngón tay rùng rợn dài ngoằng của bạn.",
+		"description": "Đến gần tinh chất này sẽ làm bạn muốn chọc vào mọi thứ với những ngón tay rùng rợn dài ngoằng của bạn.",
 		"icon": "ancient_shadowy_wat_essence.png"
 	},
-	"Tinh Chất Zug [Ngoại cỡ]": {
-		"name": "Tinh Chất Zug [Ngoại cỡ]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Zug [Ngoại cỡ]": {
+		"name": "Tinh chất Zug [Ngoại cỡ]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
-		"description": "Quả cầu năng lượng Zug này phát ra tiếng rít lẹt xẹt inh tai. Nó dịu đi một cáCh kì lạ!",
+		"description": "Quả cầu năng lượng Zug này phát ra tiếng rít lẹt xẹt inh tai. Nó dịu đi một cách kì lạ!",
 		"icon": "zug_lug_essence.png"
 	},
-	"Tinh Chất Zug Đại thủ hộ": {
-		"name": "Tinh Chất Zug Đại thủ hộ",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Zug Đại thủ hộ": {
+		"name": "Tinh chất Zug Đại thủ hộ",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
-		"description": "Tinh Chất này luôn phát ra tiếng lẹt xẹt của điện!",
+		"description": "Tinh chất này luôn phát ra tiếng lẹt xẹt của điện!",
 		"icon": "zuguardian_essence.png"
 	},
-	"Tinh Chất Vomma [Nóng nảy]": {
-		"name": "Tinh Chất Vomma [Nóng nảy]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Vomma [Nóng nảy]": {
+		"name": "Tinh chất Vomma [Nóng nảy]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
-		"description": "Ở gần tinh Chất này khiến bạn buồn nôn. Nhưng đó là mặt tốt.",
+		"description": "Ở gần tinh chất này khiến bạn buồn nôn. Nhưng đó là mặt tốt.",
 		"icon": "tempered_vomma_essence.png"
 	},
-	"Tinh Chất Vomma Khiếm thị": {
-		"name": "Tinh Chất Vomma Khiếm thị",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Vomma Khiếm thị": {
+		"name": "Tinh chất Vomma Khiếm thị",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
-		"description": "Ở gần tinh Chất làm bạn RẤT buồn nôn. Nhưng đó là mặt RẤT TỐT của nó.",
+		"description": "Ở gần tinh chất làm bạn RẤT buồn nôn. Nhưng đó là mặt RẤT TỐT của nó.",
 		"icon": "sightless_vomma_essence.png"
 	},
-	"Tinh Chất Throak [Độc ác]": {
-		"name": "Tinh Chất Throak [Độc ác]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Throak [Độc ác]": {
+		"name": "Tinh chất Throak [Độc ác]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
-		"description": "Bạn có linh cảm nếu Chạm vào, bạn sẽ bị đốt. Chỉ có một cáCh để biết!",
+		"description": "Bạn có linh cảm nếu chạm vào, bạn sẽ bị đốt. Chỉ có một cách để biết!",
 		"icon": "malicious_throak_essence.png"
 	},
-	"Tinh Chất Throak Dị huyết": {
-		"name": "Tinh Chất Throak Dị huyết",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Throak Dị huyết": {
+		"name": "Tinh chất Throak Dị huyết",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
 		"description": "Cầm thứ này trong tay khiến bạn cảm thấy bồng bềnh như DOVE vậy!",
 		"icon": "bawgblood_throak_essence.png"
 	},
-	"Tinh Chất Snorble [Cháy nắng]": {
-		"name": "Tinh Chất Snorble [Cháy nắng]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Snorble [Cháy nắng]": {
+		"name": "Tinh chất Snorble [Cháy nắng]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
-		"description": "Tinh Chất này khiến bạn phê quên lối về!",
+		"description": "Tinh chất này khiến bạn phê quên lối về!",
 		"icon": "burnt_snorble_essence.png"
 	},
-	"Tinh Chất Snorble Hạ áp": {
-		"name": "Tinh Chất Snorble Hạ áp",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Snorble Hạ áp": {
+		"name": "Tinh chất Snorble Hạ áp",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
-		"description": "Nó rất nhẹ, như thể Chứa đầy không khí vậy! Khoan. Đó Chỉ là khí gas.",
+		"description": "Nó rất nhẹ, như thể chứa đầy không khí vậy! Khoan. Đó chỉ là khí gas.",
 		"icon": "depressurized_snorble_essence.png"
 	},
-	"Tinh Chất Satgat [Nhạy cảm]": {
-		"name": "Tinh Chất Satgat [Nhạy cảm]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Satgat [Nhạy cảm]": {
+		"name": "Tinh chất Satgat [Nhạy cảm]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
-		"description": "Tinh Chất này thật là DỄ THƯƠNG!",
+		"description": "Tinh chất này thật là DỄ THƯƠNG!",
 		"icon": "sensitive_satgat_essence.png"
 	},
-	"Tinh Chất Satgat Bất hoà": {
-		"name": "Tinh Chất Satgat Bất hoà",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Satgat Bất hoà": {
+		"name": "Tinh chất Satgat Bất hoà",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
-		"description": "Ở gần tinh Chất này sẽ làm đầu bạn cảm thấy nhỏ bé.",
+		"description": "Ở gần tinh chất này sẽ làm đầu bạn cảm thấy nhỏ bé.",
 		"icon": "desaturated_satgat_essence.png"
 	},
-	"Tinh Chất Wojack [Bết dính]": {
-		"name": "Tinh Chất Wojack [Bết dính]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Wojack [Bết dính]": {
+		"name": "Tinh chất Wojack [Bết dính]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
-		"description": "Tinh Chất năng lượng Wojack khiến bạn muốn ĐÀO! ĐÀO! VÀ ĐÀO!",
+		"description": "Tinh chất năng lượng Wojack khiến bạn muốn ĐÀO! ĐÀO! VÀ ĐÀO!",
 		"icon": "sticky_wojack_essence.png"
 	},
-	"Tinh Chất Wojack [Bết dính]ạCh sắc": {
-		"name": "Tinh Chất Wojack [Bết dính]ạCh sắc",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Wojack [Bết dính]ạch sắc": {
+		"name": "Tinh chất Wojack [Bết dính]ạch sắc",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
-		"description": "Nó ngứa khi bạn Chọc nó bằng ngón Chân. Hãy dừng Chọc nó bằng ngón Chân.",
-		"icon": "bleaChed_wojack_essence.png"
+		"description": "Nó ngứa khi bạn chọc nó bằng ngón chân. Hãy dừng chọc nó bằng ngón chân.",
+		"icon": "bleached_wojack_essence.png"
 	},
-	"Tinh Chất Bamli [Xảo quyệt]": {
-		"name": "Tinh Chất Bamli [Xảo quyệt]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Bamli [Xảo quyệt]": {
+		"name": "Tinh chất Bamli [Xảo quyệt]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
 		"description": "Đứng gần thứ này khiến bạn muốn mọc ra một BỘ RIA VĨ ĐẠI.",
 		"icon": "wily_bamli_essence.png"
 	},
-	"Tinh Chất Bamli Cuồng Chiến": {
-		"name": "Tinh Chất Bamli Cuồng Chiến",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Bamli Cuồng chiến": {
+		"name": "Tinh chất Bamli Cuồng chiến",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
-		"description": "Giữ thứ này trên tay làm bạn cảm thấy cực kì thèm đường. Cũng vì thế, Chân tay bạn cảm thấy bủn rủn.",
+		"description": "Giữ thứ này trên tay làm bạn cảm thấy cực kì thèm đường. Cũng vì thế, chân tay bạn cảm thấy bủn rủn.",
 		"icon": "raving_bamli_essence.png"
 	},
-	"Tinh Chất Shirk [Tinh quái]": {
-		"name": "Tinh Chất Shirk [Tinh quái]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Shirk [Tinh quái]": {
+		"name": "Tinh chất Shirk [Tinh quái]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
 		"description": "GREEEEEEEEEEAAAGH AAAAAAAAAAAAK!",
 		"icon": "berg_shirk_essence.png"
 	},
-	"Tinh Chất Shirk XíCh linh": {
-		"name": "Tinh Chất Shirk XíCh linh",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Shirk Xích linh": {
+		"name": "Tinh chất Shirk Xích linh",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
-		"description": "Bạn có cảm giác miệng mình như biến thành mỏ ngay sau khi đứng gần tinh Chất này!",
+		"description": "Bạn có cảm giác miệng mình như biến thành mỏ ngay sau khi đứng gần tinh chất này!",
 		"icon": "redwing_shirk_essence.png"
 	},
-	"Tinh Chất Glaser [Quý tộc]": {
-		"name": "Tinh Chất Glaser [Quý tộc]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Glaser [Quý tộc]": {
+		"name": "Tinh chất Glaser [Quý tộc]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
-		"description": "Cầm tinh Chất này khiến bạn cảm thấy như có tia lazer bắn ra từ trán!",
+		"description": "Cầm tinh chất này khiến bạn cảm thấy như có tia lazer bắn ra từ trán!",
 		"icon": "royal_glaser_essence.png"
 	},
-	"Tinh Chất Glaser Râu bạc": {
-		"name": "Tinh Chất Glaser Râu bạc",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Glaser Râu bạc": {
+		"name": "Tinh chất Glaser Râu bạc",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
-		"description": "Tinh Chất này khiến bạn thèm ăn cỏ. MMMMMM...ĐÚNG LÀ CỎ MỸ CÓ KHÁC!",
+		"description": "Tinh chất này khiến bạn thèm ăn cỏ. MMMMMM...ĐÚNG LÀ CỎ MỸ CÓ KHÁC!",
 		"icon": "greybearded_glaser_essence.png"
 	},
-	"Tinh Chất Slurb [Phẫn nộ]": {
-		"name": "Tinh Chất Slurb [Phẫn nộ]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Slurb [Phẫn nộ]": {
+		"name": "Tinh chất Slurb [Phẫn nộ]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
 		"description": "THẬT KINH TỞM!",
 		"icon": "raging_slurb_essence.png"
 	},
-	"Tinh Chất Slurb Thiếu ngủ": {
-		"name": "Tinh Chất Slurb Thiếu ngủ",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Slurb Thiếu ngủ": {
+		"name": "Tinh chất Slurb Thiếu ngủ",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
 		"description": "Nó khiến bạn cảm thấy tồi tệ.",
 		"icon": "sleepless_slurb_essence.png"
 	},
-	"Tinh Chất Lyff [Dị sắc]": {
-		"name": "Tinh Chất Lyff [Dị sắc]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Lyff [Dị sắc]": {
+		"name": "Tinh chất Lyff [Dị sắc]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
 		"description": "Nó nảy và đàn hồi!",
 		"icon": "lyff_broh_essence.png"
 	},
-	"Tinh Chất Lyff [Dị sắc]ực đại": {
-		"name": "Tinh Chất Lyff [Dị sắc]ực đại",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Lyff [Dị sắc]ực đại": {
+		"name": "Tinh chất Lyff [Dị sắc]ực đại",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
-		"description": "Khi bạn liếm nó, bạn sẽ thíCh nó.",
+		"description": "Khi bạn liếm nó, bạn sẽ thích nó.",
 		"icon": "max_lyff_essence.png"
 	},
-	"Tinh Chất Blastcrab [Tăng áp]": {
-		"name": "Tinh Chất Blastcrab [Tăng áp]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Blastcrab [Tăng áp]": {
+		"name": "Tinh chất Blastcrab [Tăng áp]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
-		"description": "NÓ NÓNG MỘT CÁCh ChẾT TIỆT. OOH OOWEE! NÓNG NÓNG NÓNG! LÚC NÀY, NÓ CỰC KÌ NÓNG!",
+		"description": "NÓ NÓNG MỘT CÁCH CHẾT TIỆT. OOH OOWEE! NÓNG NÓNG NÓNG! LÚC NÀY, NÓ CỰC KÌ NÓNG!",
 		"icon": "pressurized_blastcrab_essence.png"
 	},
-	"Tinh Chất Blastcrab Sảnh dịCh": {
-		"name": "Tinh Chất Blastcrab Sảnh dịCh",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Blastcrab Sảnh dịch": {
+		"name": "Tinh chất Blastcrab Sảnh dịch",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
-		"description": "Chạm vào tinh Chất này sẽ làm ngón tay bạn cảm giác bị thiêu đốt.",
+		"description": "Chạm vào tinh chất này sẽ làm ngón tay bạn cảm giác bị thiêu đốt.",
 		"icon": "liquid-cooled_blastcrab_essence.png"
 	},
-	"Tinh Chất Gallum [Vôi hoá]": {
-		"name": "Tinh Chất Gallum [Vôi hoá]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Gallum [Vôi hoá]": {
+		"name": "Tinh chất Gallum [Vôi hoá]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
-		"description": "Nó sẽ không ngừng rung. Bạn có thể nghĩ về một tác dụng hữu íCh Cho thứ này. Trông nó rất Quen :)))!",
+		"description": "Nó sẽ không ngừng rung. Bạn có thể nghĩ về một tác dụng hữu ích cho thứ này. Trông nó rất Quen :)))!",
 		"icon": "calcified_gallum_essence.png"
 	},
-	"Tinh Chất Gallum Đơn sắc": {
-		"name": "Tinh Chất Gallum Đơn sắc",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Gallum Đơn sắc": {
+		"name": "Tinh chất Gallum Đơn sắc",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
-		"description": "Bạn có thể cảm nhận sức mạnh Chảy qua nó! Ôi trời! Ôi Chúa ơi! Ôi thánh thần ơi!",
-		"icon": "monoChromatic_gallum_essence.png"
+		"description": "Bạn có thể cảm nhận sức mạnh chảy qua nó! Ôi trời! Ôi chúa ơi! Ôi thánh thần ơi!",
+		"icon": "monochromatic_gallum_essence.png"
 	},
-	"Tinh Chất Gulanti [Nhún nhảy]": {
-		"name": "Tinh Chất Gulanti [Nhún nhảy]",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Gulanti [Nhún nhảy]": {
+		"name": "Tinh chất Gulanti [Nhún nhảy]",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Siêu cấp",
-		"description": "Tinh Chất này khiến bạn muốn HÁT TỚI TẬN TRỜI XANH VỚI SỰ VINH DỰ VÀO Tai Gulanti!",
+		"description": "Tinh chất này khiến bạn muốn HÁT TỚI TẬN TRỜI XANH VỚI SỰ VINH DỰ VÀO Tai Gulanti!",
 		"icon": "jumpy_gulanti_essence.png"
 	},
-	"Tinh Chất Gulanti [Nhún nhảy]ung huyết": {
-		"name": "Tinh Chất Gulanti [Nhún nhảy]ung huyết",
-		"type": "Tinh Chất sinh vật",
+	"Tinh chất Gulanti [Nhún nhảy]ung huyết": {
+		"name": "Tinh chất Gulanti [Nhún nhảy]ung huyết",
+		"type": "Tinh chất sinh vật",
 		"rarity": "Tối thượng",
 		"description": "Cổ bạn cảm giác như dãn ra khi cầm nó. Gần như là dãn ra thôi.",
 		"icon": "hotblooded_gulanti_essence.png"
 	},
-	"Cổng dịCh Chuyển Tundra": {
-		"name": "Cổng dịCh Chuyển Tundra",
-		"type": "Bệ dịCh Chuyển",
+	"Cổng dịch chuyển Tundra": {
+		"name": "Cổng dịch chuyển Tundra",
+		"type": "Bệ dịch chuyển",
 		"rarity": "Tối thượng",
-		"description": "DịCh Chuyển bạn tới Tundra một cáCh hoành tráng NHƯ MỘT CON ĐẠI BÀNG BAY VÚT LÊN!",
+		"description": "Dịch chuyển bạn tới Tundra một cách hoành tráng NHƯ MỘT CON ĐẠI BÀNG BAY VÚT LÊN!",
 		"icon": "tundraporter.png"
 	},
 	"Gậy Pogo": {
 		"name": "Gậy Pogo",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Tối thượng",
-		"description": "Dù Wompit không thể cưỡi thứ này do không có tay, người ta Chắc Chắn sẽ suy nghĩ về khả năng đó! Tiến hoá Wompit của bạn thành dạng TỐI THƯỢNG!",
+		"description": "Dù Wompit không thể cưỡi thứ này do không có tay, người ta chắc chắn sẽ suy nghĩ về khả năng đó! Tiến hoá Wompit của bạn thành dạng TỐI THƯỢNG!",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đèn Dầu Tartil",
 				"qty": 8
@@ -11712,7 +11712,7 @@ $master.api.item = {
 				"name": "Mảnh Pha lê",
 				"qty": 29
 			}, {
-				"name": "Tinh Chất Wompit[Cứng cáp]Chúa tể",
+				"name": "Tinh chất Wompit[Cứng cáp]Chúa tể",
 				"qty": 4
 			}]
 		},
@@ -11726,7 +11726,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vảy ngọc",
 				"qty": 19
@@ -11737,7 +11737,7 @@ $master.api.item = {
 				"name": "Phân Wat",
 				"qty": 8
 			}, {
-				"name": "Tinh Chất Glutterfly Trướng phình",
+				"name": "Tinh chất Glutterfly Trướng phình",
 				"qty": 2
 			}]
 		},
@@ -11751,7 +11751,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lăng Kính Pha lê",
 				"qty": 7
@@ -11762,7 +11762,7 @@ $master.api.item = {
 				"name": "Khúc cây Bụt mọc",
 				"qty": 8
 			}, {
-				"name": "Tinh Chất Glidopus Cao niên",
+				"name": "Tinh chất Glidopus Cao niên",
 				"qty": 5
 			}]
 		},
@@ -11772,11 +11772,11 @@ $master.api.item = {
 		"name": "Bom 10 tấn",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Tối thượng",
-		"description": "Một khi quả bom này được hấp thụ vào cơ thể Tartil, MỌI CUỘC CÁ CƯỢC SẼ ChẤM DỨT! Tiến hoá Tartil của bạn thành dạng TỐI THƯỢNG!",
+		"description": "Một khi quả bom này được hấp thụ vào cơ thể Tartil, MỌI CUỘC CÁ CƯỢC SẼ CHẤM DỨT! Tiến hoá Tartil của bạn thành dạng TỐI THƯỢNG!",
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Kén Cao su",
 				"qty": 16
@@ -11787,7 +11787,7 @@ $master.api.item = {
 				"name": "Hương liệu Wojack",
 				"qty": 9
 			}, {
-				"name": "Tinh Chất Tartil [Nhớp nháp]uyết sắc",
+				"name": "Tinh chất Tartil [Nhớp nháp]uyết sắc",
 				"qty": 4
 			}]
 		},
@@ -11801,7 +11801,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Polymer Snorble",
 				"qty": 9
@@ -11812,7 +11812,7 @@ $master.api.item = {
 				"name": "Khúc cây Bụt mọc",
 				"qty": 8
 			}, {
-				"name": "Tinh Chất Wat [Siêu cường]ổ linh",
+				"name": "Tinh chất Wat [Siêu cường]ổ linh",
 				"qty": 3
 			}]
 		},
@@ -11822,11 +11822,11 @@ $master.api.item = {
 		"name": "Động cơ vĩnh cửu",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Tối thượng",
-		"description": "Chỉ có một cỗ máy vi phạm các định luật vật lý mới có thể giữ Cho Zug được sạc mọi lúc! Tiến hóa Zug của bạn thành dạng TỐI THƯỢNG!",
+		"description": "Chỉ có một cỗ máy vi phạm các định luật vật lý mới có thể giữ cho Zug được sạc mọi lúc! Tiến hóa Zug của bạn thành dạng TỐI THƯỢNG!",
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa Satgat",
 				"qty": 9
@@ -11837,21 +11837,21 @@ $master.api.item = {
 				"name": "Tơ Huyết khối",
 				"qty": 45
 			}, {
-				"name": "Tinh Chất Zug Đại thủ hộ",
+				"name": "Tinh chất Zug Đại thủ hộ",
 				"qty": 5
 			}]
 		},
-		"icon": "perpetual_motion_maChine.png"
+		"icon": "perpetual_motion_machine.png"
 	},
 	"Micro Vomma": {
 		"name": "Micro Vomma",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Tối thượng",
-		"description": "Bạn Chưa bao giờ ói Cho đến khi nhìn thấy những sinh vật này. Tiến hoá Vomma của bạn thành dạng TỐI THƯỢNG!",
+		"description": "Bạn chưa bao giờ ói cho đến khi nhìn thấy những sinh vật này. Tiến hoá Vomma của bạn thành dạng TỐI THƯỢNG!",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Hormone lạ",
 				"qty": 10
@@ -11862,7 +11862,7 @@ $master.api.item = {
 				"name": "Rận hút máu",
 				"qty": 9
 			}, {
-				"name": "Tinh Chất Vomma Khiếm thị",
+				"name": "Tinh chất Vomma Khiếm thị",
 				"qty": 5
 			}]
 		},
@@ -11876,7 +11876,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khối Natri",
 				"qty": 10
@@ -11887,7 +11887,7 @@ $master.api.item = {
 				"name": "Vỏ sừng",
 				"qty": 51
 			}, {
-				"name": "Tinh Chất Wojack [Bết dính]ạCh sắc",
+				"name": "Tinh chất Wojack [Bết dính]ạch sắc",
 				"qty": 5
 			}]
 		},
@@ -11901,7 +11901,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Sợi len",
 				"qty": 10
@@ -11912,7 +11912,7 @@ $master.api.item = {
 				"name": "Kim cương",
 				"qty": 20
 			}, {
-				"name": "Tinh Chất Throak Dị huyết",
+				"name": "Tinh chất Throak Dị huyết",
 				"qty": 5
 			}]
 		},
@@ -11922,11 +11922,11 @@ $master.api.item = {
 		"name": "Xe điều khiển",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Tối thượng",
-		"description": "Hoàn hảo Cho việc thử nghiệm túi khí cùng các tính năng an toàn! Tiến hoá Snorble của bạn thành dạng TỐI THƯỢNG",
+		"description": "Hoàn hảo cho việc thử nghiệm túi khí cùng các tính năng an toàn! Tiến hoá Snorble của bạn thành dạng TỐI THƯỢNG",
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nước nhầy Slurb",
 				"qty": 11
@@ -11937,7 +11937,7 @@ $master.api.item = {
 				"name": "Sàn Carbon",
 				"qty": 115
 			}, {
-				"name": "Tinh Chất Snorble Hạ áp",
+				"name": "Tinh chất Snorble Hạ áp",
 				"qty": 3
 			}]
 		},
@@ -11947,11 +11947,11 @@ $master.api.item = {
 		"name": "Ống Nhòm",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Tối thượng",
-		"description": "Trao thứ này Cho Satgat giúp nó có thể nhìn thấy nhà của mình từ đây. Tiến hoá Satgat của bạn thành dạng TỐI THƯỢNG!",
+		"description": "Trao thứ này cho Satgat giúp nó có thể nhìn thấy nhà của mình từ đây. Tiến hoá Satgat của bạn thành dạng TỐI THƯỢNG!",
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Tinh thể xanh lá",
 				"qty": 42
@@ -11962,7 +11962,7 @@ $master.api.item = {
 				"name": "Kim cương",
 				"qty": 21
 			}, {
-				"name": "Tinh Chất Satgat Bất hoà",
+				"name": "Tinh chất Satgat Bất hoà",
 				"qty": 3
 			}]
 		},
@@ -11972,13 +11972,13 @@ $master.api.item = {
 		"name": "Kính bốn mắt",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Tối thượng",
-		"description": "Có phải Chúng bị nuôi nhốt? Tiến hoá Bamli của bạn thành dạng TỐI THƯỢNG!",
+		"description": "Có phải chúng bị nuôi nhốt? Tiến hoá Bamli của bạn thành dạng TỐI THƯỢNG!",
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Ch4",
+				"name": "CH4",
 				"qty": 12
 			}, {
 				"name": "Vỏ Chuỳ gai",
@@ -11987,7 +11987,7 @@ $master.api.item = {
 				"name": "Chùm lông lạ",
 				"qty": 11
 			}, {
-				"name": "Tinh Chất Bamli Cuồng Chiến",
+				"name": "Tinh chất Bamli Cuồng chiến",
 				"qty": 7
 			}]
 		},
@@ -12001,7 +12001,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Chất nhầy Gallum",
 				"qty": 12
@@ -12012,7 +12012,7 @@ $master.api.item = {
 				"name": "Chất nhầy cam",
 				"qty": 6
 			}, {
-				"name": "Tinh Chất Shirk XíCh linh",
+				"name": "Tinh chất Shirk Xích linh",
 				"qty": 4
 			}]
 		},
@@ -12022,11 +12022,11 @@ $master.api.item = {
 		"name": "Tẩu thuốc",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Tối thượng",
-		"description": "Hình dạng của thứ này vừa với miệng của Glaser một cáCh hoàn hảo! Tiến hoá Glaser của bạn thành dạng TỐI THƯỢNG!",
+		"description": "Hình dạng của thứ này vừa với miệng của Glaser một cách hoàn hảo! Tiến hoá Glaser của bạn thành dạng TỐI THƯỢNG!",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Thịt Gulanti",
 				"qty": 12
@@ -12037,7 +12037,7 @@ $master.api.item = {
 				"name": "Hợp Kim Titan",
 				"qty": 22
 			}, {
-				"name": "Tinh Chất Glaser Râu bạc",
+				"name": "Tinh chất Glaser Râu bạc",
 				"qty": 3
 			}]
 		},
@@ -12047,11 +12047,11 @@ $master.api.item = {
 		"name": "Bạt Lò Xo",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Tối thượng",
-		"description": "Hãy Cho Slurb một cái bạt nảy. Slurb rất khoái Chúng. Tiến hoá Slurb của bạn thành dạng TỐI THƯỢNG!",
+		"description": "Hãy cho Slurb một cái bạt nảy. Slurb rất khoái chúng. Tiến hoá Slurb của bạn thành dạng TỐI THƯỢNG!",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Thịt Gulanti",
 				"qty": 12
@@ -12062,7 +12062,7 @@ $master.api.item = {
 				"name": "Da Lyff",
 				"qty": 70
 			}, {
-				"name": "Tinh Chất Slurb Thiếu ngủ",
+				"name": "Tinh chất Slurb Thiếu ngủ",
 				"qty": 5
 			}]
 		},
@@ -12076,7 +12076,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Thịt Gulanti",
 				"qty": 12
@@ -12087,7 +12087,7 @@ $master.api.item = {
 				"name": "Ống Tre gai",
 				"qty": 174
 			}, {
-				"name": "Tinh Chất Lyff [Dị sắc]ực đại",
+				"name": "Tinh chất Lyff [Dị sắc]ực đại",
 				"qty": 2
 			}]
 		},
@@ -12101,7 +12101,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Chất nhầy Gallum",
 				"qty": 12
@@ -12112,21 +12112,21 @@ $master.api.item = {
 				"name": "Khối Nấm Bè",
 				"qty": 199
 			}, {
-				"name": "Tinh Chất Blastcrab Sảnh dịCh",
+				"name": "Tinh chất Blastcrab Sảnh dịch",
 				"qty": 2
 			}]
 		},
 		"icon": "cooler.png"
 	},
-	"Áo cáCh điện": {
-		"name": "Áo cáCh điện",
+	"Áo cách điện": {
+		"name": "Áo cách điện",
 		"type": "Vật phẩm tiến hoá",
 		"rarity": "Tối thượng",
 		"description": "Thứ này sẽ bảo vệ khỏi những cú phóng điện từ con Gulanti kiêu ngạo của bạn! Tiến hoá Gulanti của bạn thành dạng TỐI THƯỢNG!",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lụa Satgat",
 				"qty": 12
@@ -12137,7 +12137,7 @@ $master.api.item = {
 				"name": "Bụi san hô",
 				"qty": 48
 			}, {
-				"name": "Tinh Chất Gulanti [Nhún nhảy]ung huyết",
+				"name": "Tinh chất Gulanti [Nhún nhảy]ung huyết",
 				"qty": 3
 			}]
 		},
@@ -12151,7 +12151,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Hợp Kim Titan",
 				"qty": 22
@@ -12162,7 +12162,7 @@ $master.api.item = {
 				"name": "Chất nhầy Gallum",
 				"qty": 12
 			}, {
-				"name": "Tinh Chất Gallum Đơn sắc",
+				"name": "Tinh chất Gallum Đơn sắc",
 				"qty": 3
 			}]
 		},
@@ -12172,11 +12172,11 @@ $master.api.item = {
 		"name": "Giường sừng",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Nó giống như việc ngủ trên một cái gối làm từ vàng. Bạn nghĩ nó sẽ không mấy dễ Chịu. Chắc Chắn Chứ?",
+		"description": "Nó giống như việc ngủ trên một cái gối làm từ vàng. Bạn nghĩ nó sẽ không mấy dễ chịu. Chắc chắn chứ?",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mỡ Vomma",
 				"qty": 18
@@ -12194,11 +12194,11 @@ $master.api.item = {
 		"name": "Giường Phong phát",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Cái giường này có tốt hơn những cái khác không? Nó có quan trọng không? Tại sao Chúng ta lại ở đây? Có lý do nào để Chúng ta xuất hiện ở đây không, hay Chỉ là một tai nạn trong vũ trụ?",
+		"description": "Cái giường này có tốt hơn những cái khác không? Nó có quan trọng không? Tại sao chúng ta lại ở đây? Có lý do nào để chúng ta xuất hiện ở đây không, hay chỉ là một tai nạn trong vũ trụ?",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lõi Phong phát",
 				"qty": 10
@@ -12223,7 +12223,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy tiện Cao su",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Thùng Cao su",
 				"qty": 4
@@ -12241,11 +12241,11 @@ $master.api.item = {
 		"name": "Bàn Cao su",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "HÃY ChỨNG KIẾN SỨC MẠNH VĨ ĐẠI CỦA Bàn Cao su!",
+		"description": "HÃY CHỨNG KIẾN SỨC MẠNH VĨ ĐẠI CỦA Bàn Cao su!",
 		"recipe": {
 			"name": "Máy tiện Cao su",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Thùng Cao su",
 				"qty": 4
@@ -12259,36 +12259,36 @@ $master.api.item = {
 		},
 		"icon": "squable.png"
 	},
-	"Ghế bành cáCh điện": {
-		"name": "Ghế bành cáCh điện",
+	"Ghế bành cách điện": {
+		"name": "Ghế bành cách điện",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Nó cáCh điện cực tốt, gần như không bị lún mông nếu ngồi lâu trên đó.",
+		"description": "Nó cách điện cực tốt, gần như không bị lún mông nếu ngồi lâu trên đó.",
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 23
 			}, {
 				"name": "Lông mi Wojack",
 				"qty": 5
 			}]
 		},
-		"icon": "myelar_lazyChair.png"
+		"icon": "myelar_lazychair.png"
 	},
-	"Bàn cáCh điện": {
-		"name": "Bàn cáCh điện",
+	"Bàn cách điện": {
+		"name": "Bàn cách điện",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Sự mềm mịn của Mô cáCh điện tạo ra một bề mặt tồi tệ để viết. May thay là bạn không có tờ giấy và cây bút nào!",
+		"description": "Sự mềm mịn của Mô cách điện tạo ra một bề mặt tồi tệ để viết. May thay là bạn không có tờ giấy và cây bút nào!",
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 23
 			}, {
 				"name": "Xúc tu Throak",
@@ -12305,7 +12305,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Snorble",
 				"qty": 10
@@ -12317,7 +12317,7 @@ $master.api.item = {
 				"qty": 1
 			}]
 		},
-		"icon": "snorby_airChair.png"
+		"icon": "snorby_airchair.png"
 	},
 	"Bàn da Snorble": {
 		"name": "Bàn da Snorble",
@@ -12327,7 +12327,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Snorble",
 				"qty": 10
@@ -12349,7 +12349,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ sừng",
 				"qty": 8
@@ -12368,7 +12368,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ sừng",
 				"qty": 8
@@ -12383,11 +12383,11 @@ $master.api.item = {
 		"name": "Bàn Gạc",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Hoàn hảo Cho một Chuyến ra ngoài với những kẻ nóng tính, những kẻ cùng sống trong một căn nhà dưới phố!",
+		"description": "Hoàn hảo cho một chuyến ra ngoài với những kẻ nóng tính, những kẻ cùng sống trong một căn nhà dưới phố!",
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Gạc Glaser",
 				"qty": 12
@@ -12402,27 +12402,27 @@ $master.api.item = {
 		"name": "Ghế sừng gạc",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Thật sự không hợp để dùng trên cỏ. Chiếc ghế sẽ không Chịu tráCh nhiệm Cho bất thương tíCh hoặc cái Chết nào.",
+		"description": "Thật sự không hợp để dùng trên cỏ. Chiếc ghế sẽ không chịu trách nhiệm cho bất thương tích hoặc cái chết nào.",
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Gạc Glaser",
 				"qty": 23
 			}]
 		},
-		"icon": "antler_lawnChair.png"
+		"icon": "antler_lawnchair.png"
 	},
 	"Ghế bành": {
 		"name": "Ghế bành",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Lông tơ sẽ giúp cú Chạm mông trở nên nhẹ nhàng và hoàn hảo!",
+		"description": "Lông tơ sẽ giúp cú chạm mông trở nên nhẹ nhàng và hoàn hảo!",
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Chuỳ gai",
 				"qty": 6
@@ -12431,17 +12431,17 @@ $master.api.item = {
 				"qty": 18
 			}]
 		},
-		"icon": "fuzzy_hotChair.png"
+		"icon": "fuzzy_hotchair.png"
 	},
 	"Bàn ngoài hành tinh": {
 		"name": "Bàn ngoài hành tinh",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Chỉ một cú Chạm nhẹ có thể làm vỡ nó, có thể sánh với hàng triệu tấn TNT.",
+		"description": "Chỉ một cú chạm nhẹ có thể làm vỡ nó, có thể sánh với hàng triệu tấn TNT.",
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Chuỳ gai",
 				"qty": 6
@@ -12456,11 +12456,11 @@ $master.api.item = {
 		"name": "Bàn tam giác đỏ",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Tam giác là hình mà thanh lịCh nhất trong tự nhiên.",
+		"description": "Tam giác là hình mà thanh lịch nhất trong tự nhiên.",
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá Hợp Kim",
 				"qty": 6
@@ -12475,11 +12475,11 @@ $master.api.item = {
 		"name": "Ghế đỏ",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Bạn có thể điều Chỉnh lại hầu hết bộ phận của Chiếc ghế thú vị này!",
+		"description": "Bạn có thể điều chỉnh lại hầu hết bộ phận của chiếc ghế thú vị này!",
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá Hợp Kim",
 				"qty": 4
@@ -12491,7 +12491,7 @@ $master.api.item = {
 				"qty": 9
 			}]
 		},
-		"icon": "pointy_awesomeChair.png"
+		"icon": "pointy_awesomechair.png"
 	},
 	"Bom hạt Cao su": {
 		"name": "Bom hạt Cao su",
@@ -12501,7 +12501,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy tiện Cao su",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Hạt giống Cao su",
 				"qty": 3
@@ -12523,9 +12523,9 @@ $master.api.item = {
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 3
 			}, {
 				"name": "Sợi trục Tĩnh điện",
@@ -12537,42 +12537,42 @@ $master.api.item = {
 		},
 		"icon": "nurva_seedbomb.png"
 	},
-	"Bom hạt Ngưng mạCh": {
-		"name": "Bom hạt Ngưng mạCh",
+	"Bom hạt Ngưng mạch": {
+		"name": "Bom hạt Ngưng mạch",
 		"type": "Bom",
 		"rarity": "Bình Thường",
-		"description": "Đừng Cho ngón tay vào MạCh Bawg, như Chúng nói. Gây 125% ST/giây thành STVL.",
+		"description": "Đừng cho ngón tay vào Mạch Bawg, như chúng nói. Gây 125% ST/giây thành STVL.",
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "MạCh Bawg",
+				"name": "Mạch Bawg",
 				"qty": 3
 			}, {
 				"name": "Bọng mỡ",
 				"qty": 3
 			}, {
-				"name": "Hạt giống Ngưng mạCh",
+				"name": "Hạt giống Ngưng mạch",
 				"qty": 3
 			}]
 		},
 		"icon": "artree_seedbomb.png"
 	},
-	"Bom hạt Cẩu tíCh": {
-		"name": "Bom hạt Cẩu tíCh",
+	"Bom hạt Cẩu tích": {
+		"name": "Bom hạt Cẩu tích",
 		"type": "Bom",
 		"rarity": "Bình Thường",
 		"description": "Cậu nhóc này sẽ dính lông vào bất cứ thứ gì. Gây 125% ST/giây thành STVL.",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Vỏ Cẩu tíCh",
+				"name": "Vỏ Cẩu tích",
 				"qty": 6
 			}, {
-				"name": "Hạt Cẩu tíCh",
+				"name": "Hạt Cẩu tích",
 				"qty": 3
 			}]
 		},
@@ -12582,11 +12582,11 @@ $master.api.item = {
 		"name": "Bom hạt Cự cốt",
 		"type": "Bom",
 		"rarity": "Bình Thường",
-		"description": "Tại sao phải trồng Cự cốt khi bạn có thể dọn sạCh Chúng trong một lần? Gây 125%ST/giây thành STVL.",
+		"description": "Tại sao phải trồng Cự cốt khi bạn có thể dọn sạch chúng trong một lần? Gây 125%ST/giây thành STVL.",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Hạt giống Cự cốt",
 				"qty": 3
@@ -12608,7 +12608,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Hạt giống Lược mao",
 				"qty": 3
@@ -12630,7 +12630,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Hạt giống Chùy gai",
 				"qty": 3
@@ -12649,7 +12649,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Hạt giống Tre gai",
 				"qty": 3
@@ -12664,11 +12664,11 @@ $master.api.item = {
 		"name": "Chuồng hợp kim",
 		"type": "Chuồng thú",
 		"rarity": "Bình Thường",
-		"description": "Có lẽ đây là Chiếc giường hoàn hảo nhất trên toàn hành tinh. Được nằm ngủ trên nó là tuyệt vời ông mặt trời.",
+		"description": "Có lẽ đây là chiếc giường hoàn hảo nhất trên toàn hành tinh. Được nằm ngủ trên nó là tuyệt vời ông mặt trời.",
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá Hợp Kim",
 				"qty": 4
@@ -12683,11 +12683,11 @@ $master.api.item = {
 		"name": "Chuồng thú cao cấp",
 		"type": "Chuồng thú",
 		"rarity": "Bình Thường",
-		"description": "Nó xập xệ, ẩm ướt và sần sùi. TUYỆT VỜI ChO THÚ CƯNG CỦA BẠN!",
+		"description": "Nó xập xệ, ẩm ướt và sần sùi. TUYỆT VỜI CHO THÚ CƯNG CỦA BẠN!",
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đậu mụn xanh",
 				"qty": 2
@@ -12702,7 +12702,7 @@ $master.api.item = {
 		"name": "Sừng Megalari",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Một mảnh từ Chiếc sừng của một con Megalari bí ẩn cổ đại. Polari tin rằng nó có ĐẶC TÍNH THẦN KÌ!",
+		"description": "Một mảnh từ chiếc sừng của một con Megalari bí ẩn cổ đại. Polari tin rằng nó có ĐẶC TÍNH THẦN KÌ!",
 		"icon": "horn_of_megalari.png"
 	},
 	"Vỏ sò": {
@@ -12716,7 +12716,7 @@ $master.api.item = {
 		"name": "Đá mài sừng",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Giữ Cho những nhóc này luôn đẹp đẽ và sắc bén.",
+		"description": "Giữ cho những nhóc này luôn đẹp đẽ và sắc bén.",
 		"icon": "polari_horn_sharpener.png"
 	},
 	"Đèn sừng Polari": {
@@ -12730,14 +12730,14 @@ $master.api.item = {
 		"name": "Trống Phì Độn",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Nhịp đập phát ra từ Chiếc trống này rất mập mạp, Chúng Chắc Chắn có thể Chịu được thời gian trong phòng gym.",
+		"description": "Nhịp đập phát ra từ chiếc trống này rất mập mạp, chúng chắc chắn có thể chịu được thời gian trong phòng gym.",
 		"icon": "fat_beatdrum.png"
 	},
 	"Trống trắng": {
 		"name": "Trống trắng",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Dùng khi âm mạnh không thíCh hợp.",
+		"description": "Dùng khi âm mạnh không thích hợp.",
 		"icon": "baby_beatdrum.png"
 	},
 	"Bóng mụn xanh": {
@@ -12748,7 +12748,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đậu mụn xanh",
 				"qty": 9
@@ -12767,12 +12767,12 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 9
 			}, {
-				"name": "Nam Châm Slurb",
+				"name": "Nam châm Slurb",
 				"qty": 3
 			}, {
 				"name": "Hợp Kim Titan",
@@ -12781,15 +12781,15 @@ $master.api.item = {
 		},
 		"icon": "gyroball.png"
 	},
-	"Bóng lụa hồng": {
-		"name": "Bóng lụa hồng",
+	"Bóng da": {
+		"name": "Bóng da",
 		"type": "Đồ ném được",
 		"rarity": "Bình Thường",
-		"description": "Nó xốp, và còn nảy, Giống như da của những con ấu trùng đan vào nhau. Bởi vì kia Chính là nó.",
+		"description": "Nó xốp, và còn nảy, Giống như da của những con ấu trùng đan vào nhau. Bởi vì kia chính là nó.",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Sâu hồng nhan",
 				"qty": 10
@@ -12807,16 +12807,16 @@ $master.api.item = {
 		"name": "Bom Chói Lòa",
 		"type": "Bom",
 		"rarity": "Bình Thường",
-		"description": "Chói như ánh sáng của Đảng! Triệu hồi một cơn bão sấm tại vị trí Chỉ định gây 100% ST/giây trong 7 giây.",
+		"description": "Chói như ánh sáng của Đảng! Triệu hồi một cơn bão sấm tại vị trí chỉ định gây 100% ST/giây trong 7 giây.",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lõi điện Gulanti",
 				"qty": 3
 			}, {
-				"name": "Lõi DịCh Chuyển",
+				"name": "Lõi Dịch Chuyển",
 				"qty": 3
 			}, {
 				"name": "Tinh thể xanh lá",
@@ -12825,15 +12825,15 @@ $master.api.item = {
 		},
 		"icon": "flashfizzbang.png"
 	},
-	"Bom Bé bự": {
-		"name": "Bom Bé bự",
+	"Bom 'Bé bự'": {
+		"name": "Bom 'Bé bự'",
 		"type": "Bom",
 		"rarity": "Bình Thường",
 		"description": "Nó khá to, và nó nổ cũng khá to nữa! Ném ra ba quả bom, và gây ra 100% ST/giây thành STVL.",
 		"recipe": {
 			"name": "Bàn đúc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Bom Chói Lòa",
 				"qty": 6
@@ -12858,7 +12858,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy tiện Cao su",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Thùng Cao su",
 				"qty": 3
@@ -12877,7 +12877,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Thùa gai",
 				"qty": 3
@@ -12892,11 +12892,11 @@ $master.api.item = {
 		"name": "Bom thu hoạch đời 4",
 		"type": "Bom",
 		"rarity": "Bình Thường",
-		"description": "Dùng khi bạn muốn phá gì đó, nhưng lại lười động tay! Phá được những thứ đời 3 phá được, cộng thêm Cây Ngưng mạCh, Cây Cự cốt, Cây Cẩu tíCh, Cây Lược mao, Cây Hoa quả tạ và Trứng Xoắn ốc!",
+		"description": "Dùng khi bạn muốn phá gì đó, nhưng lại lười động tay! Phá được những thứ đời 3 phá được, cộng thêm Cây Ngưng mạch, Cây Cự cốt, Cây Cẩu tích, Cây Lược mao, Cây Hoa quả tạ và Trứng Xoắn ốc!",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Kiên thảo",
 				"qty": 3
@@ -12915,7 +12915,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Chùy Gai",
 				"qty": 3
@@ -12934,12 +12934,12 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Sên hải nhiệt",
 				"qty": 3
 			}, {
-				"name": "Nam Châm Slurb",
+				"name": "Nam châm Slurb",
 				"qty": 3
 			}, {
 				"name": "Cá đuối băng",
@@ -12956,7 +12956,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Ruột Satgat",
 				"qty": 3
@@ -12965,17 +12965,17 @@ $master.api.item = {
 				"qty": 3
 			}]
 		},
-		"icon": "Chembobber.png"
+		"icon": "chembobber.png"
 	},
 	"Chong chóng mũi nhọn": {
 		"name": "Chong chóng mũi nhọn",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Cậu nhóc này sẽ Cho bạn biết gió có đang thổi hay không! Gợi ý: Nó là...",
+		"description": "Cậu nhóc này sẽ cho bạn biết gió có đang thổi hay không! Gợi ý: Nó là...",
 		"recipe": {
 			"name": "Bình Hóa Chất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ Kitin",
 				"qty": 6
@@ -12993,11 +12993,11 @@ $master.api.item = {
 		"name": "Bóng bay",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Tuyệt vời Cho những bữa tiệc ~.",
+		"description": "Tuyệt vời cho những bữa tiệc ~.",
 		"recipe": {
 			"name": "Máy tiện Cao su",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vòi Glidopus",
 				"qty": 10
@@ -13021,22 +13021,22 @@ $master.api.item = {
 		"description": "Thứ này tới từ đâu đó... rất sâu... Và có lẽ cũng sẽ gây 300% ST/giây thành STVL!",
 		"icon": "depth_charge.png"
 	},
-	"Bọc Chất nhầy": {
-		"name": "Bọc Chất nhầy",
+	"Bọc chất nhầy": {
+		"name": "Bọc chất nhầy",
 		"type": "Tài nguyên",
 		"rarity": "Bình Thường",
-		"description": "Nó rung động và phập phồng với đống Chất dịCh nhầy nhụa !!!",
+		"description": "Nó rung động và phập phồng với đống chất dịch nhầy nhụa !!!",
 		"icon": "bawgsack.png"
 	},
 	"Mồi câu Thần ngư": {
 		"name": "Mồi câu Thần ngư",
 		"type": "Trang sức",
 		"rarity": "Huyền thoại",
-		"description": "Bằng cáCh hợp nhất 3 Đại ngư mạnh mẽ, bạn có thể câu được Thần ngư huyền thoại với trang bị này!",
+		"description": "Bằng cách hợp nhất 3 Đại ngư mạnh mẽ, bạn có thể câu được Thần ngư huyền thoại với trang bị này!",
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Rìu Cá tím",
 				"qty": 1
@@ -13058,22 +13058,22 @@ $master.api.item = {
 		"type": "Vũ khí",
 		"level": "Cấp 37",
 		"rarity": "Huyền thoại",
-		"description": "Rìu cấp 37. Con quái vật này sẽ khiến bạn là nỗi đố kỵ của mỗi kẻ đi câu Ở CÁI THẾ GIỚI ChẾT TIỆT NÀY!",
+		"description": "Rìu cấp 37. Con quái vật này sẽ khiến bạn là nỗi đố kỵ của mỗi kẻ đi câu Ở CÁI THẾ GIỚI CHẾT TIỆT NÀY!",
 		"icon": "the_megagong.png"
 	},
 	"Cỏ móng rồng": {
 		"name": "Cỏ móng rồng",
 		"type": "Mảnh thành phần",
 		"rarity": "Huyền thoại",
-		"description": "Bạn đã từng nghe về một truyền thuyết về ba Lưỡi Cỏ gai gắn lại làm một... nhưng bạn Chưa bao giờ tưởng tượng nó đẹp tới cỡ nào.",
+		"description": "Bạn đã từng nghe về một truyền thuyết về ba Lưỡi Cỏ gai gắn lại làm một... nhưng bạn chưa bao giờ tưởng tượng nó đẹp tới cỡ nào.",
 		"icon": "the_hydrablade.png"
 	},
 	"Mảnh đồng hổ cổ": {
 		"name": "Mảnh đồng hổ cổ",
 		"type": "Mảnh thành phần",
 		"rarity": "Huyền thoại",
-		"description": "Một vài cư dân cổ đại đáng lẽ nên ráp Chúng với nhau. Vì các mảnh của nó SIÊU SIÊU LỘN XỘN!",
-		"icon": "ancient_watCh_parts.png"
+		"description": "Một vài cư dân cổ đại đáng lẽ nên ráp chúng với nhau. Vì các mảnh của nó SIÊU SIÊU LỘN XỘN!",
+		"icon": "ancient_watch_parts.png"
 	},
 	"Pha lê cánh bướm": {
 		"name": "Pha lê cánh bướm",
@@ -13086,18 +13086,18 @@ $master.api.item = {
 		"name": "Thể bám mặt",
 		"type": "Mảnh thành phần",
 		"rarity": "Siêu cấp",
-		"description": "Nó rất yêu mặt bạn theo cáCh cực kì bệnh hoạn.",
+		"description": "Nó rất yêu mặt bạn theo cách cực kì bệnh hoạn.",
 		"icon": "facehugger.png"
 	},
 	"Đồng hồ Thời Không": {
 		"name": "Đồng hồ Thời Không",
 		"type": "Phụ trợ",
 		"rarity": "Huyền thoại",
-		"description": "Làm Chậm thời gian của mọi vật trừ bạn! Và bạn có thể đấm bất cứ thứ gì một cáCh thoải mái!",
+		"description": "Làm chậm thời gian của mọi vật trừ bạn! Và bạn có thể đấm bất cứ thứ gì một cách thoải mái!",
 		"recipe": {
 			"name": "Kính Nắp ấm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lăng Kính Pha lê",
 				"qty": 12
@@ -13109,13 +13109,13 @@ $master.api.item = {
 				"qty": 132
 			}]
 		},
-		"icon": "the_Chrono_shifter.png"
+		"icon": "the_chrono_shifter.png"
 	},
 	"Túi Khí Nhỏ": {
 		"name": "Túi Khí Nhỏ",
 		"type": "Mảnh thành phần",
 		"rarity": "Huyền thoại",
-		"description": "Chiếc túi khí của Snorble này bền và căng nổi một cáCh lạ thường. Nếu Chỉ sử dụng theo cáCh như thế...t...",
+		"description": "Chiếc túi khí của Snorble này bền và căng nổi một cách lạ thường. Nếu chỉ sử dụng theo cách như thế...t...",
 		"icon": "blimpsack.png"
 	},
 	"Khí cầu mini": {
@@ -13126,7 +13126,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Túi Khí Nhỏ",
 				"qty": 1
@@ -13137,7 +13137,7 @@ $master.api.item = {
 				"name": "Da Snorble",
 				"qty": 145
 			}, {
-				"name": "MạCh Bawg",
+				"name": "Mạch Bawg",
 				"qty": 116
 			}]
 		},
@@ -13159,7 +13159,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Rễ Cự cốt",
 				"qty": 1
@@ -13181,17 +13181,17 @@ $master.api.item = {
 		"type": "Mảnh thành phần",
 		"rarity": "Huyền thoại",
 		"description": "Với những hiểu biết này, bạn có thể cất những nghiên cứu vào một cặp tệp!",
-		"icon": "physics_researCh.png"
+		"icon": "physics_research.png"
 	},
 	"Tệp thời không": {
 		"name": "Tệp thời không",
 		"type": "Phụ trợ",
 		"rarity": "Huyền thoại",
-		"description": "Với lượng kiến thức trong Tệp thời không này, bạn có thể bẻ gãy thời-không để dịCh Chuyển trong trận Chiến!",
+		"description": "Với lượng kiến thức trong Tệp thời không này, bạn có thể bẻ gãy thời-không để dịch chuyển trong trận chiến!",
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Nghiên cứu vật lí",
 				"qty": 1
@@ -13212,14 +13212,14 @@ $master.api.item = {
 		"name": "Cá béo",
 		"type": "Đồ nội thất",
 		"rarity": "Siêu cấp",
-		"description": "Nó Chứa đầy những Chú cá nhỏ xinh!",
+		"description": "Nó chứa đầy những chú cá nhỏ xinh!",
 		"icon": "fatfish.png"
 	},
 	"Quỷ Dạ Xoa": {
 		"name": "Quỷ Dạ Xoa",
 		"type": "Tài nguyên",
 		"rarity": "Bình Thường",
-		"description": "Nó bị bắt được trong lỗ thoáng của một MạCh Băng áp và kéo ra từ tận sâu trong lòng Đất. GIẾT NÓ ĐI!",
+		"description": "Nó bị bắt được trong lỗ thoáng của một Mạch Băng áp và kéo ra từ tận sâu trong lòng Đất. GIẾT NÓ ĐI!",
 		"icon": "torso_demon.png"
 	},
 	"Da quỷ Dạ Xoa": {
@@ -13234,11 +13234,11 @@ $master.api.item = {
 		"type": "Quần giáp",
 		"level": "Cấp 27",
 		"rarity": "Huyền thoại",
-		"description": "Quần huyền thoại cấp 27. Thứ này sẽ khiến ngón Chân bán nóng bỏng, bạn không thể Chống lại nhưng có thể Chạy với tốc độ của The Flash!",
+		"description": "Quần huyền thoại cấp 27. Thứ này sẽ khiến ngón chân bán nóng bỏng, bạn không thể chống lại nhưng có thể chạy với tốc độ của The Flash!",
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da quỷ Dạ Xoa",
 				"qty": 1
@@ -13259,7 +13259,7 @@ $master.api.item = {
 		"name": "Bộ điều khiển tàu",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Thứ này rất hữu íCh để đảm bảo bạn ở trong không gian!",
+		"description": "Thứ này rất hữu ích để đảm bảo bạn ở trong không gian!",
 		"icon": "ship_controls.png"
 	},
 	"Kiện hàng": {
@@ -13278,14 +13278,14 @@ $master.api.item = {
 	},
 	"Cổng dịch chuyển Savanna": {
 		"name": "Cổng dịch chuyển Savanna",
-		"type": "Bệ dịCh Chuyển",
+		"type": "Bệ dịch chuyển",
 		"rarity": "Bình Thường",
-		"description": "Vỗ thứ này thì nó sẽ Cho bạn bay xuyên không gian và THẢ bạn ngay tại Savanna!",
+		"description": "Vỗ thứ này thì nó sẽ cho bạn bay xuyên không gian và THẢ bạn ngay tại Savanna!",
 		"icon": "savannaporter.png"
 	},
-	"Cổng dịCh Chuyển Space": {
-		"name": "Cổng dịCh Chuyển Space",
-		"type": "Bệ dịCh Chuyển",
+	"Cổng dịch chuyển Space": {
+		"name": "Cổng dịch chuyển Space",
+		"type": "Bệ dịch chuyển",
 		"rarity": "Bình Thường",
 		"description": "Muốn vào KHÔNG GIAN khônggggggggg? Đi nào.",
 		"icon": "spaceporter.png"
@@ -13294,7 +13294,7 @@ $master.api.item = {
 		"name": "Cánh tàu",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Nó giữ tàu của bạn đi đúng hướng sử dụng nam Châm không gian!",
+		"description": "Nó giữ tàu của bạn đi đúng hướng sử dụng nam châm không gian!",
 		"icon": "ship_tusk.png"
 	},
 	"Bom bi": {
@@ -13308,7 +13308,7 @@ $master.api.item = {
 		"name": "Tên Lửa Hỏng",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Một khi bay vút vào không gian một cáCh hoành tráng, nó sẽ không bao giờ là hoành tráng lần nữa.",
+		"description": "Một khi bay vút vào không gian một cách hoành tráng, nó sẽ không bao giờ là hoành tráng lần nữa.",
 		"icon": "crashed_flop_rocket.png"
 	},
 	"Tủ bảo quản": {
@@ -13323,13 +13323,13 @@ $master.api.item = {
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
 		"description": "Đây là không gian để an toạ.",
-		"icon": "space_Chair.png"
+		"icon": "space_chair.png"
 	},
 	"Bàn Không gian": {
 		"name": "Bàn Không gian",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Chiếc bàn này được thiết kế khá thông minh, vì thế nó có thể Chứa ít nhất năm hoặc sáu khoảng trống.",
+		"description": "Chiếc bàn này được thiết kế khá thông minh, vì thế nó có thể chứa ít nhất năm hoặc sáu khoảng trống.",
 		"icon": "space_table.png"
 	},
 	"Bánh vịt không gian": {
@@ -13343,11 +13343,11 @@ $master.api.item = {
 		"name": "Chuồng Chim",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Loại sữa lắc này sẽ đưa tất cả những loài Chim đến sân nhà bạn.",
+		"description": "Loại sữa lắc này sẽ đưa tất cả những loài chim đến sân nhà bạn.",
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Ống Tre gai",
 				"qty": 17
@@ -13369,7 +13369,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đá Hợp Kim",
 				"qty": 3
@@ -13384,7 +13384,7 @@ $master.api.item = {
 				"qty": 4
 			}]
 		},
-		"icon": "bubble_maChine.png"
+		"icon": "bubble_machine.png"
 	},
 	"Lõi Bom": {
 		"name": "Lõi Bom",
@@ -13394,9 +13394,9 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Nam Châm Slurb",
+				"name": "Nam châm Slurb",
 				"qty": 11
 			}, {
 				"name": "Hợp Kim Titan",
@@ -13409,7 +13409,7 @@ $master.api.item = {
 				"qty": 58
 			}]
 		},
-		"icon": "bombcatCher.png"
+		"icon": "bombcatcher.png"
 	},
 	"Radio ngoài hành tinh": {
 		"name": "Radio ngoài hành tinh",
@@ -13419,7 +13419,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 16
@@ -13437,11 +13437,11 @@ $master.api.item = {
 		"name": "Lọ bánh quy",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "AI ĐÃ TRỘM COOKIE KHỎI ChIẾC BÌNH TUYỆT ĐẸP NÀY!?",
+		"description": "AI ĐÃ TRỘM COOKIE KHỎI CHIẾC BÌNH TUYỆT ĐẸP NÀY!?",
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Kiên thảo",
 				"qty": 12
@@ -13456,11 +13456,11 @@ $master.api.item = {
 		"name": "Giá vẽ",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Mẹ đã nói với bạn rằng: \"Vẽ tay sẽ không bao giờ Chính xác\". Hãy khiến Cho bà ấy nhận ra rằng mình đã sai!",
+		"description": "Mẹ đã nói với bạn rằng: \"Vẽ tay sẽ không bao giờ chính xác\". Hãy khiến cho bà ấy nhận ra rằng mình đã sai!",
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Ống san hô",
 				"qty": 1
@@ -13481,11 +13481,11 @@ $master.api.item = {
 		"name": "Pháo hoa",
 		"type": "Đồ nội thất",
 		"rarity": "Siêu cấp",
-		"description": "Hãy Chắc Chắn rằng Pháo hoa sẽ nổ ở nơi thíCh hợp so với vị trí của bạn",
+		"description": "Hãy chắc chắn rằng Pháo hoa sẽ nổ ở nơi thích hợp so với vị trí của bạn",
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vụn xương",
 				"qty": 12
@@ -13502,20 +13502,20 @@ $master.api.item = {
 		},
 		"icon": "rocketoob.png"
 	},
-	"MạCh phát sáng ngang": {
-		"name": "MạCh phát sáng ngang",
+	"Mạch phát sáng ngang": {
+		"name": "Mạch phát sáng ngang",
 		"type": "Tấm sàn",
 		"rarity": "Bình Thường",
-		"description": "Trong trường hợp hạ cánh xuống nước, hãy theo các MẠCh PHÁT SÁNG để đến với sự diệt vong sắp xảy ra.",
+		"description": "Trong trường hợp hạ cánh xuống nước, hãy theo các MẠCH PHÁT SÁNG để đến với sự diệt vong sắp xảy ra.",
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Dãi Throak",
 				"qty": 1
 			}, {
-				"name": "MạCh Bawg",
+				"name": "Mạch Bawg",
 				"qty": 1
 			}]
 		},
@@ -13525,16 +13525,16 @@ $master.api.item = {
 		"name": "Mạch phát sáng dọc",
 		"type": "Tấm sàn",
 		"rarity": "Bình Thường",
-		"description": "Hãy theo mạCh phát sáng để ĐẾN VỚI VẬN MỆNH U SẦU CỦA BẠN!",
+		"description": "Hãy theo mạch phát sáng để ĐẾN VỚI VẬN MỆNH U SẦU CỦA BẠN!",
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Dãi Throak",
 				"qty": 1
 			}, {
-				"name": "MạCh Bawg",
+				"name": "Mạch Bawg",
 				"qty": 1
 			}]
 		},
@@ -13544,13 +13544,13 @@ $master.api.item = {
 		"name": "Bình hoa",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "ChỈ LÀ MỘT Bình hoa THÔI. ChỈ VẬY, ChẤM HẾT",
+		"description": "CHỈ LÀ MỘT Bình hoa THÔI. CHỈ VẬY, CHẤM HẾT",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Cây Song Chi",
+				"name": "Cây Song chi",
 				"qty": 1
 			}, {
 				"name": "Đế Hoa quả tạ",
@@ -13573,7 +13573,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khối Nấm Bè",
 				"qty": 55
@@ -13589,7 +13589,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Carbon",
 				"qty": 12
@@ -13607,11 +13607,11 @@ $master.api.item = {
 		"name": "Đèn thần",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Bạn phải Chà nó đúng cáCh, thì sẽ không có gì xảy ra. Thần đèn không có thật, bạn thật là kì quái.",
+		"description": "Bạn phải chà nó đúng cách, thì sẽ không có gì xảy ra. Thần đèn không có thật, bạn thật là kì quái.",
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Kim cương",
 				"qty": 2
@@ -13629,11 +13629,11 @@ $master.api.item = {
 		"name": "Tượng mèo hoàng kim",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Truyền thuyết nói rằng nếu nếu bạn đặt đủ bức tượng này trong nhà thì mọi người sẽ ít thíCh bạn hơn.",
+		"description": "Truyền thuyết nói rằng nếu nếu bạn đặt đủ bức tượng này trong nhà thì mọi người sẽ ít thích bạn hơn.",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cục vàng",
 				"qty": 2
@@ -13648,11 +13648,11 @@ $master.api.item = {
 		"name": "Đèn cột",
 		"type": "Nguồn sáng",
 		"rarity": "Bình Thường",
-		"description": "Với khả năng Cháy khá lâu, Mỡ Shirk thật sự tạo ra một Chiếc đèn đa dụng!",
+		"description": "Với khả năng cháy khá lâu, Mỡ Shirk thật sự tạo ra một chiếc đèn đa dụng!",
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mỡ Shirk",
 				"qty": 4
@@ -13673,11 +13673,11 @@ $master.api.item = {
 		"name": "Tượng chó vỏ sừng",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Chắc Chắc ít được bảo trì hơn so với một bức tượng Chó không làm từ Vỏ sừng.",
+		"description": "Chắc chắc ít được bảo trì hơn so với một bức tượng chó không làm từ Vỏ sừng.",
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ sừng",
 				"qty": 8
@@ -13696,7 +13696,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy nén",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Túi khí Snorble",
 				"qty": 2
@@ -13721,7 +13721,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Xúc tu Throak",
 				"qty": 18
@@ -13743,7 +13743,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc cây Bụt mọc",
 				"qty": 1
@@ -13764,11 +13764,11 @@ $master.api.item = {
 		"name": "Khiên sốc điện",
 		"type": "Phụ trợ",
 		"rarity": "Siêu cấp",
-		"description": "Phát minh đáng kinh ngạc này sẽ triệu hồi ra 3 Điện cầu thứ sẽ giật mục tiêu bằng 70% ST/giây khi bạn đánh Chúng!",
+		"description": "Phát minh đáng kinh ngạc này sẽ triệu hồi ra 3 Điện cầu thứ sẽ giật mục tiêu bằng 70% ST/giây khi bạn đánh chúng!",
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Zug nhiễm điện",
 				"qty": 4
@@ -13776,7 +13776,7 @@ $master.api.item = {
 				"name": "Sợi trục Tĩnh điện",
 				"qty": 18
 			}, {
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 66
 			}, {
 				"name": "Gai cột sống",
@@ -13793,7 +13793,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Tảo Phát Quang",
 				"qty": 1
@@ -13814,11 +13814,11 @@ $master.api.item = {
 		"name": "Máy đếm bước",
 		"type": "Trang sức",
 		"rarity": "Siêu cấp",
-		"description": "Nó sẽ đều đặn đếm từng bước Chân của bạn, cứ mỗi 50 bước bạn sẽ Chạy vọt lên một cáCh 'vui vẻ'!",
+		"description": "Nó sẽ đều đặn đếm từng bước chân của bạn, cứ mỗi 50 bước bạn sẽ chạy vọt lên một cách 'vui vẻ'!",
 		"recipe": {
 			"name": "Khung cửi vi sinh",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc cây Bụt mọc",
 				"qty": 5
@@ -13836,11 +13836,11 @@ $master.api.item = {
 		"name": "Lót sàn Chấm Bi",
 		"type": "Tấm sàn",
 		"rarity": "Bình Thường",
-		"description": "Thứ này sẽ giúp Cho những ngón Chân mệt mỏi của bạn được nghỉ và cảm thấy dễ Chịu vô cùng!",
+		"description": "Thứ này sẽ giúp cho những ngón chân mệt mỏi của bạn được nghỉ và cảm thấy dễ chịu vô cùng!",
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Lõi Phong phát",
 				"qty": 1
@@ -13856,7 +13856,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cái Đe Cứng",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cục vàng",
 				"qty": 2
@@ -13875,9 +13875,9 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bàn Dệt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 1
 			}, {
 				"name": "Đậu mụn xanh",
@@ -13893,11 +13893,11 @@ $master.api.item = {
 		"name": "Lót sàn Ống Tre gai",
 		"type": "Tấm sàn",
 		"rarity": "Bình Thường",
-		"description": "Chắc Chắn là một trong những bề mặt tệ nhất mà bạn từng đi, nhưng CÁI *** GÌ THẾ?",
+		"description": "Chắc chắn là một trong những bề mặt tệ nhất mà bạn từng đi, nhưng CÁI *** GÌ THẾ?",
 		"recipe": {
 			"name": "Lò tinh luyện",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Ống Tre gai",
 				"qty": 1
@@ -13909,11 +13909,11 @@ $master.api.item = {
 		"name": "Thảm miễn tiếp",
 		"type": "Tấm sàn",
 		"rarity": "Bình Thường",
-		"description": "Không có thứ gì nói TRÁNH XA KHỎI NHÀ TÔI RA tốt hơn cái thảm này! Đính Chính: cái thảm này không biết nói.",
+		"description": "Không có thứ gì nói TRÁNH XA KHỎI NHÀ TÔI RA tốt hơn cái thảm này! Đính chính: cái thảm này không biết nói.",
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đỉa",
 				"qty": 1
@@ -13931,11 +13931,11 @@ $master.api.item = {
 		"name": "Nhiệt kế",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Khi bạn muốn biết trời nóng cỡ nào thì cáCh duy nhất là dùng Nhiệt kế cỡ của người.",
+		"description": "Khi bạn muốn biết trời nóng cỡ nào thì cách duy nhất là dùng Nhiệt kế cỡ của người.",
 		"recipe": {
 			"name": "Xưởng hóa học",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khối Natri",
 				"qty": 1
@@ -13957,7 +13957,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Cối xay gió nhỏ",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đế Hoa quả tạ",
 				"qty": 15
@@ -13979,7 +13979,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Lò đốt",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Rễ nổi Nấm bè",
 				"qty": 14
@@ -14007,7 +14007,7 @@ $master.api.item = {
 		"name": "Pin",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Cái thứ thiết bị tuyệt vời này có thể cung cấp năng lượng Cho các thiết bị tuyệt vời khác trong một lúc!",
+		"description": "Cái thứ thiết bị tuyệt vời này có thể cung cấp năng lượng cho các thiết bị tuyệt vời khác trong một lúc!",
 		"icon": "battery.png"
 	},
 	"Đĩa": {
@@ -14021,11 +14021,11 @@ $master.api.item = {
 		"name": "Rơ-le truyền thông",
 		"type": "Đồ nội thất",
 		"rarity": "Tối thượng",
-		"description": "Cái này rất tuyệt để liên lạc với Cục vận Chuyển! Và có lẽ cả những bên khác của Cục Chăng?",
+		"description": "Cái này rất tuyệt để liên lạc với Cục vận chuyển! Và có lẽ cả những bên khác của Cục chăng?",
 		"recipe": {
 			"name": "Lò nung Pha lê",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Pha lê sức mạnh",
 				"qty": 1
@@ -14043,21 +14043,21 @@ $master.api.item = {
 		"name": "Nhẫn kết hôn",
 		"type": "Trang sức",
 		"rarity": "Bình Thường",
-		"description": "Tendraam sử dụng những rễ tròn làm biểu tượng Cho sự gắn kết vĩnh cửu, và dùng để trang trí nữa.",
+		"description": "Tendraam sử dụng những rễ tròn làm biểu tượng cho sự gắn kết vĩnh cửu, và dùng để trang trí nữa.",
 		"icon": "entanglement_ring.png"
 	},
 	"Cửa An Ninh": {
 		"name": "Cửa An Ninh",
 		"type": "Kiến trúc",
 		"rarity": "Bình Thường",
-		"description": "Cánh cửa công nghệ cao này cần một Chìa khoá cùng đẳng cấp!",
+		"description": "Cánh cửa công nghệ cao này cần một chìa khoá cùng đẳng cấp!",
 		"icon": "hewgodooko_security_door.png"
 	},
 	"Khoá An Ninh": {
 		"name": "Khoá An Ninh",
 		"type": "Thiết bị",
 		"rarity": "Siêu cấp",
-		"description": "Chiếc Chìa khóa công nghệ cao này có đủ đẳng cấp với một cánh cửa nào đó!",
+		"description": "Chiếc chìa khóa công nghệ cao này có đủ đẳng cấp với một cánh cửa nào đó!",
 		"icon": "hewgodooko_security_key.png"
 	},
 	"Chìa Khóa Vàng": {
@@ -14071,25 +14071,25 @@ $master.api.item = {
 		"name": "Thùng tiếp tế",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Nó là một cái hòm Chứa đầy đồ tiếp tế!",
+		"description": "Nó là một cái hòm chứa đầy đồ tiếp tế!",
 		"icon": "supply_crate.png"
 	},
-	"Rễ Chính Tendraam": {
-		"name": "Rễ Chính Tendraam",
+	"Rễ chính Tendraam": {
+		"name": "Rễ chính Tendraam",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Tendraam Chiếm lấy những cái Rễ Maarla như là thứ tình cảm của riêng Chúng. Việc đó dường như khá vô íCh!",
+		"description": "Tendraam chiếm lấy những cái Rễ Maarla như là thứ tình cảm của riêng chúng. Việc đó dường như khá vô ích!",
 		"icon": "tendraam_legacy_root.png"
 	},
 	"Bom dính": {
 		"name": "Bom dính",
 		"type": "Bom",
 		"rarity": "Bình Thường",
-		"description": "Nó dính vào mọi thứ... ChO ĐẾN ChẾT! Gây 75% ST/giây thành STVL.",
+		"description": "Nó dính vào mọi thứ... CHO ĐẾN CHẾT! Gây 75% ST/giây thành STVL.",
 		"recipe": {
 			"name": "Xưởng đồ da",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Da Wompit",
 				"qty": 3
@@ -14104,11 +14104,11 @@ $master.api.item = {
 		"name": "Thuốc Xuất huyết",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Đổ hỗn hợp pha Chế ngon lành này lên vũ khí của bạn để có cơ hội gây Chảy máu! 3% tỉ lệ gây Chảy máu mục tiêu khi đánh. Hiệu lực trong 20 phút.",
+		"description": "Đổ hỗn hợp pha chế ngon lành này lên vũ khí của bạn để có cơ hội gây chảy máu! 3% tỉ lệ gây chảy máu mục tiêu khi đánh. Hiệu lực trong 20 phút.",
 		"recipe": {
 			"name": "Bếp lửa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 2
@@ -14116,7 +14116,7 @@ $master.api.item = {
 				"name": "Cây Trụ thảo",
 				"qty": 1
 			}, {
-				"name": "Tinh Chất Wat [Siêu cường]",
+				"name": "Tinh chất Wat [Siêu cường]",
 				"qty": 1
 			}]
 		},
@@ -14126,11 +14126,11 @@ $master.api.item = {
 		"name": "Thuốc Chuẩn xác",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Thứ thuốc vị hăng này sẽ cung cấp Cho thần kinh NĂNG LƯỢNG HOANG DÃ! Cải thiện 3% tỉ lệ Chí mạng. Hiệu lực trong 20 phút.",
+		"description": "Thứ thuốc vị hăng này sẽ cung cấp cho thần kinh NĂNG LƯỢNG HOANG DÃ! Cải thiện 3% tỉ lệ chí mạng. Hiệu lực trong 20 phút.",
 		"recipe": {
 			"name": "Bếp lửa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 2
@@ -14138,7 +14138,7 @@ $master.api.item = {
 				"name": "Cây Bội thảo",
 				"qty": 1
 			}, {
-				"name": "Tinh Chất Zug [Ngoại cỡ]",
+				"name": "Tinh chất Zug [Ngoại cỡ]",
 				"qty": 1
 			}]
 		},
@@ -14152,7 +14152,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bếp lửa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 8
@@ -14160,7 +14160,7 @@ $master.api.item = {
 				"name": "Cây Anh túc",
 				"qty": 2
 			}, {
-				"name": "Tinh Chất Wompit[Cứng cáp][Cứng cáp]",
+				"name": "Tinh chất Wompit[Cứng cáp][Cứng cáp]",
 				"qty": 1
 			}]
 		},
@@ -14174,7 +14174,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Bếp lửa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Cây Dâu độc",
 				"qty": 1
@@ -14182,7 +14182,7 @@ $master.api.item = {
 				"name": "Đá nhẵn",
 				"qty": 7
 			}, {
-				"name": "Tinh Chất Glutterfly [Già cỗi]",
+				"name": "Tinh chất Glutterfly [Già cỗi]",
 				"qty": 1
 			}]
 		},
@@ -14192,11 +14192,11 @@ $master.api.item = {
 		"name": "Thuốc Kháng độc",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Bằng cáCh liên tục ăn Nấm mặt trời, bạn đã có thể có khả năng miễn nhiễm với mọi loại độc. Giảm 15% ST Độc. Hiệu lực trong 20 phút.",
+		"description": "Bằng cách liên tục ăn Nấm mặt trời, bạn đã có thể có khả năng miễn nhiễm với mọi loại độc. Giảm 15% ST Độc. Hiệu lực trong 20 phút.",
 		"recipe": {
 			"name": "Bếp lửa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Khúc gỗ",
 				"qty": 8
@@ -14204,7 +14204,7 @@ $master.api.item = {
 				"name": "Nấm mặt trời",
 				"qty": 2
 			}, {
-				"name": "Tinh Chất Glidopus [Lục]",
+				"name": "Tinh chất Glidopus [Lục]",
 				"qty": 1
 			}]
 		},
@@ -14214,11 +14214,11 @@ $master.api.item = {
 		"name": "Thuốc Hoảng hốt",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Khi cái Chai Chạm môi bạn, cả người bạn cảm thấy ngứa ngáy. 3% tỉ lệ bứt tốc khi đánh mỗi giây. Hiệu lực trong 20 phút.",
+		"description": "Khi cái chai chạm môi bạn, cả người bạn cảm thấy ngứa ngáy. 3% tỉ lệ bứt tốc khi đánh mỗi giây. Hiệu lực trong 20 phút.",
 		"recipe": {
 			"name": "Cái Vạc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Đậu mụn xanh",
 				"qty": 1
@@ -14226,7 +14226,7 @@ $master.api.item = {
 				"name": "Actiso",
 				"qty": 3
 			}, {
-				"name": "Tinh Chất Vomma [Nóng nảy]",
+				"name": "Tinh chất Vomma [Nóng nảy]",
 				"qty": 1
 			}]
 		},
@@ -14236,11 +14236,11 @@ $master.api.item = {
 		"name": "Thuốc Gấp rút",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Thỏ Cụt Tai Chưa bao giờ ngon hơn! Cải thiện 5% tốc Chạy. Hiệu lực trong 20 phút.",
+		"description": "Thỏ Cụt Tai chưa bao giờ ngon hơn! Cải thiện 5% tốc chạy. Hiệu lực trong 20 phút.",
 		"recipe": {
 			"name": "Bếp lửa",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Mảnh Pha lê",
 				"qty": 2
@@ -14248,7 +14248,7 @@ $master.api.item = {
 				"name": "Thỏ Cụt Tai",
 				"qty": 1
 			}, {
-				"name": "Tinh Chất Tartil [Nhớp nháp]",
+				"name": "Tinh chất Tartil [Nhớp nháp]",
 				"qty": 1
 			}]
 		},
@@ -14258,22 +14258,22 @@ $master.api.item = {
 		"name": "Thuốc Kháng điện",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Uống thứ này sẽ khiến da bạn lủng bủng như cao su! Giảm 15% ST Điện phải Chịu. Hiệu lực trong 20 phút.",
+		"description": "Uống thứ này sẽ khiến da bạn lủng bủng như cao su! Giảm 15% ST Điện phải chịu. Hiệu lực trong 20 phút.",
 		"recipe": {
 			"name": "Cái Vạc",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Vỏ sừng",
 				"qty": 2
 			}, {
-				"name": "Mô cáCh điện",
+				"name": "Mô cách điện",
 				"qty": 6
 			}, {
 				"name": "Tơ Huyết khối",
 				"qty": 2
 			}, {
-				"name": "Tinh Chất Bamli [Xảo quyệt]",
+				"name": "Tinh chất Bamli [Xảo quyệt]",
 				"qty": 1
 			}]
 		},
@@ -14287,7 +14287,7 @@ $master.api.item = {
 		"recipe": {
 			"name": "Máy ly tâm",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Quả Téo",
 				"qty": 10
@@ -14305,11 +14305,11 @@ $master.api.item = {
 		"name": "Mồi câu lạnh ngắt",
 		"type": "Hạt giống",
 		"rarity": "Tốt",
-		"description": "Nó có thể Chịu được điều kiện áp suất cực lớn và nhiệt độ cực lạnh! Thứ này Chắc Chắn sẽ thu hút hàng đàn cá mới ở Tundra!",
+		"description": "Nó có thể chịu được điều kiện áp suất cực lớn và nhiệt độ cực lạnh! Thứ này chắc chắn sẽ thu hút hàng đàn cá mới ở Tundra!",
 		"recipe": {
 			"name": "Lò sấy",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Sên hải nhiệt",
 				"qty": 2
@@ -14327,14 +14327,14 @@ $master.api.item = {
 		"name": "Sọ dừa",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Nó luồn láCh và cố gắng bám lấy những sợi gân mảnh.",
+		"description": "Nó luồn lách và cố gắng bám lấy những sợi gân mảnh.",
 		"icon": "minitoomah.png"
 	},
 	"Xác sọ dừa": {
 		"name": "Xác sọ dừa",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Thậm Chí không có một tia sáng sự sống nào còn sót lại trong đống xương này.",
+		"description": "Thậm chí không có một tia sáng sự sống nào còn sót lại trong đống xương này.",
 		"icon": "dead_minitoomah.png"
 	},
 	"Tạo Vật Ynnix Trên": {
@@ -14355,7 +14355,7 @@ $master.api.item = {
 		"name": "Cúp Baary",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Thứ này Chắc Chắn sẽ níu Chân kháCh tới nhà bạn .... Đó là nếu khi có ai đó tới thăm ....",
+		"description": "Thứ này chắc chắn sẽ níu chân khách tới nhà bạn .... Đó là nếu khi có ai đó tới thăm ....",
 		"icon": "baary_trophy.png"
 	},
 	"Cúp Baconweed Fairy": {
@@ -14376,11 +14376,11 @@ $master.api.item = {
 		"name": "Thuốc Ấm áp",
 		"type": "Tiêu hao",
 		"rarity": "Tốt",
-		"description": "Thứ dịCh lắc ngon lành này sẽ sưởi ấm nơi sâu nhất tâm hồn bạn. Giảm 15% ST Băng nhận vào. Hiệu lực trong 20 phút.",
+		"description": "Thứ dịch lắc ngon lành này sẽ sưởi ấm nơi sâu nhất tâm hồn bạn. Giảm 15% ST Băng nhận vào. Hiệu lực trong 20 phút.",
 		"recipe": {
 			"name": "Nồi áp suất",
 			"output_qty": 1,
-			"type": "Trạm Chế tạo",
+			"type": "Trạm chế tạo",
 			"ingredients": [{
 				"name": "Ống Tre gai",
 				"qty": 6
@@ -14391,7 +14391,7 @@ $master.api.item = {
 				"name": "Cây Băng tảo",
 				"qty": 2
 			}, {
-				"name": "Tinh Chất Blastcrab [Tăng áp]",
+				"name": "Tinh chất Blastcrab [Tăng áp]",
 				"qty": 1
 			}]
 		},
@@ -14401,14 +14401,14 @@ $master.api.item = {
 		"name": "Máy cạy hộp",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Nó sử dụng KRAKENERGY nguyên Chất để cạy mở ngay cả những gói hàng Chặt nhất .",
+		"description": "Nó sử dụng KRAKENERGY nguyên chất để cạy mở ngay cả những gói hàng chặt nhất .",
 		"icon": "krakalaka.png"
 	},
 	"Bẫy vàng": {
 		"name": "Bẫy vàng",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "CáCh lý tưởng để bắt ai đó yêu bạn là... Cho họ V-À-N-G!",
+		"description": "Cách lý tưởng để bắt ai đó yêu bạn là... Cho họ V-À-N-G!",
 		"icon": "goldbait_snare.png"
 	},
 	"Cúp EMG": {
@@ -14429,7 +14429,7 @@ $master.api.item = {
 		"name": "Cúp Jessica",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Sự kinh khủng của cô ấy sẽ nhanh Chóng hằn sâu vào vào trái tim của... Chà, khá nhiều người đấy!",
+		"description": "Sự kinh khủng của cô ấy sẽ nhanh chóng hằn sâu vào vào trái tim của... Chà, khá nhiều người đấy!",
 		"icon": "jessica_trophy.png"
 	},
 	"Cúp Poteti": {
@@ -14443,28 +14443,28 @@ $master.api.item = {
 		"name": "Cúp Toomah",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Nếu nó quay trở lại, bạn Chỉ việc ĐÂM NÓ MỘT LẦN NỮA! VÀ LẶP LẠI! VÀ TIẾP TỤC LẶP LẠI....",
+		"description": "Nếu nó quay trở lại, bạn chỉ việc ĐÂM NÓ MỘT LẦN NỮA! VÀ LẶP LẠI! VÀ TIẾP TỤC LẶP LẠI....",
 		"icon": "toomah_trophy.png"
 	},
 	"Cúp Ynnix": {
 		"name": "Cúp Ynnix",
 		"type": "Đồ nội thất",
 		"rarity": "Bình Thường",
-		"description": "Thứ này từng là địCh thủ khó đối phó, nhưng cuối cùng nó vẫn không phải đối thủ của bạn",
+		"description": "Thứ này từng là địch thủ khó đối phó, nhưng cuối cùng nó vẫn không phải đối thủ của bạn",
 		"icon": "ynnix_trophy.png"
 	},
 	"Mảnh thấu kính trái": {
 		"name": "Mảnh thấu kính trái",
 		"type": "Đồ nội thất",
 		"rarity": "Huyền thoại",
-		"description": "Nó nứt ra bởi năng lượng, dù dường như bị khuất phục bằng một cáCh nào đó.",
+		"description": "Nó nứt ra bởi năng lượng, dù dường như bị khuất phục bằng một cách nào đó.",
 		"icon": "the_lens_left_fragment.png"
 	},
 	"Mảnh thấu kính phải": {
 		"name": "Mảnh thấu kính phải",
 		"type": "Đồ nội thất",
 		"rarity": "Huyền thoại",
-		"description": "Một mảnh thấu kính huyền thoại. Bạn tò mò Chuyện gì sẽ xảy ra khi tất cả các mảnh ghép lại với nhau...",
+		"description": "Một mảnh thấu kính huyền thoại. Bạn tò mò chuyện gì sẽ xảy ra khi tất cả các mảnh ghép lại với nhau...",
 		"icon": "the_lens_right_fragment.png"
 	},
 	"Mảnh thấu kính trên": {
@@ -14481,33 +14481,33 @@ $master.api.item = {
 		"description": "Nó khiến bạn cực kì buồn ngủ.",
 		"icon": "whirlstone.png"
 	},
-	"Mũ Đấu sĩ Chân không": {
-		"name": "Mũ Đấu sĩ Chân không",
+	"Mũ Đấu sĩ chân không": {
+		"name": "Mũ Đấu sĩ chân không",
 		"type": "Mũ giáp",
 		"level": "Cấp 37",
 		"rarity": "Huyền thoại",
-		"description": "Mũ giáp cấp 37. Được Chế tạo từ vật liệu tốt nhất vũ trụ, cái nón này có thể bảo vệ đầu bạn khỏi bất cứ thứ gì!",
+		"description": "Mũ giáp cấp 37. Được chế tạo từ vật liệu tốt nhất vũ trụ, cái nón này có thể bảo vệ đầu bạn khỏi bất cứ thứ gì!",
 		"icon": "juicejockey_vacuhelm.png"
 	},
 	"Vợt đập tạ": {
 		"name": "Vợt đập tạ",
 		"type": "Phụ trợ",
 		"rarity": "Huyền thoại",
-		"description": "Cầm cây vợt này đem lại Cho bạn sức mạnh của 1000 quadropi. Dùng nó để đập mục tiêu của bạn tới khi ướt đẫm và đầy mùi cá tanh!",
+		"description": "Cầm cây vợt này đem lại cho bạn sức mạnh của 1000 quadropi. Dùng nó để đập mục tiêu của bạn tới khi ướt đẫm và đầy mùi cá tanh!",
 		"icon": "smash_racket.png"
 	},
 	"Quả cầu của Forn": {
 		"name": "Quả cầu của Forn",
 		"type": "Phụ trợ",
 		"rarity": "Huyền thoại",
-		"description": "Quả cầu này trông như được dùng rất nhiều lần. Dù vậy, công nghệ Veruu vẫn tồn tại mãi mãi. Và dùng lại có Chết ai đâu nên... KHÔNG CÓ VẤN ĐỀ GÌ CẢ!",
+		"description": "Quả cầu này trông như được dùng rất nhiều lần. Dù vậy, công nghệ Veruu vẫn tồn tại mãi mãi. Và dùng lại có chết ai đâu nên... KHÔNG CÓ VẤN ĐỀ GÌ CẢ!",
 		"icon": "the_orb_of_forn.png"
 	},
 	"Bong bóng nổ": {
 		"name": "Bong bóng nổ",
 		"type": "Trang sức",
 		"rarity": "Tối thượng",
-		"description": "Những thứ nhỏ bé này dường như nguyên phân để tái sản xuất một cáCh vô hạn. Cứ mỗi 20 giây, một Bong bóng nổ sẽ xuất hiện và bám theo bạn. Nếu tới đủ gần, Chúng sẽ phát nổ bằng 200% ST/giây!",
+		"description": "Những thứ nhỏ bé này dường như nguyên phân để tái sản xuất một cách vô hạn. Cứ mỗi 20 giây, một Bong bóng nổ sẽ xuất hiện và bám theo bạn. Nếu tới đủ gần, chúng sẽ phát nổ bằng 200% ST/giây!",
 		"icon": "the_bubbler.png"
 	},
 	"Bóng bingo": {
@@ -14521,7 +14521,7 @@ $master.api.item = {
 		"name": "Chốt lượng tử",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Nó là một phần của con tàu, thứ giữ Cho con tàu không nổ tung.",
+		"description": "Nó là một phần của con tàu, thứ giữ cho con tàu không nổ tung.",
 		"icon": "quantum_electrodongle.png"
 	},
 	"Đống đổ nát": {
@@ -14549,7 +14549,7 @@ $master.api.item = {
 		"name": "Cá Tiên Tri",
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
-		"description": "Hãy nhìn vào mắt nó. Và bạn sẽ thấy được... thứ bạn cần ở Chú cá này.",
+		"description": "Hãy nhìn vào mắt nó. Và bạn sẽ thấy được... thứ bạn cần ở chú cá này.",
 		"icon": "seerfish.png"
 	},
 	"Cúp Hewgodooko": {
@@ -14567,7 +14567,7 @@ $master.api.item = {
 			"recipe": {
 				"name": "Máy nướng cá",
 				"output_qty": 1,
-				"type": "Trạm Chế tạo",
+				"type": "Trạm chế tạo",
 				"ingredients": [{
 					"name": "Bình Nitơ",
 					"qty": 2
@@ -14578,7 +14578,7 @@ $master.api.item = {
 					"name": "Cá đuôi quỷ",
 					"qty": 6
 				}, {
-					"name": "Hóa ThạCh Đại Cốt",
+					"name": "Hóa Thạch Đại Cốt",
 					"qty": 10
 				}]
 			},
@@ -14591,7 +14591,7 @@ $master.api.creature = {
 		"type": "Glutterfly",
 		"stone0": "Vợt Glutterfly",
 		"stone1": "Đèn Pin Glutterfly",
-		"description": "Những con côn trùng khổng lồ, phát sáng này Chỉ ra ngoài vào ban đêm. Vỏ giáp của Chúng cực kì cứng, và nói Chung là Chúng dường như nổi quạo với mọi thứ.",
+		"description": "Những con côn trùng khổng lồ, phát sáng này chỉ ra ngoài vào ban đêm. Vỏ giáp của chúng cực kì cứng, và nói chung là chúng dường như nổi quạo với mọi thứ.",
 		"produce": "Phấn cánh Glutterfly",
 		"symbiosis": "Bậc thầy độc dược",
 		"toughness": 0,
@@ -14607,7 +14607,7 @@ $master.api.creature = {
 		"type": "Glidopus",
 		"stone0": "Bong bóng Glidopus",
 		"stone1": "Kính vạn hoa",
-		"description": "Lơ lửng và lấy bùn làm nới trú ẩn là một loài sinh vật Chân đầu với ba xúc tu. Lũ Glidopus dường như có một cái mỏ sâu bên trong cơ thể Chúng để nghiền thức ăn.",
+		"description": "Lơ lửng và lấy bùn làm nới trú ẩn là một loài sinh vật chân đầu với ba xúc tu. Lũ Glidopus dường như có một cái mỏ sâu bên trong cơ thể chúng để nghiền thức ăn.",
 		"produce": "Ấu trùng Glidopus",
 		"symbiosis": "Hưng phấn với nước",
 		"toughness": 0,
@@ -14616,14 +14616,14 @@ $master.api.creature = {
 		"fire_r": 80,
 		"ice_r": 0,
 		"drop": ["Vòi Glidopus", "Mực Glidopus", "Mỏ Glidopus"],
-		"icon": ["glidopus_hatChling.png", "glidopus.png", "glidopus_matriarCh.png", "verdant_glidopus.png", "verdant_glidopus_matriarCh.png", "elder_glidopus.png"]
+		"icon": ["glidopus_hatchling.png", "glidopus.png", "glidopus_matriarch.png", "verdant_glidopus.png", "verdant_glidopus_matriarch.png", "elder_glidopus.png"]
 	},
 	"Wompit": {
 		"name": ["Wompit", "Wompit Cái", "Wompit Đực", "[Cứng cáp] Wompit Cái", "[Cứng cáp] Wompit Đực", "Wompit Chúa tể"],
 		"type": "Wompit",
-		"stone0": "Đai Chân Wompit",
+		"stone0": "Đai chân Wompit",
 		"stone1": "Gậy Pogo",
-		"description": "Một loài sinh vật ưa nhảy nhót có thể được tìm thấy trên khắp Savanna. Chúng thường được thấy là đang nhai Cỏ gai với bộ hàm thô kệCh, Chễm Chệ của Chúng.",
+		"description": "Một loài sinh vật ưa nhảy nhót có thể được tìm thấy trên khắp Savanna. Chúng thường được thấy là đang nhai Cỏ gai với bộ hàm thô kệch, chễm chệ của chúng.",
 		"produce": "Sữa Wompit",
 		"symbiosis": "Hung hăng",
 		"toughness": 0,
@@ -14631,7 +14631,7 @@ $master.api.creature = {
 		"electric_r": 10,
 		"fire_r": 50,
 		"ice_r": 0,
-		"drop": ["Da Wompit", "Xương Wompit", "Gân chân Wompit", "Móng Chân Wompit", "Trái tim Wompit nguyên vẹn"],
+		"drop": ["Da Wompit", "Xương Wompit", "Gân chân Wompit", "Móng chân Wompit", "Trái tim Wompit nguyên vẹn"],
 		"icon": ["wompit.png", "wompit_heifer.png", "wompit_bull.png", "sterling_wompit_heifer.png", "sterling_wompit_bull.png", "womplord.png"]
 	},
 	"Tartil": {
@@ -14639,7 +14639,7 @@ $master.api.creature = {
 		"type": "Tartil",
 		"stone0": "Thùng phóng xạ",
 		"stone1": "Bom 10 tấn",
-		"description": "Không rõ những sinh vật này hoàn toàn cấu tạo nên từ hắc ín hay Chỉ đơn giản là bị phủ hắc ín. Nhưng dù là gì đi nữa, Chúng cũng cực kỳ dính, và dường như Chúng cũng có vẻ không vui lắm về điều đó",
+		"description": "Không rõ những sinh vật này hoàn toàn cấu tạo nên từ hắc ín hay chỉ đơn giản là bị phủ hắc ín. Nhưng dù là gì đi nữa, chúng cũng cực kỳ dính, và dường như chúng cũng có vẻ không vui lắm về điều đó",
 		"produce": "Đèn Dầu Tartil",
 		"symbiosis": "Nội tạng nóng rực",
 		"toughness": 25,
@@ -14647,7 +14647,7 @@ $master.api.creature = {
 		"electric_r": 50,
 		"fire_r": -25,
 		"ice_r": 0,
-		"drop": ["Nhựa nhầy Tartil", "Hổ PháCh", "Lưỡi Tartil"],
+		"drop": ["Nhựa nhầy Tartil", "Hổ Phách", "Lưỡi Tartil"],
 		"icon": ["tartil_larvy.png", "tartil.png", "tartil_pappy.png", "filthy_tartil.png", "filthy_tartil_pappy.png", "blood_tartil.png"]
 	},
 	"Wat": {
@@ -14655,9 +14655,9 @@ $master.api.creature = {
 		"type": "Wat",
 		"stone0": "Búa cánh dơi",
 		"stone1": "Túi ngủ",
-		"description": "Những sinh vật nhỏ giống dơi này tụ lại thành từng bầy và bao vây kín bất kì thứ gì tới gần. Những Chúng siêu khó tính khi bạn biết về Chúng.",
+		"description": "Những sinh vật nhỏ giống dơi này tụ lại thành từng bầy và bao vây kín bất kì thứ gì tới gần. Những chúng siêu khó tính khi bạn biết về chúng.",
 		"produce": "Phân Wat",
-		"symbiosis": "Tốc độ Chết người",
+		"symbiosis": "Tốc độ chết người",
 		"toughness": 0,
 		"poison_r": 0,
 		"electric_r": 35,
@@ -14671,7 +14671,7 @@ $master.api.creature = {
 		"type": "Zug",
 		"stone0": "Đèn plasma",
 		"stone1": "Động cơ vĩnh cửu",
-		"description": "Lũ Zug khá là lười khi Chúng cố gắng tránh di Chuyển nhiều nhất có thể. Vì lẽ đó, cơ thể Chúng Chứa một nguồn cung cấp điện vô hạn, phần còn lại tới từ quá trình trao đổi Chất Bình Thường của Chúng.",
+		"description": "Lũ Zug khá là lười khi chúng cố gắng tránh di chuyển nhiều nhất có thể. Vì lẽ đó, cơ thể chúng chứa một nguồn cung cấp điện vô hạn, phần còn lại tới từ quá trình trao đổi chất Bình Thường của chúng.",
 		"produce": "Da Zug nhiễm điện",
 		"symbiosis": "Sạc tĩnh điện",
 		"toughness": 10,
@@ -14679,7 +14679,7 @@ $master.api.creature = {
 		"electric_r": 35,
 		"fire_r": -30,
 		"ice_r": 0,
-		"drop": ["Mai Zug", "Xương bánh Chè Zug", "Bugi phóng điện"],
+		"drop": ["Mai Zug", "Xương bánh chè Zug", "Bugi phóng điện"],
 		"icon": ["zug.png", "zug_dug.png", "zug_mug.png", "zug_dug_lug.png", "zug_mug_lug.png", "zuguardian.png"]
 	},
 	"Vomma": {
@@ -14687,7 +14687,7 @@ $master.api.creature = {
 		"type": "Vomma",
 		"stone0": "Túi trứng Vomma giả",
 		"stone1": "Micro Vomma",
-		"description": "Lũ Vomma có một bản năng tự vệ cực mạnh mẽ khi Chúng sẵn lòng hi sinh ấu trùng của mình để cứu bản thân. Điều đó khá ổn, mặc dù... Chúng có thể tạo rất nhiều ấu trùng mới Chỉ trong vài giây.",
+		"description": "Lũ Vomma có một bản năng tự vệ cực mạnh mẽ khi chúng sẵn lòng hi sinh ấu trùng của mình để cứu bản thân. Điều đó khá ổn, mặc dù... chúng có thể tạo rất nhiều ấu trùng mới chỉ trong vài giây.",
 		"produce": "Bóng gelatin",
 		"symbiosis": "Vomma oanh tạc",
 		"toughness": 25,
@@ -14703,7 +14703,7 @@ $master.api.creature = {
 		"type": "Throak",
 		"stone0": "Cụm cáp xúc tu",
 		"stone1": "Đinh Ba",
-		"description": "Những sợi gân dài, mảnh của lũ Throak có thể luồn láCh một cáCh thành thạo vào hệ thống mạCh của Bawg và làm sạCh các mảnh cặn cùng kí sinh trùng bên trong.",
+		"description": "Những sợi gân dài, mảnh của lũ Throak có thể luồn lách một cách thành thạo vào hệ thống mạch của Bawg và làm sạch các mảnh cặn cùng kí sinh trùng bên trong.",
 		"produce": "Thạch Throak",
 		"symbiosis": "Tàn dư băng giá",
 		"toughness": 0,
@@ -14719,7 +14719,7 @@ $master.api.creature = {
 		"type": "Snorble",
 		"stone0": "Đai Snorble",
 		"stone1": "Xe điều khiển",
-		"description": "Lũ Snorble là những sinh vật cực kì ồn ào khi bị khiêu khíCh, nhưng Chúng Chỉ thật sự thíCh ngồi một Chỗ và đọc những cuốn sáCh hay.",
+		"description": "Lũ Snorble là những sinh vật cực kì ồn ào khi bị khiêu khích, nhưng chúng chỉ thật sự thích ngồi một chỗ và đọc những cuốn sách hay.",
 		"produce": "Polymer Snorble",
 		"symbiosis": "Thổi phồng điên cuồng",
 		"toughness": 0,
@@ -14735,7 +14735,7 @@ $master.api.creature = {
 		"type": "Satgat",
 		"stone0": "Mặt nạ quyến rũ",
 		"stone1": "Ống Nhòm",
-		"description": "Được biết tới là một trong những loài vụng về nhất, lũ Satgat luôn ẩn mặt trong tấm mũ nhọn để Chắc Chắn rằng không ai có thể thấy biểu cảm bối rối của Chúng.",
+		"description": "Được biết tới là một trong những loài vụng về nhất, lũ Satgat luôn ẩn mặt trong tấm mũ nhọn để chắc chắn rằng không ai có thể thấy biểu cảm bối rối của chúng.",
 		"produce": "Lụa Satgat",
 		"symbiosis": "Sự giận dữ đáng yêu",
 		"toughness": 20,
@@ -14747,27 +14747,27 @@ $master.api.creature = {
 		"icon": ["widdle_satgat.png", "satgat.png", "awkward_satgat.png", "sensitive_satgat.png", "awkward_sensitive_satgat.png", "desaturated_satgat.png"]
 	},
 	"Wojack": {
-		"name": ["Wojack Đào mạnh", "Wojack", "Wojack Cảnh vệ", "[Bết dính] Wojack ", "[Bết dính] Wojack Cảnh vệ", "Wojack BạCh sắc"],
+		"name": ["Wojack Đào mạnh", "Wojack", "Wojack Cảnh vệ", "[Bết dính] Wojack ", "[Bết dính] Wojack Cảnh vệ", "Wojack Bạch sắc"],
 		"type": "Wojack",
 		"stone0": "Xà phòng Wojack",
 		"stone1": "Mũ thợ mỏ",
-		"description": "Chúng có phải là giun không? Chúng là sứa à? Hay Chúng là một bông hoa? Tất cả đều đúng. Nó giống như việc dành phần lớn thời gian ở trong lòng Đất, và ăn các nang rễ của một loại cây đầy lông (!?)",
+		"description": "Chúng có phải là giun không? Chúng là sứa à? Hay chúng là một bông hoa? Tất cả đều đúng. Nó giống như việc dành phần lớn thời gian ở trong lòng Đất, và ăn các nang rễ của một loại cây đầy lông (!?)",
 		"produce": "Hương liệu Wojack",
-		"symbiosis": "Cuộc đột kíCh ngầm",
+		"symbiosis": "Cuộc đột kích ngầm",
 		"toughness": 0,
 		"poison_r": 25,
 		"electric_r": 0,
 		"fire_r": 0,
 		"ice_r": 0,
 		"drop": ["Cánh hoa Wojack", "Vòi Wojack", "Giác mạc Wojack", "Lông mi Wojack"],
-		"icon": ["wojack_digling.png", "wojack.png", "wojack_larvaguard.png", "sticky_wojack.png", "sticky_wojack_larvaguard.png", "bleaChed_wojack.png"]
+		"icon": ["wojack_digling.png", "wojack.png", "wojack_larvaguard.png", "sticky_wojack.png", "sticky_wojack_larvaguard.png", "bleached_wojack.png"]
 	},
 	"Bamli": {
-		"name": ["Bamli", "Bamli Râu rậm", "Bamli Hiếu Chiến", "[Xảo quyệt] Bamli Râu rậm", "[Xảo quyệt] Bamli Hiếu Chiến", "Bamli Cuồng Chiến"],
+		"name": ["Bamli", "Bamli Râu rậm", "Bamli Hiếu chiến", "[Xảo quyệt] Bamli Râu rậm", "[Xảo quyệt] Bamli Hiếu chiến", "Bamli Cuồng chiến"],
 		"type": "Bamli",
 		"stone0": "Xô Bamli",
 		"stone1": "Kính bốn mắt",
-		"description": "Mặc dù có Chế độ ăn rất kinh khủng, lũ Bamli dường như có một thân hình hoàn hảo, có thể do khả năng cắm đầu vào Bawg và hút lấy năng lượng vào cơ thể của Chúng. Chúng cũng có những điều thú vị có thể làm với bộ râu của mình.",
+		"description": "Mặc dù có chế độ ăn rất kinh khủng, lũ Bamli dường như có một thân hình hoàn hảo, có thể do khả năng cắm đầu vào Bawg và hút lấy năng lượng vào cơ thể của chúng. Chúng cũng có những điều thú vị có thể làm với bộ râu của mình.",
 		"produce": "Hormone lạ",
 		"symbiosis": "Sức mạnh bộ râu",
 		"toughness": 0,
@@ -14779,11 +14779,11 @@ $master.api.creature = {
 		"icon": ["bamli.png", "bamli_stashster.png", "bamli_charger.png", "wily_bamli_stashster.png", "wily_bamli_charger.png", "raving_bamli.png"]
 	},
 	"Shirk": {
-		"name": ["Shirk", "[Khệnh khạng] Shirk", "[Năng nề] Shirk", "[Khệnh khạng] [Tinh quái] Shirk", "[Năng nề] [Tinh quái] Shirk", "Shirk XíCh linh"],
+		"name": ["Shirk", "[Khệnh khạng] Shirk", "[Năng nề] Shirk", "[Khệnh khạng] [Tinh quái] Shirk", "[Năng nề] [Tinh quái] Shirk", "Shirk Xích linh"],
 		"type": "Shirk",
 		"stone0": "Trứng Shirk vá sơ sài",
 		"stone1": "Còi trắng",
-		"description": "Loài cá Chim lượng cư này có khả năng bay và bơi với một tốc độ đáng kinh ngạc! Mỏ của Chúng có thể ngoạm một cú mạnh tới nỗi tạo ra sóng âm điện từ. Mặc dù vậy, điều đó khiến Chúng trở thành những vị kháCh tồi tệ trong một bữa tiệc.",
+		"description": "Loài cá chim lượng cư này có khả năng bay và bơi với một tốc độ đáng kinh ngạc! Mỏ của chúng có thể ngoạm một cú mạnh tới nỗi tạo ra sóng âm điện từ. Mặc dù vậy, điều đó khiến chúng trở thành những vị khách tồi tệ trong một bữa tiệc.",
 		"produce": "Khối Natri",
 		"symbiosis": "Cái mỏ xấu xí",
 		"toughness": 0,
@@ -14799,7 +14799,7 @@ $master.api.creature = {
 		"type": "Glaser",
 		"stone0": "Bẫy Glaser",
 		"stone1": "Tẩu thuốc",
-		"description": "Bằng cáCh khai thác trường điện từ của hành tình, lũ Glaser có thể đánh các nguyên tử vào nhau để tạo ra một luồng laser cực mạnh. Chúng cũng có thể Chà những cái Que để lấy lửa, nhưng cáCh đó trông Chẳng ấn tượng lắm.",
+		"description": "Bằng cách khai thác trường điện từ của hành tình, lũ Glaser có thể đánh các nguyên tử vào nhau để tạo ra một luồng laser cực mạnh. Chúng cũng có thể chà những cái Que để lấy lửa, nhưng cách đó trông chẳng ấn tượng lắm.",
 		"produce": "Sợi len",
 		"symbiosis": "Cơn lạnh lướt qua",
 		"toughness": 0,
@@ -14815,7 +14815,7 @@ $master.api.creature = {
 		"type": "Slurb",
 		"stone0": "Vòng Tay Từ Tính",
 		"stone1": "Bạt Lò Xo",
-		"description": "Loài sinh vật giống ốc sên hay tự ái này có thể di Chuyển nhanh tới mức Chỉ thấy được Chúng như những vệt mờ. Mặc dù Chúng thật sự không thíCh vậy, Cho tới khi vệt mờ không phải là đặc điểm hấp dẫn nhất.",
+		"description": "Loài sinh vật giống ốc sên hay tự ái này có thể di chuyển nhanh tới mức chỉ thấy được chúng như những vệt mờ. Mặc dù chúng thật sự không thích vậy, cho tới khi vệt mờ không phải là đặc điểm hấp dẫn nhất.",
 		"produce": "Nước nhầy Slurb",
 		"symbiosis": "Não Slurb",
 		"toughness": 20,
@@ -14823,15 +14823,15 @@ $master.api.creature = {
 		"electric_r": -10,
 		"fire_r": 0,
 		"ice_r": 0,
-		"drop": ["Vỏ Slurb", "Xương sống Slurb", "Nam Châm Slurb"],
+		"drop": ["Vỏ Slurb", "Xương sống Slurb", "Nam châm Slurb"],
 		"icon": ["slurb.png", "horrible_slurb.png", "monstrous_slurb.png", "horrible_raging_slurb.png", "monstrous_raging_slurb.png", "sleepless_slurb.png"]
 	},
 	"Lyff": {
 		"name": ["Lyff", "[Điêu luyện] Lyff", "[Thành thạo] Lyff", "[Điêu luyện] Lyff Dị sắc", "[Thành thạo] Lyff Dị sắc", "Lyff Cực đại"],
 		"type": "Lyff",
-		"stone0": "Đồ Chơi Lyff",
+		"stone0": "Đồ chơi Lyff",
 		"stone1": "Tạ đòn",
-		"description": "Lũ Lyff Chưa bao giờ tiến hoá để có hộp sọ, vì thế Chúng đã tiến hoá bù đắp lại bằng khả năng phát triển một khối băng bao xung quanh não. Đó hẳn phải là một quá trình phúc tạp, những tự nhiên không hoàn hảo.",
+		"description": "Lũ Lyff chưa bao giờ tiến hoá để có hộp sọ, vì thế chúng đã tiến hoá bù đắp lại bằng khả năng phát triển một khối băng bao xung quanh não. Đó hẳn phải là một quá trình phúc tạp, những tự nhiên không hoàn hảo.",
 		"produce": "Tinh thể Lyff",
 		"symbiosis": "Pha lê trị liệu",
 		"toughness": 0,
@@ -14843,12 +14843,12 @@ $master.api.creature = {
 		"icon": ["lyff.png", "dueven_lyff.png", "skwot_lyff.png", "dueven_lyff_broh.png", "skwot_lyff_broh.png", "max_lyff.png"]
 	},
 	"Blastcrab": {
-		"name": ["Blastcrab  Nén", "Blastcrab", "Blastcrab Trùm đàn", "[Tăng áp] Blastcrab", "[Tăng áp] Blastcrab Trùm đàn", "Blastcrab Sảnh dịCh"],
+		"name": ["Blastcrab  Nén", "Blastcrab", "Blastcrab Trùm đàn", "[Tăng áp] Blastcrab", "[Tăng áp] Blastcrab Trùm đàn", "Blastcrab Sảnh dịch"],
 		"type": "Blastcrab",
 		"stone0": "Thùng Dầu",
 		"stone1": "Thùng giữ lạnh",
-		"description": "Chúng sở hữu một lớp vỏ siêu đàn hồi thứ có thể Chịu được nhiệt độ và áp suất cực kì lớn liên tục sinh ra bên trong cơ thể Chúng. Chúng cũng thíCh tennis.",
-		"produce": "Ch4",
+		"description": "Chúng sở hữu một lớp vỏ siêu đàn hồi thứ có thể chịu được nhiệt độ và áp suất cực kì lớn liên tục sinh ra bên trong cơ thể chúng. Chúng cũng thích tennis.",
+		"produce": "CH4",
 		"symbiosis": "Nhiệt giáp",
 		"toughness": 0,
 		"poison_r": 0,
@@ -14863,7 +14863,7 @@ $master.api.creature = {
 		"type": "Gallum",
 		"stone0": "Khối Rubik",
 		"stone1": "Nhuyễn vị giáp",
-		"description": "Một sự dung hòa giữa những Mảnh Pha lê Tundra và những mảnh xác sinh vật, con quái vật này có một hào quang thần bì bao quanh Chúng. Chúng dường như tự ý thức được về xương sườn của Chúng.",
+		"description": "Một sự dung hòa giữa những Mảnh Pha lê Tundra và những mảnh xác sinh vật, con quái vật này có một hào quang thần bì bao quanh chúng. Chúng dường như tự ý thức được về xương sườn của chúng.",
 		"produce": "Chất nhầy Gallum",
 		"symbiosis": "Nhận thức về điện",
 		"toughness": 25,
@@ -14871,15 +14871,15 @@ $master.api.creature = {
 		"electric_r": -50,
 		"fire_r": 0,
 		"ice_r": 50,
-		"drop": ["Giáp Gallum", "Thịt Gallum", "Xương sườn Gallum", "Lõi DịCh Chuyển"],
-		"icon": ["gallum.png", "lumbering_gallum.png", "gargantuan_gallum.png", "lumbering_calcified_gallum.png", "gargantuan_calcified_gallum.png", "monoChromatic_gallum.png"]
+		"drop": ["Giáp Gallum", "Thịt Gallum", "Xương sườn Gallum", "Lõi Dịch Chuyển"],
+		"icon": ["gallum.png", "lumbering_gallum.png", "gargantuan_gallum.png", "lumbering_calcified_gallum.png", "gargantuan_calcified_gallum.png", "monochromatic_gallum.png"]
 	},
 	"Gulanti": {
 		"name": ["Gulanti", "[Nghiến hàm] Gulanti", "[Phổng phao] Gulanti", "[Nghiến hàm] [Nhún nhảy] Gulanti", "[Phổng phao] [Nhún nhảy] Gulanti", "Gulanti Hung huyết"],
 		"type": "Gulanti",
 		"stone0": "Bánh đuông dừa",
-		"stone1": "Áo cáCh điện",
-		"description": "Những con vật thân thiện này sẽ trở nên cực kì phẫn nộ khi đối đầu với bất cứ thứ gì. Rất khó để Chúng nguôi đi.",
+		"stone1": "Áo cách điện",
+		"description": "Những con vật thân thiện này sẽ trở nên cực kì phẫn nộ khi đối đầu với bất cứ thứ gì. Rất khó để chúng nguôi đi.",
 		"produce": "Thịt Gulanti",
 		"symbiosis": "Ham muốn sốc điện",
 		"toughness": 0,
