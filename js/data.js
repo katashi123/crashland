@@ -2837,7 +2837,7 @@ $master.api.item = {
 				"qty": 1
 			}]
 		},
-		"icon": "Charged_zug_molt.png"
+		"icon": "charged_zug_molt.png"
 	},
 	"Cuốc Móng Vuốt": {
 		"name": "Cuốc Móng Vuốt",
@@ -6154,7 +6154,7 @@ $master.api.item = {
 		"type": "Mảnh thành phần",
 		"rarity": "Tốt",
 		"description": "Trung tâm năng lượng cực mạnh của Glaser, bướu điện này có thể sạc Cho một Chiếc điện thoại cục gạCh nhỏ.",
-		"icon": "glaser_Chargenub.png"
+		"icon": "glaser_chargenub.png"
 	},
 	"Mỡ Shirk": {
 		"name": "Mỡ Shirk",
@@ -13019,7 +13019,7 @@ $master.api.item = {
 		"type": "Bom",
 		"rarity": "Bình Thường",
 		"description": "Thứ này tới từ đâu đó... rất sâu... Và có lẽ cũng sẽ gây 300% ST/giây thành STVL!",
-		"icon": "depth_Charge.png"
+		"icon": "depth_charge.png"
 	},
 	"Bọc Chất nhầy": {
 		"name": "Bọc Chất nhầy",
