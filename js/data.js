@@ -5174,8 +5174,8 @@ $master.api.item = {
 		},
 		"icon": "exochest.png"
 	},
-	"Găng tay Xuất kích.: {
-		"name": "Găng tay Xuất kích.,
+	"Găng tay Xuất kích": {
+		"name": "Găng tay Xuất kích",
 		"type": "Găng tay",
 		"level": "Cấp 21",
 		"rarity": "Ngẫu Nhiên",
