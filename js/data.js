@@ -5174,8 +5174,8 @@ $master.api.item = {
 		},
 		"icon": "exoCHest.png"
 	},
-	"Găng tay Xuất kíCH.: {
-		"name": "Găng tay Xuất kíCH.,
+	"Găng tay Xuất kíCH": {
+		"name": "Găng tay Xuất kíCH",
 		"type": "Găng tay",
 		"level": "Cấp 21",
 		"rarity": "Ngẫu Nhiên",
@@ -12781,8 +12781,8 @@ $master.api.item = {
 		},
 		"icon": "gyroball.png"
 	},
-	"Bóng da": {
-		"name": "Bóng da",
+	"Bóng lụa hồng": {
+		"name": "Bóng lụa hồng",
 		"type": "Đồ ném được",
 		"rarity": "Bình Thường",
 		"description": "Nó xốp, và còn nảy, Giống như da của những con ấu trùng đan vào nhau. Bởi vì kia CHính là nó.",
