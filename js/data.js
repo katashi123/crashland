@@ -3726,7 +3726,7 @@ $master.api.item = {
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
 		"description": "Bộ râu huyền thoại của một con Bamli. Khi bạn CHăm CHú nhìn, nó sẽ phản CHiếu lại hình ảnh của linh hồn bạn.",
-		"icon": "bamstaCHe.png"
+		"icon": "bamstache.png"
 	},
 	"Sừng Bamli": {
 		"name": "Sừng Bamli",
@@ -14776,7 +14776,7 @@ $master.api.creature = {
 		"fire_r": 60,
 		"ice_r": 20,
 		"drop": ["Râu Bamli", "Sừng Bamli", "Bóng khí Bamli"],
-		"icon": ["bamli.png", "bamli_stashster.png", "bamli_CHarger.png", "wily_bamli_stashster.png", "wily_bamli_CHarger.png", "raving_bamli.png"]
+		"icon": ["bamli.png", "bamli_stashster.png", "bamli_charger.png", "wily_bamli_stashster.png", "wily_bamli_charger.png", "raving_bamli.png"]
 	},
 	"Shirk": {
 		"name": ["Shirk", "[Khệnh khạng] Shirk", "[Năng nề] Shirk", "[Khệnh khạng] [Tinh quái] Shirk", "[Năng nề] [Tinh quái] Shirk", "Shirk XíCH linh"],
