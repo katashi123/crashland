@@ -6408,7 +6408,7 @@ $master.api.item = {
 				"qty": 2
 			}]
 		},
-		"icon": "blastcrab_hydroCarbon.png"
+		"icon": "blastcrab_hydrocarbon.png"
 	},
 	"Da Blastcrab": {
 		"name": "Da Blastcrab",
