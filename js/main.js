@@ -281,7 +281,7 @@ function createPage(type, subtype) {
                 }
             }
 
-            temp.recipe += '<div class="p-r-iname"> Ingredients: </div>';
+            temp.recipe += '<div class="p-r-iname"> Thành phần: </div>';
             $.each($recipe.ingredients, function (key, value) {
                 var tempX = {};
                 var $obj2 = $master.api.item[value.name], $obj4;
@@ -300,28 +300,28 @@ function createPage(type, subtype) {
                             ' src="' + baseItem + $obj4.icon + '">';
                         tempX.d_name = '<a class="rarity-' + $obj4.rarity + '" ' + tempX.d_onClick + '>' +
                             $obj4.name + ' (' + $obj4.type + ')</a>';
-                        tempX.descr = '<p>Crafted by ' + tempX.d_img + tempX.d_name + '</p>';
+                        tempX.descr = '<p>Chế tạo từ ' + tempX.d_img + tempX.d_name + '</p>';
                     } else if (tempX.objD.subtype === 'craft' && tempX.objD.type === 'creature') {
                         tempX.d_onClick = 'onclick="createPage(\'creature\',\'' + $obj4.type + '\')"';
                         tempX.d_img = '<img class="p-i-minicon"  ' + tempX.d_onClick +
                             ' src="' + baseCreature + $obj4.icon[2] + '">';
                         tempX.d_name = '<a ' + tempX.d_onClick + '>' +
                             $obj4.name[0] + ' (Pet)</a>';
-                        tempX.descr = '<p>Crafted by ' + tempX.d_img + tempX.d_name + '</p>';
+                        tempX.descr = '<p>Chế tạo từ ' + tempX.d_img + tempX.d_name + '</p>';
                     } else if (tempX.objD.subtype === 'drop' && tempX.objD.type === 'item') {
                         tempX.d_onClick = 'onclick="createPage(\'item\',\'' + $obj4.name + '\')"';
                         tempX.d_img = '<img class="p-i-minicon"  ' + tempX.d_onClick +
                             ' src="' + baseItem + $obj4.icon + '">';
                         tempX.d_name = '<a class="rarity-' + $obj4.rarity + '" ' + tempX.d_onClick + '>' +
                             $obj4.name + ' (' + $obj4.type + ')</a>';
-                        tempX.descr = '<p>Dropped by ' + tempX.d_img + tempX.d_name + '</p>';
+                        tempX.descr = '<p>Rơi từ ' + tempX.d_img + tempX.d_name + '</p>';
                     } else if (tempX.objD.subtype === 'drop' && tempX.objD.type === 'creature') {
                         tempX.d_onClick = 'onclick="createPage(\'creature\',\'' + $obj4.type + '\')"';
                         tempX.d_img = '<img class="p-i-minicon"  ' + tempX.d_onClick +
                             ' src="' + baseCreature + $obj4.icon[2] + '">';
                         tempX.d_name = '<a ' + tempX.d_onClick + '>' +
                             $obj4.name[0] + ' (Creature)</a>';
-                        tempX.descr = '<p>Dropped by ' + tempX.d_img + tempX.d_name + '</p>';
+                        tempX.descr = '<p>Rơi từ ' + tempX.d_img + tempX.d_name + '</p>';
                     }
                 }
                 tempX.base = '<div class="p-ingredient"><table class="width-100"><tbody>' +
