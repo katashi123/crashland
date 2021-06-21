@@ -3697,7 +3697,7 @@ $master.api.item = {
 		"type": "Mảnh Thành Phần",
 		"rarity": "Bình Thường",
 		"description": "Nhánh Cây Tĩnh điện thường chọc vào mắt những sinh vật lai vãng gần nó. Nếu bạn nhìn gần quá nó sẽ chọc vào mắt bạn. Bạn không biết nó sẽ làm gì đâu.",
-		"icon": "dendrite_sPine.png"
+		"icon": "dendrite_spine.png"
 	},
 	"Mô cách điện": {
 		"name": "Mô cách điện",
